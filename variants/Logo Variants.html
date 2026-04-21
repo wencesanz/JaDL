@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Logo variants — The Design Index</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist:wght@300;400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;0,9..144,900;1,9..144,500&family=Archivo:wght@400;600;800;900&family=JetBrains+Mono:wght@400;500;600&family=Bricolage+Grotesque:opsz,wght@12..96,800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #FBFBFA;
+    --ink: #0F0F0E;
+    --ink-2: #2A2A28;
+    --mute: #8A8A85;
+    --rule: #D6D6D2;
+    --rule-soft: #EAEAE6;
+    --accent: oklch(0.52 0.07 55);
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--paper); color: var(--ink); font-family: "Geist", system-ui, sans-serif; }
+  body { padding: 48px 64px 96px; }
+
+  .page-head {
+    display: flex; justify-content: space-between; align-items: baseline;
+    padding-bottom: 20px; border-bottom: 1px solid var(--rule);
+    margin-bottom: 48px;
+  }
+  .page-head h1 {
+    font-family: "Instrument Serif", serif;
+    font-weight: 400; font-size: 38px; letter-spacing: -0.015em; margin: 0;
+  }
+  .page-head .meta {
+    font-family: "JetBrains Mono", monospace; font-size: 11px;
+    text-transform: uppercase; letter-spacing: 0.08em; color: var(--mute);
+  }
+
+  .variant {
+    padding: 48px 0; border-bottom: 1px solid var(--rule-soft);
+    display: grid; grid-template-columns: 160px 1fr; gap: 40px; align-items: start;
+  }
+  .variant:last-child { border-bottom: 0; }
+  .variant .meta-col {
+    display: grid; gap: 8px;
+    font-family: "JetBrains Mono", monospace; font-size: 10.5px;
+    text-transform: uppercase; letter-spacing: 0.06em; color: var(--mute);
+  }
+  .variant .meta-col b {
+    font-weight: 500; font-size: 10.5px; color: var(--ink);
+    letter-spacing: 0.08em;
+  }
+  .variant .meta-col .n {
+    font-family: "Instrument Serif", serif;
+    font-size: 48px; letter-spacing: -0.01em; color: var(--ink);
+    font-weight: 400; text-transform: none; line-height: 1;
+    font-style: italic;
+  }
+
+  .demo-col { display: grid; gap: 32px; }
+
+  /* Logo bar — like the real site's topbar */
+  .topbar {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    padding: 18px 28px;
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    gap: 40px;
+  }
+  .topbar .nav {
+    display: flex; gap: 28px; justify-content: center;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em;
+    color: var(--mute);
+  }
+  .topbar .clock {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 11px; color: var(--mute); letter-spacing: 0.04em;
+  }
+  .topbar .clock .dot {
+    display: inline-block; width: 6px; height: 6px; border-radius: 50%;
+    background: var(--accent); margin-right: 6px; vertical-align: 1px;
+  }
+
+  /* Large display mark */
+  .big-mark {
+    padding: 40px 28px;
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    font-size: 110px;
+    line-height: 1;
+    letter-spacing: -0.03em;
+    color: var(--ink);
+  }
+
+  /* ============================================================
+     VARIANT 1 — FRAUNCES
+     Serif contemporánea con carácter, le da peso editorial
+     ============================================================ */
+  .v1 .mark {
+    font-family: "Fraunces", serif;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: -0.02em;
+    font-optical-sizing: auto;
+    font-variation-settings: "opsz" 14, "SOFT" 50, "WONK" 0;
+  }
+  .v1 .mark small {
+    font-family: "JetBrains Mono", monospace; font-weight: 400;
+    font-size: 10.5px; color: var(--mute); margin-left: 12px;
+    letter-spacing: 0.02em; text-transform: uppercase;
+  }
+  .v1 .big-mark {
+    font-family: "Fraunces", serif; font-weight: 700;
+    font-variation-settings: "opsz" 144, "SOFT" 50, "WONK" 0;
+    letter-spacing: -0.035em;
+  }
+
+  /* ============================================================
+     VARIANT 2 — INSTRUMENT SERIF ITALIC
+     Serif editorial, alta y fina, tono literario
+     ============================================================ */
+  .v2 .mark {
+    font-family: "Instrument Serif", serif;
+    font-weight: 400; font-style: italic;
+    font-size: 28px; letter-spacing: -0.01em;
+    line-height: 1;
+  }
+  .v2 .mark small {
+    font-family: "JetBrains Mono", monospace; font-weight: 400;
+    font-size: 10.5px; color: var(--mute); margin-left: 14px;
+    letter-spacing: 0.02em; text-transform: uppercase;
+    font-style: normal;
+  }
+  .v2 .big-mark {
+    font-family: "Instrument Serif", serif; font-weight: 400; font-style: italic;
+    letter-spacing: -0.015em;
+    font-size: 140px;
+  }
+
+  /* ============================================================
+     VARIANT 3 — JETBRAINS MONO (archivo / catálogo / índice)
+     Muy "archivo", coherente con el tono índice/técnico
+     ============================================================ */
+  .v3 .mark {
+    font-family: "JetBrains Mono", monospace;
+    font-weight: 500;
+    font-size: 13px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+  .v3 .mark .slash { color: var(--mute); margin: 0 4px; }
+  .v3 .mark small {
+    font-family: "JetBrains Mono", monospace; font-weight: 400;
+    font-size: 10.5px; color: var(--mute); margin-left: 12px;
+    letter-spacing: 0.04em; text-transform: uppercase;
+  }
+  .v3 .big-mark {
+    font-family: "JetBrains Mono", monospace; font-weight: 500;
+    letter-spacing: 0.01em;
+    font-size: 44px;
+    text-transform: uppercase;
+    line-height: 1.25;
+  }
+  .v3 .big-mark .slash { color: var(--mute); margin: 0 6px; }
+
+  /* Current (for reference) — Bricolage 800 */
+  .vref .mark {
+    font-family: "Bricolage Grotesque", sans-serif; font-weight: 800;
+    font-size: 20px; letter-spacing: -0.035em;
+    font-optical-sizing: auto; font-variation-settings: "opsz" 24, "wdth" 100;
+  }
+  .vref .mark small {
+    font-family: "JetBrains Mono", monospace; font-weight: 400;
+    font-size: 10.5px; color: var(--mute); margin-left: 12px;
+    letter-spacing: 0.02em; text-transform: uppercase;
+  }
+  .vref .big-mark {
+    font-family: "Bricolage Grotesque", sans-serif; font-weight: 800;
+    font-variation-settings: "opsz" 96, "wdth" 100;
+    letter-spacing: -0.045em;
+  }
+
+  .caption {
+    font-family: "JetBrains Mono", monospace; font-size: 10.5px;
+    color: var(--mute); text-transform: uppercase; letter-spacing: 0.06em;
+    padding: 0 2px;
+  }
+
+  /* Side-by-side demo: title in context of a masthead too */
+  .context {
+    padding: 56px 40px;
+    background: var(--paper);
+    border: 1px solid var(--rule);
+  }
+  .context .eyebrow {
+    font-family: "JetBrains Mono", monospace; font-size: 11px;
+    color: var(--mute); text-transform: uppercase; letter-spacing: 0.08em;
+    margin-bottom: 24px;
+  }
+  .context h2 {
+    font-family: "Geist", sans-serif; font-weight: 400;
+    font-size: 56px; line-height: 0.98; letter-spacing: -0.02em;
+    max-width: 14ch; margin: 0;
+  }
+  .context h2 em { font-style: italic; color: var(--ink-2); font-family: "Instrument Serif", serif; }
+
+  @media (max-width: 900px) {
+    .variant { grid-template-columns: 1fr; gap: 20px; }
+    .big-mark { font-size: 64px !important; }
+    .context h2 { font-size: 36px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="page-head">
+  <h1>Three logo variants</h1>
+  <div class="meta">The Design Index · masthead studies</div>
+</div>
+
+<!-- REFERENCE: current -->
+<div class="variant vref">
+  <div class="meta-col">
+    <b>Reference · current</b>
+    <span class="n">00</span>
+    <span>Bricolage Grotesque</span>
+    <span>800 · opsz 24</span>
+  </div>
+  <div class="demo-col">
+    <div class="caption">In the header bar</div>
+    <div class="topbar">
+      <span class="mark">The Design Index<small>Est. 2023</small></span>
+      <span class="nav">Index · Studios · Geography · Categories · Colophon</span>
+      <span class="clock"><span class="dot"></span> Madrid · 22:40 CET</span>
+    </div>
+    <div class="caption">At display size</div>
+    <div class="big-mark">The Design Index</div>
+  </div>
+</div>
+
+<!-- VARIANT 1 -->
+<div class="variant v1">
+  <div class="meta-col">
+    <b>Variant A</b>
+    <span class="n">01</span>
+    <span>Fraunces</span>
+    <span>700 · soft 50</span>
+    <span style="color: var(--ink); margin-top: 16px; text-transform: none; letter-spacing: 0; font-family: Geist;">
+      Serif contemporánea con cierta textura. Peso editorial sin ser pesada. Tono cálido, librero.
+    </span>
+  </div>
+  <div class="demo-col">
+    <div class="caption">In the header bar</div>
+    <div class="topbar">
+      <span class="mark">The Design Index<small>Est. 2023</small></span>
+      <span class="nav">Index · Studios · Geography · Categories · Colophon</span>
+      <span class="clock"><span class="dot"></span> Madrid · 22:40 CET</span>
+    </div>
+    <div class="caption">At display size</div>
+    <div class="big-mark">The Design Index</div>
+  </div>
+</div>
+
+<!-- VARIANT 2 -->
+<div class="variant v2">
+  <div class="meta-col">
+    <b>Variant B</b>
+    <span class="n">02</span>
+    <span>Instrument Serif</span>
+    <span>Italic · 400</span>
+    <span style="color: var(--ink); margin-top: 16px; text-transform: none; letter-spacing: 0; font-family: Geist;">
+      Serif alta y fina, en cursiva. Muy literaria, tono "revista". La que mejor se alinea con el carácter editorial del sitio.
+    </span>
+  </div>
+  <div class="demo-col">
+    <div class="caption">In the header bar</div>
+    <div class="topbar">
+      <span class="mark">The Design Index<small>Est. 2023</small></span>
+      <span class="nav">Index · Studios · Geography · Categories · Colophon</span>
+      <span class="clock"><span class="dot"></span> Madrid · 22:40 CET</span>
+    </div>
+    <div class="caption">At display size</div>
+    <div class="big-mark">The Design Index</div>
+  </div>
+</div>
+
+<!-- VARIANT 3 -->
+<div class="variant v3">
+  <div class="meta-col">
+    <b>Variant C</b>
+    <span class="n">03</span>
+    <span>JetBrains Mono</span>
+    <span>500 · uppercase</span>
+    <span style="color: var(--ink); margin-top: 16px; text-transform: none; letter-spacing: 0; font-family: Geist;">
+      Monospace en mayúsculas. Tono "archivo técnico / catálogo". Muy coherente con el resto del sistema mono. Distintiva.
+    </span>
+  </div>
+  <div class="demo-col">
+    <div class="caption">In the header bar</div>
+    <div class="topbar">
+      <span class="mark">THE<span class="slash">/</span>DESIGN<span class="slash">/</span>INDEX<small>Est. 2023</small></span>
+      <span class="nav">Index · Studios · Geography · Categories · Colophon</span>
+      <span class="clock"><span class="dot"></span> Madrid · 22:40 CET</span>
+    </div>
+    <div class="caption">At display size</div>
+    <div class="big-mark">THE<span class="slash">/</span>DESIGN<span class="slash">/</span>INDEX</div>
+  </div>
+</div>
+
+<div style="margin-top: 80px; padding-top: 24px; border-top: 1px solid var(--rule); font-family: Geist; font-size: 13px; color: var(--ink-2); max-width: 56ch; line-height: 1.5;">
+  Cuando elijas una (A, B, C o seguir con la referencia), la aplico en el header real del sitio y ajusto tamaños. Si quieres mezclar — por ejemplo "B en el header, C en el footer" — también es posible.
+</div>
+
+</body>
+</html>

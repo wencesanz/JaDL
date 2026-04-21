@@ -1,0 +1,203 @@
+/* global React, Eyebrow */
+const { useState: useSubSt } = React;
+
+function SubmitView() {
+  const [form, setForm] = useSubSt({
+    name: "",
+    url: "",
+    ig: "",
+    category: "",
+    otherCategory: "",
+    city: "",
+    country: "",
+    founded: "",
+    size: "",
+    description: "",
+    submitterName: "",
+    submitterEmail: "",
+    relation: "own",
+    notes: "",
+  });
+  const [sent, setSent] = useSubSt(false);
+
+  const d = window.SITE;
+  const cats = (d.categoriesOrder || []).filter((c) => d.byCat?.[c]);
+
+  function upd(k, v) { setForm((f) => ({ ...f, [k]: v })); }
+
+  function handleSubmit(e) {
+    e.preventDefault();
+    const cat = form.category === "__other" ? form.otherCategory : form.category;
+    const lines = [
+      `Studio: ${form.name}`,
+      `Website: ${form.url}`,
+      `Instagram: ${form.ig || "—"}`,
+      `Category: ${cat || "—"}`,
+      `City: ${form.city || "—"}`,
+      `Country: ${form.country || "—"}`,
+      `Founded: ${form.founded || "—"}`,
+      `Team size: ${form.size || "—"}`,
+      ``,
+      `Description:`,
+      form.description || "—",
+      ``,
+      `— — — — —`,
+      `Submitted by: ${form.submitterName || "—"}`,
+      `Email: ${form.submitterEmail || "—"}`,
+      `Relation: ${form.relation === "own" ? "I run this studio" : form.relation === "work" ? "I work there" : "Just a fan / reader"}`,
+      ``,
+      `Notes to editor:`,
+      form.notes || "—",
+    ];
+    const body = encodeURIComponent(lines.join("\n"));
+    const subj = encodeURIComponent(`Studio submission — ${form.name || "(untitled)"}`);
+    window.location.href = `mailto:wencesanz@gmail.com?subject=${subj}&body=${body}`;
+    setSent(true);
+  }
+
+  if (sent) {
+    return (
+      <div className="view wrap">
+        <section className="masthead masthead--tight">
+          <Eyebrow><span>Submit</span></Eyebrow>
+          <h1 style={{ marginTop: 20 }}>Thank you.</h1>
+          <p className="sub" style={{ maxWidth: "60ch" }}>
+            Your mail client should have opened with the submission ready to send.
+            If it didn't, write to{" "}
+            <a className="link" href="mailto:wencesanz@gmail.com">wencesanz@gmail.com</a>{" "}
+            directly. Every entry is read by hand; I'll reply if I have questions.
+          </p>
+          <p className="sub" style={{ marginTop: 24 }}>
+            <a className="link" onClick={() => setSent(false)}>← Submit another</a>
+          </p>
+        </section>
+      </div>
+    );
+  }
+
+  return (
+    <div className="view wrap">
+      <section className="masthead masthead--tight">
+        <Eyebrow><span>Submit</span></Eyebrow>
+        <h1 style={{ marginTop: 20 }}>
+          Suggest a <em>studio</em>.
+        </h1>
+        <p className="sub" style={{ maxWidth: "62ch" }}>
+          Just a Design List (JaDL) is a hand-edited list. Entries are read, researched and added when they fit.
+          If you run a studio, know one worth including, or spotted a mistake, fill this in.
+        </p>
+      </section>
+
+      <form className="submit-form" onSubmit={handleSubmit}>
+        {/* studio */}
+        <fieldset>
+          <legend>Studio</legend>
+
+          <div className="fld">
+            <label>Studio name <span className="req">*</span></label>
+            <input required value={form.name} onChange={(e) => upd("name", e.target.value)} placeholder="e.g. Atelier Dyakova" />
+          </div>
+
+          <div className="two">
+            <div className="fld">
+              <label>Website <span className="req">*</span></label>
+              <input required type="url" value={form.url} onChange={(e) => upd("url", e.target.value)} placeholder="https://…" />
+            </div>
+            <div className="fld">
+              <label>Instagram</label>
+              <input value={form.ig} onChange={(e) => upd("ig", e.target.value)} placeholder="@handle" />
+            </div>
+          </div>
+
+          <div className="fld">
+            <label>Primary discipline <span className="req">*</span></label>
+            <select required value={form.category} onChange={(e) => upd("category", e.target.value)}>
+              <option value="">Choose a discipline…</option>
+              {cats.map((c) => <option key={c} value={c}>{c}</option>)}
+              <option value="__other">Other…</option>
+            </select>
+          </div>
+
+          {form.category === "__other" && (
+            <div className="fld">
+              <label>Other discipline</label>
+              <input value={form.otherCategory} onChange={(e) => upd("otherCategory", e.target.value)} placeholder="Name the discipline" />
+            </div>
+          )}
+
+          <div className="two">
+            <div className="fld">
+              <label>City <span className="req">*</span></label>
+              <input required value={form.city} onChange={(e) => upd("city", e.target.value)} placeholder="e.g. Madrid" />
+            </div>
+            <div className="fld">
+              <label>Country <span className="req">*</span></label>
+              <input required value={form.country} onChange={(e) => upd("country", e.target.value)} placeholder="e.g. Spain" />
+            </div>
+          </div>
+
+          <div className="two">
+            <div className="fld">
+              <label>Founded (year)</label>
+              <input value={form.founded} onChange={(e) => upd("founded", e.target.value)} placeholder="e.g. 2019" />
+            </div>
+            <div className="fld">
+              <label>Team size</label>
+              <input value={form.size} onChange={(e) => upd("size", e.target.value)} placeholder="e.g. 4" />
+            </div>
+          </div>
+
+          <div className="fld">
+            <label>Short description</label>
+            <textarea rows={4} value={form.description} onChange={(e) => upd("description", e.target.value)} placeholder="One or two sentences — what they do, why it's worth including." />
+          </div>
+        </fieldset>
+
+        {/* submitter */}
+        <fieldset>
+          <legend>About you</legend>
+
+          <div className="two">
+            <div className="fld">
+              <label>Your name <span className="req">*</span></label>
+              <input required value={form.submitterName} onChange={(e) => upd("submitterName", e.target.value)} />
+            </div>
+            <div className="fld">
+              <label>Your email <span className="req">*</span></label>
+              <input required type="email" value={form.submitterEmail} onChange={(e) => upd("submitterEmail", e.target.value)} placeholder="you@domain.com" />
+            </div>
+          </div>
+
+          <div className="fld">
+            <label>Relation to the studio</label>
+            <div className="radio-row">
+              {[
+                ["own", "I run this studio"],
+                ["work", "I work there"],
+                ["fan", "Just a fan / reader"],
+              ].map(([v, lbl]) => (
+                <label key={v} className="radio">
+                  <input type="radio" name="relation" value={v} checked={form.relation === v} onChange={(e) => upd("relation", e.target.value)} />
+                  <span>{lbl}</span>
+                </label>
+              ))}
+            </div>
+          </div>
+
+          <div className="fld">
+            <label>Notes to editor (optional)</label>
+            <textarea rows={3} value={form.notes} onChange={(e) => upd("notes", e.target.value)} placeholder="Anything else — links to specific work, press, reasons to include…" />
+          </div>
+        </fieldset>
+
+        <div className="submit-row">
+          <button type="submit" className="submit-btn">
+            Send submission <span className="arr">→</span>
+          </button>
+        </div>
+      </form>
+    </div>
+  );
+}
+
+Object.assign(window, { SubmitView });

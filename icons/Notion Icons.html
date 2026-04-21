@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Design Index — Iconos Notion</title>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,600&family=Geist:wght@400;500&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f4efe6;
+    --paper-2:#ebe4d6;
+    --ink:#1a1814;
+    --ink-2:#2d2924;
+    --accent:#8a5a3b;
+    --rule:rgba(26,24,20,.18);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--paper);color:var(--ink);font-family:'Geist',sans-serif;}
+  body{padding:48px 56px 80px;}
+  header{display:flex;justify-content:space-between;align-items:baseline;border-bottom:1px solid var(--rule);padding-bottom:16px;margin-bottom:40px;}
+  h1{font-family:'Bricolage Grotesque',serif;font-weight:500;font-size:32px;letter-spacing:-0.02em;margin:0;}
+  .meta{font-family:'Geist Mono',monospace;font-size:11px;text-transform:uppercase;letter-spacing:0.08em;color:var(--ink-2);opacity:.7;}
+  .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:32px 24px;}
+  .cell{display:flex;flex-direction:column;gap:12px;}
+  .thumb{background:var(--paper-2);aspect-ratio:1;border-radius:14px;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden;}
+  .thumb svg{width:62%;height:62%;display:block;}
+  .label{font-family:'Geist Mono',monospace;font-size:11px;text-transform:uppercase;letter-spacing:0.08em;color:var(--ink-2);display:flex;justify-content:space-between;}
+  .label b{font-weight:500;color:var(--ink);}
+  .note{margin-top:56px;padding-top:20px;border-top:1px solid var(--rule);font-size:13px;line-height:1.5;max-width:560px;color:var(--ink-2);}
+  .row-title{grid-column:1/-1;font-family:'Bricolage Grotesque',serif;font-size:14px;font-weight:500;letter-spacing:-0.005em;color:var(--ink-2);margin-top:8px;padding-top:16px;border-top:1px solid var(--rule);}
+  .row-title:first-of-type{margin-top:0;border-top:0;padding-top:0;}
+  /* Mini preview that mimics Notion header */
+  .notion-preview{margin-top:48px;padding:24px;background:#fff;border-radius:10px;border:1px solid var(--rule);display:flex;align-items:center;gap:12px;max-width:560px;}
+  .notion-preview .ic{width:28px;height:28px;}
+  .notion-preview .title{font-family:'Geist',sans-serif;font-weight:600;font-size:22px;color:#37352f;}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Iconos para Notion — Design Index</h1>
+  <div class="meta">12 opciones · 280×280 · fondo transparente</div>
+</header>
+
+<div class="grid">
+
+  <!-- ====================================================== -->
+  <div class="row-title">Retícula / Índice</div>
+
+  <!-- 01 Grid dot -->
+  <div class="cell">
+    <div class="thumb">
+      <svg viewBox="0 0 100 100" fill="none">
+        <g stroke="#1a1814" stroke-width="1.6">
+          <line x1="20" y1="30" x2="80" y2="30"/>
+          <line x1="20" y1="50" x2="80" y2="50"/>
+          <line x1="20" y1="70" x2="80" y2="70"/>
+          <line x1="30" y1="20" x2="30" y2="80"/>
+          <line x1="50" y1="20" x2="50" y2="80"/>
+          <line x1="70" y1="20" x2="70" y2="80"/>
+        </g>
+        <circle cx="50" cy="50" r="5" fill="#8a5a3b"/>
+      </svg>
+    </div>
+    <div class="label"><b>01 · Retícula</b><span>01</span></div>
+  </div>
+
+  <!-- 02 Index marks -->
+  <div class="cell">
+    <div class="thumb">
+      <svg viewBox="0 0 100 100" fill="none">
+        <g stroke="#1a1814" stroke-width="2" stroke-linecap="square">
+          <line x1="25" y1="30" x2="35" y2="30"/>
+          <line x1="45" y1="30" x2="75" y2="30"/>
+          <line x1="25" y1="45" x2="55" y2="45"/>
+          <line x1="65" y1="45" x2="75" y2="45"/>
+          <line x1="25" y1="60" x2="40" y2="60"/>
+          <line x1="50" y1="60" x2="75" y2="60"/>
+          <line x1="25" y1="75" x2="60" y2="75"/>
+        </g>
+      </svg>
+    </div>
+    <div class="label"><b>02 · Índice</b><span>02</span></div>
+  </div>
+
+  <!-- 03 Registration mark -->
+  <div class="cell">
+    <div class="thumb">
+      <svg viewBox="0 0 100 100" fill="none">
+        <circle cx="50" cy="50" r="22" stroke="#1a1814" stroke-width="1.8"/>
+        <line x1="50" y1="18" x2="50" y2="82" stroke="#1a1814" stroke-width="1.8"/>
+        <line x1="18" y1="50" x2="82" y2="50" stroke="#1a1814" stroke-width="1.8"/>
+      </svg>
+    </div>
+    <div class="label"><b>03 · Registro</b><span>03</span></div>
+  </div>
+
+  <!-- 04 Folio / card -->
+  <div class="cell">
+    <div class="thumb">
+      <svg viewBox="0 0 100 100" fill="none">
+        <rect x="28" y="22" width="44" height="56" stroke="#1a1814" stroke-width="1.8" fill="none"/>
+        <line x1="36" y1="38" x2="64" y2="38" stroke="#1a1814" stroke-width="1.6"/>
+        <line x1="36" y1="48" x2="58" y2="48" stroke="#1a1814" stroke-width="1.6"/>
+        <line x1="36" y1="58" x2="64" y2="58" stroke="#1a1814" stroke-width="1.6"/>
+        <line x1="36" y1="68" x2="52" y2="68" stroke="#1a1814" stroke-width="1.6"/>
+        <rect x="28" y="22" width="10" height="6" fill="#8a5a3b"/>
+      </svg>
+    </div>
+    <div class="label"><b>04 · Ficha</b><span>04</span></div>
+  </div>
+
+  <!-- ====================================================== -->
+  <div class="row-title">Geometría / Marca</div>
+
+  <!-- 05 Nested squares -->
+  <div class="cell">
+    <div class="thumb">
+      <svg viewBox="0 0 100 100" fill="none">
+        <rect x="20" y="20" width="60" height="60" stroke="#1a1814" stroke-width="1.8"/>
+        <rect x="32" y="32" width="36" height="36" stroke="#1a1814" stroke-width="1.8"/>
+        <rect x="44" y="44" width="12" height="12" fill="#1a1814"/>
+      </svg>
+    </div>
+    <div class="label"><b>05 · Anillos</b><span>05</span></div>
+  </div>
+
+  <!-- 06 Split square / half-tone -->
+  <div class="cell">
+    <div class="thumb">
+      <svg viewBox="0 0 100 100" fill="none">
+        <rect x="22" y="22" width="56" height="56" fill="#1a1814"/>
+        <rect x="22" y="22" width="28" height="56" fill="#f4efe6"/>
+        <line x1="50" y1="22" x2="50" y2="78" stroke="#1a1814" stroke-width="1.2"/>
+      </svg>
+    </div>
+    <div class="label"><b>06 · Mitad</b><span>06</span></div>
+  </div>
+
+  <!-- 07 Concentric circles (radar / index) -->
+  <div class="cell">
+    <div class="thumb">
+      <svg viewBox="0 0 100 100" fill="none">
+        <circle cx="50" cy="50" r="30" stroke="#1a1814" stroke-width="1.5"/>
+        <circle cx="50" cy="50" r="20" stroke="#1a1814" stroke-width="1.5"/>
+        <circle cx="50" cy="50" r="10" stroke="#1a1814" stroke-width="1.5"/>
+        <circle cx="50" cy="50" r="3" fill="#1a1814"/>
+      </svg>
+    </div>
+    <div class="label"><b>07 · Órbitas</b><span>07</span></div>
+  </div>
+
+  <!-- 08 Plus / crosshair -->
+  <div class="cell">
+    <div class="thumb">
+      <svg viewBox="0 0 100 100" fill="none">
+        <line x1="50" y1="22" x2="50" y2="78" stroke="#1a1814" stroke-width="3"/>
+        <line x1="22" y1="50" x2="78" y2="50" stroke="#1a1814" stroke-width="3"/>
+        <circle cx="50" cy="50" r="5" fill="#f4efe6" stroke="#1a1814" stroke-width="2"/>
+      </svg>
+    </div>
+    <div class="label"><b>08 · Cruz</b><span>08</span></div>
+  </div>
+
+  <!-- ====================================================== -->
+  <div class="row-title">Editorial / Glifo</div>
+
+  <!-- 09 Asterisk -->
+  <div class="cell">
+    <div class="thumb">
+      <svg viewBox="0 0 100 100" fill="none">
+        <g stroke="#1a1814" stroke-width="4" stroke-linecap="round">
+          <line x1="50" y1="22" x2="50" y2="78"/>
+          <line x1="26" y1="36" x2="74" y2="64"/>
+          <line x1="26" y1="64" x2="74" y2="36"/>
+        </g>
+      </svg>
+    </div>
+    <div class="label"><b>09 · Asterisco</b><span>09</span></div>
+  </div>
+
+  <!-- 10 Section § -->
+  <div class="cell">
+    <div class="thumb">
+      <svg viewBox="0 0 100 100" fill="none">
+        <text x="50" y="72" text-anchor="middle" font-family="Bricolage Grotesque, serif" font-size="72" font-weight="500" fill="#1a1814">§</text>
+      </svg>
+    </div>
+    <div class="label"><b>10 · Section</b><span>10</span></div>
+  </div>
+
+  <!-- 11 Pilcrow -->
+  <div class="cell">
+    <div class="thumb">
+      <svg viewBox="0 0 100 100" fill="none">
+        <text x="50" y="72" text-anchor="middle" font-family="Bricolage Grotesque, serif" font-size="68" font-weight="500" fill="#1a1814">¶</text>
+      </svg>
+    </div>
+    <div class="label"><b>11 · Párrafo</b><span>11</span></div>
+  </div>
+
+  <!-- 12 Index bracket -->
+  <div class="cell">
+    <div class="thumb">
+      <svg viewBox="0 0 100 100" fill="none">
+        <path d="M30 22 L24 22 L24 78 L30 78" stroke="#1a1814" stroke-width="2.4" fill="none" stroke-linejoin="miter"/>
+        <path d="M70 22 L76 22 L76 78 L70 78" stroke="#1a1814" stroke-width="2.4" fill="none" stroke-linejoin="miter"/>
+        <circle cx="50" cy="50" r="4.5" fill="#8a5a3b"/>
+      </svg>
+    </div>
+    <div class="label"><b>12 · Corchetes</b><span>12</span></div>
+  </div>
+
+</div>
+
+<div class="notion-preview">
+  <svg class="ic" viewBox="0 0 100 100" fill="none">
+    <rect x="20" y="20" width="60" height="60" stroke="#1a1814" stroke-width="3"/>
+    <rect x="32" y="32" width="36" height="36" stroke="#1a1814" stroke-width="3"/>
+    <rect x="44" y="44" width="12" height="12" fill="#1a1814"/>
+  </svg>
+  <div class="title">The Design Index</div>
+</div>
+
+<p class="note">
+  Cuando elijas un número, te lo exporto como PNG 280×280 con fondo transparente
+  (listo para arrastrar al icono de la base en Notion). Si alguno te gusta
+  pero quieres ajustar color, grosor o proporción, dímelo.
+</p>
+
+</body>
+</html>
