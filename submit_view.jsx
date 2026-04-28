@@ -19,40 +19,60 @@ function SubmitView() {
     notes: "",
   });
   const [sent, setSent] = useSubSt(false);
+  const [submitting, setSubmitting] = useSubSt(false);
+  const [error, setError] = useSubSt(null);
+
+  const FORMSPREE_ENDPOINT = "https://formspree.io/f/xzdylwvg";
 
   const d = window.SITE;
   const cats = (d.categoriesOrder || []).filter((c) => d.byCat?.[c]);
 
   function upd(k, v) { setForm((f) => ({ ...f, [k]: v })); }
 
-  function handleSubmit(e) {
+  async function handleSubmit(e) {
     e.preventDefault();
+    if (submitting) return;
+    setError(null);
+    setSubmitting(true);
+
     const cat = form.category === "__other" ? form.otherCategory : form.category;
-    const lines = [
-      `Studio: ${form.name}`,
-      `Website: ${form.url}`,
-      `Instagram: ${form.ig || "—"}`,
-      `Category: ${cat || "—"}`,
-      `City: ${form.city || "—"}`,
-      `Country: ${form.country || "—"}`,
-      `Founded: ${form.founded || "—"}`,
-      `Team size: ${form.size || "—"}`,
-      ``,
-      `Description:`,
-      form.description || "—",
-      ``,
-      `— — — — —`,
-      `Submitted by: ${form.submitterName || "—"}`,
-      `Email: ${form.submitterEmail || "—"}`,
-      `Relation: ${form.relation === "own" ? "I run this studio" : form.relation === "work" ? "I work there" : "Just a fan / reader"}`,
-      ``,
-      `Notes to editor:`,
-      form.notes || "—",
-    ];
-    const body = encodeURIComponent(lines.join("\n"));
-    const subj = encodeURIComponent(`Studio submission — ${form.name || "(untitled)"}`);
-    window.location.href = `mailto:wencesanz@gmail.com?subject=${subj}&body=${body}`;
-    setSent(true);
+    const relationLabel = form.relation === "own" ? "I run this studio" : form.relation === "work" ? "I work there" : "Just a fan / reader";
+
+    const payload = {
+      _subject: `Studio submission — ${form.name || "(untitled)"}`,
+      _replyto: form.submitterEmail,
+      "Studio name": form.name,
+      "Website": form.url,
+      "Instagram": form.ig || "—",
+      "Discipline": cat || "—",
+      "City": form.city || "—",
+      "Country": form.country || "—",
+      "Founded": form.founded || "—",
+      "Team size": form.size || "—",
+      "Description": form.description || "—",
+      "Submitted by": form.submitterName || "—",
+      "Email": form.submitterEmail || "—",
+      "Relation": relationLabel,
+      "Notes to editor": form.notes || "—",
+    };
+
+    try {
+      const res = await fetch(FORMSPREE_ENDPOINT, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        body: JSON.stringify(payload),
+      });
+      if (res.ok) {
+        setSent(true);
+      } else {
+        const data = await res.json().catch(() => ({}));
+        throw new Error((data.errors && data.errors.map((x) => x.message).join(", ")) || `Request failed (${res.status})`);
+      }
+    } catch (err) {
+      setError(err.message || "Something went wrong. Please try again, or write to wencesanz@gmail.com directly.");
+    } finally {
+      setSubmitting(false);
+    }
   }
 
   if (sent) {
@@ -62,10 +82,10 @@ function SubmitView() {
           <Eyebrow><span>Submit</span></Eyebrow>
           <h1 style={{ marginTop: 20 }}>Thank you.</h1>
           <p className="sub" style={{ maxWidth: "60ch" }}>
-            Your mail client should have opened with the submission ready to send.
-            If it didn't, write to{" "}
+            Your submission has been received. Every entry is read by hand;
+            I'll reply if I have questions. If you need to add anything, write to{" "}
             <a className="link" href="mailto:wencesanz@gmail.com">wencesanz@gmail.com</a>{" "}
-            directly. Every entry is read by hand; I'll reply if I have questions.
+            directly.
           </p>
           <p className="sub" style={{ marginTop: 24 }}>
             <a className="link" onClick={() => setSent(false)}>← Submit another</a>
@@ -191,9 +211,14 @@ function SubmitView() {
         </fieldset>
 
         <div className="submit-row">
-          <button type="submit" className="submit-btn">
-            Send submission <span className="arr">→</span>
+          <button type="submit" className="submit-btn" disabled={submitting}>
+            {submitting ? "Sending…" : "Send submission"} <span className="arr">→</span>
           </button>
+          {error && (
+            <p style={{ color: "var(--accent)", fontSize: 13, marginTop: 12 }}>
+              {error}
+            </p>
+          )}
         </div>
       </form>
     </div>
