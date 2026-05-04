@@ -43,8 +43,15 @@ window.SITE = {
   ],
 };
 
-// Async loader so studios.json isn't inlined (it's ~100KB).
-window.SITE_READY = fetch("studios.json")
+// Async loader — pulls live data from Notion via the /api/studios proxy.
+// (Falls back to the local studios.json if the API call fails, so the
+// site still works during local dev or if Notion is down.)
+window.SITE_READY = fetch("/api/studios")
+  .then((r) => {
+    if (!r.ok) throw new Error("api/studios " + r.status);
+    return r;
+  })
+  .catch(() => fetch("studios.json"))
   .then((r) => r.json())
   .then((studios) => {
     window.SITE.studios = studios;
