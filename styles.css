@@ -580,8 +580,10 @@ em { font-style: italic; }
 .searchbar input::placeholder { color: var(--mute); }
 .searchbar .clr { color: var(--mute); font-size: 16px; }
 
-.filter-row { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; padding: 24px 0; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); align-items: start; }
+.filter-row { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; padding: 24px 0; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); align-items: start; min-width: 0; }
+.filter-row > div { min-width: 0; }
 .filter-row .lbl { font-family: var(--mono); font-size: 11px; color: var(--mute); letter-spacing: 0.06em; text-transform: uppercase; margin-bottom: 10px; }
+.filter-row .chips { justify-content: flex-start; }
 .chips.scroll { flex-wrap: wrap; }
 .chips .num { color: var(--mute); margin-left: 4px; font-size: 10px; }
 .chips button[data-on="true"] .num { color: color-mix(in oklab, var(--paper) 70%, transparent); }
@@ -959,6 +961,26 @@ em { font-style: italic; }
   /* Studio detail */
   .pd-head { grid-template-columns: 1fr !important; gap: 24px !important; }
   .pd-meta-grid { grid-template-columns: 1fr 1fr !important; }
+
+  /* Filter row collapses to single column on mobile */
+  .filter-row {
+    grid-template-columns: 1fr !important;
+    gap: 20px !important;
+    padding: 18px 0 !important;
+  }
+  .filter-row .chips {
+    justify-content: flex-start !important;
+    gap: 6px !important;
+  }
+  .filter-row .chips button {
+    font-size: 10.5px !important;
+    padding: 6px 10px !important;
+    white-space: nowrap;
+  }
+  .filter-row .more-select {
+    font-size: 16px !important; /* avoid iOS zoom */
+    max-width: 100%;
+  }
 
   /* Studios list — show fewer columns */
   .lst-row {
