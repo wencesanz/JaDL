@@ -53,6 +53,7 @@ function ThemeToggle() {
 }
 
 function TopBar({ view, go }) {
+  const [menuOpen, setMenuOpen] = useState(false);
   const items = [
     ["index", "Index"],
     ["studios", "Studios"],
@@ -61,8 +62,24 @@ function TopBar({ view, go }) {
     ["submit", "Submit"],
     ["about", "Colophon"],
   ];
+
+  // Close mobile menu on resize > breakpoint or on view change
+  useEffect(() => { setMenuOpen(false); }, [view]);
+  useEffect(() => {
+    const onResize = () => { if (window.innerWidth > 880) setMenuOpen(false); };
+    window.addEventListener("resize", onResize);
+    return () => window.removeEventListener("resize", onResize);
+  }, []);
+  // Lock body scroll when menu is open
+  useEffect(() => {
+    document.body.style.overflow = menuOpen ? "hidden" : "";
+    return () => { document.body.style.overflow = ""; };
+  }, [menuOpen]);
+
+  const goAndClose = (k) => { setMenuOpen(false); go(k); };
+
   return (
-    <header className="topbar">
+    <header className={`topbar ${menuOpen ? "is-open" : ""}`}>
       <div className="mark">
         <span onClick={() => go("index")} style={{ cursor: "pointer" }} className="mark-wordmark">
           <span>JUST</span><span className="slash">/</span><span>A</span><span className="slash">/</span><span>DESIGN</span><span className="slash">/</span><span>LIST</span>
@@ -76,10 +93,34 @@ function TopBar({ view, go }) {
           </button>
         ))}
       </nav>
-      <div style={{ display: "flex", alignItems: "center", justifyContent: "flex-end" }}>
+      <div className="topbar-right">
         <Clock />
         <ThemeToggle />
+        <button
+          className="menu-toggle"
+          onClick={() => setMenuOpen(v => !v)}
+          aria-label={menuOpen ? "Close menu" : "Open menu"}
+          aria-expanded={menuOpen}
+        >
+          <span className="menu-icon" data-open={menuOpen}>
+            <span></span><span></span><span></span>
+          </span>
+        </button>
       </div>
+
+      {/* Mobile drawer */}
+      <nav className={`mobile-nav ${menuOpen ? "is-open" : ""}`} aria-label="Mobile">
+        {items.map(([k, label]) => (
+          <button
+            key={k}
+            onClick={() => goAndClose(k)}
+            aria-current={view === k ? "page" : undefined}
+            className={view === k ? "is-current" : ""}
+          >
+            {label}
+          </button>
+        ))}
+      </nav>
     </header>
   );
 }

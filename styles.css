@@ -822,3 +822,182 @@ em { font-style: italic; }
 @media (max-width: 640px) {
   .submit-form .two { grid-template-columns: 1fr; }
 }
+
+
+/* ============================================================
+   RESPONSIVE — mobile + tablet
+   ============================================================ */
+
+/* topbar right cluster (default desktop) */
+.topbar .topbar-right { display: flex; align-items: center; justify-content: flex-end; }
+.topbar .menu-toggle { display: none; }
+.topbar .mobile-nav { display: none; }
+
+/* Tablet: collapse nav into hamburguer */
+@media (max-width: 880px) {
+  .topbar {
+    grid-template-columns: 1fr auto !important;
+    padding: 14px 20px !important;
+    gap: 12px;
+  }
+  .topbar .nav { display: none; }
+  .topbar .clock { display: none; }
+  .topbar .menu-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px; height: 40px;
+    margin-left: 6px;
+    background: transparent;
+    border: 1px solid var(--rule-soft);
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.15s ease, border-color 0.15s ease;
+  }
+  .topbar .menu-toggle:hover { background: var(--paper-2, var(--paper)); border-color: var(--rule); }
+  .topbar .menu-icon {
+    display: inline-block; position: relative; width: 18px; height: 12px;
+  }
+  .topbar .menu-icon span {
+    display: block; position: absolute; left: 0; right: 0;
+    height: 1.5px; background: var(--ink);
+    transition: transform 0.25s ease, opacity 0.2s ease, top 0.25s ease;
+  }
+  .topbar .menu-icon span:nth-child(1) { top: 0; }
+  .topbar .menu-icon span:nth-child(2) { top: 5px; }
+  .topbar .menu-icon span:nth-child(3) { top: 10px; }
+  .topbar .menu-icon[data-open="true"] span:nth-child(1) { top: 5px; transform: rotate(45deg); }
+  .topbar .menu-icon[data-open="true"] span:nth-child(2) { opacity: 0; }
+  .topbar .menu-icon[data-open="true"] span:nth-child(3) { top: 5px; transform: rotate(-45deg); }
+
+  /* Mobile drawer */
+  .topbar .mobile-nav {
+    display: flex;
+    position: fixed;
+    top: var(--topbar-h, 65px);
+    left: 0; right: 0;
+    bottom: 0;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 24px 0;
+    background: var(--paper);
+    border-top: 1px solid var(--rule-soft);
+    transform: translateX(100%);
+    transition: transform 0.32s cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: 49;
+    overflow-y: auto;
+  }
+  .topbar .mobile-nav.is-open { transform: translateX(0); }
+  .topbar .mobile-nav button {
+    text-align: left;
+    padding: 18px 24px;
+    font-family: var(--serif);
+    font-size: 28px;
+    line-height: 1.1;
+    color: var(--ink);
+    border-bottom: 1px solid var(--rule-soft);
+    cursor: pointer;
+    background: transparent;
+    transition: background 0.15s ease;
+  }
+  .topbar .mobile-nav button:hover { background: rgba(0,0,0,0.03); }
+  .topbar .mobile-nav button.is-current {
+    font-style: italic;
+  }
+  .topbar .mobile-nav button.is-current::before {
+    content: "→ ";
+    font-style: normal;
+    color: var(--mute);
+  }
+
+  /* Compact wordmark */
+  .topbar .mark .mark-wordmark { font-size: 13px; }
+  .topbar .mark small { display: none; }
+}
+
+/* Mobile: even tighter */
+@media (max-width: 600px) {
+  .topbar { padding: 12px 16px !important; }
+  .topbar .mark .mark-wordmark { font-size: 12px; }
+  .topbar .theme-toggle { margin-left: 8px; }
+
+  /* General page padding */
+  .wrap { padding-left: 20px !important; padding-right: 20px !important; }
+
+  /* Stats strip → 2 columns */
+  .stats-strip { grid-template-columns: repeat(2, 1fr) !important; gap: 20px !important; }
+  .stats-strip .stat .n { font-size: clamp(28px, 8vw, 40px); }
+
+  /* Categories tiles → 1 column */
+  .cat-grid { grid-template-columns: 1fr !important; }
+  .cat-tile { border-right: none !important; }
+
+  /* Recent additions list — single column */
+  .recent-row { grid-template-columns: 1fr !important; gap: 4px !important; padding: 14px 0 !important; }
+  .recent-row .dt { font-size: 11px; color: var(--mute); }
+
+  /* Editor's selection list */
+  .sel-list { grid-template-columns: 1fr !important; }
+
+  /* Categories long list */
+  .cat-long-row {
+    grid-template-columns: 1fr !important;
+    gap: 8px !important;
+    padding: 22px 0 !important;
+  }
+  .cat-long-row .nm { font-size: 26px !important; }
+  .cat-long-row .ix,
+  .cat-long-row .bar,
+  .cat-long-row .ex {
+    display: none !important;
+  }
+  .cat-long-row .ct { font-size: 12px; color: var(--mute); }
+
+  /* Geography tiles */
+  .geo-grid { grid-template-columns: 1fr !important; }
+
+  /* Studio detail */
+  .pd-head { grid-template-columns: 1fr !important; gap: 24px !important; }
+  .pd-meta-grid { grid-template-columns: 1fr 1fr !important; }
+
+  /* Studios list — show fewer columns */
+  .lst-row {
+    grid-template-columns: 1fr !important;
+    gap: 6px !important;
+    padding: 18px 0 !important;
+  }
+  .lst-row .lst-cat,
+  .lst-row .lst-loc-extra,
+  .lst-row .lst-num { display: none !important; }
+  .lst-row .lst-name { font-size: 22px !important; }
+  .lst-row .lst-loc { font-size: 12px; color: var(--mute); }
+
+  /* Studios grid view — 1 column */
+  .work-grid { grid-template-columns: 1fr !important; gap: 24px !important; padding: 24px 0 !important; }
+
+  /* Footer */
+  .foot-grid {
+    grid-template-columns: 1fr !important;
+    gap: 32px !important;
+  }
+  .foot-grid h3 { font-size: clamp(28px, 7vw, 36px) !important; }
+  .colophon { flex-wrap: wrap; gap: 8px 16px; }
+
+  /* Submit form */
+  .submit-form .two { grid-template-columns: 1fr !important; }
+  .submit-form input,
+  .submit-form select,
+  .submit-form textarea { font-size: 16px !important; } /* avoid iOS zoom */
+
+  /* Eyebrow + h1 / h2 sizing */
+  h1, .h1 { font-size: clamp(36px, 9vw, 56px) !important; }
+  h2 { font-size: clamp(26px, 6vw, 36px) !important; }
+  .sub { font-size: clamp(15px, 4vw, 18px) !important; }
+}
+
+/* Small mobile */
+@media (max-width: 380px) {
+  .topbar .mark .mark-wordmark { font-size: 11px; }
+  .topbar .menu-toggle { width: 36px; height: 36px; }
+  .stats-strip { grid-template-columns: 1fr 1fr !important; gap: 14px !important; }
+}
