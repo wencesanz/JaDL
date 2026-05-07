@@ -131,8 +131,8 @@ function Footer({ go }) {
   return (
     <footer className="foot wrap">
       <div className="foot-grid">
-        <h3>
-          A slow index of<br />design practices, <em style={{ fontFamily: "var(--serif)", fontStyle: "italic" }}>worth returning to</em>.
+        <h3 style={{ lineHeight: 1.1 }}>
+          A slow index of<br />design practices, worth returning to.
         </h3>
         <div className="addr">
           <div style={{ fontFamily: "var(--mono)", fontSize: 11.5, color: "var(--mute)", letterSpacing: ".05em", textTransform: "uppercase", marginBottom: 8 }}>
@@ -154,10 +154,13 @@ function Footer({ go }) {
           <a href="https://www.wenceslaosanz.rocks" target="_blank" rel="noopener">
             <span>Editor — wenceslaosanz.rocks</span><span className="arr">↗</span>
           </a>
+          <a href="https://www.designmatazz.com" target="_blank" rel="noopener">
+            <span>Designmatazz</span><span className="arr">↗</span>
+          </a>
           <a href="https://www.linkedin.com/in/wenceslaosanz/" target="_blank" rel="noopener">
             <span>LinkedIn</span><span className="arr">↗</span>
           </a>
-          <a href="#" onClick={(e) => e.preventDefault()}>
+          <a href="feed.xml" target="_blank" rel="noopener">
             <span>RSS feed</span><span className="arr">↗</span>
           </a>
         </div>
