@@ -173,6 +173,64 @@ function mapPage(page) {
 }
 
 // ---------------------------------------------------------------------------
+// RSS feed
+// ---------------------------------------------------------------------------
+const SITE_URL   = process.env.SITE_URL   || 'https://justadesignlist.com';
+const SITE_TITLE = process.env.SITE_TITLE || 'Just a Design List';
+const SITE_DESC  = process.env.SITE_DESC  || 'A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.';
+
+function xmlEsc(s) {
+  return String(s || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
+async function writeFeed(studios) {
+  const { writeFile } = await import('node:fs/promises');
+  const sorted = [...studios].sort((a, b) => {
+    const ta = a.edited ? new Date(a.edited).getTime() : 0;
+    const tb = b.edited ? new Date(b.edited).getTime() : 0;
+    return tb - ta;
+  });
+  const recent = sorted.slice(0, 30);
+
+  const items = recent.map((s) => {
+    const ts = s.edited ? new Date(s.edited).toUTCString() : new Date().toUTCString();
+    const link = s.url || SITE_URL;
+    const cats = (s.category || '').split(',').map(x => x.trim()).filter(Boolean);
+    const loc = [s.city, s.country].filter(Boolean).join(', ');
+    const desc = `${cats.join(' · ')}${loc ? ' — ' + loc : ''}.`;
+    const guid = `${SITE_URL}/#studio/${encodeURIComponent(s.name)}`;
+    return `    <item>
+      <title>${xmlEsc(s.name)}</title>
+      <link>${xmlEsc(link)}</link>
+      <guid isPermaLink="false">${xmlEsc(guid)}</guid>
+      <pubDate>${ts}</pubDate>
+      <description>${xmlEsc(desc)}</description>
+${cats.map(c => `      <category>${xmlEsc(c)}</category>`).join('\n')}
+    </item>`;
+  }).join('\n');
+
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>${xmlEsc(SITE_TITLE)}</title>
+    <link>${xmlEsc(SITE_URL)}</link>
+    <description>${xmlEsc(SITE_DESC)}</description>
+    <language>en</language>
+    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+    <atom:link href="${xmlEsc(SITE_URL)}/feed.xml" rel="self" type="application/rss+xml"/>
+${items}
+  </channel>
+</rss>
+`;
+  await writeFile('feed.xml', xml, 'utf8');
+}
+
+// ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
 (async () => {
@@ -191,6 +249,10 @@ function mapPage(page) {
   const { writeFile } = await import('node:fs/promises');
   await writeFile(OUTPUT_PATH, JSON.stringify(studios, null, 2) + '\n', 'utf8');
   console.log(`Wrote ${OUTPUT_PATH}`);
+
+  // Write RSS feed (latest 30 by Notion last_edited_time)
+  await writeFeed(studios);
+  console.log('Wrote feed.xml');
 
   // Quick diagnostics
   const missing = studios.filter(s => !s.url && !s.ig);
