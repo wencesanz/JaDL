@@ -1023,3 +1023,27 @@ em { font-style: italic; }
   .topbar .menu-toggle { width: 36px; height: 36px; }
   .stats-strip { grid-template-columns: 1fr 1fr !important; gap: 14px !important; }
 }
+
+
+/* submit form chip grid (multi-discipline) */
+.chip-grid { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 6px; }
+.chip-check { position: relative; cursor: pointer; user-select: none; }
+.chip-check input { position: absolute; opacity: 0; pointer-events: none; }
+.chip-check span {
+  display: inline-block;
+  padding: 8px 14px;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: var(--ink-2);
+  background: transparent;
+  transition: all 0.15s ease;
+}
+.chip-check:hover span { border-color: var(--ink); }
+.chip-check.on span {
+  background: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
+}
