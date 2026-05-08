@@ -6,7 +6,7 @@ function SubmitView() {
     name: "",
     url: "",
     ig: "",
-    category: "",
+    categories: [],
     otherCategory: "",
     city: "",
     country: "",
@@ -19,60 +19,55 @@ function SubmitView() {
     notes: "",
   });
   const [sent, setSent] = useSubSt(false);
-  const [submitting, setSubmitting] = useSubSt(false);
-  const [error, setError] = useSubSt(null);
 
-  const FORMSPREE_ENDPOINT = "https://formspree.io/f/xzdylwvg";
+  const EDITOR_EMAIL = "wencesanz@gmail.com";
 
   const d = window.SITE;
   const cats = (d.categoriesOrder || []).filter((c) => d.byCat?.[c]);
 
   function upd(k, v) { setForm((f) => ({ ...f, [k]: v })); }
 
-  async function handleSubmit(e) {
+  function handleSubmit(e) {
     e.preventDefault();
-    if (submitting) return;
-    setError(null);
-    setSubmitting(true);
 
-    const cat = form.category === "__other" ? form.otherCategory : form.category;
+    const cats = [...form.categories];
+    if (cats.includes("__other") && form.otherCategory) {
+      cats.splice(cats.indexOf("__other"), 1, form.otherCategory);
+    } else if (cats.includes("__other")) {
+      cats.splice(cats.indexOf("__other"), 1);
+    }
+    const cat = cats.join(", ");
     const relationLabel = form.relation === "own" ? "I run this studio" : form.relation === "work" ? "I work there" : "Just a fan / reader";
 
-    const payload = {
-      _subject: `Studio submission — ${form.name || "(untitled)"}`,
-      _replyto: form.submitterEmail,
-      "Studio name": form.name,
-      "Website": form.url,
-      "Instagram": form.ig || "—",
-      "Discipline": cat || "—",
-      "City": form.city || "—",
-      "Country": form.country || "—",
-      "Founded": form.founded || "—",
-      "Team size": form.size || "—",
-      "Description": form.description || "—",
-      "Submitted by": form.submitterName || "—",
-      "Email": form.submitterEmail || "—",
-      "Relation": relationLabel,
-      "Notes to editor": form.notes || "—",
-    };
+    const lines = [
+      `Studio name: ${form.name}`,
+      `Website: ${form.url}`,
+      `Instagram: ${form.ig || "—"}`,
+      `Disciplines: ${cat || "—"}`,
+      `City: ${form.city || "—"}`,
+      `Country: ${form.country || "—"}`,
+      `Founded: ${form.founded || "—"}`,
+      `Team size: ${form.size || "—"}`,
+      ``,
+      `Description:`,
+      `${form.description || "—"}`,
+      ``,
+      `— About the submitter —`,
+      `Name: ${form.submitterName || "—"}`,
+      `Email: ${form.submitterEmail || "—"}`,
+      `Relation: ${relationLabel}`,
+      ``,
+      `Notes to editor:`,
+      `${form.notes || "—"}`,
+    ];
 
-    try {
-      const res = await fetch(FORMSPREE_ENDPOINT, {
-        method: "POST",
-        headers: { "Content-Type": "application/json", Accept: "application/json" },
-        body: JSON.stringify(payload),
-      });
-      if (res.ok) {
-        setSent(true);
-      } else {
-        const data = await res.json().catch(() => ({}));
-        throw new Error((data.errors && data.errors.map((x) => x.message).join(", ")) || `Request failed (${res.status})`);
-      }
-    } catch (err) {
-      setError(err.message || "Something went wrong. Please try again, or write to wencesanz@gmail.com directly.");
-    } finally {
-      setSubmitting(false);
-    }
+    const subject = `Studio submission — ${form.name || "(untitled)"}`;
+    const body = lines.join("\n");
+    const mailto = `mailto:${EDITOR_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+
+    // Open the user's mail client
+    window.location.href = mailto;
+    setSent(true);
   }
 
   if (sent) {
@@ -80,11 +75,16 @@ function SubmitView() {
       <div className="view wrap">
         <section className="masthead masthead--tight">
           <Eyebrow><span>Submit</span></Eyebrow>
-          <h1 style={{ marginTop: 20 }}>Thank you.</h1>
+          <h1 style={{ marginTop: 20 }}>Almost there.</h1>
           <p className="sub" style={{ maxWidth: "60ch" }}>
-            Your submission has been received. Every entry is read by hand;
-            I'll reply if I have questions. If you need to add anything, write to{" "}
-            <a className="link" href="mailto:wencesanz@gmail.com">wencesanz@gmail.com</a>{" "}
+            Your default mail app should have just opened with the submission
+            ready to send. <strong>Press send</strong> in your mail client to deliver it
+            to <a className="link" href={`mailto:${EDITOR_EMAIL}`}>{EDITOR_EMAIL}</a>.
+            Every entry is read by hand; I'll reply if I have questions.
+          </p>
+          <p className="sub" style={{ maxWidth: "60ch", marginTop: 12 }}>
+            If nothing happened, write to{" "}
+            <a className="link" href={`mailto:${EDITOR_EMAIL}`}>{EDITOR_EMAIL}</a>{" "}
             directly.
           </p>
           <p className="sub" style={{ marginTop: 24 }}>
@@ -125,20 +125,55 @@ function SubmitView() {
             </div>
             <div className="fld">
               <label>Instagram</label>
-              <input value={form.ig} onChange={(e) => upd("ig", e.target.value)} placeholder="@handle" />
+              <input type="url" value={form.ig} onChange={(e) => upd("ig", e.target.value)} placeholder="https://instagram.com/handle" />
             </div>
           </div>
 
           <div className="fld">
-            <label>Primary discipline <span className="req">*</span></label>
-            <select required value={form.category} onChange={(e) => upd("category", e.target.value)}>
-              <option value="">Choose a discipline…</option>
-              {cats.map((c) => <option key={c} value={c}>{c}</option>)}
-              <option value="__other">Other…</option>
-            </select>
+            <label>Disciplines <span className="req">*</span> <span style={{ color: "var(--mute)", fontWeight: 400 }}>— select one or more</span></label>
+            <div className="chip-grid">
+              {cats.map((c) => {
+                const on = form.categories.includes(c);
+                return (
+                  <label key={c} className={`chip-check ${on ? "on" : ""}`}>
+                    <input
+                      type="checkbox"
+                      checked={on}
+                      onChange={(e) => {
+                        setForm((f) => ({
+                          ...f,
+                          categories: e.target.checked
+                            ? [...f.categories, c]
+                            : f.categories.filter((x) => x !== c),
+                        }));
+                      }}
+                    />
+                    <span>{c}</span>
+                  </label>
+                );
+              })}
+              <label className={`chip-check ${form.categories.includes("__other") ? "on" : ""}`}>
+                <input
+                  type="checkbox"
+                  checked={form.categories.includes("__other")}
+                  onChange={(e) => {
+                    setForm((f) => ({
+                      ...f,
+                      categories: e.target.checked
+                        ? [...f.categories, "__other"]
+                        : f.categories.filter((x) => x !== "__other"),
+                    }));
+                  }}
+                />
+                <span>Other…</span>
+              </label>
+            </div>
+            {form.categories.length === 0 && (
+              <input required style={{ position: "absolute", opacity: 0, pointerEvents: "none", height: 0 }} value="" onChange={() => {}} />
+            )}
           </div>
 
-          {form.category === "__other" && (
+          {form.categories.includes("__other") && (
             <div className="fld">
               <label>Other discipline</label>
               <input value={form.otherCategory} onChange={(e) => upd("otherCategory", e.target.value)} placeholder="Name the discipline" />
@@ -211,14 +246,13 @@ function SubmitView() {
         </fieldset>
 
         <div className="submit-row">
-          <button type="submit" className="submit-btn" disabled={submitting}>
-            {submitting ? "Sending…" : "Send submission"} <span className="arr">→</span>
+          <button type="submit" className="submit-btn">
+            Send submission <span className="arr">→</span>
           </button>
-          {error && (
-            <p style={{ color: "var(--accent)", fontSize: 13, marginTop: 12 }}>
-              {error}
-            </p>
-          )}
+          <p style={{ color: "var(--mute)", fontSize: 13, marginTop: 12, maxWidth: "62ch" }}>
+            This opens your mail app with the submission pre-filled. You'll need to press
+            send there to deliver it to <a className="link" href={`mailto:${EDITOR_EMAIL}`}>{EDITOR_EMAIL}</a>.
+          </p>
         </div>
       </form>
     </div>
