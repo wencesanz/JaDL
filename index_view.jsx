@@ -1,6 +1,18 @@
 /* global React, Eyebrow */
 const { useState: useIdxState, useMemo: useIdxMemo, useEffect: useIdxEffect, useRef: useIdxRef } = React;
 
+// Pretty-print the `edited` field, whether it's ISO or Spanish-formatted.
+function formatEdited(s) {
+  if (!s) return "";
+  const iso = Date.parse(s);
+  if (!isNaN(iso)) {
+    const d = new Date(iso);
+    return d.toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric" });
+  }
+  // Already in Spanish prose — strip trailing time.
+  return s.replace(/\s+\d{1,2}:\d{2}$/, "");
+}
+
 function IndexView({ go }) {
   const d = window.SITE;
 
@@ -111,13 +123,13 @@ function IndexView({ go }) {
         <div className="sel-head">
           <div>
             <Eyebrow num="§05">Recent Additions</Eyebrow>
-            <h2 style={{ marginTop: 14 }}>Twelve most recent entries</h2>
+            <h2 style={{ marginTop: 14 }}>Twenty most recent entries</h2>
           </div>
         </div>
         <div className="recent-list">
           {(d.recent || []).map((p) => (
             <div key={p.name} className="recent-row" onClick={() => go("studio", { name: p.name })}>
-              <div className="d">{(p.edited || "").replace(/\s+\d{1,2}:\d{2}$/, "")}</div>
+              <div className="d">{formatEdited(p.edited)}</div>
               <div className="t">{p.name}</div>
               <div className="c">{p.city}{p.city && p.country ? ", " : ""}{p.country}</div>
               <div className="k">{p.category.split(",")[0]}</div>
