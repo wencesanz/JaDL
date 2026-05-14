@@ -38,7 +38,7 @@ window.SITE = {
     rss: "/feed.xml",
   },
   colophon: [
-    "© 2026. Added entries appear on the first of each month.",
+    "© 2026. Updated regularly with new studios and reader suggestions.",
     "Made with love for design by Wences Sanz-Alonso, from Madrid.",
   ],
 };
