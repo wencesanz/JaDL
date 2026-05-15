@@ -573,6 +573,28 @@ em { font-style: italic; }
 .studios-head { padding: clamp(48px,7vw,100px) 0 24px; display: grid; grid-template-columns: 1fr 1fr; gap: 32px; align-items: end; }
 .studios-head h2 { font-family: var(--serif); font-weight: 400; font-size: clamp(40px, 6vw, 84px); line-height: 1; letter-spacing: -0.02em; margin: 0; }
 .studios-head h2 em { font-style: italic; color: var(--ink-2); }
+.studios-head h2 .clear-filter {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+  width: 0.7em;
+  height: 0.7em;
+  margin-left: 0.15em;
+  border: 1px solid var(--rule);
+  border-radius: 50%;
+  font-family: var(--mono);
+  font-size: 0.32em;
+  line-height: 1;
+  color: var(--mute);
+  background: transparent;
+  cursor: pointer;
+  transition: border-color .15s ease, color .15s ease, background .15s ease;
+}
+.studios-head h2 .clear-filter:hover {
+  border-color: var(--ink);
+  color: var(--ink);
+}
 
 .searchbar { display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: center; border-bottom: 1px solid var(--ink); padding: 8px 0; min-width: 340px; }
 .searchbar .lbl { font-family: var(--mono); font-size: 11px; color: var(--mute); letter-spacing: 0.06em; text-transform: uppercase; }

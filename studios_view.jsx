@@ -1,19 +1,41 @@
 /* global React, Eyebrow */
 const { useState: useSt, useMemo: useMm, useEffect: useEf } = React;
 
+const STUDIOS_STATE_KEY = "tsi:studios-state";
+function readStudiosState() {
+  try { return JSON.parse(localStorage.getItem(STUDIOS_STATE_KEY) || "{}") || {}; }
+  catch { return {}; }
+}
+function writeStudiosState(patch) {
+  try {
+    const cur = readStudiosState();
+    localStorage.setItem(STUDIOS_STATE_KEY, JSON.stringify({ ...cur, ...patch }));
+  } catch {}
+}
+
 function StudiosView({ go, initialFilter }) {
   const d = window.SITE;
   const all = d.studios || [];
-  const [q, setQ] = useSt("");
-  const [cat, setCat] = useSt(initialFilter?.cat || "All");
-  const [country, setCountry] = useSt(initialFilter?.country || "All");
-  const [sort, setSort] = useSt("name"); // name | city | country
-  const [mode, setMode] = useSt("list");
 
+  // Restore prior state from localStorage; an explicit initialFilter (e.g. user
+  // clicked a category tile on the home page) takes precedence and overrides.
+  const saved = useMm(() => readStudiosState(), []);
+  const [q, setQ]             = useSt(saved.q || "");
+  const [cat, setCat]         = useSt(initialFilter?.cat || saved.cat || "All");
+  const [country, setCountry] = useSt(initialFilter?.country || saved.country || "All");
+  const [city, setCity]       = useSt(initialFilter?.city || saved.city || "All");
+  const [sort, setSort]       = useSt(saved.sort || "name"); // name | city | country
+  const [mode, setMode]       = useSt(saved.mode || "list");
+
+  // If a new initialFilter arrives later (in-session re-navigation), honor it.
   useEf(() => {
     if (initialFilter?.cat) setCat(initialFilter.cat);
     if (initialFilter?.country) setCountry(initialFilter.country);
-  }, [initialFilter?.cat, initialFilter?.country]);
+    if (initialFilter?.city) setCity(initialFilter.city);
+  }, [initialFilter?.cat, initialFilter?.country, initialFilter?.city]);
+
+  // Persist every change so filters survive: list → studio → back, refresh, etc.
+  useEf(() => { writeStudiosState({ q, cat, country, city, sort, mode }); }, [q, cat, country, city, sort, mode]);
 
   const allCats = ["All", ...d.categoriesOrder.filter((c) => d.byCat?.[c])];
   const allCountries = useMm(
@@ -25,6 +47,7 @@ function StudiosView({ go, initialFilter }) {
     let rs = all;
     if (cat !== "All") rs = rs.filter((s) => s.category.split(",").map((x) => x.trim()).includes(cat));
     if (country !== "All") rs = rs.filter((s) => s.country.split(",").map((x) => x.trim()).includes(country));
+    if (city !== "All") rs = rs.filter((s) => (s.city || "").split(",").map((x) => x.trim()).includes(city));
     if (q.trim()) {
       const Q = q.trim().toLowerCase();
       rs = rs.filter((s) =>
@@ -37,7 +60,7 @@ function StudiosView({ go, initialFilter }) {
     const coll = new Intl.Collator("en", { sensitivity: "base" });
     rs = [...rs].sort((a, b) => coll.compare(a[sort] || "", b[sort] || ""));
     return rs;
-  }, [all, cat, country, q, sort]);
+  }, [all, cat, country, city, q, sort]);
 
   // group by leading letter for the alphabetical list
   const grouped = useMm(() => {
@@ -58,7 +81,7 @@ function StudiosView({ go, initialFilter }) {
           <Eyebrow num="§S">The List</Eyebrow>
           <h2 style={{ marginTop: 14 }}>
             {filtered.length === all.length ? "All" : filtered.length} studios{cat !== "All" ? <> in <em>{cat}</em></> : null}
-            {country !== "All" ? <>, from <em>{country}</em></> : null}.
+            {city !== "All" ? <>, based in <em>{city}</em> <button onClick={() => setCity("All")} className="clear-filter" aria-label="Clear city filter" title="Clear city filter">×</button></> : (country !== "All" ? <>, from <em>{country}</em></> : null)}.
           </h2>
         </div>
         <div style={{ display: "grid", gap: 16, justifyItems: "end" }}>

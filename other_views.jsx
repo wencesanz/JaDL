@@ -47,12 +47,12 @@ function GeographyView({ go }) {
       ) : (
         <div style={{ borderTop: "1px solid var(--rule)" }}>
           {cities.map(([c, n], i) => (
-            <div key={c} className="country-row big">
+            <div key={c} className="country-row big" onClick={() => go("studios", { filter: { city: c } })}>
               <div className="n">{String(i + 1).padStart(2, "0")}</div>
               <div className="t">{c}</div>
               <div className="bar"><div className="fill" style={{ width: `${(n / cities[0][1]) * 100}%` }} /></div>
               <div className="c">{n} studio{n === 1 ? "" : "s"}</div>
-              <div className="arr">—</div>
+              <div className="arr">→</div>
             </div>
           ))}
           <div style={{ padding: "24px 0", fontFamily: "var(--mono)", fontSize: 11, color: "var(--mute)", letterSpacing: ".05em", textTransform: "uppercase" }}>
