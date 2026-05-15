@@ -53,7 +53,6 @@ function ThemeToggle() {
 }
 
 function TopBar({ view, go }) {
-  const [menuOpen, setMenuOpen] = useState(false);
   const items = [
     ["index", "Index"],
     ["studios", "Studios"],
@@ -62,24 +61,8 @@ function TopBar({ view, go }) {
     ["submit", "Submit"],
     ["about", "Colophon"],
   ];
-
-  // Close mobile menu on resize > breakpoint or on view change
-  useEffect(() => { setMenuOpen(false); }, [view]);
-  useEffect(() => {
-    const onResize = () => { if (window.innerWidth > 880) setMenuOpen(false); };
-    window.addEventListener("resize", onResize);
-    return () => window.removeEventListener("resize", onResize);
-  }, []);
-  // Lock body scroll when menu is open
-  useEffect(() => {
-    document.body.style.overflow = menuOpen ? "hidden" : "";
-    return () => { document.body.style.overflow = ""; };
-  }, [menuOpen]);
-
-  const goAndClose = (k) => { setMenuOpen(false); go(k); };
-
   return (
-    <header className={`topbar ${menuOpen ? "is-open" : ""}`}>
+    <header className="topbar">
       <div className="mark">
         <span onClick={() => go("index")} style={{ cursor: "pointer" }} className="mark-wordmark">
           <span>JUST</span><span className="slash">/</span><span>A</span><span className="slash">/</span><span>DESIGN</span><span className="slash">/</span><span>LIST</span>
@@ -93,34 +76,10 @@ function TopBar({ view, go }) {
           </button>
         ))}
       </nav>
-      <div className="topbar-right">
+      <div style={{ display: "flex", alignItems: "center", justifyContent: "flex-end" }}>
         <Clock />
         <ThemeToggle />
-        <button
-          className="menu-toggle"
-          onClick={() => setMenuOpen(v => !v)}
-          aria-label={menuOpen ? "Close menu" : "Open menu"}
-          aria-expanded={menuOpen}
-        >
-          <span className="menu-icon" data-open={menuOpen}>
-            <span></span><span></span><span></span>
-          </span>
-        </button>
       </div>
-
-      {/* Mobile drawer */}
-      <nav className={`mobile-nav ${menuOpen ? "is-open" : ""}`} aria-label="Mobile">
-        {items.map(([k, label]) => (
-          <button
-            key={k}
-            onClick={() => goAndClose(k)}
-            aria-current={view === k ? "page" : undefined}
-            className={view === k ? "is-current" : ""}
-          >
-            {label}
-          </button>
-        ))}
-      </nav>
     </header>
   );
 }
@@ -131,8 +90,8 @@ function Footer({ go }) {
   return (
     <footer className="foot wrap">
       <div className="foot-grid">
-        <h3 style={{ lineHeight: 1.1 }}>
-          A slow index of<br />design practices, worth returning to.
+        <h3>
+          A slow index of<br />design practices, <em style={{ fontFamily: "var(--serif)", fontStyle: "italic" }}>worth returning to</em>.
         </h3>
         <div className="addr">
           <div style={{ fontFamily: "var(--mono)", fontSize: 11.5, color: "var(--mute)", letterSpacing: ".05em", textTransform: "uppercase", marginBottom: 8 }}>
@@ -148,19 +107,16 @@ function Footer({ go }) {
           <div style={{ fontFamily: "var(--mono)", fontSize: 11.5, color: "var(--mute)", letterSpacing: ".05em", textTransform: "uppercase", marginBottom: 4 }}>
             Elsewhere
           </div>
-          <a href={`mailto:${d.contact.email}`}>
-            <span>Submit a studio</span><span className="arr">↗</span>
+          <a onClick={() => go("submit")} style={{ cursor: "pointer" }}>
+            <span>Submit a studio</span><span className="arr">→</span>
           </a>
           <a href="https://www.wenceslaosanz.rocks" target="_blank" rel="noopener">
             <span>Editor — wenceslaosanz.rocks</span><span className="arr">↗</span>
           </a>
-          <a href="https://www.designmatazz.com" target="_blank" rel="noopener">
-            <span>Designmatazz</span><span className="arr">↗</span>
-          </a>
           <a href="https://www.linkedin.com/in/wenceslaosanz/" target="_blank" rel="noopener">
             <span>LinkedIn</span><span className="arr">↗</span>
           </a>
-          <a href="feed.xml" target="_blank" rel="noopener">
+          <a href="#" onClick={(e) => e.preventDefault()}>
             <span>RSS feed</span><span className="arr">↗</span>
           </a>
         </div>
