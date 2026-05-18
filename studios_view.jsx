@@ -18,20 +18,27 @@ function StudiosView({ go, initialFilter }) {
   const all = d.studios || [];
 
   // Restore prior state from localStorage; an explicit initialFilter (e.g. user
-  // clicked a category tile on the home page) takes precedence and overrides.
+  // clicked a category tile or a city/country row) overrides saved state and
+  // resets the other filters so the user lands on a clean, predictable view.
   const saved = useMm(() => readStudiosState(), []);
-  const [q, setQ]             = useSt(saved.q || "");
-  const [cat, setCat]         = useSt(initialFilter?.cat || saved.cat || "All");
-  const [country, setCountry] = useSt(initialFilter?.country || saved.country || "All");
-  const [city, setCity]       = useSt(initialFilter?.city || saved.city || "All");
+  const hasInitial = !!initialFilter && (initialFilter.cat || initialFilter.country || initialFilter.city);
+  const [q, setQ]             = useSt(hasInitial ? "" : (saved.q || ""));
+  const [cat, setCat]         = useSt(initialFilter?.cat || (hasInitial ? "All" : (saved.cat || "All")));
+  const [country, setCountry] = useSt(initialFilter?.country || (hasInitial ? "All" : (saved.country || "All")));
+  const [city, setCity]       = useSt(initialFilter?.city || (hasInitial ? "All" : (saved.city || "All")));
   const [sort, setSort]       = useSt(saved.sort || "name"); // name | city | country
   const [mode, setMode]       = useSt(saved.mode || "list");
 
-  // If a new initialFilter arrives later (in-session re-navigation), honor it.
+  // If a new initialFilter arrives later (in-session re-navigation), honor it
+  // AND reset the unrelated filters so the user lands on a clean view.
   useEf(() => {
-    if (initialFilter?.cat) setCat(initialFilter.cat);
-    if (initialFilter?.country) setCountry(initialFilter.country);
-    if (initialFilter?.city) setCity(initialFilter.city);
+    if (!initialFilter) return;
+    const { cat: nCat, country: nCountry, city: nCity } = initialFilter;
+    if (!nCat && !nCountry && !nCity) return;
+    setCat(nCat || "All");
+    setCountry(nCountry || "All");
+    setCity(nCity || "All");
+    setQ("");
   }, [initialFilter?.cat, initialFilter?.country, initialFilter?.city]);
 
   // Persist every change so filters survive: list → studio → back, refresh, etc.
@@ -141,7 +148,7 @@ function StudiosView({ go, initialFilter }) {
           {sort === "name" && grouped ? (
             Object.keys(grouped).sort().map((L) => (
               <div key={L} className="st-group">
-                <div className="st-letter">{L}<span className="ct">{grouped[L].length}</span></div>
+                <div className="st-letter">{L}</div>
                 <div>
                   {grouped[L].map((s, i) => <StudioRow key={s.name + i} s={s} go={go} />)}
                 </div>

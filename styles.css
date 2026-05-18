@@ -335,6 +335,49 @@ em { font-style: italic; }
 .about-side dd { margin: 0; font-size: 14px; }
 
 /* --- project detail --- */
+.back-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 40px;
+  padding: 10px 16px 10px 12px;
+  border: 1px solid var(--rule);
+  background: transparent;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+  cursor: pointer;
+  transition: background .15s ease, color .15s ease, border-color .15s ease;
+}
+.back-btn .arr { transition: transform .2s ease; display: inline-block; }
+.back-btn:hover { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.back-btn:hover .arr { transform: translateX(-3px); }
+
+/* Share buttons in the side column of studio detail */
+.share-block { margin-top: 32px; padding-top: 20px; border-top: 1px solid var(--rule); }
+.share-block .share-lbl { font-family: var(--mono); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--mute); }
+.share-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; text-transform: none; letter-spacing: 0; }
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 12px;
+  border: 1px solid var(--rule);
+  background: transparent;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+  cursor: pointer;
+  text-decoration: none;
+  transition: background .15s ease, color .15s ease, border-color .15s ease;
+}
+.share-btn:hover { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.share-btn svg { flex-shrink: 0; }
+
 .pd-head { padding: clamp(48px,7vw,110px) 0 48px; display: grid; grid-template-columns: 1fr 1fr; gap: 32px; align-items: end; }
 .pd-head h2 { font-family: var(--serif); font-weight: 400; font-size: clamp(44px, 7vw, 100px); line-height: .98; letter-spacing: -0.02em; margin: 0; text-wrap: balance; max-width: 14ch; }
 .pd-head h2 em { font-style: italic; color: var(--ink-2); }
@@ -615,8 +658,8 @@ em { font-style: italic; }
 
 /* studios list */
 .st-list { padding-top: 24px; }
-.st-group { display: grid; grid-template-columns: 80px 1fr; gap: 32px; padding: 24px 0 8px; border-top: 1px solid var(--rule); }
-.st-group:first-child { border-top: 0; padding-top: 0; }
+.st-group { display: grid; grid-template-columns: 80px 1fr; gap: 32px; padding: 24px 0 8px; }
+.st-group:first-child { padding-top: 0; }
 .st-letter { font-family: var(--serif); font-size: 56px; letter-spacing: -0.01em; position: sticky; top: 88px; align-self: start; line-height: 1; }
 .st-letter .ct { display: block; font-family: var(--mono); font-size: 10.5px; color: var(--mute); letter-spacing: 0.06em; text-transform: uppercase; margin-top: 6px; font-weight: 400; }
 

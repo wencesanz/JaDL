@@ -62,10 +62,32 @@ function StudioDetail({ name, go }) {
   const host = (s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "");
   const igHandle = (s.ig || "").split("/").filter(Boolean).pop();
 
+  // Share helpers — use the current page URL so people land on this studio
+  // when the link is opened.
+  const shareUrl = typeof window !== "undefined" ? window.location.href : "";
+  const shareText = `${s.name} — ${s.category.split(",")[0].trim()}${s.city ? `, ${s.city}` : ""} · via Just a Design List`;
+  const [copied, setCopied] = usePdState(false);
+  const copyLink = async () => {
+    try {
+      await navigator.clipboard.writeText(shareUrl);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 1800);
+    } catch {
+      // Fallback: select-and-copy via a temp input
+      const i = document.createElement("input");
+      i.value = shareUrl;
+      document.body.appendChild(i);
+      i.select();
+      try { document.execCommand("copy"); setCopied(true); setTimeout(() => setCopied(false), 1800); } catch {}
+      document.body.removeChild(i);
+    }
+  };
+
   return (
     <div className="view wrap">
-      <button onClick={() => go("studios")} style={{ marginTop: 48, fontFamily: "var(--mono)", fontSize: 11, letterSpacing: ".06em", textTransform: "uppercase", color: "var(--mute)" }}>
-        ← The List
+      <button onClick={() => go("studios")} className="back-btn" aria-label="Back to the list">
+        <span className="arr">←</span>
+        <span>The List</span>
       </button>
 
       <div className="pd-head">
@@ -107,6 +129,61 @@ function StudioDetail({ name, go }) {
                 <span style={{ color: "var(--mute)" }}>↗</span>
               </a>
             )}
+          </div>
+          <div className="share-block">
+            <div className="share-lbl">Share</div>
+            <div className="share-row">
+              <a
+                className="share-btn"
+                href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`}
+                target="_blank"
+                rel="noopener"
+                aria-label="Share on X / Twitter"
+                title="Share on X / Twitter"
+              >
+                <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true">
+                  <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+                </svg>
+                <span>X</span>
+              </a>
+              <a
+                className="share-btn"
+                href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(shareUrl)}`}
+                target="_blank"
+                rel="noopener"
+                aria-label="Share on LinkedIn"
+                title="Share on LinkedIn"
+              >
+                <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true">
+                  <path d="M20.45 20.45h-3.55v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.13 1.45-2.13 2.94v5.67H9.37V9h3.41v1.56h.05c.47-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.45v6.29zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z"/>
+                </svg>
+                <span>LinkedIn</span>
+              </a>
+              <a
+                className="share-btn"
+                href={`mailto:?subject=${encodeURIComponent(s.name + " — Just a Design List")}&body=${encodeURIComponent(shareText + "\n\n" + shareUrl)}`}
+                aria-label="Share by email"
+                title="Share by email"
+              >
+                <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" strokeWidth="1.6" aria-hidden="true">
+                  <rect x="3" y="5" width="18" height="14" rx="1"/>
+                  <path d="M3 7l9 6 9-6"/>
+                </svg>
+                <span>Email</span>
+              </a>
+              <button
+                className="share-btn"
+                onClick={copyLink}
+                aria-label="Copy link"
+                title="Copy link"
+              >
+                <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                  <path d="M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07l-1.5 1.5"/>
+                  <path d="M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07l1.5-1.5"/>
+                </svg>
+                <span>{copied ? "Copied" : "Copy link"}</span>
+              </button>
+            </div>
           </div>
         </aside>
         <div className="intro">
