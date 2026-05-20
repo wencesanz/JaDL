@@ -20,6 +20,7 @@ const FIELD_MAP = {
   country:  ['country', 'país', 'pais'],
   ig:       ['ig', 'instagram'],
   url:      ['url', 'website', 'web', 'site'],
+  type:     ['type', 'tipo', 'kind'],
 };
 
 function findProp(properties, candidates) {
@@ -115,6 +116,7 @@ function mapPage(page) {
     country:  extractValue(findProp(p, FIELD_MAP.country)),
     ig:       extractValue(findProp(p, FIELD_MAP.ig)),
     url:      extractValue(findProp(p, FIELD_MAP.url)),
+    type:     extractValue(findProp(p, FIELD_MAP.type)),
     edited:   page.last_edited_time || '',
   };
 }
@@ -133,6 +135,9 @@ export default async function handler(req, res) {
     const studios = pages
       .map(mapPage)
       .filter(s => s.name)
+      // Hide "Unreachable" entries from the public site — they exist for
+      // the editor's personal triage only.
+      .filter(s => (s.type || '').trim().toLowerCase() !== 'unreachable')
       .sort((a, b) => a.name.localeCompare(b.name));
 
     // Cache on Vercel's edge: fresh for 1h, stale-while-revalidate for 24h.
