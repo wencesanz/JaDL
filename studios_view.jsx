@@ -21,11 +21,12 @@ function StudiosView({ go, initialFilter }) {
   // clicked a category tile or a city/country row) overrides saved state and
   // resets the other filters so the user lands on a clean, predictable view.
   const saved = useMm(() => readStudiosState(), []);
-  const hasInitial = !!initialFilter && (initialFilter.cat || initialFilter.country || initialFilter.city);
+  const hasInitial = !!initialFilter && (initialFilter.cat || initialFilter.country || initialFilter.city || initialFilter.type);
   const [q, setQ]             = useSt(hasInitial ? "" : (saved.q || ""));
   const [cat, setCat]         = useSt(initialFilter?.cat || (hasInitial ? "All" : (saved.cat || "All")));
   const [country, setCountry] = useSt(initialFilter?.country || (hasInitial ? "All" : (saved.country || "All")));
   const [city, setCity]       = useSt(initialFilter?.city || (hasInitial ? "All" : (saved.city || "All")));
+  const [type, setType]       = useSt(initialFilter?.type || (hasInitial ? "All" : (saved.type || "All")));
   const [sort, setSort]       = useSt(saved.sort || "name"); // name | city | country
   const [mode, setMode]       = useSt(saved.mode || "list");
 
@@ -33,28 +34,39 @@ function StudiosView({ go, initialFilter }) {
   // AND reset the unrelated filters so the user lands on a clean view.
   useEf(() => {
     if (!initialFilter) return;
-    const { cat: nCat, country: nCountry, city: nCity } = initialFilter;
-    if (!nCat && !nCountry && !nCity) return;
+    const { cat: nCat, country: nCountry, city: nCity, type: nType } = initialFilter;
+    if (!nCat && !nCountry && !nCity && !nType) return;
     setCat(nCat || "All");
     setCountry(nCountry || "All");
     setCity(nCity || "All");
+    setType(nType || "All");
     setQ("");
-  }, [initialFilter?.cat, initialFilter?.country, initialFilter?.city]);
+  }, [initialFilter?.cat, initialFilter?.country, initialFilter?.city, initialFilter?.type]);
 
   // Persist every change so filters survive: list → studio → back, refresh, etc.
-  useEf(() => { writeStudiosState({ q, cat, country, city, sort, mode }); }, [q, cat, country, city, sort, mode]);
+  useEf(() => { writeStudiosState({ q, cat, country, city, type, sort, mode }); }, [q, cat, country, city, type, sort, mode]);
 
   const allCats = ["All", ...d.categoriesOrder.filter((c) => d.byCat?.[c])];
   const allCountries = useMm(
     () => ["All", ...Object.entries(d.byCountry || {}).sort((a, b) => b[1] - a[1]).map(([c]) => c)],
     []
   );
+  // Order types deliberately: Studio first (most common), then Freelance,
+  // then Ambiguous. Anything else from the data is appended at the end.
+  const typeOrder = ["Studio", "Freelance", "Ambiguous"];
+  const allTypes = useMm(() => {
+    const present = Object.keys(d.byType || {});
+    if (!present.length) return null;
+    const ordered = [...typeOrder.filter((t) => present.includes(t)), ...present.filter((t) => !typeOrder.includes(t))];
+    return ["All", ...ordered];
+  }, [d.byType]);
 
   const filtered = useMm(() => {
     let rs = all;
     if (cat !== "All") rs = rs.filter((s) => s.category.split(",").map((x) => x.trim()).includes(cat));
     if (country !== "All") rs = rs.filter((s) => s.country.split(",").map((x) => x.trim()).includes(country));
     if (city !== "All") rs = rs.filter((s) => (s.city || "").split(",").map((x) => x.trim()).includes(city));
+    if (type !== "All") rs = rs.filter((s) => (s.type || "").trim() === type);
     if (q.trim()) {
       const Q = q.trim().toLowerCase();
       rs = rs.filter((s) =>
@@ -67,7 +79,7 @@ function StudiosView({ go, initialFilter }) {
     const coll = new Intl.Collator("en", { sensitivity: "base" });
     rs = [...rs].sort((a, b) => coll.compare(a[sort] || "", b[sort] || ""));
     return rs;
-  }, [all, cat, country, city, q, sort]);
+  }, [all, cat, country, city, type, q, sort]);
 
   // group by leading letter for the alphabetical list
   const grouped = useMm(() => {
@@ -141,6 +153,18 @@ function StudiosView({ go, initialFilter }) {
             )}
           </div>
         </div>
+        {allTypes && (
+          <div>
+            <div className="lbl">Type</div>
+            <div className="chips">
+              {allTypes.map((t) => (
+                <button key={t} data-on={type === t} onClick={() => setType(t)}>
+                  {t}{t !== "All" && d.byType?.[t] ? <span className="num"> {d.byType[t]}</span> : null}
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
 
       {mode === "list" ? (
@@ -243,7 +267,12 @@ function StudioRow({ s, go }) {
       onMouseLeave={() => setHover(false)}
       onMouseMove={(e) => setPos({ x: e.clientX, y: e.clientY })}
     >
-      <div className="t">{s.name}</div>
+      <div className="t">
+        {s.name}
+        {s.type && s.type !== "Studio" && (
+          <span className={`type-tag type-tag--${s.type.toLowerCase()}`}>{s.type}</span>
+        )}
+      </div>
       <div className="c">{s.city}{s.city && s.country ? ", " : ""}{s.country}</div>
       <div className="k">{s.category}</div>
       <div className="u">{host}</div>

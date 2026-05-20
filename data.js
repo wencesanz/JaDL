@@ -53,14 +53,18 @@ window.SITE_READY = fetch("studios.json")
     const byCat = {};
     const byCountry = {};
     const byCity = {};
+    const byType = {};
     studios.forEach((s) => {
       s.category.split(",").map((x) => x.trim()).filter(Boolean).forEach((c) => (byCat[c] = (byCat[c] || 0) + 1));
       s.country.split(",").map((x) => x.trim()).filter(Boolean).forEach((c) => (byCountry[c] = (byCountry[c] || 0) + 1));
       s.city.split(",").map((x) => x.trim()).filter(Boolean).forEach((c) => (byCity[c] = (byCity[c] || 0) + 1));
+      const t = (s.type || "").trim();
+      if (t) byType[t] = (byType[t] || 0) + 1;
     });
     window.SITE.byCat = byCat;
     window.SITE.byCountry = byCountry;
     window.SITE.byCity = byCity;
+    window.SITE.byType = byType;
     window.SITE.totals = {
       studios: studios.length,
       categories: Object.keys(byCat).length,

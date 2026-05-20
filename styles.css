@@ -663,6 +663,32 @@ em { font-style: italic; }
 .st-letter { font-family: var(--serif); font-size: 56px; letter-spacing: -0.01em; position: sticky; top: 88px; align-self: start; line-height: 1; }
 .st-letter .ct { display: block; font-family: var(--mono); font-size: 10.5px; color: var(--mute); letter-spacing: 0.06em; text-transform: uppercase; margin-top: 6px; font-weight: 400; }
 
+/* Type tag in studio list */
+.type-tag {
+  display: inline-block;
+  margin-left: 10px;
+  padding: 2px 8px;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  font-family: var(--mono);
+  font-size: 9.5px;
+  font-weight: 400;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--mute);
+  vertical-align: middle;
+  white-space: nowrap;
+  transform: translateY(-2px);
+}
+.type-tag--freelance {
+  color: var(--ink);
+  border-color: var(--ink);
+}
+.type-tag--ambiguous {
+  font-style: italic;
+  letter-spacing: .04em;
+}
+
 .studio-row { display: grid; grid-template-columns: 1.6fr 1.3fr 1.4fr 1.2fr 24px; gap: 24px; align-items: baseline; padding: 14px 0; border-bottom: 1px solid var(--rule-soft); cursor: pointer; transition: padding-inline .4s cubic-bezier(.2,.8,.2,1); }
 .studio-row:hover { padding-inline: 8px; }
 .studio-row .t { font-family: var(--serif); font-size: 22px; letter-spacing: -0.005em; }

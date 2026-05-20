@@ -1,6 +1,39 @@
 /* global React, Eyebrow */
 const { useMemo: usePdMm, useState: usePdState, useEffect: usePdEffect } = React;
 
+// Format a raw "edited" value to a readable, editorial English date.
+// Handles both ISO ("2023-06-04T17:48:00.000Z") and Spanish-formatted
+// ("29 de mayo de 2023 12:18") strings.
+const ES_MONTHS = {
+  enero: 0, febrero: 1, marzo: 2, abril: 3, mayo: 4, junio: 5,
+  julio: 6, agosto: 7, septiembre: 8, octubre: 9, noviembre: 10, diciembre: 11,
+};
+function formatIndexed(raw) {
+  if (!raw) return "—";
+  let d = null;
+  // Try ISO first
+  if (/^\d{4}-\d{2}-\d{2}/.test(raw)) {
+    const t = new Date(raw);
+    if (!isNaN(t.getTime())) d = t;
+  }
+  // Spanish "DD de mes de YYYY"
+  if (!d) {
+    const m = raw.match(/^(\d{1,2})\s+de\s+([a-záéíóúñ]+)\s+de\s+(\d{4})/i);
+    if (m) {
+      const month = ES_MONTHS[m[2].toLowerCase()];
+      if (month !== undefined) d = new Date(Date.UTC(Number(m[3]), month, Number(m[1])));
+    }
+  }
+  if (!d) return raw; // unrecognised format — show as-is
+  try {
+    return new Intl.DateTimeFormat("en-GB", {
+      day: "numeric", month: "long", year: "numeric", timeZone: "UTC",
+    }).format(d);
+  } catch {
+    return d.toDateString();
+  }
+}
+
 function StudioHero({ s, col }) {
   const [loaded, setLoaded] = usePdState(false);
   const [failed, setFailed] = usePdState(false);
@@ -99,7 +132,8 @@ function StudioDetail({ name, go }) {
           <dt>City</dt><dd>{s.city || "—"}</dd>
           <dt>Country</dt><dd>{s.country || "—"}</dd>
           <dt>Discipline</dt><dd>{s.category}</dd>
-          <dt>Indexed</dt><dd>{(s.edited || "").replace(/\s+\d{1,2}:\d{2}$/, "")}</dd>
+          {s.type && <><dt>Type</dt><dd>{s.type}</dd></>}
+          <dt>Indexed</dt><dd>{formatIndexed(s.edited)}</dd>
         </dl>
       </div>
 
