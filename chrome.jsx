@@ -91,7 +91,7 @@ function Footer({ go }) {
     <footer className="foot wrap">
       <div className="foot-grid">
         <h3>
-          A slow index of<br />design practices, <em style={{ fontFamily: "var(--serif)", fontStyle: "italic" }}>worth returning to</em>.
+          A slow index of<br />design practices, worth returning to.
         </h3>
         <div className="addr">
           <div style={{ fontFamily: "var(--mono)", fontSize: 11.5, color: "var(--mute)", letterSpacing: ".05em", textTransform: "uppercase", marginBottom: 8 }}>
