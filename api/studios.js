@@ -117,6 +117,7 @@ function mapPage(page) {
     ig:       extractValue(findProp(p, FIELD_MAP.ig)),
     url:      extractValue(findProp(p, FIELD_MAP.url)),
     type:     extractValue(findProp(p, FIELD_MAP.type)),
+    created:  page.created_time || '',
     edited:   page.last_edited_time || '',
   };
 }
