@@ -107,7 +107,7 @@ window.SITE_READY = fetch("/api/studios")
       if (!m) return 0;
       return new Date(+m[3], monthMap[m[2].toLowerCase()] ?? 0, +m[1], +(m[4]||0), +(m[5]||0)).getTime();
     }
-    window.SITE.recent = [...studios].sort((a, b) => parseEd(b.edited) - parseEd(a.edited)).slice(0, 12);
+    window.SITE.recent = [...studios].sort((a, b) => parseEd(b.created || b.edited) - parseEd(a.created || a.edited)).slice(0, 12);
 
     // Category color palette — intentionally monochrome.
     // All disciplines resolve to the same neutral ink colour so the system reads

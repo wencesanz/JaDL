@@ -129,7 +129,7 @@ function IndexView({ go }) {
         <div className="recent-list">
           {(d.recent || []).map((p) => (
             <div key={p.name} className="recent-row" onClick={() => go("studio", { name: p.name })}>
-              <div className="d">{formatEdited(p.edited)}</div>
+              <div className="d">{formatEdited(p.created || p.edited)}</div>
               <div className="t">{p.name}</div>
               <div className="c">{p.city}{p.city && p.country ? ", " : ""}{p.country}</div>
               <div className="k">{p.category.split(",")[0]}</div>

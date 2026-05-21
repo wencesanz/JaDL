@@ -133,7 +133,7 @@ function StudioDetail({ name, go }) {
           <dt>Country</dt><dd>{s.country || "—"}</dd>
           <dt>Discipline</dt><dd>{s.category}</dd>
           {s.type && <><dt>Type</dt><dd>{s.type}</dd></>}
-          <dt>Indexed</dt><dd>{formatIndexed(s.edited)}</dd>
+          <dt>Indexed</dt><dd>{formatIndexed(s.created || s.edited)}</dd>
         </dl>
       </div>
 
