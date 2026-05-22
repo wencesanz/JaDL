@@ -100,6 +100,7 @@ function StudioDetail({ name, go }) {
   const shareUrl = typeof window !== "undefined" ? window.location.href : "";
   const shareText = `${s.name} — ${s.category.split(",")[0].trim()}${s.city ? `, ${s.city}` : ""} · via Just a Design List`;
   const [copied, setCopied] = usePdState(false);
+  const [igOpen, setIgOpen] = usePdState(false);
   const copyLink = async () => {
     try {
       await navigator.clipboard.writeText(shareUrl);
@@ -207,6 +208,19 @@ function StudioDetail({ name, go }) {
               </a>
               <button
                 className="share-btn"
+                onClick={() => setIgOpen(true)}
+                aria-label="Share to Instagram"
+                title="Share to Instagram"
+              >
+                <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" strokeWidth="1.6" aria-hidden="true">
+                  <rect x="3" y="3" width="18" height="18" rx="5"/>
+                  <circle cx="12" cy="12" r="4"/>
+                  <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/>
+                </svg>
+                <span>Instagram</span>
+              </button>
+              <button
+                className="share-btn"
                 onClick={copyLink}
                 aria-label="Copy link"
                 title="Copy link"
@@ -281,6 +295,16 @@ function StudioDetail({ name, go }) {
           </div>
         </div>
       )}
+
+      {igOpen && window.IGShareModal ? (
+        <window.IGShareModal
+          s={s}
+          col={col}
+          idx={idx}
+          total={all.length}
+          onClose={() => setIgOpen(false)}
+        />
+      ) : null}
 
       <div className="pd-next">
         <div className="side" onClick={() => go("studio", { name: prev.name })}>
