@@ -43,15 +43,8 @@ window.SITE = {
   ],
 };
 
-// Async loader — pulls live data from Notion via the /api/studios proxy.
-// (Falls back to the local studios.json if the API call fails, so the
-// site still works during local dev or if Notion is down.)
-window.SITE_READY = fetch("/api/studios")
-  .then((r) => {
-    if (!r.ok) throw new Error("api/studios " + r.status);
-    return r;
-  })
-  .catch(() => fetch("studios.json"))
+// Async loader so studios.json isn't inlined (it's ~100KB).
+window.SITE_READY = fetch("studios.json")
   .then((r) => r.json())
   .then((studios) => {
     window.SITE.studios = studios;
@@ -60,14 +53,18 @@ window.SITE_READY = fetch("/api/studios")
     const byCat = {};
     const byCountry = {};
     const byCity = {};
+    const byType = {};
     studios.forEach((s) => {
       s.category.split(",").map((x) => x.trim()).filter(Boolean).forEach((c) => (byCat[c] = (byCat[c] || 0) + 1));
       s.country.split(",").map((x) => x.trim()).filter(Boolean).forEach((c) => (byCountry[c] = (byCountry[c] || 0) + 1));
       s.city.split(",").map((x) => x.trim()).filter(Boolean).forEach((c) => (byCity[c] = (byCity[c] || 0) + 1));
+      const t = (s.type || "").trim();
+      if (t) byType[t] = (byType[t] || 0) + 1;
     });
     window.SITE.byCat = byCat;
     window.SITE.byCountry = byCountry;
     window.SITE.byCity = byCity;
+    window.SITE.byType = byType;
     window.SITE.totals = {
       studios: studios.length,
       categories: Object.keys(byCat).length,
@@ -100,14 +97,39 @@ window.SITE_READY = fetch("/api/studios")
     }
     window.SITE.featured = featured.filter(Boolean);
 
-    // recent: last 20 by edited date (simple sort, most dates are Spanish-formatted strings)
+    // recent: last 20 by edited date.
+    // edited may come either as ISO string (from Notion's last_edited_time)
+    // or as a Spanish-formatted date (legacy export). Try ISO first, fall
+    // back to the Spanish parser.
     const monthMap = { enero:0, febrero:1, marzo:2, abril:3, mayo:4, junio:5, julio:6, agosto:7, septiembre:8, octubre:9, noviembre:10, diciembre:11 };
     function parseEd(s) {
-      const m = s.match(/(\d+)\s+de\s+(\w+)\s+de\s+(\d{4})(?:\s+(\d{1,2}):(\d{2}))?/i);
-      if (!m) return 0;
-      return new Date(+m[3], monthMap[m[2].toLowerCase()] ?? 0, +m[1], +(m[4]||0), +(m[5]||0)).getTime();
+      if (!s || typeof s !== "string") return 0;
+      const trim = s.trim();
+      if (!trim || trim === "undefined" || trim === "null") return 0;
+      // ISO 8601: starts with YYYY-MM-DD
+      if (/^\d{4}[-/]\d{1,2}[-/]\d{1,2}/.test(trim)) {
+        const iso = Date.parse(trim);
+        if (!isNaN(iso)) return iso;
+      }
+      // Spanish: "16 de abril de 2025 15:03"
+      const m = trim.match(/^(\d{1,2})\s+de\s+([a-záéíóúñ]+)\s+de\s+(\d{4})(?:\s+(\d{1,2}):(\d{2}))?/i);
+      if (m) {
+        const month = monthMap[m[2].toLowerCase()];
+        if (month !== undefined) {
+          return new Date(+m[3], month, +m[1], +(m[4]||0), +(m[5]||0)).getTime();
+        }
+      }
+      // Last-ditch: try Date.parse anyway
+      const last = Date.parse(trim);
+      return isNaN(last) ? 0 : last;
     }
-    window.SITE.recent = [...studios].sort((a, b) => parseEd(b.created || b.edited) - parseEd(a.created || a.edited)).slice(0, 12);
+    window.SITE.recent = [...studios]
+      .sort((a, b) => {
+        const diff = parseEd(b.created || b.edited) - parseEd(a.created || a.edited);
+        if (diff !== 0) return diff;
+        return (a.name || "").localeCompare(b.name || "");
+      })
+      .slice(0, 20);
 
     // Category color palette — intentionally monochrome.
     // All disciplines resolve to the same neutral ink colour so the system reads
