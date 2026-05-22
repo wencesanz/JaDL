@@ -513,6 +513,15 @@
     "edited": "2026-05-20T20:53:00.000Z"
   },
   {
+    "name": "Anton Sten",
+    "category": "Interactive",
+    "city": "Hammenhög",
+    "country": "Sweden",
+    "ig": "",
+    "url": "https://www.antonsten.com/",
+    "edited": "2026-05-22T12:39:00.000Z"
+  },
+  {
     "name": "ANY OTHER NAME",
     "category": "Graphic Design",
     "city": "London",
@@ -6874,6 +6883,15 @@
     "ig": "https://www.instagram.com/sophieoconnorltd",
     "url": "https://www.sophieoconnor.uk/",
     "edited": "2026-05-20T22:17:00.000Z"
+  },
+  {
+    "name": "Source.paris",
+    "category": "Branding, Interactive",
+    "city": "Paris",
+    "country": "France",
+    "ig": "https://www.instagram.com/source_paris/",
+    "url": "https://source.paris/",
+    "edited": "2026-05-22T13:01:00.000Z"
   },
   {
     "name": "SouthSouthWest",
