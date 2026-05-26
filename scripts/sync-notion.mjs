@@ -126,22 +126,41 @@ async function fetchAllPages() {
       ...(cursor ? { start_cursor: cursor } : {}),
     };
 
-    const res = await fetch(
-      `https://api.notion.com/v1/databases/${DATABASE_ID}/query`,
-      {
-        method: 'POST',
-        headers: {
-          'Authorization': `Bearer ${NOTION_TOKEN}`,
-          'Notion-Version': NOTION_VERSION,
-          'Content-Type': 'application/json',
+    // Retry with exponential backoff on 429 (rate limit) and 5xx errors.
+    // Notion's public API limit is ~3 req/s averaged — we play it safe.
+    let res;
+    let attempt = 0;
+    const maxAttempts = 6;
+    while (true) {
+      attempt++;
+      res = await fetch(
+        `https://api.notion.com/v1/databases/${DATABASE_ID}/query`,
+        {
+          method: 'POST',
+          headers: {
+            'Authorization': `Bearer ${NOTION_TOKEN}`,
+            'Notion-Version': NOTION_VERSION,
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify(body),
         },
-        body: JSON.stringify(body),
-      },
-    );
+      );
 
-    if (!res.ok) {
-      const errText = await res.text();
-      throw new Error(`Notion API error ${res.status}: ${errText}`);
+      if (res.ok) break;
+
+      const retriable = res.status === 429 || (res.status >= 500 && res.status < 600);
+      if (!retriable || attempt >= maxAttempts) {
+        const errText = await res.text();
+        throw new Error(`Notion API error ${res.status}: ${errText}`);
+      }
+
+      // Honour Retry-After if present, otherwise exponential backoff
+      const ra = Number(res.headers.get('retry-after'));
+      const waitMs = (!isNaN(ra) && ra > 0)
+        ? ra * 1000
+        : Math.min(30000, 1000 * Math.pow(2, attempt));
+      console.log(`  page ${page}: ${res.status}, retry ${attempt}/${maxAttempts - 1} in ${Math.round(waitMs / 1000)}s`);
+      await new Promise((r) => setTimeout(r, waitMs));
     }
 
     const json = await res.json();
@@ -150,6 +169,9 @@ async function fetchAllPages() {
 
     if (!json.has_more) break;
     cursor = json.next_cursor;
+
+    // Gentle pacing between pages to stay under Notion's ~3 req/s ceiling
+    await new Promise((r) => setTimeout(r, 350));
   }
 
   return all;
