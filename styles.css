@@ -679,7 +679,7 @@ em { font-style: italic; }
 .recent-row .d { font-family: var(--mono); font-size: var(--fs-meta); color: var(--mute); letter-spacing: 0.05em; text-transform: uppercase; }
 .recent-row .t { font-family: var(--serif); font-size: 22px; letter-spacing: -0.005em; }
 .recent-row .c { color: var(--ink-2); font-size: 14px; }
-.recent-row .k { font-family: var(--mono); font-size: var(--fs-meta); color: var(--mute); letter-spacing: 0.05em; text-transform: uppercase; text-align: right; }
+.recent-row .k { font-family: var(--mono); font-size: var(--fs-meta); color: var(--mute); letter-spacing: 0.02em; text-transform: none; text-align: right; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .recent-row:hover .t { color: var(--accent); }
 
 /* --- studios page --- */

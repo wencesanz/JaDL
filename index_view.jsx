@@ -132,7 +132,7 @@ function IndexView({ go }) {
               <div className="d">{formatEdited(p.created || p.edited)}</div>
               <div className="t">{p.name}</div>
               <div className="c">{p.city}{p.city && p.country ? ", " : ""}{p.country}</div>
-              <div className="k">{p.category.split(",")[0]}</div>
+              <div className="k">{(p.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")}</div>
             </div>
           ))}
         </div>
