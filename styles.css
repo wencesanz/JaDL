@@ -12,6 +12,8 @@
   --serif: "Geist", "Söhne", "Neue Haas Grotesk Text", "Helvetica Neue", Arial, sans-serif;
   --sans: "Geist", "Söhne", "Neue Haas Grotesk Text", "Helvetica Neue", Arial, sans-serif;
   --mono: "JetBrains Mono", "Berkeley Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  /* Section headlines — monospace display face */
+  --head: "Spline Sans Mono", "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
 
   --fs-meta: 11.5px;
   --fs-body: 15px;
@@ -198,7 +200,7 @@ em { font-style: italic; }
 
 /* --- selected work (homepage list) --- */
 .sel-head { display: flex; align-items: end; justify-content: space-between; padding-bottom: 16px; }
-.sel-head h2 { font-family: var(--serif); font-weight: 400; font-size: var(--fs-h2); letter-spacing: -0.01em; margin: 0; }
+.sel-head h2 { font-family: var(--head); font-weight: 500; font-size: var(--fs-h2); letter-spacing: -0.02em; margin: 0; }
 .sel-list { border-top: 1px solid var(--rule); }
 .sel-row {
   display: grid; grid-template-columns: 56px 1fr 1.4fr 1fr 72px 28px;
@@ -274,7 +276,7 @@ em { font-style: italic; }
 
 /* --- work page (hybrid) --- */
 .work-head { padding: clamp(48px,7vw,100px) 0 24px; display: grid; grid-template-columns: 1fr 1fr; gap: 32px; align-items: end; }
-.work-head h2 { font-family: var(--serif); font-weight: 400; font-size: clamp(40px, 6vw, 84px); line-height: 1; letter-spacing: -0.02em; margin: 0; }
+.work-head h2 { font-family: var(--head); font-weight: 500; font-size: clamp(40px, 6vw, 84px); line-height: 1; letter-spacing: -0.03em; margin: 0; }
 .work-head .count { font-family: var(--mono); font-size: var(--fs-meta); color: var(--mute); letter-spacing: 0.04em; text-align: right; }
 .work-item { display: grid; grid-template-columns: 56px 1.2fr 1.6fr 1fr 120px; gap: 24px; align-items: center; padding: 24px 0; border-bottom: 1px solid var(--rule-soft); cursor: pointer; }
 .work-item:first-child { border-top: 1px solid var(--rule); }
@@ -303,7 +305,7 @@ em { font-style: italic; }
 
 /* --- archive --- */
 .archive-head { padding: clamp(48px,7vw,100px) 0 24px; display: grid; grid-template-columns: 1fr 1fr; gap: 32px; align-items: end; }
-.archive-head h2 { font-family: var(--serif); font-weight: 400; font-size: clamp(40px, 6vw, 84px); line-height: 1; letter-spacing: -0.02em; margin: 0; }
+.archive-head h2 { font-family: var(--head); font-weight: 500; font-size: clamp(40px, 6vw, 84px); line-height: 1; letter-spacing: -0.03em; margin: 0; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; justify-content: flex-end; }
 .chips button { font-family: var(--mono); font-size: 11px; letter-spacing: 0.05em; text-transform: uppercase; padding: 7px 11px; border: 1px solid var(--rule); color: var(--mute); border-radius: 999px; }
 .chips button[data-on="true"] { background: var(--ink); border-color: var(--ink); color: var(--paper); }
@@ -323,7 +325,7 @@ em { font-style: italic; }
 
 /* --- about --- */
 .about-head { padding: clamp(48px,7vw,100px) 0 24px; }
-.about-head h2 { font-family: var(--serif); font-weight: 400; font-size: clamp(40px, 6vw, 96px); line-height: .98; letter-spacing: -0.02em; margin: 0; max-width: 18ch; text-wrap: balance; }
+.about-head h2 { font-family: var(--head); font-weight: 500; font-size: clamp(40px, 6vw, 96px); line-height: .98; letter-spacing: -0.03em; margin: 0; max-width: 18ch; text-wrap: balance; }
 .about-head h2 em { font-style: italic; color: var(--ink-2); }
 .about-grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 32px; padding-top: 48px; border-top: 1px solid var(--rule); }
 .about-body { grid-column: 4 / span 7; }
@@ -682,7 +684,7 @@ em { font-style: italic; }
 
 /* --- studios page --- */
 .studios-head { padding: clamp(48px,7vw,100px) 0 24px; display: grid; grid-template-columns: 1fr 1fr; gap: 32px; align-items: end; }
-.studios-head h2 { font-family: var(--serif); font-weight: 400; font-size: clamp(40px, 6vw, 84px); line-height: 1; letter-spacing: -0.02em; margin: 0; }
+.studios-head h2 { font-family: var(--head); font-weight: 500; font-size: clamp(40px, 6vw, 84px); line-height: 1; letter-spacing: -0.03em; margin: 0; }
 .studios-head h2 em { font-style: italic; color: var(--ink-2); }
 .studios-head h2 .clear-filter {
   display: inline-flex;
