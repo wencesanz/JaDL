@@ -6,8 +6,8 @@
   --mute: #8A8A85;
   --rule: #D6D6D2;
   --rule-soft: #EAEAE6;
-  --accent: oklch(0.52 0.07 55);
-  --accent-soft: oklch(0.52 0.07 55 / 0.1);
+  --accent: #F95721;
+  --accent-soft: rgba(249,87,33,0.12);
 
   --serif: "Geist", "Söhne", "Neue Haas Grotesk Text", "Helvetica Neue", Arial, sans-serif;
   --sans: "Geist", "Söhne", "Neue Haas Grotesk Text", "Helvetica Neue", Arial, sans-serif;
@@ -56,8 +56,8 @@
   --rule: #D6D6D2;
   --rule-soft: #EAEAE6;
   --mute: #7B7B7B;
-  --accent: #0B0B0B;
-  --accent-soft: rgba(0,0,0,.08);
+  --accent: #F95721;
+  --accent-soft: rgba(249,87,33,0.12);
 }
 [data-type="serif"] {
   --serif: "Instrument Serif", "GT Sectra", "EB Garamond", Georgia, serif;
@@ -74,8 +74,8 @@ html[data-theme="dark"] body { background: var(--paper); color: var(--ink); }
   --mute: #7A7872;
   --rule: #2A2A28;
   --rule-soft: #1C1C1A;
-  --accent: oklch(0.78 0.09 60);
-  --accent-soft: oklch(0.78 0.09 60 / 0.14);
+  --accent: #FF6E3C;
+  --accent-soft: rgba(255,110,60,0.16);
   color-scheme: dark;
 }
 [data-theme="dark"][data-palette="cool"] {
