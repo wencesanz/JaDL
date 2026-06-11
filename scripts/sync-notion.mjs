@@ -210,6 +210,48 @@ function xmlEsc(s) {
     .replace(/'/g, '&apos;');
 }
 
+// Must match slugify() in app.jsx so sitemap URLs resolve to real routes.
+function slugify(s) {
+  return String(s || '')
+    .toLowerCase()
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/&/g, 'and')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+async function writeSitemap(studios) {
+  const { writeFile } = await import('node:fs/promises');
+  const today = new Date().toISOString().slice(0, 10);
+  const lines = [];
+  const staticPages = [
+    ['', '1.0', 'daily'],
+    ['studios', '0.8', 'weekly'],
+    ['geography', '0.6', 'weekly'],
+    ['categories', '0.6', 'weekly'],
+    ['about', '0.4', 'monthly'],
+    ['submit', '0.4', 'monthly'],
+  ];
+  for (const [path, pr, cf] of staticPages) {
+    lines.push(`  <url><loc>${SITE_URL}/${path}</loc><changefreq>${cf}</changefreq><priority>${pr}</priority></url>`);
+  }
+  const seen = new Set();
+  for (const s of studios) {
+    const slug = slugify(s.name);
+    if (!slug || seen.has(slug)) continue;
+    seen.add(slug);
+    let lastmod = today;
+    if (s.edited) {
+      const dt = new Date(s.edited);
+      if (!isNaN(dt.getTime())) lastmod = dt.toISOString().slice(0, 10);
+    }
+    lines.push(`  <url><loc>${SITE_URL}/studio/${slug}</loc><lastmod>${lastmod}</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>`);
+  }
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${lines.join('\n')}\n</urlset>\n`;
+  await writeFile('sitemap.xml', xml, 'utf8');
+}
+
 async function writeFeed(studios) {
   const { writeFile } = await import('node:fs/promises');
   const sorted = [...studios].sort((a, b) => {
@@ -225,7 +267,7 @@ async function writeFeed(studios) {
     const cats = (s.category || '').split(',').map(x => x.trim()).filter(Boolean);
     const loc = [s.city, s.country].filter(Boolean).join(', ');
     const desc = `${cats.join(' · ')}${loc ? ' — ' + loc : ''}.`;
-    const guid = `${SITE_URL}/#studio/${encodeURIComponent(s.name)}`;
+    const guid = `${SITE_URL}/studio/${slugify(s.name)}`;
     return `    <item>
       <title>${xmlEsc(s.name)}</title>
       <link>${xmlEsc(link)}</link>
@@ -275,6 +317,10 @@ ${items}
   // Write RSS feed (latest 30 by Notion last_edited_time)
   await writeFeed(studios);
   console.log('Wrote feed.xml');
+
+  // Write sitemap.xml (every page + one URL per studio)
+  await writeSitemap(studios);
+  console.log('Wrote sitemap.xml');
 
   // Quick diagnostics
   const missing = studios.filter(s => !s.url && !s.ig);
