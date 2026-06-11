@@ -954,15 +954,6 @@
     "edited": "2026-05-20T20:56:00.000Z"
   },
   {
-    "name": "BAS",
-    "category": "Branding",
-    "city": "Stockholm",
-    "country": "Sweden",
-    "ig": "https://www.instagram.com/basid.se/",
-    "url": "https://bas.id/",
-    "edited": "2026-05-20T21:56:00.000Z"
-  },
-  {
     "name": "Base",
     "category": "Branding, Interactive, Graphic Design, Packaging, Motion Graphics, Typography",
     "city": "New York, Brussels, Genève, Melbourne, Saigon",
@@ -1789,6 +1780,15 @@
     "ig": "https://www.instagram.com/codeastudio/",
     "url": "https://codeastudio.com/",
     "edited": "2026-05-20T21:01:00.000Z"
+  },
+  {
+    "name": "Collection",
+    "category": "Branding, Graphic Design, Advertising",
+    "city": "Montreal",
+    "country": "Canada",
+    "ig": "https://www.instagram.com/collection.work/",
+    "url": "https://www.collection.industries/",
+    "edited": "2026-06-11T13:29:00.000Z"
   },
   {
     "name": "Collins",
@@ -6784,6 +6784,15 @@
     "ig": "https://www.instagram.com/sandstrompartners/",
     "url": "https://sandstrompartners.com/",
     "edited": "2026-05-30T07:38:00.000Z"
+  },
+  {
+    "name": "Sanna Mac",
+    "category": "Branding, Graphic Design, Packaging",
+    "city": "Glasgow",
+    "country": "Scotland",
+    "ig": "https://www.instagram.com/sannamac.co/",
+    "url": "https://sannamac.co/",
+    "edited": "2026-06-11T13:34:00.000Z"
   },
   {
     "name": "Sara Bautista Studio",
