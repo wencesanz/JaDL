@@ -32,6 +32,8 @@ function GeographyView({ go }) {
         </div>
       </div>
 
+      {window.WorldChoropleth ? <window.WorldChoropleth go={go} /> : null}
+
       {tab === "countries" ? (
         <div style={{ borderTop: "1px solid var(--rule)" }}>
           {countries.map(([c, n], i) => (

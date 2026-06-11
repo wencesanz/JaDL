@@ -682,6 +682,44 @@ em { font-style: italic; }
 .recent-row .k { font-family: var(--mono); font-size: var(--fs-meta); color: var(--mute); letter-spacing: 0.02em; text-transform: none; text-align: right; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .recent-row:hover .t { color: var(--accent); }
 
+/* --- world choropleth (Geography) --- */
+.geo-map-block { padding: 32px 0 8px; }
+.geo-map { position: relative; width: 100%; }
+.geo-map-svg { width: 100%; }
+.geo-map-svg svg { width: 100%; height: auto; display: block; }
+.geo-tip {
+  position: absolute;
+  pointer-events: none;
+  background: var(--ink);
+  color: var(--paper);
+  padding: 7px 10px;
+  display: grid;
+  gap: 2px;
+  z-index: 5;
+  white-space: nowrap;
+  box-shadow: 0 6px 24px rgba(0,0,0,.18);
+}
+.geo-tip-name { font-family: var(--serif); font-size: 14px; line-height: 1; }
+.geo-tip-n { font-family: var(--mono); font-size: 10.5px; letter-spacing: .04em; text-transform: uppercase; opacity: .7; }
+.geo-legend {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px 28px;
+  margin-top: 20px;
+  padding-top: 18px;
+  border-top: 1px solid var(--rule);
+}
+.geo-legend-lbl { font-family: var(--mono); font-size: var(--fs-meta); letter-spacing: .06em; text-transform: uppercase; color: var(--mute); }
+.geo-legend-scale { display: flex; gap: 18px; flex-wrap: wrap; }
+.geo-legend-step { display: flex; align-items: center; gap: 7px; }
+.geo-legend-step .sw { width: 16px; height: 16px; border: 1px solid var(--rule); display: block; }
+.geo-legend-step .lb { font-family: var(--mono); font-size: var(--fs-meta); color: var(--ink-2); letter-spacing: .03em; }
+.geo-legend-credit { font-family: var(--mono); font-size: 10px; letter-spacing: .03em; color: var(--mute); margin-left: auto; }
+@media (max-width: 640px) {
+  .geo-legend-credit { margin-left: 0; flex-basis: 100%; }
+}
+
 /* --- studios page --- */
 .studios-head { padding: clamp(48px,7vw,100px) 0 24px; display: grid; grid-template-columns: 1fr 1fr; gap: 32px; align-items: end; }
 .studios-head h2 { font-family: var(--serif); font-weight: 400; font-size: clamp(40px, 6vw, 84px); line-height: 1; letter-spacing: -0.02em; margin: 0; }
