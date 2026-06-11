@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    { "source": "/studio/:slug", "destination": "/index.html" },
+    { "source": "/studios", "destination": "/index.html" },
+    { "source": "/geography", "destination": "/index.html" },
+    { "source": "/categories", "destination": "/index.html" },
+    { "source": "/about", "destination": "/index.html" },
+    { "source": "/submit", "destination": "/index.html" }
+  ]
+}
