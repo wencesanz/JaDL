@@ -5,7 +5,8 @@ const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
   "palette": "mono",
   "density": "default",
   "accent": "on",
-  "type": "sans"
+  "type": "sans",
+  "motion": "on"
 }/*EDITMODE-END*/;
 
 function Tweaks() {
@@ -29,6 +30,8 @@ function Tweaks() {
     else root.setAttribute("data-density", vals.density);
     if (vals.accent === "off") root.setAttribute("data-accent", "off");
     else root.removeAttribute("data-accent");
+    if (vals.motion === "off") root.setAttribute("data-listfx", "off");
+    else root.removeAttribute("data-listfx");
     root.setAttribute("data-type", vals.type || "sans");
   }, [vals]);
 
@@ -56,6 +59,7 @@ function Tweaks() {
       <div className="row"><label>Type</label>{seg("type", ["sans", "serif"])}</div>
       <div className="row"><label>Density</label>{seg("density", ["compact", "default", "roomy"])}</div>
       <div className="row"><label>Accent</label>{seg("accent", ["on", "off"])}</div>
+      <div className="row"><label>List motion</label>{seg("motion", ["on", "off"])}</div>
     </div>
   );
 }
