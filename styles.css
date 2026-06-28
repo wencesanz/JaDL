@@ -133,6 +133,8 @@ em { font-style: italic; }
 :root:not([data-type="serif"]) .masthead h1 em,
 :root:not([data-type="serif"]) .sel-row .t em,
 :root:not([data-type="serif"]) .now-items .v em { font-family: var(--sans); color: var(--ink-2); font-style: normal; font-weight: 400; opacity: .55; }
+/* masthead headline reads as one solid colour */
+:root .masthead h1 em { color: inherit !important; opacity: 1 !important; font-weight: inherit; }
 
 /* --- layout --- */
 .page { min-height: 100vh; padding-bottom: 120px; }

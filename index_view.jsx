@@ -29,7 +29,6 @@ function IndexView({ go }) {
     <div className="view">
       {/* masthead — compact */}
       <section className="masthead wrap masthead--tight">
-        <Eyebrow num="§00"><span>Intro</span></Eyebrow>
         <h1 style={{ marginTop: 20 }}>
           <em>{d.totals?.studios || "—"}</em> design studios,<br />
           read as a <em>slow list</em>.
