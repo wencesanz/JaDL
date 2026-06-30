@@ -189,6 +189,7 @@ function mapPage(page) {
     country:  extractValue(findProp(p, FIELD_MAP.country)),
     ig:       extractValue(findProp(p, FIELD_MAP.ig)),
     url:      extractValue(findProp(p, FIELD_MAP.url)),
+    created:  page.created_time || '',
     edited:   page.last_edited_time || '',
   };
   return studio;
@@ -255,14 +256,14 @@ async function writeSitemap(studios) {
 async function writeFeed(studios) {
   const { writeFile } = await import('node:fs/promises');
   const sorted = [...studios].sort((a, b) => {
-    const ta = a.edited ? new Date(a.edited).getTime() : 0;
-    const tb = b.edited ? new Date(b.edited).getTime() : 0;
+    const ta = (a.created || a.edited) ? new Date(a.created || a.edited).getTime() : 0;
+    const tb = (b.created || b.edited) ? new Date(b.created || b.edited).getTime() : 0;
     return tb - ta;
   });
   const recent = sorted.slice(0, 30);
 
   const items = recent.map((s) => {
-    const ts = s.edited ? new Date(s.edited).toUTCString() : new Date().toUTCString();
+    const ts = (s.created || s.edited) ? new Date(s.created || s.edited).toUTCString() : new Date().toUTCString();
     const link = s.url || SITE_URL;
     const cats = (s.category || '').split(',').map(x => x.trim()).filter(Boolean);
     const loc = [s.city, s.country].filter(Boolean).join(', ');
