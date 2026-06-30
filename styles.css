@@ -135,6 +135,8 @@ em { font-style: italic; }
 :root:not([data-type="serif"]) .now-items .v em { font-family: var(--sans); color: var(--ink-2); font-style: normal; font-weight: 400; opacity: .55; }
 /* masthead headline reads as one solid colour */
 :root .masthead h1 em { color: inherit !important; opacity: 1 !important; font-weight: inherit; }
+/* …except the studio count, which picks up the accent colour (same as the links) */
+:root .masthead h1 em.count-accent { color: var(--accent) !important; }
 
 /* --- layout --- */
 .page { min-height: 100vh; padding-bottom: 120px; }

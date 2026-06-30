@@ -30,7 +30,7 @@ function IndexView({ go }) {
       {/* masthead — compact */}
       <section className="masthead wrap masthead--tight">
         <h1 style={{ marginTop: 20 }}>
-          <em>{d.totals?.studios || "—"}</em> design studios,<br />
+          <em className="count-accent">{d.totals?.studios || "—"}</em> design studios,<br />
           read as a <em>slow list</em>.
         </h1>
         <p className="sub">
