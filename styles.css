@@ -386,6 +386,56 @@ em { font-style: italic; }
 .share-btn:disabled { opacity: .5; cursor: default; }
 .share-btn:disabled:hover { background: transparent; color: var(--ink); border-color: var(--rule); }
 
+/* Save / Saved toggle (studio side column) */
+.save-block { margin-top: 28px; text-transform: none; letter-spacing: 0; }
+.save-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.02em;
+  color: var(--ink);
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  padding: 9px 16px;
+  transition: background .15s ease, color .15s ease, border-color .15s ease;
+}
+.save-btn svg { flex-shrink: 0; transition: transform .15s ease; }
+.save-btn:hover { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.save-btn.is-saved { border-color: var(--ink); color: var(--ink); }
+.save-btn.is-saved:hover { background: transparent; color: var(--mute); border-color: var(--rule); }
+
+/* Nav count badge on "My List" */
+.nav-count {
+  font-family: var(--mono);
+  font-size: 9px;
+  vertical-align: super;
+  margin-left: 3px;
+  color: var(--accent);
+  letter-spacing: 0;
+}
+
+/* My List page */
+.mylist-empty { padding: 48px 0 96px; }
+.mylist-empty .lead { font-family: var(--serif); font-size: 30px; letter-spacing: -0.01em; }
+.mylist-empty .sub { margin-top: 10px; max-width: 46ch; font-size: 15px; color: var(--ink-2); line-height: 1.6; }
+.mylist-row .mylist-remove {
+  font-family: var(--mono);
+  font-size: 18px;
+  line-height: 1;
+  color: var(--rule);
+  text-align: right;
+  justify-self: end;
+  transition: color .2s ease, transform .2s ease;
+}
+.mylist-row:hover .mylist-remove { color: var(--mute); }
+.mylist-row .mylist-remove:hover { color: var(--ink); transform: scale(1.15); }
+@media (max-width: 720px) {
+  .mylist-row .mylist-remove { display: block; position: absolute; right: 0; top: 14px; }
+  .mylist-row { position: relative; }
+}
+
 /* Instagram share modal */
 .ig-modal {
   position: fixed; inset: 0; z-index: 9999;

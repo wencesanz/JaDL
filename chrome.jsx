@@ -54,6 +54,8 @@ function ThemeToggle() {
 
 function TopBar({ view, go }) {
   const [menuOpen, setMenuOpen] = useState(false);
+  const saved = window.useSaved ? window.useSaved() : null;
+  const savedCount = saved ? saved.count() : 0;
   const items = [
     ["index", "Index"],
     ["studios", "Studios"],
@@ -61,6 +63,7 @@ function TopBar({ view, go }) {
     ["categories", "Categories"],
     ["submit", "Submit"],
     ["about", "Colophon"],
+    ["list", "My List"],
   ];
 
   // Close mobile menu on resize > breakpoint or on view change
@@ -89,7 +92,7 @@ function TopBar({ view, go }) {
       <nav className="nav" aria-label="Primary">
         {items.map(([k, label]) => (
           <button key={k} onClick={() => go(k)} aria-current={view === k ? "page" : undefined}>
-            {label}
+            {label}{k === "list" && savedCount > 0 ? <sup className="nav-count">{savedCount}</sup> : null}
           </button>
         ))}
       </nav>
@@ -116,7 +119,7 @@ function TopBar({ view, go }) {
             aria-current={view === k ? "page" : undefined}
             className={view === k ? "is-current" : ""}
           >
-            {label}
+            {label}{k === "list" && savedCount > 0 ? <sup className="nav-count">{savedCount}</sup> : null}
           </button>
         ))}
       </nav>

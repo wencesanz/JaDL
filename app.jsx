@@ -1,4 +1,4 @@
-/* global React, ReactDOM, TopBar, Footer, IndexView, StudiosView, GeographyView, CategoriesView, AboutView, SubmitView, StudioDetail, Tweaks */
+/* global React, ReactDOM, TopBar, Footer, IndexView, StudiosView, GeographyView, CategoriesView, AboutView, SubmitView, StudioDetail, MyListView, Tweaks */
 const { useState, useEffect } = React;
 
 // ---------- URL <-> route helpers ----------
@@ -34,6 +34,7 @@ function routeToPath(r) {
     }
     case "geography": return "/geography";
     case "categories": return "/categories";
+    case "list": return "/list";
     case "submit": return "/submit";
     case "about": return "/about";
     case "index":
@@ -57,7 +58,7 @@ function pathToRoute(pathname, search) {
     if (qs.get("city")) filter.city = qs.get("city");
     return { view: "studios", filter: Object.keys(filter).length ? filter : undefined };
   }
-  if (["geography", "categories", "submit", "about", "index"].includes(seg)) {
+  if (["geography", "categories", "submit", "about", "list", "index"].includes(seg)) {
     return { view: seg };
   }
   return { view: "index" };
@@ -73,7 +74,7 @@ function legacyHashToPath() {
   if (!seg) return "/";
   if (seg === "studio" && parts[1]) return `/studio/${parts[1]}`;
   if (seg === "studios") return queryStr ? `/studios?${queryStr}` : "/studios";
-  if (["geography", "categories", "submit", "about"].includes(seg)) return `/${seg}`;
+  if (["geography", "categories", "submit", "about", "list"].includes(seg)) return `/${seg}`;
   return "/";
 }
 
@@ -127,6 +128,8 @@ function setMeta(route) {
     title = "Colophon · Just a Design List"; desc = "About Just a Design List — a hand-edited index of design practices.";
   } else if (route.view === "submit") {
     title = "Submit a studio · Just a Design List"; desc = "Suggest a design studio or independent practice for the index.";
+  } else if (route.view === "list") {
+    title = "My List · Just a Design List"; desc = "Studios you've saved on this browser.";
   }
 
   document.title = title;
@@ -220,6 +223,7 @@ function App() {
     case "categories": body = <CategoriesView go={go} />; break;
     case "submit": body = <SubmitView />; break;
     case "about": body = <AboutView go={go} />; break;
+    case "list": body = <MyListView go={go} />; break;
     case "studio": body = <StudioDetail name={route.name} go={go} />; break;
     default: body = <IndexView go={go} />;
   }

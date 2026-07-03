@@ -165,6 +165,11 @@ function StudioDetail({ name, go }) {
               </a>
             )}
           </div>
+          {window.SaveButton ? (
+            <div className="save-block">
+              <window.SaveButton studio={s} />
+            </div>
+          ) : null}
           <div className="share-block">
             <div className="share-lbl">Share</div>
             <div className="share-row">
