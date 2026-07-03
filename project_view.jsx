@@ -119,10 +119,13 @@ function StudioDetail({ name, go }) {
 
   return (
     <div className="view wrap">
-      <button onClick={() => go("studios")} className="back-btn" aria-label="Back to the list">
-        <span className="arr">←</span>
-        <span>The List</span>
-      </button>
+      <div className="pd-topbar">
+        <button onClick={() => go("studios")} className="back-btn" aria-label="Back to the list">
+          <span className="arr">←</span>
+          <span>The List</span>
+        </button>
+        {window.RandomButton ? <window.RandomButton go={go} currentName={s.name} /> : null}
+      </div>
 
       <div className="pd-head">
         <div>

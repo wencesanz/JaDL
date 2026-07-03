@@ -41,6 +41,8 @@ function IndexView({ go }) {
         </p>
       </section>
 
+      {window.RandomCTA ? <window.RandomCTA go={go} /> : null}
+
       <div className="hair wrap" style={{ marginTop: 24 }} />
 
       {/* counts strip */}
