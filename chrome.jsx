@@ -166,6 +166,10 @@ function Footer({ go }) {
             <span>RSS feed</span><span className="arr">↗</span>
           </a>
         </div>
+        <div className="sponsor">
+          <span>Just a Design List is an independent side project. Interested in sponsoring it?</span>
+          <a href="mailto:wencesanz@gmail.com?subject=SPONSOR">Get in touch<span className="arr">→</span></a>
+        </div>
         <div className="colophon">
           {d.colophon.map((l, i) => <span key={i}>{l}</span>)}
           <span style={{ marginLeft: "auto" }}>

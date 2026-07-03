@@ -278,6 +278,38 @@ em { font-style: italic; }
 .foot .links a:hover span.arr { transform: translateX(4px); color: var(--ink); }
 .colophon { grid-column: span 12; display: flex; gap: 40px; padding-top: 40px; border-top: 1px solid var(--rule-soft); margin-top: 40px; font-family: var(--mono); font-size: 11.5px; color: var(--mute); letter-spacing: 0.03em; flex-wrap: wrap; }
 
+/* footer sponsor callout */
+.sponsor {
+  grid-column: span 12;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px 32px;
+  margin-top: 40px;
+  padding-top: 40px;
+  border-top: 1px solid var(--rule-soft);
+}
+.sponsor > span {
+  font-family: var(--serif);
+  font-size: clamp(20px, 2.2vw, 28px);
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  max-width: 40ch;
+}
+.sponsor a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--mono);
+  font-size: 13px;
+  letter-spacing: 0.03em;
+  color: var(--accent);
+  white-space: nowrap;
+}
+.sponsor a .arr { transition: transform .3s ease; }
+.sponsor a:hover .arr { transform: translateX(4px); }
+
 /* --- work page (hybrid) --- */
 .work-head { padding: clamp(48px,7vw,100px) 0 24px; display: grid; grid-template-columns: 1fr 1fr; gap: 32px; align-items: end; }
 .work-head h2 { font-family: var(--serif); font-weight: 400; font-size: clamp(40px, 6vw, 84px); line-height: 1; letter-spacing: -0.02em; margin: 0; }
