@@ -1,8 +1,7 @@
 {
   "name": "just-a-design-list",
-  "version": "1.0.0",
   "private": true,
-  "engines": {
-    "node": ">=18"
+  "dependencies": {
+    "@vercel/og": "^0.6.5"
   }
 }
