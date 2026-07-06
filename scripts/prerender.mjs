@@ -65,7 +65,11 @@ function metaForStudio(s) {
   const title = `${s.name} — ${cat}${loc ? ', ' + loc : ''} · Just a Design List`;
   const desc = `${s.name} is an independent design practice${loc ? ' based in ' + loc : ''}, working in ${(s.category || 'design').toLowerCase()}. Indexed on Just a Design List.`;
   const url = `${SITE_BASE}/studio/${slugify(s.name)}`;
-  const image = s.url ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=1200&h=630` : null;
+  // Per-studio Open Graph card, generated on the fly by /api/og (see api/og.tsx).
+  // A dynamic edge image keeps the repo clean and updates automatically as the
+  // directory grows — reliable for crawlers like LinkedIn (unlike lazy mshots).
+  const metaLine = [cat, loc].filter(Boolean).join(' · ') || 'A curated directory of design practices';
+  const image = `${SITE_BASE}/api/og?name=${encodeURIComponent(s.name)}&meta=${encodeURIComponent(metaLine)}`;
   return { title, desc, url, image, cat, loc };
 }
 
@@ -132,15 +136,9 @@ function renderPage(template, s) {
   repl(/<meta name="twitter:title" content="[^"]*">/, `<meta name="twitter:title" content="${attrEsc(m.title)}">`);
   repl(/<meta name="twitter:description" content="[^"]*">/, `<meta name="twitter:description" content="${attrEsc(m.desc)}">`);
 
-  // Image tags (only if we have a screenshot URL).
-  if (m.image) {
-    repl(/<meta name="twitter:card" content="[^"]*">/, `<meta name="twitter:card" content="summary_large_image">`);
-    // Insert og:image + twitter:image right after twitter:card.
-    html = html.replace(
-      /(<meta name="twitter:card" content="[^"]*">)/,
-      `$1\n<meta property="og:image" content="${attrEsc(m.image)}">\n<meta name="twitter:image" content="${attrEsc(m.image)}">`
-    );
-  }
+  // Point og:image / twitter:image at this studio's dynamic card.
+  repl(/(<meta property="og:image" content=")[^"]*(">)/, `$1${attrEsc(m.image)}$2`);
+  repl(/(<meta name="twitter:image" content=")[^"]*(">)/, `$1${attrEsc(m.image)}$2`);
 
   // JSON-LD before </head>.
   html = html.replace(/<\/head>/, `${jsonLd(s, m)}\n</head>`);
