@@ -1,4 +1,5 @@
 {
+  "cleanUrls": true,
   "rewrites": [
     { "source": "/studio/:slug", "destination": "/index.html" },
     { "source": "/studios", "destination": "/index.html" },
