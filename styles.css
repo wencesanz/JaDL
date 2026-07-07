@@ -930,6 +930,12 @@ em { font-style: italic; }
 
 /* studios list */
 .st-list { padding-top: 24px; }
+/* A–Z jump rail */
+.az-index { position: fixed; right: 18px; top: 50%; transform: translateY(-50%); z-index: 40; display: flex; flex-direction: column; align-items: center; gap: 1px; }
+.az-letter { font-family: var(--mono); font-size: 10.5px; line-height: 1; width: 20px; height: 16px; display: flex; align-items: center; justify-content: center; color: var(--mute); background: none; border: none; cursor: pointer; border-radius: 3px; letter-spacing: .02em; transition: color .12s ease, background .12s ease, transform .12s ease; }
+.az-letter:hover:not([data-empty="true"]) { color: var(--paper); background: var(--ink); transform: scale(1.25); }
+.az-letter[data-empty="true"] { opacity: .28; cursor: default; }
+@media (max-width: 900px) { .az-index { display: none; } }
 .st-group { display: grid; grid-template-columns: 80px 1fr; gap: 32px; padding: 24px 0 8px; }
 .st-group:first-child { padding-top: 0; }
 .st-letter { font-family: var(--serif); font-size: 56px; letter-spacing: -0.01em; position: sticky; top: 88px; align-self: start; line-height: 1; }

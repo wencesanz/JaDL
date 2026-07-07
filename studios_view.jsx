@@ -167,11 +167,15 @@ function StudiosView({ go, initialFilter }) {
         )}
       </div>
 
+      {mode === "list" && sort === "name" && grouped && (
+        <AlphabetIndex grouped={grouped} />
+      )}
+
       {mode === "list" ? (
         <div className="st-list">
           {sort === "name" && grouped ? (
             Object.keys(grouped).sort().map((L) => (
-              <div key={L} className="st-group">
+              <div key={L} id={`grp-${L}`} className="st-group">
                 <div className="st-letter">{L}</div>
                 <div>
                   {grouped[L].map((s, i) => <StudioRow key={s.name + i} s={s} go={go} />)}
@@ -314,3 +318,34 @@ function StudioRow({ s, go }) {
 }
 
 Object.assign(window, { StudiosView });
+
+// Fixed A–Z rail: click a letter to jump to that group. Present letters are
+// active; empty ones are dimmed and non-interactive.
+function AlphabetIndex({ grouped }) {
+  const present = new Set(Object.keys(grouped));
+  const letters = ["#", ..."ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("")];
+
+  const jump = (L) => {
+    const el = document.getElementById(`grp-${L}`);
+    if (!el) return;
+    const top = el.getBoundingClientRect().top + window.pageYOffset - 96;
+    window.scrollTo({ top, behavior: "smooth" });
+  };
+
+  return (
+    <nav className="az-index" aria-label="Jump to letter">
+      {letters.map((L) => (
+        <button
+          key={L}
+          className="az-letter"
+          data-empty={!present.has(L)}
+          disabled={!present.has(L)}
+          onClick={() => jump(L)}
+          aria-label={`Jump to ${L}`}
+        >
+          {L}
+        </button>
+      ))}
+    </nav>
+  );
+}
