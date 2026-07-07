@@ -31,7 +31,7 @@ function IndexView({ go }) {
       <section className="masthead wrap masthead--tight">
         <h1 style={{ marginTop: 20 }}>
           <em className="count-accent">{d.totals?.studios || "—"}</em> design studios,<br />
-          read as a <em>slow list</em>.
+          collected <em>without ranking</em>.
         </h1>
         <p className="sub">
           {d.statement}{" "}
