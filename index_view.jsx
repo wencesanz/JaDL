@@ -129,15 +129,59 @@ function IndexView({ go }) {
         </div>
         <div className="recent-list">
           {(d.recent || []).map((p) => (
-            <div key={p.name} className="recent-row" onClick={() => go("studio", { name: p.name })}>
-              <div className="d">{formatEdited(p.created || p.edited)}</div>
-              <div className="t">{p.name}</div>
-              <div className="c">{p.city}{p.city && p.country ? ", " : ""}{p.country}</div>
-              <div className="k">{(p.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")}</div>
-            </div>
+            <RecentRow key={p.name} p={p} go={go} />
           ))}
         </div>
       </section>
+    </div>
+  );
+}
+
+// Row with the same cursor-following screenshot preview used on the /studios list.
+function RecentRow({ p, go }) {
+  const [hover, setHover] = useIdxState(false);
+  const [pos, setPos] = useIdxState({ x: 0, y: 0 });
+  const shot = p.url
+    ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(p.url)}?w=520&h=400`
+    : null;
+
+  return (
+    <div
+      className="recent-row"
+      onClick={() => go("studio", { name: p.name })}
+      onMouseEnter={() => setHover(true)}
+      onMouseLeave={() => setHover(false)}
+      onMouseMove={(e) => setPos({ x: e.clientX, y: e.clientY })}
+    >
+      <div className="d">{formatEdited(p.created || p.edited)}</div>
+      <div className="t">{p.name}</div>
+      <div className="c">{p.city}{p.city && p.country ? ", " : ""}{p.country}</div>
+      <div className="k">{(p.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")}</div>
+      {hover && shot && (
+        <div
+          className="row-preview"
+          style={{
+            position: "fixed",
+            left: pos.x + 24,
+            top: pos.y - 140,
+            width: 320,
+            height: 240,
+            pointerEvents: "none",
+            zIndex: 50,
+            background: "var(--ink)",
+            border: "1px solid var(--rule)",
+            boxShadow: "0 20px 40px rgba(0,0,0,.18)",
+            overflow: "hidden",
+          }}
+        >
+          <img
+            src={shot}
+            alt=""
+            style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
+            onError={(e) => { e.currentTarget.style.display = "none"; }}
+          />
+        </div>
+      )}
     </div>
   );
 }
