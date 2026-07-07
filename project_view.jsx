@@ -36,24 +36,36 @@ function formatIndexed(raw) {
 
 function StudioHero({ s, col }) {
   const [loaded, setLoaded] = usePdState(false);
-  const [failed, setFailed] = usePdState(false);
+  const [srcIdx, setSrcIdx] = usePdState(0);
+
+  // Source cascade: the OG-image endpoint returns a curated, higher-quality
+  // image when the studio has set one; if it 404s (no og:image, or running
+  // outside Vercel) we fall back to the mshots screenshot.
+  const sources = s.url
+    ? [
+        `/api/ogimage?url=${encodeURIComponent(s.url)}`,
+        `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=1600&h=1000`,
+      ]
+    : [];
 
   // Reset when the studio changes (nav prev/next)
-  usePdEffect(() => { setLoaded(false); setFailed(false); }, [s.url]);
+  usePdEffect(() => { setLoaded(false); setSrcIdx(0); }, [s.url]);
 
-  const shot = s.url
-    ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=1600&h=1000`
-    : null;
+  const shot = sources[srcIdx] || null;
+  const exhausted = srcIdx >= sources.length;
   const host = (s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "");
+
+  const advance = () => setSrcIdx((i) => i + 1);
 
   return (
     <div className="pd-hero" style={{ "--col": col }}>
-      {shot && !failed && (
+      {shot && !exhausted && (
         <img
+          key={shot}
           src={shot}
           alt={`${s.name} — website preview`}
-          onLoad={(e) => { if (e.target.naturalWidth > 100) setLoaded(true); else setFailed(true); }}
-          onError={() => setFailed(true)}
+          onLoad={(e) => { if (e.target.naturalWidth > 100) setLoaded(true); else advance(); }}
+          onError={advance}
           className="pd-hero-img"
           style={{ opacity: loaded ? 1 : 0 }}
         />
@@ -64,6 +76,83 @@ function StudioHero({ s, col }) {
         </div>
       )}
       <span className="ph">{loaded && host ? `${host} · click through to visit` : "Studio site preview · click through to visit"}</span>
+    </div>
+  );
+}
+
+// A small gallery of real views of the studio's site. mshots renders whatever
+// URL we give it at the requested viewport width, so we can reliably show the
+// full page (reveals the work sections below the fold) and the mobile layout —
+// both always exist. If the data carries a manual `images` array we honour that
+// instead (opt-in override for hand-curated portfolio shots).
+function GalleryTile({ src, cap, ratio }) {
+  const [loaded, setLoaded] = usePdState(false);
+  const [failed, setFailed] = usePdState(false);
+  usePdEffect(() => { setLoaded(false); setFailed(false); }, [src]);
+  if (failed) return null;
+  return (
+    <figure className="g-tile" style={{ aspectRatio: ratio }}>
+      <img
+        src={src}
+        alt={cap}
+        loading="lazy"
+        onLoad={(e) => { if (e.target.naturalWidth > 100) setLoaded(true); else setFailed(true); }}
+        onError={() => setFailed(true)}
+        style={{ opacity: loaded ? 1 : 0 }}
+      />
+      {!loaded && <span className="g-loading">Capturing…</span>}
+      <figcaption className="g-cap">{cap}</figcaption>
+    </figure>
+  );
+}
+
+function StudioGallery({ s }) {
+  if (!s.url && !(s.images && s.images.length)) return null;
+
+  // Manual override
+  if (s.images && s.images.length) {
+    return (
+      <div className="pd-gallery-wrap">
+        <div className="g-lbl">Selected work</div>
+        <div className="pd-gallery">
+          {s.images.slice(0, 6).map((src, i) => (
+            <GalleryTile key={i} src={src} cap={`Plate ${String(i + 1).padStart(2, "0")}`} ratio="4 / 3" />
+          ))}
+        </div>
+      </div>
+    );
+  }
+
+  const enc = encodeURIComponent(s.url);
+  const shots = [
+    { src: `https://s.wordpress.com/mshots/v1/${enc}?w=1280&h=3000`, cap: "Full page", ratio: "1280 / 3000" },
+    { src: `https://s.wordpress.com/mshots/v1/${enc}?w=460&h=1000`, cap: "Mobile", ratio: "460 / 1000" },
+  ];
+
+  // Common studio subpages — mshots captures whatever URL we hand it. Some sites
+  // are single-page and these will 404, but on most studio sites at least one of
+  // work / projects / about exists and reveals more of the practice's output.
+  const base = s.url.replace(/\/+$/, "");
+  const subPages = [
+    { path: "work", cap: "Work" },
+    { path: "projects", cap: "Projects" },
+    { path: "about", cap: "About" },
+  ].map((p) => ({
+    src: `https://s.wordpress.com/mshots/v1/${encodeURIComponent(base + "/" + p.path)}?w=1200&h=900`,
+    cap: p.cap,
+    ratio: "4 / 3",
+  }));
+
+  return (
+    <div className="pd-gallery-wrap">
+      <div className="g-lbl">More from the site</div>
+      <a href={s.url} target="_blank" rel="noopener" className="pd-gallery" aria-label={`Visit ${s.name}`}>
+        {shots.map((sh) => <GalleryTile key={sh.src} {...sh} />)}
+      </a>
+      <div className="pd-gallery pd-gallery-sub">
+        {subPages.map((sh) => <GalleryTile key={sh.src} {...sh} />)}
+      </div>
+      <div className="g-note">Live captures of {(s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")} · click through to see the work in full.</div>
     </div>
   );
 }
@@ -150,6 +239,8 @@ function StudioDetail({ name, go }) {
           <StudioHero s={s} col={col} />
         )}
       </div>
+
+      <StudioGallery s={s} />
 
       <div className="pd-body">
         <aside className="side-col">
