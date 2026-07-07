@@ -140,10 +140,31 @@ function IndexView({ go }) {
 // Row with the same cursor-following screenshot preview used on the /studios list.
 function RecentRow({ p, go }) {
   const [hover, setHover] = useIdxState(false);
-  const [pos, setPos] = useIdxState({ x: 0, y: 0 });
+  const boxRef = useIdxRef(null);
+  const target = useIdxRef({ x: 0, y: 0 });
+  const cur = useIdxRef({ x: 0, y: 0 });
+  const raf = useIdxRef(0);
+  const primed = useIdxRef(false);
   const shot = p.url
     ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(p.url)}?w=520&h=400`
     : null;
+
+  // Smoothly ease the preview toward the cursor (trailing / inertia motion).
+  useIdxEffect(() => {
+    if (!hover) { primed.current = false; cancelAnimationFrame(raf.current); return; }
+    const tick = () => {
+      const el = boxRef.current;
+      if (el) {
+        if (!primed.current) { cur.current = { ...target.current }; primed.current = true; }
+        cur.current.x += (target.current.x - cur.current.x) * 0.16;
+        cur.current.y += (target.current.y - cur.current.y) * 0.16;
+        el.style.transform = `translate(${cur.current.x + 24}px, ${cur.current.y - 140}px)`;
+      }
+      raf.current = requestAnimationFrame(tick);
+    };
+    raf.current = requestAnimationFrame(tick);
+    return () => cancelAnimationFrame(raf.current);
+  }, [hover]);
 
   return (
     <div
@@ -151,35 +172,21 @@ function RecentRow({ p, go }) {
       onClick={() => go("studio", { name: p.name })}
       onMouseEnter={() => setHover(true)}
       onMouseLeave={() => setHover(false)}
-      onMouseMove={(e) => setPos({ x: e.clientX, y: e.clientY })}
+      onMouseMove={(e) => { target.current = { x: e.clientX, y: e.clientY }; }}
     >
       <div className="d">{formatEdited(p.created || p.edited)}</div>
       <div className="t">{p.name}</div>
       <div className="c">{p.city}{p.city && p.country ? ", " : ""}{p.country}</div>
       <div className="k">{(p.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")}</div>
       {hover && shot && (
-        <div
-          className="row-preview"
-          style={{
-            position: "fixed",
-            left: pos.x + 24,
-            top: pos.y - 140,
-            width: 320,
-            height: 240,
-            pointerEvents: "none",
-            zIndex: 50,
-            background: "var(--ink)",
-            border: "1px solid var(--rule)",
-            boxShadow: "0 20px 40px rgba(0,0,0,.18)",
-            overflow: "hidden",
-          }}
-        >
-          <img
-            src={shot}
-            alt=""
-            style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
-            onError={(e) => { e.currentTarget.style.display = "none"; }}
-          />
+        <div ref={boxRef} className="row-preview-follow">
+          <div className="row-preview">
+            <img
+              src={shot}
+              alt=""
+              onError={(e) => { e.currentTarget.style.display = "none"; }}
+            />
+          </div>
         </div>
       )}
     </div>
