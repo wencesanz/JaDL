@@ -220,16 +220,6 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
-    "name": "ACNE",
-    "category": "Graphic Design, Branding, Illustration",
-    "city": "Stockholm, Berlin, London",
-    "country": "Sweden, Germany, UK",
-    "ig": "https://www.instagram.com/acne_family/",
-    "url": "https://www.acne.se/",
-    "created": "2023-06-05T07:21:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
-  },
-  {
     "name": "ACRE",
     "category": "Branding, Motion Graphics, Interactive",
     "city": "London",
@@ -560,16 +550,6 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
-    "name": "Angelos Botsis",
-    "category": "Branding, Graphic Design",
-    "city": "Athens",
-    "country": "Greece",
-    "ig": "https://www.instagram.com/angelbts/",
-    "url": "https://www.angelosbotsis.com/",
-    "created": "2023-05-30T17:20:00.000Z",
-    "edited": "2026-05-20T21:56:00.000Z"
-  },
-  {
     "name": "Ania et Lucie",
     "category": "Branding, Interactive, Packaging",
     "city": "New York",
@@ -878,16 +858,6 @@
     "url": "https://www.atla.design",
     "created": "2026-05-15T08:28:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
-  },
-  {
-    "name": "Attico36",
-    "category": "Graphic Design",
-    "city": "",
-    "country": "Italy",
-    "ig": "https://www.instagram.com/attico36/",
-    "url": "https://www.attico36.com/",
-    "created": "2023-05-30T07:14:00.000Z",
-    "edited": "2026-05-20T21:56:00.000Z"
   },
   {
     "name": "Atwork",
@@ -1648,16 +1618,6 @@
     "url": "https://carlosmayo.info/",
     "created": "2023-05-29T11:37:00.000Z",
     "edited": "2026-05-20T21:32:00.000Z"
-  },
-  {
-    "name": "Caroline Bagley",
-    "category": "Graphic Design, Branding",
-    "city": "Truckee",
-    "country": "USA",
-    "ig": "https://www.instagram.com/carolinebagley/",
-    "url": "https://carolinebagley.co/",
-    "created": "2023-05-29T09:17:00.000Z",
-    "edited": "2026-05-20T21:34:00.000Z"
   },
   {
     "name": "Carpenter Collective",
@@ -2950,16 +2910,6 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
-    "name": "Exit.Design",
-    "category": "Branding",
-    "city": "Barcelona",
-    "country": "Spain",
-    "ig": "https://www.instagram.com/exitdesign/",
-    "url": "https://exitdesign.com/",
-    "created": "2023-06-02T18:20:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
-  },
-  {
     "name": "Experimental Jetset",
     "category": "Graphic Design",
     "city": "Amsterdam",
@@ -2988,16 +2938,6 @@
     "url": "https://extremepresent.com",
     "created": "2026-06-19T10:14:00.000Z",
     "edited": "2026-06-19T10:15:00.000Z"
-  },
-  {
-    "name": "EY Doberman",
-    "category": "Branding, Interactive",
-    "city": "Stockholm, Copenhague, Helsinki, Oslo",
-    "country": "Sweden, Denmark, Finland, Norway",
-    "ig": "https://www.instagram.com/eydoberman/",
-    "url": "https://doberman.co/",
-    "created": "2023-06-05T13:22:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
   },
   {
     "name": "FAAADE",
@@ -3300,16 +3240,6 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
-    "name": "folks",
-    "category": "Branding",
-    "city": "Valencia, Madrid, Mexico City",
-    "country": "Spain, Mexico",
-    "ig": "https://www.instagram.com/folks.brands/",
-    "url": "https://folksbrands.com/",
-    "created": "2024-10-17T06:19:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
-  },
-  {
     "name": "Fook",
     "category": "Branding, Packaging",
     "city": "Toronto",
@@ -3407,16 +3337,6 @@
     "ig": "https://www.instagram.com/forwwwardstudio/",
     "url": "https://www.forwwward.studio/",
     "created": "2026-05-07T07:30:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
-  },
-  {
-    "name": "Foundry",
-    "category": "Branding",
-    "city": "Leeds",
-    "country": "UK",
-    "ig": "https://www.instagram.com/madeby_foundry/",
-    "url": "https://www.madebyfoundry.co.uk/",
-    "created": "2023-05-29T11:07:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
@@ -3645,9 +3565,9 @@
     "city": "Sao Paulo",
     "country": "Brazil",
     "ig": "https://www.instagram.com/glauber.eth/",
-    "url": "https://www.glaubersampaio.com/",
+    "url": "https://www.glauber.org",
     "created": "2023-05-29T11:28:00.000Z",
-    "edited": "2026-05-20T22:09:00.000Z"
+    "edited": "2026-07-08T12:47:00.000Z"
   },
   {
     "name": "Glupstudio",
@@ -3737,16 +3657,6 @@
     "ig": "https://www.instagram.com/gravita_madrid/",
     "url": "https://somosgravita.com/",
     "created": "2024-11-13T09:32:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
-  },
-  {
-    "name": "Grupo Ingenio",
-    "category": "Graphic Design, Branding",
-    "city": "Cadiz",
-    "country": "Spain",
-    "ig": "",
-    "url": "http://www.grin-project.com/es",
-    "created": "2023-06-04T17:50:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
@@ -4965,9 +4875,9 @@
     "city": "Barcelona",
     "country": "Spain",
     "ig": "https://www.instagram.com/losientostudio/",
-    "url": "http://www.losiento.net/",
+    "url": "https://losiento.studio/",
     "created": "2023-06-02T12:01:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-08T12:51:00.000Z"
   },
   {
     "name": "Look Look Studio",
@@ -5970,16 +5880,6 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
-    "name": "Navarra",
-    "category": "Branding, Interactive",
-    "city": "Berlin",
-    "country": "Germany",
-    "ig": "https://www.instagram.com/navarra.is/",
-    "url": "https://navarra.is/",
-    "created": "2023-07-12T08:29:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
-  },
-  {
     "name": "Need.",
     "category": "Branding",
     "city": "Glasgow",
@@ -6770,16 +6670,6 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
-    "name": "Passport",
-    "category": "Graphic Design, Branding",
-    "city": "Leeds",
-    "country": "UK",
-    "ig": "https://www.instagram.com/_Passport/",
-    "url": "https://wearepassport.com/",
-    "created": "2023-06-01T12:24:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
-  },
-  {
     "name": "Path",
     "category": "Branding, Packaging",
     "city": "London",
@@ -7195,9 +7085,9 @@
     "city": "Barcelona",
     "country": "Spain",
     "ig": "https://www.instagram.com/rafagoicoechea/",
-    "url": "https://www.rafagoicoechea.info/",
+    "url": "https://cargocollective.com/rafagoicoechea",
     "created": "2023-06-02T17:07:00.000Z",
-    "edited": "2026-05-20T21:02:00.000Z"
+    "edited": "2026-07-08T12:50:00.000Z"
   },
   {
     "name": "Ragged Edge",
@@ -8977,16 +8867,6 @@
     "ig": "https://www.instagram.com/studiovicentegranger/",
     "url": "https://www.vicentegranger.fr/",
     "created": "2024-01-31T14:29:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
-  },
-  {
-    "name": "Studio Worldwide",
-    "category": "Graphic Design, Branding",
-    "city": "Melbourne",
-    "country": "Australia",
-    "ig": "https://www.instagram.com/studioworldwide/",
-    "url": "http://studioworldwide.net/",
-    "created": "2023-06-01T13:29:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
