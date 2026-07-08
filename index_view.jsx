@@ -39,9 +39,10 @@ function IndexView({ go }) {
           {" "}<a className="link" onClick={() => go("categories")}>discipline</a> or{" "}
           <a className="link" onClick={() => go("geography")}>geography</a>.
         </p>
+        {window.RandomInline ? <window.RandomInline go={go} /> : null}
       </section>
 
-      {window.RandomCTA ? <window.RandomCTA go={go} /> : null}
+      {window.TodaysPick ? <window.TodaysPick go={go} /> : null}
 
       <div className="hair wrap" style={{ marginTop: 24 }} />
 

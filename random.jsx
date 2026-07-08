@@ -62,4 +62,20 @@ function RandomButton({ go, currentName }) {
   );
 }
 
-Object.assign(window, { pickRandomStudio, RandomCTA, RandomButton });
+Object.assign(window, { pickRandomStudio, RandomCTA, RandomButton, RandomInline });
+
+// Compact inline button — sits under the masthead paragraph.
+function RandomInline({ go }) {
+  const [spin, setSpin] = React.useState(false);
+  const open = () => {
+    setSpin(true);
+    const s = pickRandomStudio(null);
+    if (s) go("studio", { name: s.name });
+  };
+  return (
+    <button className="random-inline" onClick={open}>
+      <span>Open a random studio</span>
+      <span className={`random-glyph ${spin ? "is-spin" : ""}`} onAnimationEnd={() => setSpin(false)} aria-hidden="true">⤳</span>
+    </button>
+  );
+}
