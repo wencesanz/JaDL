@@ -443,6 +443,28 @@ em { font-style: italic; }
 .random-glyph { display: inline-block; }
 .random-glyph.is-spin { animation: random-spin .5s cubic-bezier(.5,.05,.2,1); }
 
+/* Recently Viewed — homepage section + studio-page footer variant */
+.rv-section { padding-top: 30px; }
+.rv-head { margin-bottom: 14px; }
+.rv-eyebrow {
+  font-family: var(--mono); font-size: 10.5px; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--mute);
+}
+.rv-list { display: flex; flex-wrap: wrap; gap: 8px; }
+.rv-chip {
+  display: inline-flex; align-items: baseline; gap: 9px;
+  padding: 8px 14px; border: 1px solid var(--rule); border-radius: 999px;
+  background: none; cursor: pointer; text-align: left;
+  transition: border-color .16s ease, transform .16s ease;
+}
+.rv-chip:hover { border-color: var(--ink); transform: translateY(-1px); }
+.rv-name { font-family: var(--serif); font-size: 15px; letter-spacing: -0.01em; color: var(--ink); }
+.rv-loc { font-family: var(--mono); font-size: 10.5px; letter-spacing: 0.03em; color: var(--mute); }
+.rv-chip:hover .rv-name { color: var(--accent, var(--ink)); }
+.rv-inline { margin-top: 40px; padding-top: 28px; border-top: 1px solid var(--rule); }
+.rv-inline .rv-eyebrow { display: block; margin-bottom: 14px; }
+@media (max-width: 480px) { .rv-loc { display: none; } }
+
 /* Today's Pick — daily featured studio card */
 .pick-card {
   display: grid;

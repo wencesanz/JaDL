@@ -107,6 +107,11 @@ function StudioDetail({ name, go }) {
   const host = (s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "");
   const igHandle = (s.ig || "").split("/").filter(Boolean).pop();
 
+  // Record this visit for the Recently Viewed feature (deduped, capped).
+  usePdEffect(() => {
+    if (window.recordVisit) window.recordVisit(s.name);
+  }, [s.name]);
+
   // Share helpers — use the current page URL so people land on this studio
   // when the link is opened.
   const shareUrl = typeof window !== "undefined" ? window.location.href : "";
@@ -336,6 +341,8 @@ function StudioDetail({ name, go }) {
           <span className="t">{next.name}</span>
         </div>
       </div>
+
+      {window.RecentlyViewedInline ? <window.RecentlyViewedInline go={go} excludeName={s.name} /> : null}
     </div>
   );
 }
