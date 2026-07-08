@@ -44,6 +44,8 @@ function IndexView({ go }) {
 
       {window.TodaysPick ? <window.TodaysPick go={go} /> : null}
 
+      {window.RecentlyViewed ? <window.RecentlyViewed go={go} /> : null}
+
       <div className="hair wrap" style={{ marginTop: 24 }} />
 
       {/* counts strip */}
