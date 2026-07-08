@@ -80,7 +80,7 @@ function TodaysPick({ go }) {
         <div className="pick-body">
           <div className="pick-eyebrow">
             <span className="pick-dot" aria-hidden="true" />
-            Today&rsquo;s Pick
+            Today&rsquo;s Discovery
             <span className="pick-date">{today}</span>
           </div>
           <div className="pick-name">{pick.name}</div>

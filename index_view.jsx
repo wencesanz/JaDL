@@ -60,9 +60,9 @@ function IndexView({ go }) {
 
       {/* typographic note */}
       <section className="wrap" style={{ paddingTop: 80, paddingBottom: 80 }}>
-        <div style={{ display: "grid", gridTemplateColumns: "160px 1fr", gap: 32 }}>
+        <div className="home-note">
           <Eyebrow num="§02">Note</Eyebrow>
-          <div style={{ fontFamily: "var(--serif)", fontSize: "clamp(30px, 4vw, 56px)", lineHeight: 1.18, letterSpacing: "-0.01em", maxWidth: "26ch" }}>
+          <div className="home-note-body">
             {d.note}
           </div>
         </div>

@@ -270,6 +270,7 @@ em { font-style: italic; }
 /* --- footer --- */
 .foot { margin-top: 120px; padding-top: 40px; border-top: 1px solid var(--rule); }
 .foot-grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 32px; align-items: start; }
+.foot .links a { overflow-wrap: anywhere; }
 .foot h3 { font-family: var(--serif); font-weight: 400; font-size: 34px; letter-spacing: -0.01em; margin: 0 0 24px; grid-column: span 6; }
 .foot .addr { grid-column: span 3; }
 .foot .links { grid-column: span 3; display: grid; gap: 10px; }
@@ -464,6 +465,10 @@ em { font-style: italic; }
 .rv-inline { margin-top: 40px; padding-top: 28px; border-top: 1px solid var(--rule); }
 .rv-inline .rv-eyebrow { display: block; margin-bottom: 14px; }
 @media (max-width: 480px) { .rv-loc { display: none; } }
+
+/* homepage typographic note */
+.home-note { display: grid; grid-template-columns: 160px 1fr; gap: 32px; }
+.home-note-body { font-family: var(--serif); font-size: clamp(30px, 4vw, 56px); line-height: 1.18; letter-spacing: -0.01em; max-width: 26ch; text-wrap: pretty; }
 
 /* Today's Pick — daily featured studio card */
 .pick-card {
@@ -1456,6 +1461,15 @@ em { font-style: italic; }
   .foot-grid h3 { font-size: clamp(28px, 7vw, 36px) !important; }
   .colophon { flex-wrap: wrap; gap: 8px 16px; }
 
+  /* Homepage note → stack, smaller */
+  .home-note { grid-template-columns: 1fr !important; gap: 12px !important; }
+  .home-note-body { font-size: clamp(26px, 7vw, 34px) !important; max-width: none !important; }
+
+  /* Studio prev/next → stack, wrap long names */
+  .pd-next { grid-template-columns: 1fr !important; gap: 28px !important; padding-top: 40px !important; margin-top: 40px !important; }
+  .pd-next .side.right { text-align: left !important; }
+  .pd-next .t { font-size: clamp(26px, 7vw, 32px) !important; overflow-wrap: anywhere; }
+
   /* Submit form */
   .submit-form .two { grid-template-columns: 1fr !important; }
   .submit-form input,
@@ -1497,4 +1511,41 @@ em { font-style: italic; }
   background: var(--ink);
   color: var(--paper);
   border-color: var(--ink);
+}
+
+
+/* ============================================================
+   RESPONSIVE HARDENING — fixes for mobile grid collapse & overflow
+   (kept at end of file so source order wins the cascade)
+   ============================================================ */
+
+/* Kill phantom horizontal scroll from the off-canvas mobile drawer,
+   which is parked at translateX(100%) and would otherwise widen the
+   page to ~2× the viewport. `clip` (not `hidden`) so it never turns
+   the root into a scroll container and never breaks position:sticky. */
+html { overflow-x: clip; }
+
+/* Twelve-column wrap grids only reset their CHILDREN to span the full
+   width on mobile, but left the CONTAINER at repeat(12,1fr). Under
+   min-content pressure that produced fragile 0px implicit tracks and
+   sideways overflow. Collapse the containers to a single track and let
+   the fr tracks shrink. */
+@media (max-width: 960px) {
+  .pd-body,
+  .pd-credits,
+  .about-grid { grid-template-columns: 1fr !important; }
+  .pd-body > *,
+  .pd-credits > *,
+  .about-grid > *,
+  .about-side dl,
+  .pd-credits dl { min-width: 0; }
+}
+
+@media (max-width: 600px) {
+  /* Footer children keep their desktop grid-column spans (span 6/3/12),
+     which broke the single-column mobile layout. Force each into the
+     one available column. */
+  .foot-grid > * { grid-column: 1 / -1 !important; }
+  /* Long, non-wrapping studio URL / handle in the detail side column */
+  .side-col a > span:first-child { min-width: 0; }
 }
