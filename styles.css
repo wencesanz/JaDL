@@ -477,6 +477,8 @@ em { font-style: italic; }
   gap: 24px;
   align-items: stretch;
   border: 1px solid var(--rule);
+  border-radius: 14px;
+  overflow: hidden;
   background: var(--paper);
   cursor: pointer;
   transition: border-color .16s ease, transform .16s ease;
