@@ -2480,16 +2480,6 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
-    "name": "DesignStudio",
-    "category": "Branding",
-    "city": "London, New York, Sydney, ShangHai",
-    "country": "UK, USA, Australia, China",
-    "ig": "https://www.instagram.com/__designstudio__/",
-    "url": "https://design.studio/",
-    "created": "2023-06-22T14:09:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
-  },
-  {
     "name": "Desisto",
     "category": "Graphic Design, Branding",
     "city": "Lisbon",
@@ -2780,6 +2770,26 @@
     "edited": "2026-05-20T21:31:00.000Z"
   },
   {
+    "name": "Emma Kaniuk",
+    "category": "Branding",
+    "city": "Sydney",
+    "country": "Australia",
+    "ig": "https://www.instagram.com/emmakaniuk.studio/",
+    "url": "https://emmakaniuk.com/",
+    "created": "2026-07-12T14:08:00.000Z",
+    "edited": "2026-07-12T14:09:00.000Z"
+  },
+  {
+    "name": "eNaR",
+    "category": "Branding",
+    "city": "Manchester",
+    "country": "UK",
+    "ig": "https://www.instagram.com/studioenar",
+    "url": "https://studioenar.co.uk/",
+    "created": "2026-07-12T14:02:00.000Z",
+    "edited": "2026-07-12T14:03:00.000Z"
+  },
+  {
     "name": "Ensemble",
     "category": "Branding, Interactive",
     "city": "Paris",
@@ -2878,6 +2888,16 @@
     "url": "https://estplus6.com/",
     "created": "2026-06-05T09:57:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "ESTABLISHED.",
+    "category": "Branding, Interactive, Advertising, Packaging",
+    "city": "New York, Barcelona",
+    "country": "USA, Spain",
+    "ig": "https://www.instagram.com/establishednyc",
+    "url": "https://establishednyc.com/",
+    "created": "2026-07-12T14:12:00.000Z",
+    "edited": "2026-07-12T14:14:00.000Z"
   },
   {
     "name": "Estudio Blende",
@@ -3368,6 +3388,16 @@
     "url": "https://www.freytaganderson.com/",
     "created": "2023-06-02T11:59:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Further",
+    "category": "Branding",
+    "city": "London, New York, Dubai",
+    "country": "UK, USA, United Arab Emirates",
+    "ig": "https://www.instagram.com/further_agency/",
+    "url": "https://www.further.group/",
+    "created": "2023-06-22T14:09:00.000Z",
+    "edited": "2026-07-12T14:07:00.000Z"
   },
   {
     "name": "Futur Neue",
@@ -4338,6 +4368,16 @@
     "url": "https://www.jam3.com/",
     "created": "2023-06-01T11:43:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Jamie Quantrill",
+    "category": "Branding, Motion Graphics, Interactive",
+    "city": "Bristol",
+    "country": "UK",
+    "ig": "https://www.instagram.com/jamie.quantrill",
+    "url": "https://www.jamiequantrill.co.uk/",
+    "created": "2026-07-12T14:17:00.000Z",
+    "edited": "2026-07-12T14:18:00.000Z"
   },
   {
     "name": "Jason Schulte Design",
@@ -5468,6 +5508,16 @@
     "url": "https://meat.studio/",
     "created": "2023-06-20T15:07:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Melody Digital",
+    "category": "Branding, Graphic Design, Motion Graphics, Interactive, Packaging",
+    "city": "Los Angeles",
+    "country": "USA",
+    "ig": "",
+    "url": "https://melodydigital.co/",
+    "created": "2026-07-12T13:59:00.000Z",
+    "edited": "2026-07-12T14:00:00.000Z"
   },
   {
     "name": "Memory",
@@ -8728,6 +8778,16 @@
     "url": "https://jimbobarbu.com/",
     "created": "2023-05-30T17:26:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Studio Leichtfried",
+    "category": "Branding, Graphic Design, Packaging, Interactive",
+    "city": "Vienna",
+    "country": "Austria",
+    "ig": "https://www.instagram.com/studioleichtfried/",
+    "url": "https://leichtfried.com/",
+    "created": "2026-07-12T13:56:00.000Z",
+    "edited": "2026-07-12T13:57:00.000Z"
   },
   {
     "name": "Studio Little Nice Things",
