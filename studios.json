@@ -740,6 +740,16 @@
     "edited": "2026-05-20T21:17:00.000Z"
   },
   {
+    "name": "Arrae Studio",
+    "category": "Branding",
+    "city": "Gold Coast",
+    "country": "Australia",
+    "ig": "https://www.instagram.com/arrae.studio/",
+    "url": "https://arrae.studio/",
+    "created": "2026-07-13T11:12:00.000Z",
+    "edited": "2026-07-13T11:14:00.000Z"
+  },
+  {
     "name": "Art Recherche Industrie",
     "category": "Branding, Graphic Design",
     "city": "Paris",
@@ -788,6 +798,16 @@
     "url": "https://www.ascendstudio.co.uk/",
     "created": "2023-05-29T10:35:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Ashfall Studio",
+    "category": "Branding, Interactive",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "ig": "https://www.instagram.com/ashfall_studio/",
+    "url": "https://ashfall.studio/",
+    "created": "2026-07-13T11:52:00.000Z",
+    "edited": "2026-07-13T11:53:00.000Z"
   },
   {
     "name": "Asís",
@@ -2358,16 +2378,6 @@
     "url": "https://danielstuhlpfarrer.com/",
     "created": "2024-12-17T11:39:00.000Z",
     "edited": "2026-05-20T20:22:00.000Z"
-  },
-  {
-    "name": "Danilo Rodrigues",
-    "category": "Interactive, Branding",
-    "city": "Sao Paulo",
-    "country": "Brazil",
-    "ig": "https://www.instagram.com/danrodrigues/",
-    "url": "https://danilorodrigues.com/",
-    "created": "2023-05-29T23:35:00.000Z",
-    "edited": "2026-05-20T21:27:00.000Z"
   },
   {
     "name": "Darling",
@@ -4530,6 +4540,16 @@
     "edited": "2026-05-20T21:19:00.000Z"
   },
   {
+    "name": "Jordan Metcalf Studio",
+    "category": "Branding, Packaging, Typography",
+    "city": "Portland",
+    "country": "USA",
+    "ig": "https://www.instagram.com/jordan_metcalf/",
+    "url": "https://jordan-metcalf.com/",
+    "created": "2026-07-13T11:47:00.000Z",
+    "edited": "2026-07-13T11:48:00.000Z"
+  },
+  {
     "name": "Jozef Ondrik",
     "category": "Graphic Design, Typography",
     "city": "Brno, Prague",
@@ -5640,6 +5660,16 @@
     "edited": "2026-05-20T20:18:00.000Z"
   },
   {
+    "name": "Milkshake",
+    "category": "Branding, Interactive",
+    "city": "New York",
+    "country": "USA",
+    "ig": "https://www.instagram.com/milkshake_bk/",
+    "url": "https://milkshake.studio/",
+    "created": "2026-07-13T11:54:00.000Z",
+    "edited": "2026-07-13T11:56:00.000Z"
+  },
+  {
     "name": "MILL3",
     "category": "Interactive, Graphic Design",
     "city": "Montreal",
@@ -6528,6 +6558,16 @@
     "url": "https://onlystudio.co.uk/",
     "created": "2023-05-30T17:27:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Open Studio Sthlm",
+    "category": "Branding, Graphic Design, Packaging, Interactive",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "ig": "https://www.instagram.com/openstudio/",
+    "url": "https://openstudiostockholm.com/",
+    "created": "2026-07-13T11:15:00.000Z",
+    "edited": "2026-07-13T11:17:00.000Z"
   },
   {
     "name": "OPENING HOURS STUDIO",
@@ -8160,6 +8200,16 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
+    "name": "Smack Bang",
+    "category": "Branding, Interactive, Packaging, Motion Graphics",
+    "city": "Sydney",
+    "country": "Australia",
+    "ig": "https://www.instagram.com/smackbang.co/",
+    "url": "https://smackbang.co/",
+    "created": "2026-07-13T11:49:00.000Z",
+    "edited": "2026-07-13T11:51:00.000Z"
+  },
+  {
     "name": "Small",
     "category": "Branding",
     "city": "Alicante",
@@ -8277,7 +8327,7 @@
     "ig": "https://www.instagram.com/something_great_agency/",
     "url": "https://www.something-great.com.au/",
     "created": "2026-06-21T18:44:00.000Z",
-    "edited": "2026-06-21T18:45:00.000Z"
+    "edited": "2026-07-13T11:45:00.000Z"
   },
   {
     "name": "Sometimes Always",
@@ -8288,6 +8338,16 @@
     "url": "https://sometimes-always.com/",
     "created": "2023-05-30T00:18:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Somewhere Else",
+    "category": "Branding, Packaging",
+    "city": "Singapore",
+    "country": "Singapore",
+    "ig": "https://www.instagram.com/somewhereelse.co",
+    "url": "https://somewhere-else.co/",
+    "created": "2026-07-13T11:25:00.000Z",
+    "edited": "2026-07-13T11:44:00.000Z"
   },
   {
     "name": "Sonny & Biddy",
@@ -8920,6 +8980,26 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
+    "name": "Studio Odea",
+    "category": "Branding, Graphic Design, Packaging, Interactive, Advertising, Illustration, Motion Graphics",
+    "city": "Sydney, Brisbane",
+    "country": "Australia",
+    "ig": "",
+    "url": "https://studioodea.com.au/",
+    "created": "2026-07-13T11:22:00.000Z",
+    "edited": "2026-07-13T11:24:00.000Z"
+  },
+  {
+    "name": "Studio Oker",
+    "category": "Branding, Packaging, Interactive",
+    "city": "Stavanger",
+    "country": "Norway",
+    "ig": "https://www.instagram.com/studio.oker/",
+    "url": "https://oker.com/",
+    "created": "2026-07-13T11:56:00.000Z",
+    "edited": "2026-07-13T11:58:00.000Z"
+  },
+  {
     "name": "Studio Oliver Helfrich",
     "category": "Branding, Illustration, Graphic Design",
     "city": "Amsterdam",
@@ -9128,6 +9208,16 @@
     "url": "https://stupid-studio.com/",
     "created": "2023-05-31T06:38:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Stuurmen",
+    "category": "Branding, Packaging, Interactive, Motion Graphics",
+    "city": "Eindhoven",
+    "country": "The Netherlands",
+    "ig": "https://www.instagram.com/stuurmen/",
+    "url": "https://stuur.men/",
+    "created": "2026-07-13T11:18:00.000Z",
+    "edited": "2026-07-13T11:20:00.000Z"
   },
   {
     "name": "Sublimio",
