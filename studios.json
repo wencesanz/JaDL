@@ -940,6 +940,16 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
+    "name": "AWP",
+    "category": "Branding, Graphic Design, Packaging",
+    "city": "Montreal",
+    "country": "Canada",
+    "ig": "https://www.instagram.com/asweproceed.co",
+    "url": "https://awp.work/",
+    "created": "2026-07-14T08:04:00.000Z",
+    "edited": "2026-07-14T08:06:00.000Z"
+  },
+  {
     "name": "Axel Pelletanche",
     "category": "Branding, Graphic Design",
     "city": "Paris",
@@ -2380,6 +2390,16 @@
     "edited": "2026-05-20T20:22:00.000Z"
   },
   {
+    "name": "Daria Stetsenko",
+    "category": "Graphic Design",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "ig": "https://www.instagram.com/daria_stetsenko",
+    "url": "https://dariastetsenko.com/",
+    "created": "2026-07-14T08:01:00.000Z",
+    "edited": "2026-07-14T08:01:00.000Z"
+  },
+  {
     "name": "Darling",
     "category": "Branding, Advertising, Interactive, Graphic Design",
     "city": "Singapore",
@@ -2830,6 +2850,16 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
+    "name": "ENSEMBLE",
+    "category": "Branding, Interactive, Packaging",
+    "city": "Manchester",
+    "country": "UK",
+    "ig": "https://www.instagram.com/ensemble_snaps/",
+    "url": "https://www.weareensemble.co.uk/",
+    "created": "2026-07-14T08:09:00.000Z",
+    "edited": "2026-07-14T08:11:00.000Z"
+  },
+  {
     "name": "ENVOY",
     "category": "Branding, Interactive, Advertising",
     "city": "Irvine",
@@ -3081,13 +3111,13 @@
   },
   {
     "name": "fase",
-    "category": "",
+    "category": "Branding, Graphic Design, Packaging",
     "city": "Valencia",
     "country": "Spain",
-    "ig": "",
+    "ig": "https://www.instagram.com/fase.studio/",
     "url": "https://fase-studio.com/",
     "created": "2023-06-02T18:25:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-14T07:55:00.000Z"
   },
   {
     "name": "FCKLCK STUDIO",
@@ -3568,6 +3598,16 @@
     "url": "https://www.gemmamahoney.com/",
     "created": "2026-07-07T14:55:00.000Z",
     "edited": "2026-07-07T14:56:00.000Z"
+  },
+  {
+    "name": "Geoffrey Mark Taylor",
+    "category": "Branding, Graphic Design, Interactive",
+    "city": "Melbourne",
+    "country": "Australia",
+    "ig": "https://www.instagram.com/geoffreymarktaylor/",
+    "url": "https://geoffreymarktaylor.com/",
+    "created": "2026-07-14T08:07:00.000Z",
+    "edited": "2026-07-14T08:08:00.000Z"
   },
   {
     "name": "George&Harrison",
@@ -5100,16 +5140,6 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
-    "name": "Lucas Ramos",
-    "category": "Graphic Design",
-    "city": "Sao Paulo",
-    "country": "Brazil",
-    "ig": "https://www.instagram.com/luvaswork",
-    "url": "https://luvas.work/",
-    "created": "2026-05-07T14:32:00.000Z",
-    "edited": "2026-05-20T20:13:00.000Z"
-  },
-  {
     "name": "Ludovic Balland",
     "category": "Graphic Design, Typography",
     "city": "Basel",
@@ -5317,16 +5347,6 @@
     "ig": "https://www.instagram.com/marcmonguilod/",
     "url": "http://www.marcmonguilod.com/",
     "created": "2023-05-29T16:54:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
-  },
-  {
-    "name": "MARCD",
-    "category": "Branding, Interactive, Packaging",
-    "city": "New York",
-    "country": "USA",
-    "ig": "https://www.instagram.com/marcd.co/",
-    "url": "https://marcd.co/",
-    "created": "2024-10-15T15:07:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
@@ -10228,6 +10248,16 @@
     "url": "https://wozere.com/",
     "created": "2023-06-04T18:32:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "XKM Studio",
+    "category": "Branding, Interactive, Packaging, Graphic Design",
+    "city": "New York",
+    "country": "USA",
+    "ig": "https://www.instagram.com/xkmstudio/",
+    "url": "https://xkm.studio/",
+    "created": "2024-10-15T15:07:00.000Z",
+    "edited": "2026-07-14T07:58:00.000Z"
   },
   {
     "name": "XXIX",
