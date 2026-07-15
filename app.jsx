@@ -23,6 +23,11 @@ function routeToPath(r) {
   if (!r) return "/";
   switch (r.view) {
     case "studio": return `/studio/${slugify(r.name || "")}`;
+    case "collection": {
+      const cfg = (window.COLLECTION_KINDS || {})[r.kind];
+      return cfg ? `/${cfg.singular}/${slugify(r.value || "")}` : "/";
+    }
+    case "collectionHub": return `/${r.kind}`; // r.kind is the plural: disciplines|countries|cities
     case "studios": {
       const f = r.filter || {};
       const qs = new URLSearchParams();
@@ -50,6 +55,15 @@ function pathToRoute(pathname, search) {
     const s = findStudioBySlug(parts[1]);
     return s ? { view: "studio", name: s.name } : { view: "index" };
   }
+  // Auto-generated taxonomy collections: /discipline/<slug>, /country/<slug>, /city/<slug>
+  if (["discipline", "country", "city"].includes(seg) && parts[1]) {
+    const value = window.collSlugToValue ? window.collSlugToValue(seg, parts[1]) : null;
+    return value ? { view: "collection", kind: seg, value } : { view: "index" };
+  }
+  // Collection hubs: /disciplines, /countries, /cities
+  if (["disciplines", "countries", "cities"].includes(seg)) {
+    return { view: "collectionHub", kind: seg };
+  }
   if (seg === "studios") {
     const qs = new URLSearchParams(search || "");
     const filter = {};
@@ -73,6 +87,8 @@ function legacyHashToPath() {
   const seg = parts[0];
   if (!seg) return "/";
   if (seg === "studio" && parts[1]) return `/studio/${parts[1]}`;
+  if (["discipline", "country", "city"].includes(seg) && parts[1]) return `/${seg}/${parts[1]}`;
+  if (["disciplines", "countries", "cities"].includes(seg)) return `/${seg}`;
   if (seg === "studios") return queryStr ? `/studios?${queryStr}` : "/studios";
   if (["geography", "categories", "submit", "about", "list"].includes(seg)) return `/${seg}`;
   return "/";
@@ -98,11 +114,58 @@ function upsertLink(rel, href) {
   }
   el.setAttribute("href", href);
 }
+// Single managed robots tag — lets us noindex thin collection pages without
+// touching the crawlable link graph (they stay linked, just not indexed).
+function setRobots(content) {
+  let el = document.head.querySelector('meta[name="robots"]');
+  if (content == null) { if (el) el.remove(); return; }
+  if (!el) { el = document.createElement("meta"); el.setAttribute("name", "robots"); document.head.appendChild(el); }
+  el.setAttribute("content", content);
+}
+// Single managed JSON-LD block, replaced per route.
+function setJsonLd(nodes) {
+  let el = document.getElementById("route-jsonld");
+  if (!nodes || !nodes.length) { if (el) el.remove(); return; }
+  if (!el) { el = document.createElement("script"); el.type = "application/ld+json"; el.id = "route-jsonld"; document.head.appendChild(el); }
+  el.textContent = JSON.stringify(nodes.length === 1 ? nodes[0] : nodes);
+}
+// ---------- JSON-LD builders (schema.org) ----------
+function breadcrumbLd(pairs) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: pairs.map(([name, item], i) => ({
+      "@type": "ListItem", position: i + 1, name, item,
+    })),
+  };
+}
+function collectionLd(name, description, url, studios) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name,
+    description,
+    url,
+    isPartOf: { "@type": "WebSite", name: "Just a Design List", url: SITE_BASE + "/" },
+    mainEntity: {
+      "@type": "ItemList",
+      numberOfItems: studios.length,
+      itemListElement: studios.slice(0, 100).map((s, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        url: `${SITE_BASE}/studio/${slugify(s.name)}`,
+        name: s.name,
+      })),
+    },
+  };
+}
 function setMeta(route) {
   const d = window.SITE || {};
   let title = "Just a Design List — A curated directory of design practices";
   let desc = "A slow, curated index of design studios and independent practices. 814 entries across 54 countries.";
   let image = null;
+  let robots = null;
+  let jsonld = [];
   const url = SITE_BASE + routeToPath(route);
 
   if (route.view === "studio") {
@@ -130,9 +193,32 @@ function setMeta(route) {
     title = "Submit a studio · Just a Design List"; desc = "Suggest a design studio or independent practice for the index.";
   } else if (route.view === "list") {
     title = "My List · Just a Design List"; desc = "Studios you've saved on this browser.";
+  } else if (route.view === "collectionHub") {
+    const cfg = Object.values(window.COLLECTION_KINDS || {}).find((c) => c.plural === route.kind);
+    const lp = cfg ? cfg.labelPlural : "Collections";
+    title = `Design ${lp.toLowerCase()} · Just a Design List`;
+    desc = `Browse the index of design studios by ${cfg ? cfg.singular : "collection"}. Every ${cfg ? cfg.singular : "collection"} represented across the directory.`;
+    jsonld = [breadcrumbLd([["Home", SITE_BASE + "/"], [lp, url]])];
+  } else if (route.view === "collection") {
+    const studios = window.collStudiosFor ? window.collStudiosFor(route.kind, route.value) : [];
+    const c = window.collCopy ? window.collCopy(route.kind, route.value, studios.length) : { title, desc };
+    title = c.title; desc = c.desc;
+    // Thin pages (0–1 studios) are linked but not indexed, to avoid duplicate/thin content.
+    if (studios.length < 2) robots = "noindex, follow";
+    const cfg = (window.COLLECTION_KINDS || {})[route.kind] || {};
+    jsonld = [
+      collectionLd(title, desc, url, studios),
+      breadcrumbLd([
+        ["Home", SITE_BASE + "/"],
+        [cfg.labelPlural || "Collections", SITE_BASE + "/" + (cfg.plural || "")],
+        [route.value, url],
+      ]),
+    ];
   }
 
   document.title = title;
+  setRobots(robots);
+  setJsonLd(jsonld);
   upsertMeta("name", "description", desc);
   upsertLink("canonical", url);
   upsertMeta("property", "og:title", title);
@@ -187,7 +273,7 @@ function App() {
     }
     setMeta(route);
     window.scrollTo({ top: 0, behavior: "instant" });
-  }, [route.view, route.name, route.filter?.cat, route.filter?.country, route.filter?.city]);
+  }, [route.view, route.name, route.kind, route.value, route.filter?.cat, route.filter?.country, route.filter?.city]);
 
   useEffect(() => {
     const onPop = () => setRoute(pathToRoute(window.location.pathname, window.location.search));
@@ -225,6 +311,8 @@ function App() {
     case "about": body = <AboutView go={go} />; break;
     case "list": body = <MyListView go={go} />; break;
     case "studio": body = <StudioDetail name={route.name} go={go} />; break;
+    case "collection": body = <CollectionView kind={route.kind} value={route.value} go={go} />; break;
+    case "collectionHub": body = <CollectionHubView kind={route.kind} go={go} />; break;
     default: body = <IndexView go={go} />;
   }
 

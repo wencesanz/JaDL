@@ -2,6 +2,12 @@
   "cleanUrls": true,
   "rewrites": [
     { "source": "/studio/:slug", "destination": "/index.html" },
+    { "source": "/discipline/:slug", "destination": "/index.html" },
+    { "source": "/country/:slug", "destination": "/index.html" },
+    { "source": "/city/:slug", "destination": "/index.html" },
+    { "source": "/disciplines", "destination": "/index.html" },
+    { "source": "/countries", "destination": "/index.html" },
+    { "source": "/cities", "destination": "/index.html" },
     { "source": "/studios", "destination": "/index.html" },
     { "source": "/geography", "destination": "/index.html" },
     { "source": "/categories", "destination": "/index.html" },

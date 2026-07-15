@@ -916,6 +916,11 @@ em { font-style: italic; }
 .country-row .arr { font-family: var(--mono); font-size: 14px; color: var(--mute); text-align: right; transition: transform .3s, color .2s; }
 .country-row:hover .arr { color: var(--ink); transform: translateX(4px); }
 
+/* --- collection pages (auto-generated taxonomy) --- */
+.coll-facets { display: grid; gap: 22px; margin-top: 36px; padding-top: 28px; border-top: 1px solid var(--rule); }
+.coll-facets .lbl { font-family: var(--mono); font-size: 11px; color: var(--mute); letter-spacing: 0.06em; text-transform: uppercase; }
+.coll-facets .chips { justify-content: flex-start; }
+
 /* --- recent additions list on index --- */
 .recent-list { border-top: 1px solid var(--rule); }
 .recent-row { display: grid; grid-template-columns: 180px 1.3fr 1.2fr 1fr; gap: 24px; padding: 16px 0; border-bottom: 1px solid var(--rule-soft); cursor: pointer; align-items: baseline; }

@@ -290,15 +290,15 @@ function StudioDetail({ name, go }) {
             const t = c.trim();
             return (
               <React.Fragment key={t}>
-                <dt onClick={() => go("studios", { filter: { cat: t } })} style={{ cursor: "pointer" }}>{t}</dt>
-                <dd onClick={() => go("studios", { filter: { cat: t } })} style={{ cursor: "pointer", color: "var(--ink-2)" }}>
+                <dt onClick={() => go("collection", { kind: "discipline", value: t })} style={{ cursor: "pointer" }}>{t}</dt>
+                <dd onClick={() => go("collection", { kind: "discipline", value: t })} style={{ cursor: "pointer", color: "var(--ink-2)" }}>
                   <span className="link" style={{ color: "var(--accent)" }}>See all {d.byCat[t]} →</span>
                 </dd>
               </React.Fragment>
             );
           })}
-          <dt onClick={() => go("studios", { filter: { country: s.country.split(",")[0].trim() } })} style={{ cursor: "pointer" }}>{s.country.split(",")[0]}</dt>
-          <dd onClick={() => go("studios", { filter: { country: s.country.split(",")[0].trim() } })} style={{ cursor: "pointer", color: "var(--ink-2)" }}>
+          <dt onClick={() => go("collection", { kind: "country", value: s.country.split(",")[0].trim() })} style={{ cursor: "pointer" }}>{s.country.split(",")[0]}</dt>
+          <dd onClick={() => go("collection", { kind: "country", value: s.country.split(",")[0].trim() })} style={{ cursor: "pointer", color: "var(--ink-2)" }}>
             <span className="link" style={{ color: "var(--accent)" }}>See all {d.byCountry[s.country.split(",")[0].trim()]} →</span>
           </dd>
         </dl>

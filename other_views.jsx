@@ -37,7 +37,7 @@ function GeographyView({ go }) {
       {tab === "countries" ? (
         <div style={{ borderTop: "1px solid var(--rule)" }}>
           {countries.map(([c, n], i) => (
-            <div key={c} className="country-row big" onClick={() => go("studios", { filter: { country: c } })}>
+            <div key={c} className="country-row big" onClick={() => go("collection", { kind: "country", value: c })}>
               <div className="n">{String(i + 1).padStart(2, "0")}</div>
               <div className="t">{c}</div>
               <div className="bar"><div className="fill" style={{ width: `${(n / max) * 100}%` }} /></div>
@@ -49,7 +49,7 @@ function GeographyView({ go }) {
       ) : (
         <div style={{ borderTop: "1px solid var(--rule)" }}>
           {cities.map(([c, n], i) => (
-            <div key={c} className="country-row big" onClick={() => go("studios", { filter: { city: c } })}>
+            <div key={c} className="country-row big" onClick={() => go("collection", { kind: "city", value: c })}>
               <div className="n">{String(i + 1).padStart(2, "0")}</div>
               <div className="t">{c}</div>
               <div className="bar"><div className="fill" style={{ width: `${(n / cities[0][1]) * 100}%` }} /></div>
@@ -93,7 +93,7 @@ function CategoriesView({ go }) {
           const textCol = isDark ? colDark : col;
           const exemplars = (d.studios || []).filter((s) => s.category.split(",").map((x) => x.trim()).includes(c)).slice(0, 4);
           return (
-            <div key={c} className="cat-long-row" style={{ "--cat-color": textCol }} onClick={() => go("studios", { filter: { cat: c } })}>
+            <div key={c} className="cat-long-row" style={{ "--cat-color": textCol }} onClick={() => go("collection", { kind: "discipline", value: c })}>
               <div className="nm">{c}</div>
               <div className="bl">{d.categoryBlurbs[c]}</div>
               <div className="ex">
