@@ -61,13 +61,13 @@
   },
   {
     "name": "1042",
-    "category": "Branding, Graphic Design, Interactive, Illustration, Advertising",
+    "category": "Branding, Graphic Design, Interactive, Illustration, Advertising/Campaigns",
     "city": "Dusseldörf",
     "country": "Germany",
     "ig": "",
     "url": "https://www.1042.studio/",
     "created": "2026-03-26T11:33:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "1stAveDesign",
@@ -171,13 +171,13 @@
   },
   {
     "name": "A Friend of Mine",
-    "category": "Branding, Advertising, Interactive, Motion Graphics",
+    "category": "Branding, Advertising/Campaigns, Interactive, Motion Graphics",
     "city": "Melbourne",
     "country": "Australia",
     "ig": "https://www.instagram.com/afriendofminedesignstudio",
     "url": "https://afom.com.au/",
     "created": "2024-10-10T16:08:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "A Line Studio",
@@ -851,13 +851,13 @@
   },
   {
     "name": "Atelier Dyakova",
-    "category": "Branding, Graphic Design, Interactive, Motion Graphics, Advertising, Packaging",
+    "category": "Branding, Graphic Design, Interactive, Motion Graphics, Advertising/Campaigns, Packaging",
     "city": "London",
     "country": "UK",
     "ig": "https://www.instagram.com/atelierdyakova/",
     "url": "https://atelierdyakova.com/",
     "created": "2026-07-21T07:52:00.000Z",
-    "edited": "2026-07-21T07:53:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Atelier Maève",
@@ -1761,13 +1761,13 @@
   },
   {
     "name": "CASE Agency",
-    "category": "Branding, Graphic Design, Interactive, Packaging, Motion Graphics, Advertising",
+    "category": "Branding, Graphic Design, Interactive, Packaging, Motion Graphics, Advertising/Campaigns",
     "city": "New York, Los Angeles",
     "country": "USA",
     "ig": "https://www.instagram.com/caseagency/",
     "url": "https://www.caseagency.com/",
     "created": "2026-05-10T06:54:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Caserne",
@@ -1888,6 +1888,16 @@
     "url": "http://chloescheffe.github.io/index.html",
     "created": "2023-05-29T23:59:00.000Z",
     "edited": "2026-05-20T21:26:00.000Z"
+  },
+  {
+    "name": "Chris Biron",
+    "category": "Interactive",
+    "city": "Bordeaux",
+    "country": "France",
+    "ig": "https://www.instagram.com/biron.io",
+    "url": "https://biron.io/",
+    "created": "2026-07-22T09:29:00.000Z",
+    "edited": "2026-07-22T09:31:00.000Z"
   },
   {
     "name": "Christopher Doyle & Co.",
@@ -2101,13 +2111,13 @@
   },
   {
     "name": "Collection",
-    "category": "Branding, Graphic Design, Advertising",
+    "category": "Branding, Graphic Design, Advertising/Campaigns",
     "city": "Montreal",
     "country": "Canada",
     "ig": "https://www.instagram.com/collection.work/",
     "url": "https://www.collection.industries/",
     "created": "2026-06-11T13:28:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Collins",
@@ -2301,13 +2311,13 @@
   },
   {
     "name": "Creech",
-    "category": "Branding, Advertising",
+    "category": "Branding, Advertising/Campaigns",
     "city": "New York",
     "country": "USA",
     "ig": "https://www.instagram.com/creech_studio",
     "url": "https://creech.co/",
     "created": "2024-12-19T14:04:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Creneau",
@@ -2471,13 +2481,13 @@
   },
   {
     "name": "Darling",
-    "category": "Branding, Advertising, Interactive, Graphic Design",
+    "category": "Branding, Advertising/Campaigns, Interactive, Graphic Design",
     "city": "Singapore",
     "country": "Singapore",
     "ig": "https://www.instagram.com/darling_studio/",
     "url": "https://www.darling.sg/",
     "created": "2024-12-26T14:55:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Darren Oorloff",
@@ -2661,13 +2671,13 @@
   },
   {
     "name": "Diorama",
-    "category": "Branding, Advertising, Interactive",
+    "category": "Branding, Advertising/Campaigns, Interactive",
     "city": "Bratislava",
     "country": "Slovakia",
     "ig": "https://www.instagram.com/bydiorama/",
     "url": "https://www.bydiorama.com/",
     "created": "2024-11-22T12:53:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Division Binaural",
@@ -2788,6 +2798,16 @@
     "url": "https://www.duzi.studio/",
     "created": "2025-08-21T07:09:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Eddie Mandell",
+    "category": "Graphic Design",
+    "city": "New York",
+    "country": "USA",
+    "ig": "https://www.instagram.com/eddiemandell",
+    "url": "https://eddiemandell.com/",
+    "created": "2026-07-22T09:32:00.000Z",
+    "edited": "2026-07-22T09:33:00.000Z"
   },
   {
     "name": "EDIT",
@@ -2931,13 +2951,13 @@
   },
   {
     "name": "ENVOY",
-    "category": "Branding, Interactive, Advertising",
+    "category": "Branding, Interactive, Advertising/Campaigns",
     "city": "Irvine",
     "country": "USA",
     "ig": "",
     "url": "https://www.weareenvoy.com",
     "created": "2026-06-16T06:10:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Eric Hu studio",
@@ -3021,13 +3041,13 @@
   },
   {
     "name": "ESTABLISHED.",
-    "category": "Branding, Interactive, Advertising, Packaging",
+    "category": "Branding, Interactive, Advertising/Campaigns, Packaging",
     "city": "New York, Barcelona",
     "country": "USA, Spain",
     "ig": "https://www.instagram.com/establishednyc",
     "url": "https://establishednyc.com/",
     "created": "2026-07-12T14:12:00.000Z",
-    "edited": "2026-07-12T14:14:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Estudio Blende",
@@ -3651,23 +3671,23 @@
   },
   {
     "name": "Garriock & Co.",
-    "category": "Branding, Interactive, Motion Graphics, Advertising",
+    "category": "Branding, Interactive, Motion Graphics, Advertising/Campaigns",
     "city": "",
     "country": "UK, Germany",
     "ig": "",
     "url": "https://www.garriock.com/",
     "created": "2025-12-10T10:20:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "GATZARA Studio",
-    "category": "Branding, Motion Graphics, Interactive, Advertising",
+    "category": "Branding, Motion Graphics, Interactive, Advertising/Campaigns",
     "city": "Barcelona",
     "country": "Spain",
     "ig": "https://www.instagram.com/gatzara.studio/",
     "url": "https://gatzara.studio/",
     "created": "2026-02-02T14:44:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Gavillet & Cie",
@@ -3811,13 +3831,13 @@
   },
   {
     "name": "Gold Front",
-    "category": "Branding, Interactive, Advertising",
+    "category": "Branding, Interactive, Advertising/Campaigns",
     "city": "San Francisco",
     "country": "USA",
     "ig": "https://www.instagram.com/goldfront/",
     "url": "https://www.goldfront.com/",
     "created": "2024-11-12T06:50:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Good Habit",
@@ -3831,13 +3851,13 @@
   },
   {
     "name": "Goodside",
-    "category": "Branding, Illustration, Interactive, Packaging, Advertising",
+    "category": "Branding, Illustration, Interactive, Packaging, Advertising/Campaigns",
     "city": "Austin",
     "country": "USA",
     "ig": "https://www.instagram.com/goodside_studio/",
     "url": "https://www.goodside.studio/",
     "created": "2026-06-23T06:06:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Grafik",
@@ -3851,23 +3871,23 @@
   },
   {
     "name": "Gramática",
-    "category": "Branding, Graphic Design, Packaging, Advertising, Interactive",
+    "category": "Branding, Graphic Design, Packaging, Advertising/Campaigns, Interactive",
     "city": "London, Riga",
     "country": "UK, Latvia",
     "ig": "https://www.instagram.com/gramatica.studio/",
     "url": "https://www.gramatica.studio/",
     "created": "2024-11-22T09:28:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Graphic Services",
-    "category": "Graphic Design, Branding, Interactive, Advertising",
+    "category": "Graphic Design, Branding, Interactive, Advertising/Campaigns",
     "city": "New York",
     "country": "USA",
     "ig": "https://www.instagram.com/graphicservicesnyc/",
     "url": "https://graphicservices.nyc/",
     "created": "2024-12-12T15:12:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Graphic Thought Facility",
@@ -3911,13 +3931,13 @@
   },
   {
     "name": "Greenspace",
-    "category": "Branding, Advertising, Interactive",
+    "category": "Branding, Advertising/Campaigns, Interactive",
     "city": "London",
     "country": "UK",
     "ig": "https://www.instagram.com/the_greenspace",
     "url": "https://thegreenspace.com/",
     "created": "2026-07-16T07:47:00.000Z",
-    "edited": "2026-07-16T07:48:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Guillotina",
@@ -3931,13 +3951,13 @@
   },
   {
     "name": "Gummy Industries",
-    "category": "Branding, Interactive, Packaging, Advertising",
+    "category": "Branding, Interactive, Packaging, Advertising/Campaigns",
     "city": "Brescia",
     "country": "Italy",
     "ig": "https://www.instagram.com/gummyindustries/",
     "url": "https://gummyindustries.com/",
     "created": "2026-07-21T07:45:00.000Z",
-    "edited": "2026-07-21T07:46:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Gusta",
@@ -4101,13 +4121,13 @@
   },
   {
     "name": "Hi Shine",
-    "category": "Branding, Motion Graphics, Interactive, Advertising",
+    "category": "Branding, Motion Graphics, Interactive, Advertising/Campaigns",
     "city": "Helsinki",
     "country": "Finland",
     "ig": "https://www.instagram.com/hishine.co/",
     "url": "https://hishine.co/",
     "created": "2026-05-06T09:15:00.000Z",
-    "edited": "2026-05-20T20:17:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "High Tide",
@@ -4571,13 +4591,13 @@
   },
   {
     "name": "Jack McEntee",
-    "category": "Branding, Graphic Design, Interactive, Advertising",
+    "category": "Branding, Graphic Design, Interactive, Advertising/Campaigns",
     "city": "Los Angeles",
     "country": "USA",
     "ig": "https://www.instagram.com/jackentee.studio/",
     "url": "https://jackentee.com/",
     "created": "2026-06-19T10:15:00.000Z",
-    "edited": "2026-06-19T10:18:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Jades",
@@ -4661,13 +4681,13 @@
   },
   {
     "name": "Jekyll",
-    "category": "Branding, Illustration, Motion Graphics, Interactive, Advertising, Packaging, Graphic Design",
+    "category": "Branding, Illustration, Motion Graphics, Interactive, Advertising/Campaigns, Packaging, Graphic Design",
     "city": "Kansas City",
     "country": "USA",
     "ig": "https://www.instagram.com/jekyll.studio/",
     "url": "https://www.jekyll.studio/",
     "created": "2026-07-15T11:09:00.000Z",
-    "edited": "2026-07-15T11:11:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Jens Nilsson",
@@ -4791,13 +4811,13 @@
   },
   {
     "name": "Justified Studio",
-    "category": "Branding, Interactive, Advertising",
+    "category": "Branding, Interactive, Advertising/Campaigns",
     "city": "London",
     "country": "UK",
     "ig": "https://www.instagram.com/justified.studio",
     "url": "https://justified.studio/",
     "created": "2024-11-22T09:26:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Justin Hunt Sloane",
@@ -5021,13 +5041,13 @@
   },
   {
     "name": "la Negreta",
-    "category": "Branding, Graphic Design, Typography, Packaging, Advertising",
+    "category": "Branding, Graphic Design, Typography, Packaging, Advertising/Campaigns",
     "city": "Barcelona",
     "country": "Spain",
     "ig": "https://www.instagram.com/lanegreta",
     "url": "https://lanegreta.com/",
     "created": "2026-05-27T11:13:00.000Z",
-    "edited": "2026-05-27T11:14:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Lamm & Kirch",
@@ -5141,13 +5161,13 @@
   },
   {
     "name": "Le Fruit Studio",
-    "category": "Branding, Advertising, Interactive",
+    "category": "Branding, Advertising/Campaigns, Interactive",
     "city": "Paris",
     "country": "France",
     "ig": "https://www.instagram.com/lefruitstudio/",
     "url": "https://lefruitstudio.fr/",
     "created": "2026-07-21T07:57:00.000Z",
-    "edited": "2026-07-21T07:59:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Left Field Labs",
@@ -5171,13 +5191,13 @@
   },
   {
     "name": "Leo Design",
-    "category": "Branding, Interactive, Typography, Packaging, Graphic Design, Advertising",
+    "category": "Branding, Interactive, Typography, Packaging, Graphic Design, Advertising/Campaigns",
     "city": "Toronto",
     "country": "Canada",
     "ig": "https://www.instagram.com/leodesign_toronto/",
     "url": "https://designbyleo.ca/",
     "created": "2026-06-05T08:15:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Les Graphiquants",
@@ -5291,13 +5311,13 @@
   },
   {
     "name": "Lovework Studio",
-    "category": "Branding, Interactive, Packaging, Advertising",
+    "category": "Branding, Interactive, Packaging, Advertising/Campaigns",
     "city": "Brisbane",
     "country": "Australia",
     "ig": "https://www.instagram.com/lovework.studio",
     "url": "https://www.lovework.studio/",
     "created": "2026-07-21T07:54:00.000Z",
-    "edited": "2026-07-21T07:56:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Lower Westside Design Company",
@@ -5451,13 +5471,13 @@
   },
   {
     "name": "Maiarelli Studio",
-    "category": "Branding, Advertising, Interactive",
+    "category": "Branding, Advertising/Campaigns, Interactive",
     "city": "New York",
     "country": "USA",
     "ig": "https://www.instagram.com/maiarellistudio/",
     "url": "https://maiarellistudio.com/",
     "created": "2024-12-26T14:49:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "mainstudio",
@@ -5741,13 +5761,13 @@
   },
   {
     "name": "Mayda",
-    "category": "Advertising, Interactive",
+    "category": "Advertising/Campaigns, Interactive",
     "city": "New York",
     "country": "USA",
     "ig": "https://www.instagram.com/the.mayda.creative.co/",
     "url": "https://mayda.co/",
     "created": "2024-10-30T15:42:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Mayúscula",
@@ -5861,13 +5881,13 @@
   },
   {
     "name": "Miles Sale",
-    "category": "Branding, Interactive, Packaging, Motion Graphics, Advertising",
+    "category": "Branding, Interactive, Packaging, Motion Graphics, Advertising/Campaigns",
     "city": "Amsterdam",
     "country": "The Netherlands",
     "ig": "",
     "url": "https://miles.sale/",
     "created": "2025-07-29T12:46:00.000Z",
-    "edited": "2026-05-20T20:18:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Milkshake",
@@ -6011,13 +6031,13 @@
   },
   {
     "name": "monopo",
-    "category": "Branding, Graphic Design, Motion Graphics, Advertising",
+    "category": "Branding, Graphic Design, Motion Graphics, Advertising/Campaigns",
     "city": "London, Tokyo, Paris, New York",
     "country": "UK, Japan, France, USA",
     "ig": "https://www.instagram.com/monopo_london/",
     "url": "https://monopo.london/",
     "created": "2026-05-12T18:23:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Montasser Drissi",
@@ -6031,13 +6051,13 @@
   },
   {
     "name": "Morbo",
-    "category": "Branding, Advertising",
+    "category": "Branding, Advertising/Campaigns",
     "city": "A Coruña",
     "country": "Spain",
     "ig": "https://www.instagram.com/bymorbo",
     "url": "https://www.wearemorbo.com/",
     "created": "2026-05-26T21:28:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "MoreSimple",
@@ -6068,6 +6088,16 @@
     "url": "https://morphoria.com/",
     "created": "2023-05-30T01:19:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Mors",
+    "category": "Branding, Interactive, Packaging",
+    "city": "Milan",
+    "country": "Italy",
+    "ig": "https://www.instagram.com/worldofmors",
+    "url": "https://www.mors.design/",
+    "created": "2026-07-22T11:21:00.000Z",
+    "edited": "2026-07-22T11:23:00.000Z"
   },
   {
     "name": "Moruba",
@@ -6251,13 +6281,13 @@
   },
   {
     "name": "N.O.V.A. Lab",
-    "category": "Graphic Design, Branding, Advertising, Typography, Interactive",
+    "category": "Graphic Design, Branding, Advertising/Campaigns, Typography, Interactive",
     "city": "Barcelona",
     "country": "Spain",
     "ig": "https://www.instagram.com/nova.lab_design/",
     "url": "https://www.novalab.design/",
     "created": "2026-07-06T08:01:00.000Z",
-    "edited": "2026-07-06T08:04:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Nask",
@@ -6530,6 +6560,16 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
+    "name": "Nothin’",
+    "category": "Branding, Advertising/Campaigns, Interactive",
+    "city": "Paris",
+    "country": "France",
+    "ig": "https://www.instagram.com/nooothinatall/",
+    "url": "https://www.noth.in/",
+    "created": "2026-07-22T11:18:00.000Z",
+    "edited": "2026-07-22T11:20:00.000Z"
+  },
+  {
     "name": "Notter + Vigne",
     "category": "Graphic Design",
     "city": "Lausanne",
@@ -6641,13 +6681,13 @@
   },
   {
     "name": "OIlver Grace",
-    "category": "Branding, Interactive, Advertising",
+    "category": "Branding, Interactive, Advertising/Campaigns",
     "city": "Melbourne",
     "country": "Australia",
     "ig": "https://www.instagram.com/olivergrace.studio/?hl=en",
     "url": "https://olivergrace.com.au/",
     "created": "2026-05-10T06:52:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "OKOK Services",
@@ -6751,13 +6791,13 @@
   },
   {
     "name": "one23west",
-    "category": "Branding, Packaging, Advertising",
+    "category": "Branding, Packaging, Advertising/Campaigns",
     "city": "Vancouver, Toronto",
     "country": "Canada",
     "ig": "https://one23west.ca/",
     "url": "https://one23west.ca/",
     "created": "2026-05-09T07:04:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "OneLeft",
@@ -6961,13 +7001,13 @@
   },
   {
     "name": "PAPA TOM® Identity Studio",
-    "category": "Branding, Interactive, Advertising",
+    "category": "Branding, Interactive, Advertising/Campaigns",
     "city": "Backnang",
     "country": "Germany",
     "ig": "https://www.instagram.com/papatom.studio",
     "url": "https://papatom.studio/",
     "created": "2026-07-15T08:08:00.000Z",
-    "edited": "2026-07-15T08:10:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Paprika",
@@ -7421,13 +7461,13 @@
   },
   {
     "name": "Primary Works",
-    "category": "Branding, Motion Graphics, Interactive, Graphic Design, Advertising",
+    "category": "Branding, Motion Graphics, Interactive, Graphic Design, Advertising/Campaigns",
     "city": "Sydney",
     "country": "Australia",
     "ig": "https://www.instagram.com/primary.works",
     "url": "https://www.primary.works/",
     "created": "2026-07-16T07:35:00.000Z",
-    "edited": "2026-07-16T07:37:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Principal",
@@ -7571,13 +7611,13 @@
   },
   {
     "name": "Rareview®",
-    "category": "Branding, Graphic Design, Motion Graphics, Interactive, Advertising",
+    "category": "Branding, Graphic Design, Motion Graphics, Interactive, Advertising/Campaigns",
     "city": "San Clemente",
     "country": "USA",
     "ig": "",
     "url": "https://rareview.com/",
     "created": "2026-06-03T06:23:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Rationale",
@@ -7861,13 +7901,13 @@
   },
   {
     "name": "Rocket & Wing",
-    "category": "Branding, Graphic Design, Interactive, Packaging, Advertising",
+    "category": "Branding, Graphic Design, Interactive, Packaging, Advertising/Campaigns",
     "city": "Hamburg",
     "country": "Germany",
     "ig": "https://www.instagram.com/rocket_and_wink",
     "url": "https://www.rocketandwink.com/",
     "created": "2024-10-28T17:04:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Roger Schami",
@@ -8071,13 +8111,13 @@
   },
   {
     "name": "Sandstrom Partners",
-    "category": "Branding, Graphic Design, Packaging, Typography, Illustration, Advertising",
+    "category": "Branding, Graphic Design, Packaging, Typography, Illustration, Advertising/Campaigns",
     "city": "Portland",
     "country": "USA",
     "ig": "https://www.instagram.com/sandstrompartners/",
     "url": "https://sandstrompartners.com/",
     "created": "2026-05-30T07:38:00.000Z",
-    "edited": "2026-05-30T07:38:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Sanna Mac",
@@ -8141,13 +8181,13 @@
   },
   {
     "name": "SCCO Studio",
-    "category": "Branding, Advertising, Interactive, Typography, Packaging",
+    "category": "Branding, Advertising/Campaigns, Interactive, Typography, Packaging",
     "city": "Sydney",
     "country": "Australia",
     "ig": "https://www.instagram.com/scco.studio",
     "url": "https://scco.studio/",
     "created": "2026-06-19T10:19:00.000Z",
-    "edited": "2026-06-19T10:20:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Schaffter Sahli",
@@ -8331,13 +8371,13 @@
   },
   {
     "name": "SEVEN",
-    "category": "Branding, Motion Graphics, Interactive, Advertising",
+    "category": "Branding, Motion Graphics, Interactive, Advertising/Campaigns",
     "city": "Auckland",
     "country": "New Zealand",
     "ig": "https://www.instagram.com/seven_akl/",
     "url": "https://seven.co.nz/",
     "created": "2026-05-08T05:42:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Shaz Madani Studio",
@@ -8461,13 +8501,13 @@
   },
   {
     "name": "SLAPS",
-    "category": "Branding, Interactive, Advertising",
+    "category": "Branding, Interactive, Advertising/Campaigns",
     "city": "Barcelona, New York",
     "country": "Spain, USA",
     "ig": "https://www.instagram.com/slapscreative/",
     "url": "https://brandingthatslaps.com/",
     "created": "2024-06-11T10:04:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Smack Bang",
@@ -8601,13 +8641,13 @@
   },
   {
     "name": "Something Great",
-    "category": "Branding, Graphic Design, Motion Graphics, Illustration, Interactive, Advertising",
+    "category": "Branding, Graphic Design, Motion Graphics, Illustration, Interactive, Advertising/Campaigns",
     "city": "Melbourne",
     "country": "Australia",
     "ig": "https://www.instagram.com/something_great_agency/",
     "url": "https://www.something-great.com.au/",
     "created": "2026-06-21T18:44:00.000Z",
-    "edited": "2026-07-13T11:45:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Sometimes Always",
@@ -8861,13 +8901,13 @@
   },
   {
     "name": "Stout Design, Inc.",
-    "category": "Branding, Packaging, Illustration, Advertising",
+    "category": "Branding, Packaging, Illustration, Advertising/Campaigns",
     "city": "San Francisco",
     "country": "USA",
     "ig": "https://www.instagram.com/stoutsf/",
     "url": "https://stoutsf.com/",
     "created": "2026-05-09T07:02:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "strobo B M",
@@ -9091,13 +9131,13 @@
   },
   {
     "name": "Studio Freight",
-    "category": "Branding, Interactive, Advertising",
+    "category": "Branding, Interactive, Advertising/Campaigns",
     "city": "Columbus",
     "country": "USA",
     "ig": "https://www.instagram.com/studio.freight",
     "url": "https://studiofreight.com/",
     "created": "2026-06-05T06:28:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Studio Furious",
@@ -9188,6 +9228,16 @@
     "url": "https://jimbobarbu.com/",
     "created": "2023-05-30T17:26:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Studio Kiln",
+    "category": "Branding, Graphic Design, Motion Graphics, Advertising/Campaigns, Interactive",
+    "city": "Cornwall",
+    "country": "UK",
+    "ig": "https://www.instagram.com/studio__kiln/",
+    "url": "https://www.studio-kiln.com/",
+    "created": "2026-07-22T11:14:00.000Z",
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Studio Leichtfried",
@@ -9281,13 +9331,13 @@
   },
   {
     "name": "Studio Odea",
-    "category": "Branding, Graphic Design, Packaging, Interactive, Advertising, Illustration, Motion Graphics",
+    "category": "Branding, Graphic Design, Packaging, Interactive, Advertising/Campaigns, Illustration, Motion Graphics",
     "city": "Sydney, Brisbane",
     "country": "Australia",
     "ig": "",
     "url": "https://studioodea.com.au/",
     "created": "2026-07-13T11:22:00.000Z",
-    "edited": "2026-07-13T11:24:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Studio Oker",
@@ -9401,13 +9451,13 @@
   },
   {
     "name": "Studio Tempo",
-    "category": "Branding, Graphic Design, Interactive, Motion Graphics, Advertising, Packaging",
+    "category": "Branding, Graphic Design, Interactive, Motion Graphics, Advertising/Campaigns, Packaging",
     "city": "Sao Paulo",
     "country": "Brazil",
     "ig": "https://www.instagram.com/studiotempo.co/",
     "url": "https://studiotempo.co/",
     "created": "2026-07-13T08:59:00.000Z",
-    "edited": "2026-07-13T09:00:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Studio TipTop",
@@ -9701,13 +9751,13 @@
   },
   {
     "name": "Tekni",
-    "category": "Branding, Interactive, Illustration, Advertising, Graphic Design, Motion Graphics",
+    "category": "Branding, Interactive, Illustration, Advertising/Campaigns, Graphic Design, Motion Graphics",
     "city": "Melbourne",
     "country": "Australia",
     "ig": "https://www.instagram.com/studiotekni",
     "url": "https://studiotekni.com/",
     "created": "2026-07-15T13:07:00.000Z",
-    "edited": "2026-07-15T13:09:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Thank You",
@@ -9791,13 +9841,13 @@
   },
   {
     "name": "This Design",
-    "category": "Branding, Graphic Design, Interactive, Packaging, Advertising",
+    "category": "Branding, Graphic Design, Interactive, Packaging, Advertising/Campaigns",
     "city": "Portland",
     "country": "USA",
     "ig": "https://www.instagram.com/this/",
     "url": "https://this.design/",
     "created": "2026-05-18T14:34:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "This is Pacifica",
@@ -9841,13 +9891,13 @@
   },
   {
     "name": "Tiare Payano",
-    "category": "Branding, Graphic Design, Advertising, Interactive, Packaging",
+    "category": "Branding, Graphic Design, Advertising/Campaigns, Interactive, Packaging",
     "city": "Madrid",
     "country": "Spain",
     "ig": "https://www.instagram.com/tiare.by",
     "url": "https://tiarepayano.com/",
     "created": "2026-07-15T11:07:00.000Z",
-    "edited": "2026-07-15T11:07:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Times Two",
@@ -9881,13 +9931,13 @@
   },
   {
     "name": "TinyWins",
-    "category": "Branding, Interactive, Advertising",
+    "category": "Branding, Interactive, Advertising/Campaigns",
     "city": "Santa Monica",
     "country": "USA",
     "ig": "https://www.instagram.com/tinywins/",
     "url": "https://www.tinywins.com/",
     "created": "2026-07-03T08:49:00.000Z",
-    "edited": "2026-07-03T08:51:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Tiquismiquis",
@@ -9981,13 +10031,13 @@
   },
   {
     "name": "Too Gallus",
-    "category": "Advertising, Branding, Interactive",
+    "category": "Advertising/Campaigns, Branding, Interactive",
     "city": "Glasgow",
     "country": "Scotland",
     "ig": "https://www.instagram.com/too_gallus",
     "url": "https://www.toogallus.com/",
     "created": "2024-10-28T17:08:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Toormix",
@@ -10011,13 +10061,13 @@
   },
   {
     "name": "Tractorbeam",
-    "category": "Branding, Graphic Design, Interactive, Advertising",
+    "category": "Branding, Graphic Design, Interactive, Advertising/Campaigns",
     "city": "Dallas",
     "country": "USA",
     "ig": "https://www.instagram.com/tractorbeam",
     "url": "https://tractorbeam.com/",
     "created": "2026-05-11T06:37:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Treintayseis",
@@ -10211,23 +10261,23 @@
   },
   {
     "name": "Urgent.Agency",
-    "category": "Branding, Motion Graphics, Interactive, Advertising",
+    "category": "Branding, Motion Graphics, Interactive, Advertising/Campaigns",
     "city": "Copenhague",
     "country": "Denmark",
     "ig": "https://www.instagram.com/urgent.agency/",
     "url": "https://urgent.agency/",
     "created": "2026-07-10T10:52:00.000Z",
-    "edited": "2026-07-10T10:53:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Utopicum",
-    "category": "Branding, Graphic Design, Packaging, Advertising",
+    "category": "Branding, Graphic Design, Packaging, Advertising/Campaigns",
     "city": "Alicante",
     "country": "Spain",
     "ig": "https://www.instagram.com/utopicum",
     "url": "https://utopicum.es/",
     "created": "2026-06-26T09:33:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "V–A Studio",
@@ -10341,13 +10391,13 @@
   },
   {
     "name": "Voodoo Voodoo",
-    "category": "Branding, Graphic Design, Interactive, Packaging, Advertising",
+    "category": "Branding, Graphic Design, Interactive, Packaging, Advertising/Campaigns",
     "city": "London",
     "country": "UK",
     "ig": "https://www.instagram.com/voo.doo.voo.doo/",
     "url": "https://voodoovoodoo.net/",
     "created": "2026-07-14T08:14:00.000Z",
-    "edited": "2026-07-14T08:15:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "VOSK",
@@ -10431,13 +10481,13 @@
   },
   {
     "name": "Walk A Thought",
-    "category": "Branding, Graphic Design, Illustration, Interactive, Packaging, Advertising",
+    "category": "Branding, Graphic Design, Illustration, Interactive, Packaging, Advertising/Campaigns",
     "city": "Paris",
     "country": "France",
     "ig": "https://www.instagram.com/walkathought",
     "url": "https://walkathought.com/",
     "created": "2026-07-14T08:16:00.000Z",
-    "edited": "2026-07-14T08:17:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Ward",
@@ -10488,6 +10538,16 @@
     "url": "https://www.wedge.work/",
     "created": "2023-06-20T15:03:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Weird Studio",
+    "category": "Branding, Graphic Design, Interactive",
+    "city": "Firenze",
+    "country": "Italy",
+    "ig": "https://www.instagram.com/weird_studio/",
+    "url": "https://www.weird-studio.com/",
+    "created": "2026-07-22T11:12:00.000Z",
+    "edited": "2026-07-22T11:13:00.000Z"
   },
   {
     "name": "Werklig",
@@ -10641,13 +10701,13 @@
   },
   {
     "name": "Yorgo&Co.",
-    "category": "Branding, Graphic Design, Interactive, Typography, Advertising",
+    "category": "Branding, Graphic Design, Interactive, Typography, Advertising/Campaigns",
     "city": "Paris",
     "country": "France",
     "ig": "https://www.instagram.com/yorgoandco/?hl=fr",
     "url": "https://www.yorgo.co/",
     "created": "2025-03-06T11:28:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-22T11:20:00.000Z"
   },
   {
     "name": "Your Majesty Co.",
