@@ -35,6 +35,15 @@
 
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+
+<!-- PWA -->
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#f4efe6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1a1814" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="JaDL">
+<meta name="mobile-web-app-capable" content="yes">
 <link rel="icon" type="image/svg+xml" href='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><style>path{stroke:%231a1814}@media (prefers-color-scheme: dark){path{stroke:%23f4efe6}}</style><g fill="none" stroke-width="2.2" stroke-linecap="square"><path d="M7 10 H14"/><path d="M17 10 H25"/><path d="M7 15 H17"/><path d="M20 15 H25"/><path d="M7 20 H14"/><path d="M17 20 H25"/><path d="M7 25 H18"/></g></svg>'>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -79,4 +88,15 @@
 
 
 <script defer src="/_vercel/insights/script.js"></script>
+
+<script>
+  // Register the service worker (PWA install + offline). Non-blocking.
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", function () {
+      navigator.serviceWorker.register("/sw.js").catch(function (err) {
+        console.warn("SW registration failed", err);
+      });
+    });
+  }
+</script>
 </body></html>
