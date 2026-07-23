@@ -19,6 +19,9 @@ function SubmitView() {
     notes: "",
   });
   const [sent, setSent] = useSubSt(false);
+  const [sending, setSending] = useSubSt(false);
+  const [failedMailto, setFailedMailto] = useSubSt(null);
+  const [hp, setHp] = useSubSt(""); // honeypot
 
   const EDITOR_EMAIL = "wencesanz@gmail.com";
 
@@ -27,23 +30,26 @@ function SubmitView() {
 
   function upd(k, v) { setForm((f) => ({ ...f, [k]: v })); }
 
-  function handleSubmit(e) {
-    e.preventDefault();
-
+  function resolvedCats() {
     const cats = [...form.categories];
     if (cats.includes("__other") && form.otherCategory) {
       cats.splice(cats.indexOf("__other"), 1, form.otherCategory);
     } else if (cats.includes("__other")) {
       cats.splice(cats.indexOf("__other"), 1);
     }
-    const cat = cats.join(", ");
-    const relationLabel = form.relation === "own" ? "I run this studio" : form.relation === "work" ? "I work there" : "Just a fan / reader";
+    return cats.join(", ");
+  }
 
+  function relationLabel() {
+    return form.relation === "own" ? "I run this studio" : form.relation === "work" ? "I work there" : "Just a fan / reader";
+  }
+
+  function buildMailto() {
     const lines = [
       `Studio name: ${form.name}`,
       `Website: ${form.url}`,
       `Instagram: ${form.ig || "—"}`,
-      `Disciplines: ${cat || "—"}`,
+      `Disciplines: ${resolvedCats() || "—"}`,
       `City: ${form.city || "—"}`,
       `Country: ${form.country || "—"}`,
       `Founded: ${form.founded || "—"}`,
@@ -55,19 +61,51 @@ function SubmitView() {
       `— About the submitter —`,
       `Name: ${form.submitterName || "—"}`,
       `Email: ${form.submitterEmail || "—"}`,
-      `Relation: ${relationLabel}`,
+      `Relation: ${relationLabel()}`,
       ``,
       `Notes to editor:`,
       `${form.notes || "—"}`,
     ];
-
     const subject = `Studio submission — ${form.name || "(untitled)"}`;
-    const body = lines.join("\n");
-    const mailto = `mailto:${EDITOR_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    return `mailto:${EDITOR_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(lines.join("\n"))}`;
+  }
 
-    // Open the user's mail client
-    window.location.href = mailto;
-    setSent(true);
+  async function handleSubmit(e) {
+    e.preventDefault();
+    if (sending) return;
+    setSending(true);
+    setFailedMailto(null);
+
+    try {
+      const res = await fetch("/api/submit", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          name: form.name,
+          url: form.url,
+          ig: form.ig,
+          categories: resolvedCats(),
+          city: form.city,
+          country: form.country,
+          founded: form.founded,
+          size: form.size,
+          description: form.description,
+          submitterName: form.submitterName,
+          submitterEmail: form.submitterEmail,
+          relation: relationLabel(),
+          notes: form.notes,
+          website2: hp, // honeypot
+        }),
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      setSent(true);
+    } catch (err) {
+      console.error("submit failed", err);
+      // Fall back to the old mail flow so no submission is ever lost.
+      setFailedMailto(buildMailto());
+    } finally {
+      setSending(false);
+    }
   }
 
   if (sent) {
@@ -75,17 +113,12 @@ function SubmitView() {
       <div className="view wrap">
         <section className="masthead masthead--tight">
           <Eyebrow><span>Submit</span></Eyebrow>
-          <h1 style={{ marginTop: 20 }}>Almost there.</h1>
+          <h1 style={{ marginTop: 20 }}>Received. Thank you.</h1>
           <p className="sub" style={{ maxWidth: "60ch" }}>
-            Your default mail app should have just opened with the submission
-            ready to send. <strong>Press send</strong> in your mail client to deliver it
-            to <a className="link" href={`mailto:${EDITOR_EMAIL}`}>{EDITOR_EMAIL}</a>.
-            Every entry is read by hand; I'll reply if I have questions.
-          </p>
-          <p className="sub" style={{ maxWidth: "60ch", marginTop: 12 }}>
-            If nothing happened, write to{" "}
-            <a className="link" href={`mailto:${EDITOR_EMAIL}`}>{EDITOR_EMAIL}</a>{" "}
-            directly.
+            Your submission is in the editor's queue. Every entry is read by
+            hand — expect no acknowledgement email, but do expect the studio
+            to be researched. If I have questions I'll write to the address
+            you left.
           </p>
           <p className="sub" style={{ marginTop: 24 }}>
             <a className="link" onClick={() => setSent(false)}>← Submit another</a>
@@ -245,13 +278,26 @@ function SubmitView() {
           </div>
         </fieldset>
 
+        {/* Honeypot — hidden from humans, irresistible to bots */}
+        <div style={{ position: "absolute", left: "-9999px", top: "auto" }} aria-hidden="true">
+          <label>Leave this field empty</label>
+          <input tabIndex={-1} autoComplete="off" value={hp} onChange={(e) => setHp(e.target.value)} />
+        </div>
+
         <div className="submit-row">
-          <button type="submit" className="submit-btn">
-            Send submission <span className="arr">→</span>
+          <button type="submit" className="submit-btn" disabled={sending}>
+            {sending ? "Sending…" : "Send submission"} <span className="arr">→</span>
           </button>
+          {failedMailto && (
+            <p style={{ color: "var(--accent)", fontSize: 13, marginTop: 12, maxWidth: "62ch" }}>
+              Something went wrong sending this automatically.{" "}
+              <a className="link" href={failedMailto}>Send it by email instead</a> — the
+              message is already written for you.
+            </p>
+          )}
           <p style={{ color: "var(--mute)", fontSize: 13, marginTop: 12, maxWidth: "62ch" }}>
-            This opens your mail app with the submission pre-filled. You'll need to press
-            send there to deliver it to <a className="link" href={`mailto:${EDITOR_EMAIL}`}>{EDITOR_EMAIL}</a>.
+            Submissions go straight to the editor's queue. Prefer email? Write to{" "}
+            <a className="link" href={`mailto:${EDITOR_EMAIL}`}>{EDITOR_EMAIL}</a>.
           </p>
         </div>
       </form>
