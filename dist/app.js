@@ -415,7 +415,7 @@ function App() {
   }, React.createElement(TopBar, {
     view: route.view,
     go: go
-  }), body, React.createElement(Footer, {
+  }), React.createElement("main", null, body), React.createElement(Footer, {
     go: go
   }), React.createElement(Tweaks, null));
 }
