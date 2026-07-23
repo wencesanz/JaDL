@@ -319,7 +319,7 @@ function App() {
   return (
     <div className="page" data-screen-label={route.view}>
       <TopBar view={route.view} go={go} />
-      {body}
+      <main>{body}</main>
       <Footer go={go} />
       <Tweaks />
     </div>
