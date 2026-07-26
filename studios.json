@@ -2220,6 +2220,16 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
+    "name": "Concrete",
+    "category": "Branding, Interactive, Graphic Design, Packaging",
+    "city": "Toronto",
+    "country": "Canada",
+    "ig": "https://www.instagram.com/concretedesignstudio/",
+    "url": "https://concrete.ca",
+    "created": "2026-07-26T10:54:00.000Z",
+    "edited": "2026-07-26T10:55:00.000Z"
+  },
+  {
     "name": "Confederation Studio",
     "category": "Branding, Motion Graphics",
     "city": "London",
@@ -3338,6 +3348,16 @@
     "url": "https://ffforum.site/",
     "created": "2026-05-14T05:56:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Field of Play",
+    "category": "Branding, Interactive, Packaging, Graphic Design, Motion Graphics",
+    "city": "Sydney, Whangārei",
+    "country": "Australia, New Zealand",
+    "ig": "https://www.instagram.com/fieldofplay.studio/",
+    "url": "https://www.fieldofplay.studio/",
+    "created": "2026-07-26T11:00:00.000Z",
+    "edited": "2026-07-26T11:03:00.000Z"
   },
   {
     "name": "Field of Practice",
@@ -6060,6 +6080,16 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
+    "name": "Moment",
+    "category": "Branding, Interactive, Motion Graphics, Packaging",
+    "city": "San Francisco",
+    "country": "USA",
+    "ig": "https://www.instagram.com/thisismoment_sf/",
+    "url": "https://www.thisismoment.com/",
+    "created": "2026-07-26T10:46:00.000Z",
+    "edited": "2026-07-26T10:48:00.000Z"
+  },
+  {
     "name": "Monday Nights",
     "category": "Branding, Graphic Design, Motion Graphics, Interactive, Typography",
     "city": "London, Bristol",
@@ -6428,6 +6458,16 @@
     "url": "https://newgenre.studio/",
     "created": "2026-05-07T10:32:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "New Studio",
+    "category": "Branding, Graphic Design, Interactive, Packaging",
+    "city": "New York, Miami",
+    "country": "USA",
+    "ig": "https://www.instagram.com/newstudiostudio/",
+    "url": "https://newstudio.studio",
+    "created": "2026-07-26T10:50:00.000Z",
+    "edited": "2026-07-26T10:52:00.000Z"
   },
   {
     "name": "Nguyen Gobber",
@@ -9830,14 +9870,14 @@
     "edited": "2026-07-24T11:20:00.000Z"
   },
   {
-    "name": "System Studio",
+    "name": "Systems Studio",
     "category": "Branding, Interactive, Packaging",
     "city": "London",
     "country": "UK",
     "ig": "https://www.instagram.com/systemsstudio/",
     "url": "https://systems-studio.com/",
     "created": "2023-06-19T16:42:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-26T10:57:00.000Z"
   },
   {
     "name": "T.O.T",
