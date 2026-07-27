@@ -162,7 +162,7 @@ function Footer({ go }) {
           <a href="https://www.linkedin.com/in/wenceslaosanz/" target="_blank" rel="noopener">
             <span>LinkedIn</span><span className="arr">↗</span>
           </a>
-          <a href="feed.xml" target="_blank" rel="noopener">
+          <a href="/feed.xml" target="_blank" rel="noopener">
             <span>RSS feed</span><span className="arr">↗</span>
           </a>
         </div>
