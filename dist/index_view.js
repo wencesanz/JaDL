@@ -154,6 +154,25 @@ function IndexView({
     className: "sel-head"
   }, React.createElement("div", null, React.createElement(Eyebrow, {
     num: "\xA704"
+  }, "Recent Additions"), React.createElement("h2", {
+    style: {
+      marginTop: 14
+    }
+  }, "Twenty most recent entries"))), React.createElement("div", {
+    className: "recent-list"
+  }, (d.recent || []).map(p => React.createElement(RecentRow, {
+    key: p.name,
+    p: p,
+    go: go
+  })))), React.createElement("section", {
+    className: "wrap",
+    style: {
+      paddingTop: 80
+    }
+  }, React.createElement("div", {
+    className: "sel-head"
+  }, React.createElement("div", null, React.createElement(Eyebrow, {
+    num: "\xA705"
   }, "By Geography"), React.createElement("h2", {
     style: {
       marginTop: 14
@@ -194,26 +213,7 @@ function IndexView({
     className: "c"
   }, n, " studios"), React.createElement("div", {
     className: "arr"
-  }, "\u2192"))))), React.createElement("section", {
-    className: "wrap",
-    style: {
-      paddingTop: 80
-    }
-  }, React.createElement("div", {
-    className: "sel-head"
-  }, React.createElement("div", null, React.createElement(Eyebrow, {
-    num: "\xA705"
-  }, "Recent Additions"), React.createElement("h2", {
-    style: {
-      marginTop: 14
-    }
-  }, "Twenty most recent entries"))), React.createElement("div", {
-    className: "recent-list"
-  }, (d.recent || []).map(p => React.createElement(RecentRow, {
-    key: p.name,
-    p: p,
-    go: go
-  })))));
+  }, "\u2192"))))));
 }
 function RecentRow({
   p,
