@@ -98,11 +98,26 @@ function IndexView({ go }) {
         </div>
       </section>
 
+      {/* recent additions */}
+      <section className="wrap" style={{ paddingTop: 80 }}>
+        <div className="sel-head">
+          <div>
+            <Eyebrow num="§04">Recent Additions</Eyebrow>
+            <h2 style={{ marginTop: 14 }}>Twenty most recent entries</h2>
+          </div>
+        </div>
+        <div className="recent-list">
+          {(d.recent || []).map((p) => (
+            <RecentRow key={p.name} p={p} go={go} />
+          ))}
+        </div>
+      </section>
+
       {/* quick access: geography */}
       <section className="wrap" style={{ paddingTop: 80 }}>
         <div className="sel-head">
           <div>
-            <Eyebrow num="§04">By Geography</Eyebrow>
+            <Eyebrow num="§05">By Geography</Eyebrow>
             <h2 style={{ marginTop: 14 }}>Five most represented countries</h2>
           </div>
           <button onClick={() => go("geography")} style={{ fontFamily: "var(--mono)", fontSize: 11, letterSpacing: ".06em", textTransform: "uppercase", color: "var(--mute)" }}>
@@ -118,21 +133,6 @@ function IndexView({ go }) {
               <div className="c">{n} studios</div>
               <div className="arr">→</div>
             </div>
-          ))}
-        </div>
-      </section>
-
-      {/* recent additions */}
-      <section className="wrap" style={{ paddingTop: 80 }}>
-        <div className="sel-head">
-          <div>
-            <Eyebrow num="§05">Recent Additions</Eyebrow>
-            <h2 style={{ marginTop: 14 }}>Twenty most recent entries</h2>
-          </div>
-        </div>
-        <div className="recent-list">
-          {(d.recent || []).map((p) => (
-            <RecentRow key={p.name} p={p} go={go} />
           ))}
         </div>
       </section>
