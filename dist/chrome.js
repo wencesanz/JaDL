@@ -218,7 +218,7 @@ function Footer({
   }, React.createElement("span", null, "LinkedIn"), React.createElement("span", {
     className: "arr"
   }, "\u2197")), React.createElement("a", {
-    href: "feed.xml",
+    href: "/feed.xml",
     target: "_blank",
     rel: "noopener"
   }, React.createElement("span", null, "RSS feed"), React.createElement("span", {
