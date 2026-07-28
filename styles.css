@@ -1556,3 +1556,5 @@ html { overflow-x: clip; }
   /* Long, non-wrapping studio URL / handle in the detail side column */
   .side-col a > span:first-child { min-width: 0; }
 }
+
+.fld-err{color:var(--accent);font-size:13px;margin-top:10px}

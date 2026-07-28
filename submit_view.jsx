@@ -22,6 +22,8 @@ function SubmitView() {
   const [sending, setSending] = useSubSt(false);
   const [failedMailto, setFailedMailto] = useSubSt(null);
   const [hp, setHp] = useSubSt(""); // honeypot
+  const [catError, setCatError] = useSubSt(false);
+  const [errMsg, setErrMsg] = useSubSt(null);
 
   const EDITOR_EMAIL = "wencesanz@gmail.com";
 
@@ -73,8 +75,14 @@ function SubmitView() {
   async function handleSubmit(e) {
     e.preventDefault();
     if (sending) return;
+    if (form.categories.filter((c) => c !== "__other" || form.otherCategory).length === 0) {
+      setCatError(true);
+      return;
+    }
+    setCatError(false);
     setSending(true);
     setFailedMailto(null);
+    setErrMsg(null);
 
     try {
       const res = await fetch("/api/submit", {
@@ -97,10 +105,14 @@ function SubmitView() {
           website2: hp, // honeypot
         }),
       });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      if (!res.ok) {
+        const info = await res.json().catch(() => ({}));
+        throw new Error(info.error || `HTTP ${res.status}`);
+      }
       setSent(true);
     } catch (err) {
       console.error("submit failed", err);
+      setErrMsg(err.message);
       // Fall back to the old mail flow so no submission is ever lost.
       setFailedMailto(buildMailto());
     } finally {
@@ -201,9 +213,7 @@ function SubmitView() {
                 <span>Other…</span>
               </label>
             </div>
-            {form.categories.length === 0 && (
-              <input required style={{ position: "absolute", opacity: 0, pointerEvents: "none", height: 0 }} value="" onChange={() => {}} />
-            )}
+            {catError && <p className="fld-err">Select at least one discipline.</p>}
           </div>
 
           {form.categories.includes("__other") && (
@@ -290,7 +300,7 @@ function SubmitView() {
           </button>
           {failedMailto && (
             <p style={{ color: "var(--accent)", fontSize: 13, marginTop: 12, maxWidth: "62ch" }}>
-              Something went wrong sending this automatically.{" "}
+              {errMsg ? `Couldn't send automatically (${errMsg}).` : "Something went wrong sending this automatically."}{" "}
               <a className="link" href={failedMailto}>Send it by email instead</a> — the
               message is already written for you.
             </p>
