@@ -24,6 +24,8 @@ function SubmitView() {
   const [sending, setSending] = useSubSt(false);
   const [failedMailto, setFailedMailto] = useSubSt(null);
   const [hp, setHp] = useSubSt("");
+  const [catError, setCatError] = useSubSt(false);
+  const [errMsg, setErrMsg] = useSubSt(null);
   const EDITOR_EMAIL = "wencesanz@gmail.com";
   const d = window.SITE;
   const cats = (d.categoriesOrder || []).filter(c => d.byCat?.[c]);
@@ -53,8 +55,14 @@ function SubmitView() {
   async function handleSubmit(e) {
     e.preventDefault();
     if (sending) return;
+    if (form.categories.filter(c => c !== "__other" || form.otherCategory).length === 0) {
+      setCatError(true);
+      return;
+    }
+    setCatError(false);
     setSending(true);
     setFailedMailto(null);
+    setErrMsg(null);
     try {
       const res = await fetch("/api/submit", {
         method: "POST",
@@ -78,10 +86,14 @@ function SubmitView() {
           website2: hp
         })
       });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      if (!res.ok) {
+        const info = await res.json().catch(() => ({}));
+        throw new Error(info.error || `HTTP ${res.status}`);
+      }
       setSent(true);
     } catch (err) {
       console.error("submit failed", err);
+      setErrMsg(err.message);
       setFailedMailto(buildMailto());
     } finally {
       setSending(false);
@@ -192,17 +204,9 @@ function SubmitView() {
         categories: e.target.checked ? [...f.categories, "__other"] : f.categories.filter(x => x !== "__other")
       }));
     }
-  }), React.createElement("span", null, "Other\u2026"))), form.categories.length === 0 && React.createElement("input", {
-    required: true,
-    style: {
-      position: "absolute",
-      opacity: 0,
-      pointerEvents: "none",
-      height: 0
-    },
-    value: "",
-    onChange: () => {}
-  })), form.categories.includes("__other") && React.createElement("div", {
+  }), React.createElement("span", null, "Other\u2026"))), catError && React.createElement("p", {
+    className: "fld-err"
+  }, "Select at least one discipline.")), form.categories.includes("__other") && React.createElement("div", {
     className: "fld"
   }, React.createElement("label", null, "Other discipline"), React.createElement("input", {
     value: form.otherCategory,
@@ -316,7 +320,7 @@ function SubmitView() {
       marginTop: 12,
       maxWidth: "62ch"
     }
-  }, "Something went wrong sending this automatically.", " ", React.createElement("a", {
+  }, errMsg ? `Couldn't send automatically (${errMsg}).` : "Something went wrong sending this automatically.", " ", React.createElement("a", {
     className: "link",
     href: failedMailto
   }, "Send it by email instead"), " \u2014 the message is already written for you."), React.createElement("p", {
