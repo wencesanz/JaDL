@@ -5,7 +5,7 @@
 //   • Everything else same-origin: cache-first with background refresh.
 // Bump CACHE_VERSION whenever the shell file list changes to purge old caches.
 
-const CACHE_VERSION = "jadl-v2";
+const CACHE_VERSION = "jadl-v3";
 const SHELL = [
   "/",
   "/styles.css",
@@ -87,6 +87,21 @@ self.addEventListener("fetch", (e) => {
   if (req.mode === "navigate") {
     e.respondWith(
       fetch(req).catch(() => caches.match("/") )
+    );
+    return;
+  }
+
+  // Versioned assets (?v=NN): network-first so a bumped version never renders
+  // a stale build; cache is only the offline fallback.
+  if (url.searchParams.has("v")) {
+    e.respondWith(
+      fetch(req).then((res) => {
+        if (res && res.status === 200) {
+          const copy = res.clone();
+          caches.open(CACHE_VERSION).then((c) => c.put(req, copy));
+        }
+        return res;
+      }).catch(() => caches.match(req))
     );
     return;
   }
