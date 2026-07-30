@@ -230,6 +230,16 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
+    "name": "ACCOMPANY",
+    "category": "Branding, Graphic Design, Interactive, Illustration, Motion Graphics",
+    "city": "Sydney",
+    "country": "Australia",
+    "ig": "https://www.instagram.com/accompany.group",
+    "url": "https://accompany.group/",
+    "created": "2026-07-30T09:16:00.000Z",
+    "edited": "2026-07-30T09:17:00.000Z"
+  },
+  {
     "name": "ACRE",
     "category": "Branding, Motion Graphics, Interactive",
     "city": "London",
@@ -428,6 +438,16 @@
     "url": "https://aloof.studio/",
     "created": "2023-05-31T06:42:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Alphabet",
+    "category": "Branding, Interactive, Packaging, Advertising/Campaigns",
+    "city": "Manchester",
+    "country": "UK",
+    "ig": "https://www.instagram.com/madebyalphabet",
+    "url": "https://madebyalphabet.com/",
+    "created": "2026-07-30T09:26:00.000Z",
+    "edited": "2026-07-30T09:27:00.000Z"
   },
   {
     "name": "Alphabetical",
@@ -2830,6 +2850,16 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
+    "name": "Do Not Design",
+    "category": "Branding, Graphic Design, Packaging",
+    "city": "Singapore",
+    "country": "Singapore",
+    "ig": "https://www.instagram.com/do.not.design",
+    "url": "https://www.donotdesign.com/",
+    "created": "2026-07-30T10:16:00.000Z",
+    "edited": "2026-07-30T10:17:00.000Z"
+  },
+  {
     "name": "DOMINGO",
     "category": "Branding, Graphic Design, Interactive",
     "city": "Barcelona",
@@ -4960,6 +4990,16 @@
     "edited": "2026-07-13T11:48:00.000Z"
   },
   {
+    "name": "Jordan Sowers",
+    "category": "Branding, Interactive",
+    "city": "Portland",
+    "country": "USA",
+    "ig": "https://www.instagram.com/jordansowers",
+    "url": "https://jordansowers.com/",
+    "created": "2026-07-30T09:08:00.000Z",
+    "edited": "2026-07-30T09:10:00.000Z"
+  },
+  {
     "name": "Joyce N. Ho",
     "category": "Graphic Design",
     "city": "New York",
@@ -5468,6 +5508,16 @@
     "url": "https://losiento.studio/",
     "created": "2023-06-02T12:01:00.000Z",
     "edited": "2026-07-08T12:51:00.000Z"
+  },
+  {
+    "name": "Local Studio",
+    "category": "Branding, Interactive",
+    "city": "Paris",
+    "country": "France",
+    "ig": "https://www.instagram.com/studio__local/",
+    "url": "https://localstudio.fr/",
+    "created": "2026-07-30T10:24:00.000Z",
+    "edited": "2026-07-30T10:25:00.000Z"
   },
   {
     "name": "Look Look Studio",
@@ -6880,6 +6930,16 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
+    "name": "OB Studio",
+    "category": "Interactive, Advertising/Campaigns, Branding",
+    "city": "Paris",
+    "country": "France",
+    "ig": "https://www.instagram.com/ob.studio_/",
+    "url": "https://www.ob.services/",
+    "created": "2026-07-30T09:03:00.000Z",
+    "edited": "2026-07-30T09:05:00.000Z"
+  },
+  {
     "name": "Odd works",
     "category": "Branding, Graphic Design, Motion Graphics, Typography",
     "city": "Lisbon, London",
@@ -7085,9 +7145,9 @@
     "city": "Manchester",
     "country": "UK",
     "ig": "https://www.instagram.com/onlystudiouk/",
-    "url": "https://onlystudio.co.uk/",
+    "url": "https://www.onlystudio.com",
     "created": "2023-05-30T17:27:00.000Z",
-    "edited": "2026-06-26T09:34:00.000Z"
+    "edited": "2026-07-30T09:12:00.000Z"
   },
   {
     "name": "Open Studio Sthlm",
@@ -7238,6 +7298,16 @@
     "url": "https://overtone.dk/",
     "created": "2025-04-16T08:57:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Ovyon Labs",
+    "category": "Branding, Graphic Design, Interactive, Packaging, Advertising/Campaigns",
+    "city": "Tallinn",
+    "country": "Estonia",
+    "ig": "https://www.instagram.com/ovyonlabs/",
+    "url": "https://www.ovyonlabs.com/",
+    "created": "2026-07-30T10:47:00.000Z",
+    "edited": "2026-07-30T10:49:00.000Z"
   },
   {
     "name": "P – K",
@@ -8830,6 +8900,16 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
+    "name": "SKINN",
+    "category": "Branding, Interactive, Packaging",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "ig": "https://www.instagram.com/skinn.agency/",
+    "url": "https://www.skinn.agency/",
+    "created": "2026-07-30T10:18:00.000Z",
+    "edited": "2026-07-30T10:20:00.000Z"
+  },
+  {
     "name": "Skinny Ships",
     "category": "Illustration, Branding, Graphic Design",
     "city": "Portland",
@@ -9058,6 +9138,16 @@
     "url": "https://source.paris/",
     "created": "2026-05-22T13:00:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "South",
+    "category": "Branding, Packaging, Interactive, Graphic Design, Advertising/Campaigns",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "ig": "https://www.instagram.com/studiosouthnz/",
+    "url": "https://www.studiosouth.co.nz/",
+    "created": "2026-07-30T09:20:00.000Z",
+    "edited": "2026-07-30T09:24:00.000Z"
   },
   {
     "name": "SouthSouthWest",
@@ -10098,6 +10188,16 @@
     "url": "https://sylvanhillebrand.design/",
     "created": "2023-05-29T10:53:00.000Z",
     "edited": "2026-05-20T21:33:00.000Z"
+  },
+  {
+    "name": "Synchronized",
+    "category": "Branding, Interactive, Motion Graphics",
+    "city": "New York",
+    "country": "USA",
+    "ig": "https://www.instagram.com/synchronized.studio/",
+    "url": "https://synchronized.studio/",
+    "created": "2026-07-30T09:12:00.000Z",
+    "edited": "2026-07-30T09:14:00.000Z"
   },
   {
     "name": "Synonime Studio",
@@ -11238,6 +11338,16 @@
     "url": "http://yutatakahashi.jp/",
     "created": "2023-05-30T17:53:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "z creative labs",
+    "category": "Interactive, Motion Graphics, Typography",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "ig": "",
+    "url": "https://zcreativelabs.com/",
+    "created": "2026-07-30T13:21:00.000Z",
+    "edited": "2026-07-30T13:21:00.000Z"
   },
   {
     "name": "ZAINA",
