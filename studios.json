@@ -1590,6 +1590,16 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
+    "name": "Brand Apart",
+    "category": "Branding, Interactive/Digital",
+    "city": "Paris",
+    "country": "France",
+    "ig": "https://www.instagram.com/brandappart/",
+    "url": "https://www.brandappart.com/",
+    "created": "2026-08-17T07:22:00.000Z",
+    "edited": "2026-08-17T07:23:00.000Z"
+  },
+  {
     "name": "Brand Brothers",
     "category": "Branding, Graphic Design, Typography",
     "city": "Paris, Toulouse",
@@ -3388,6 +3398,16 @@
     "url": "https://extremepresent.com",
     "created": "2026-06-19T10:14:00.000Z",
     "edited": "2026-06-19T10:15:00.000Z"
+  },
+  {
+    "name": "F&B Happy",
+    "category": "Branding, Graphic Design, Packaging, Interactive/Digital, Advertising/Campaigns, Motion Graphics, Illustration",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "ig": "https://www.instagram.com/fb.happy",
+    "url": "https://happy.forsman.com/",
+    "created": "2026-08-17T10:27:00.000Z",
+    "edited": "2026-08-17T10:28:00.000Z"
   },
   {
     "name": "FAAADE",
@@ -7150,6 +7170,16 @@
     "edited": "2026-08-13T14:03:00.000Z"
   },
   {
+    "name": "Obby & Jappari",
+    "category": "Branding, Graphic Design, Interactive/Digital, Typography",
+    "city": "Frankfurt, Berlin",
+    "country": "Germany",
+    "ig": "https://www.instagram.com/obby.jappari/",
+    "url": "https://www.obby-jappari.com/",
+    "created": "2026-08-17T07:12:00.000Z",
+    "edited": "2026-08-17T07:14:00.000Z"
+  },
+  {
     "name": "Obys Agency",
     "category": "Interactive/Digital, Branding, Motion Graphics",
     "city": "Amsterdam, Warsaw, Berlin",
@@ -7528,6 +7558,16 @@
     "url": "https://www.ovyonlabs.com/",
     "created": "2026-07-30T10:47:00.000Z",
     "edited": "2026-08-13T14:03:00.000Z"
+  },
+  {
+    "name": "Ozon Studio",
+    "category": "Branding, Advertising/Campaigns, Interactive/Digital",
+    "city": "Amsterdam, Groningen",
+    "country": "The Netherlands",
+    "ig": "https://www.instagram.com/ozon.studio/",
+    "url": "https://ozon.studio/",
+    "created": "2026-08-17T07:10:00.000Z",
+    "edited": "2026-08-17T07:11:00.000Z"
   },
   {
     "name": "P – K",
@@ -9121,13 +9161,13 @@
   },
   {
     "name": "Significant",
-    "category": "",
-    "city": "",
-    "country": "",
-    "ig": "",
+    "category": "Branding, Graphic Design, Advertising/Campaigns, Interactive/Digital, Motion Graphics",
+    "city": "London",
+    "country": "England",
+    "ig": "https://www.instagram.com/significant.agency/",
     "url": "https://significant.agency/",
     "created": "2026-08-17T06:59:00.000Z",
-    "edited": "2026-08-17T06:59:00.000Z"
+    "edited": "2026-08-17T07:04:00.000Z"
   },
   {
     "name": "Silencio",
@@ -9550,6 +9590,16 @@
     "edited": "2026-08-13T14:03:00.000Z"
   },
   {
+    "name": "Stan Hema",
+    "category": "Branding, Packaging, Interactive/Digital",
+    "city": "Berlin",
+    "country": "Germany",
+    "ig": "https://www.instagram.com/stanhema/",
+    "url": "https://stanhema.com/",
+    "created": "2026-08-17T10:32:00.000Z",
+    "edited": "2026-08-17T10:35:00.000Z"
+  },
+  {
     "name": "Standard Format",
     "category": "Branding, Graphic Design, Packaging",
     "city": "Edinburgh, Glasgow",
@@ -9780,6 +9830,16 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
+    "name": "STUDIO DIAL",
+    "category": "Branding, Motion Graphics, Advertising/Campaigns, Interactive/Digital, Packaging",
+    "city": "London",
+    "country": "England",
+    "ig": "https://www.instagram.com/studio_dial_",
+    "url": "https://studiodial.com/",
+    "created": "2026-08-17T07:40:00.000Z",
+    "edited": "2026-08-17T07:41:00.000Z"
+  },
+  {
     "name": "Studio DRAMA",
     "category": "Branding, Typography",
     "city": "London",
@@ -9968,6 +10028,26 @@
     "url": "https://jimbobarbu.com/",
     "created": "2023-05-30T17:26:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Studio Joost Grootens",
+    "category": "Graphic Design",
+    "city": "Amsterdam",
+    "country": "The Netherlands",
+    "ig": "https://www.instagram.com/studiojoostgrootens/",
+    "url": "https://www.joostgrootens.nl/",
+    "created": "2026-08-17T10:39:00.000Z",
+    "edited": "2026-08-17T10:40:00.000Z"
+  },
+  {
+    "name": "Studio K95",
+    "category": "Branding, Packaging, Graphic Design, Interactive/Digital, Typography",
+    "city": "Catania",
+    "country": "Italy",
+    "ig": "https://www.instagram.com/k95.studio/",
+    "url": "https://k95.it/",
+    "created": "2026-08-17T07:42:00.000Z",
+    "edited": "2026-08-17T07:44:00.000Z"
   },
   {
     "name": "Studio Kiln",
@@ -11558,6 +11638,16 @@
     "url": "https://www.williamhall.co.uk/",
     "created": "2024-11-13T15:50:00.000Z",
     "edited": "2026-08-13T14:13:00.000Z"
+  },
+  {
+    "name": "William Lyall",
+    "category": "Branding, Graphic Design, Typography, Interactive/Digital",
+    "city": "London, Marseille",
+    "country": "England, France",
+    "ig": "https://www.instagram.com/williamlyall/",
+    "url": "http://williamlyall.co.uk/",
+    "created": "2026-08-17T10:59:00.000Z",
+    "edited": "2026-08-17T11:01:00.000Z"
   },
   {
     "name": "Wolfgang Ortner",
