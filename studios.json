@@ -1680,6 +1680,16 @@
     "edited": "2026-08-13T14:03:00.000Z"
   },
   {
+    "name": "Browns",
+    "category": "Branding, Graphic Design",
+    "city": "London",
+    "country": "England",
+    "ig": "https://www.instagram.com/brownsdesign/",
+    "url": "https://brownsdesign.com",
+    "created": "2026-08-19T05:16:00.000Z",
+    "edited": "2026-08-19T05:18:00.000Z"
+  },
+  {
     "name": "Bruce Mau Design",
     "category": "Branding, Graphic Design, Interactive/Digital",
     "city": "Toronto",
@@ -2460,6 +2470,16 @@
     "edited": "2026-06-26T09:34:00.000Z"
   },
   {
+    "name": "Cossette",
+    "category": "Advertising/Campaigns, Branding, Graphic Design, Interactive/Digital",
+    "city": "Montreal, Québec, Toronto, Halifax, Vancouver",
+    "country": "Canada",
+    "ig": "https://www.instagram.com/cossette.en",
+    "url": "https://www.cossette.com/",
+    "created": "2026-08-19T05:20:00.000Z",
+    "edited": "2026-08-19T05:22:00.000Z"
+  },
+  {
     "name": "Costa",
     "category": "Branding, Packaging",
     "city": "A Coruña",
@@ -2928,6 +2948,16 @@
     "url": "https://www.dmowski.co/",
     "created": "2026-08-13T13:59:00.000Z",
     "edited": "2026-08-13T14:03:00.000Z"
+  },
+  {
+    "name": "DNCO",
+    "category": "Branding, Interactive/Digital, Graphic Design",
+    "city": "London, New York",
+    "country": "England, USA",
+    "ig": "https://www.instagram.com/dnco",
+    "url": "https://dnco.com/",
+    "created": "2026-08-19T05:24:00.000Z",
+    "edited": "2026-08-19T05:27:00.000Z"
   },
   {
     "name": "Do Not Design",
@@ -4858,6 +4888,16 @@
     "url": "https://ingridpicanyol.com/",
     "created": "2023-06-21T13:22:00.000Z",
     "edited": "2026-08-13T14:03:00.000Z"
+  },
+  {
+    "name": "Inhouse",
+    "category": "Graphic Design, Branding, Packaging, Advertising/Campaigns, Illustration",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "ig": "",
+    "url": "https://inhousedesign.co.nz/",
+    "created": "2026-08-19T05:35:00.000Z",
+    "edited": "2026-08-19T05:39:00.000Z"
   },
   {
     "name": "Instrument",
@@ -10028,6 +10068,16 @@
     "url": "https://halfdecent.studio/",
     "created": "2023-05-29T11:14:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
+  },
+  {
+    "name": "Studio Henka",
+    "category": "Branding",
+    "city": "Gold Coast",
+    "country": "Australia",
+    "ig": "https://www.instagram.com/studio.henka/",
+    "url": "https://www.henka.studio/",
+    "created": "2026-08-19T05:30:00.000Z",
+    "edited": "2026-08-19T05:34:00.000Z"
   },
   {
     "name": "Studio Herrström",
