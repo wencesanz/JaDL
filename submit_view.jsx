@@ -26,6 +26,7 @@ function SubmitView() {
   const [errMsg, setErrMsg] = useSubSt(null);
 
   const EDITOR_EMAIL = "wencesanz@gmail.com";
+  const FORMSPREE_ENDPOINT = "https://formspree.io/f/xzdylwvg";
 
   const d = window.SITE;
   const cats = (d.categoriesOrder || []).filter((c) => d.byCat?.[c]);
@@ -84,30 +85,40 @@ function SubmitView() {
     setFailedMailto(null);
     setErrMsg(null);
 
+    // Honeypot — bots fill every field; humans never see this one.
+    if (hp) {
+      setSending(false);
+      setSent(true);
+      return;
+    }
+
+    const payload = {
+      _subject: `Studio submission — ${form.name || "(untitled)"}`,
+      _replyto: form.submitterEmail,
+      "Studio name": form.name,
+      "Website": form.url,
+      "Instagram": form.ig || "—",
+      "Disciplines": resolvedCats() || "—",
+      "City": form.city || "—",
+      "Country": form.country || "—",
+      "Founded": form.founded || "—",
+      "Team size": form.size || "—",
+      "Description": form.description || "—",
+      "Submitted by": form.submitterName || "—",
+      "Email": form.submitterEmail || "—",
+      "Relation": relationLabel(),
+      "Notes to editor": form.notes || "—",
+    };
+
     try {
-      const res = await fetch("/api/submit", {
+      const res = await fetch(FORMSPREE_ENDPOINT, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          name: form.name,
-          url: form.url,
-          ig: form.ig,
-          categories: resolvedCats(),
-          city: form.city,
-          country: form.country,
-          founded: form.founded,
-          size: form.size,
-          description: form.description,
-          submitterName: form.submitterName,
-          submitterEmail: form.submitterEmail,
-          relation: relationLabel(),
-          notes: form.notes,
-          website2: hp, // honeypot
-        }),
+        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        body: JSON.stringify(payload),
       });
       if (!res.ok) {
-        const info = await res.json().catch(() => ({}));
-        throw new Error(info.error || `HTTP ${res.status}`);
+        const data = await res.json().catch(() => ({}));
+        throw new Error((data.errors && data.errors.map((x) => x.message).join(", ")) || `Request failed (${res.status})`);
       }
       setSent(true);
     } catch (err) {
