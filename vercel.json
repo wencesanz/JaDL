@@ -1,11 +1,11 @@
 {
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/studio/(.*)", "destination": "/index.html" },
-    { "source": "/discipline/(.*)", "destination": "/index.html" },
-    { "source": "/country/(.*)", "destination": "/index.html" },
-    { "source": "/city/(.*)", "destination": "/index.html" },
-    { "source": "/(disciplines|countries|cities|studios|geography|categories|about|submit)", "destination": "/index.html" }
+    { "source": "/studio/(.*)", "destination": "/index" },
+    { "source": "/discipline/(.*)", "destination": "/index" },
+    { "source": "/country/(.*)", "destination": "/index" },
+    { "source": "/city/(.*)", "destination": "/index" },
+    { "source": "/(disciplines|countries|cities|studios|geography|categories|about|submit)", "destination": "/index" }
   ],
   "headers": [
     {
