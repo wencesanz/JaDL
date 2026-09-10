@@ -1,46 +1,56 @@
 {
   "cleanUrls": true,
-  "routes": [
-    { "handle": "filesystem" },
-    { "src": "/studio/(.*)", "dest": "/index.html" },
-    { "src": "/discipline/(.*)", "dest": "/index.html" },
-    { "src": "/country/(.*)", "dest": "/index.html" },
-    { "src": "/city/(.*)", "dest": "/index.html" },
-    { "src": "/(disciplines|countries|cities|studios|geography|categories|about|submit)", "dest": "/index.html" },
+  "rewrites": [
+    { "source": "/studio/(.*)", "destination": "/index.html" },
+    { "source": "/discipline/(.*)", "destination": "/index.html" },
+    { "source": "/country/(.*)", "destination": "/index.html" },
+    { "source": "/city/(.*)", "destination": "/index.html" },
+    { "source": "/(disciplines|countries|cities|studios|geography|categories|about|submit)", "destination": "/index.html" }
+  ],
+  "headers": [
     {
-      "src": "/sw.js",
-      "headers": { "Cache-Control": "public, max-age=0, must-revalidate", "Service-Worker-Allowed": "/" },
-      "dest": "/sw.js"
+      "source": "/sw.js",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" },
+        { "key": "Service-Worker-Allowed", "value": "/" }
+      ]
     },
     {
-      "src": "/manifest.json",
-      "headers": { "Cache-Control": "public, max-age=0, must-revalidate" },
-      "dest": "/manifest.json"
+      "source": "/manifest.json",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+      ]
     },
     {
-      "src": "/dist/(.*)",
-      "headers": { "Cache-Control": "public, max-age=31536000, immutable" },
-      "dest": "/dist/$1"
+      "source": "/dist/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
     },
     {
-      "src": "/icons/(.*)",
-      "headers": { "Cache-Control": "public, max-age=31536000, immutable" },
-      "dest": "/icons/$1"
+      "source": "/icons/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
     },
     {
-      "src": "/feed.xml",
-      "headers": { "Content-Type": "application/rss+xml; charset=utf-8", "Cache-Control": "public, max-age=0, must-revalidate" },
-      "dest": "/feed.xml"
+      "source": "/feed.xml",
+      "headers": [
+        { "key": "Content-Type", "value": "application/rss+xml; charset=utf-8" },
+        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+      ]
     },
     {
-      "src": "/sitemap.xml",
-      "headers": { "Content-Type": "application/xml; charset=utf-8" },
-      "dest": "/sitemap.xml"
+      "source": "/sitemap.xml",
+      "headers": [
+        { "key": "Content-Type", "value": "application/xml; charset=utf-8" }
+      ]
     },
     {
-      "src": "/styles.css",
-      "headers": { "Cache-Control": "public, max-age=86400, stale-while-revalidate=604800" },
-      "dest": "/styles.css"
+      "source": "/styles.css",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=86400, stale-while-revalidate=604800" }
+      ]
     }
   ]
 }
