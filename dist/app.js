@@ -305,6 +305,7 @@ function App() {
     });
   }, [ready]);
   useEffect(() => {
+    if (!ready) return;
     const desired = routeToPath(route);
     const current = window.location.pathname + window.location.search;
     if (current !== desired) {
@@ -315,7 +316,7 @@ function App() {
       top: 0,
       behavior: "instant"
     });
-  }, [route.view, route.name, route.kind, route.value, route.filter?.cat, route.filter?.country, route.filter?.city]);
+  }, [ready, route.view, route.name, route.kind, route.value, route.filter?.cat, route.filter?.country, route.filter?.city]);
   useEffect(() => {
     const onPop = () => setRoute(pathToRoute(window.location.pathname, window.location.search));
     window.addEventListener("popstate", onPop);
