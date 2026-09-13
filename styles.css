@@ -443,6 +443,25 @@ em { font-style: italic; }
 @keyframes random-spin { to { transform: rotate(360deg); } }
 .random-glyph { display: inline-block; }
 .random-glyph.is-spin { animation: random-spin .5s cubic-bezier(.5,.05,.2,1); }
+.random-kbd {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.02em;
+  color: var(--mute);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 1px 5px;
+  line-height: 1.4;
+  margin-left: 2px;
+  transition: border-color .15s ease, color .15s ease;
+}
+.random-cta-btn:hover .random-kbd,
+.random-btn:hover .random-kbd,
+.random-inline:hover .random-kbd {
+  border-color: var(--paper);
+  color: var(--paper);
+  opacity: .75;
+}
 
 /* Recently Viewed — homepage section + studio-page footer variant */
 .rv-section { padding-top: 30px; }
