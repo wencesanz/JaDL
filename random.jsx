@@ -18,6 +18,14 @@ function pickRandomStudio(excludeName) {
   return pick;
 }
 
+// Small "R" badge that hints at the keyboard shortcut. Reuses the site's
+// existing --mono / --mute tokens so it matches the boot-screen label style.
+function RandomKbd() {
+  return (
+    <kbd className="random-kbd" aria-hidden="true">R</kbd>
+  );
+}
+
 // Prominent homepage call-to-action.
 function RandomCTA({ go }) {
   const [spin, setSpin] = React.useState(false);
@@ -40,6 +48,7 @@ function RandomCTA({ go }) {
         >
           <span>Open a random studio</span>
           <span className={`random-glyph ${spin ? "is-spin" : ""}`} aria-hidden="true">⤳</span>
+          <RandomKbd />
         </button>
       </div>
     </section>
@@ -55,9 +64,10 @@ function RandomButton({ go, currentName }) {
     if (s) go("studio", { name: s.name });
   };
   return (
-    <button className="random-btn" onClick={open} title="Jump to a random studio">
+    <button className="random-btn" onClick={open} title="Jump to a random studio (press R)">
       <span>Random</span>
       <span className={`random-glyph ${spin ? "is-spin" : ""}`} onAnimationEnd={() => setSpin(false)} aria-hidden="true">⤳</span>
+      <RandomKbd />
     </button>
   );
 }
@@ -76,6 +86,7 @@ function RandomInline({ go }) {
     <button className="random-inline" onClick={open}>
       <span>Open a random studio</span>
       <span className={`random-glyph ${spin ? "is-spin" : ""}`} onAnimationEnd={() => setSpin(false)} aria-hidden="true">⤳</span>
+      <RandomKbd />
     </button>
   );
 }
