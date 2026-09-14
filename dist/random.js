@@ -11,6 +11,12 @@ function pickRandomStudio(excludeName) {
   lastRandomName = pick.name;
   return pick;
 }
+function RandomKbd() {
+  return React.createElement("kbd", {
+    className: "random-kbd",
+    "aria-hidden": "true"
+  }, "R");
+}
 function RandomCTA({
   go
 }) {
@@ -39,7 +45,7 @@ function RandomCTA({
   }, React.createElement("span", null, "Open a random studio"), React.createElement("span", {
     className: `random-glyph ${spin ? "is-spin" : ""}`,
     "aria-hidden": "true"
-  }, "\u2933"))));
+  }, "\u2933"), React.createElement(RandomKbd, null))));
 }
 function RandomButton({
   go,
@@ -56,12 +62,12 @@ function RandomButton({
   return React.createElement("button", {
     className: "random-btn",
     onClick: open,
-    title: "Jump to a random studio"
+    title: "Jump to a random studio (press R)"
   }, React.createElement("span", null, "Random"), React.createElement("span", {
     className: `random-glyph ${spin ? "is-spin" : ""}`,
     onAnimationEnd: () => setSpin(false),
     "aria-hidden": "true"
-  }, "\u2933"));
+  }, "\u2933"), React.createElement(RandomKbd, null));
 }
 Object.assign(window, {
   pickRandomStudio,
@@ -87,6 +93,6 @@ function RandomInline({
     className: `random-glyph ${spin ? "is-spin" : ""}`,
     onAnimationEnd: () => setSpin(false),
     "aria-hidden": "true"
-  }, "\u2933"));
+  }, "\u2933"), React.createElement(RandomKbd, null));
 }
 })();

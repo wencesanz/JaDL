@@ -334,6 +334,27 @@ function App() {
     }
     setRoute(next);
   }
+  // ---------- Keyboard shortcut: "R" jumps to a random studio ----------
+  // Ignored while the user is typing (inputs, textareas, contenteditable) or
+  // holding a modifier key, so it never hijacks normal browser/OS shortcuts.
+  useEffect(() => {
+    if (!ready) return;
+    function onKeyDown(e) {
+      if (e.defaultPrevented) return;
+      if (e.metaKey || e.ctrlKey || e.altKey) return;
+      if (e.key !== "r" && e.key !== "R") return;
+      const tag = (e.target && e.target.tagName || "").toLowerCase();
+      if (tag === "input" || tag === "textarea" || tag === "select" || e.target && e.target.isContentEditable) return;
+      if (!window.pickRandomStudio) return;
+      const currentName = route.view === "studio" ? route.name : null;
+      const s = window.pickRandomStudio(currentName);
+      if (s) go("studio", {
+        name: s.name
+      });
+    }
+    window.addEventListener("keydown", onKeyDown);
+    return () => window.removeEventListener("keydown", onKeyDown);
+  }, [ready, route.view, route.name]);
   if (!ready) {
     return React.createElement("div", {
       className: "boot"
