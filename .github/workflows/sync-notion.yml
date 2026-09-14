@@ -31,12 +31,15 @@ jobs:
       - name: Regenerate sitemap
         run: node scripts/generate-sitemap.mjs
 
+      - name: Prerender studio pages
+        run: node scripts/prerender.mjs
+
       - name: Commit changes (if any)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [[ -n "$(git status --porcelain studios.json sitemap.xml)" ]]; then
-            git add studios.json sitemap.xml
+          git add studios.json sitemap.xml studio
+          if [[ -n "$(git status --porcelain studios.json sitemap.xml studio)" ]]; then
             git commit -m "chore: sync studios from Notion"
             git push
             echo "✔ Changes pushed."
