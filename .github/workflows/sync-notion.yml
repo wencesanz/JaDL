@@ -28,12 +28,15 @@ jobs:
           DATABASE_ID: ${{ secrets.DATABASE_ID }}
         run: node scripts/sync-notion.mjs
 
+      - name: Regenerate sitemap
+        run: node scripts/generate-sitemap.mjs
+
       - name: Commit changes (if any)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [[ -n "$(git status --porcelain studios.json)" ]]; then
-            git add studios.json
+          if [[ -n "$(git status --porcelain studios.json sitemap.xml)" ]]; then
+            git add studios.json sitemap.xml
             git commit -m "chore: sync studios from Notion"
             git push
             echo "✔ Changes pushed."
