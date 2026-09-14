@@ -196,6 +196,43 @@ function collectionLd(name, description, url, studios) {
     }
   };
 }
+// Mirror of jsonLd() in scripts/prerender.mjs — keep the two in sync. This
+// runs client-side so SPA navigation between studios (e.g. the Random button)
+// gets correct per-studio structured data too, not just the prerendered
+// first-load page.
+function studioLd(s, url, desc) {
+  const sameAs = [];
+  if (s.url) sameAs.push(s.url);
+  if (s.ig) {
+    const handle = String(s.ig).replace(/^@/, "").replace(/^https?:\/\/(www\.)?instagram\.com\//, "").replace(/\/$/, "");
+    if (handle) sameAs.push(`https://www.instagram.com/${handle}/`);
+  }
+  const data = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: s.name,
+    url,
+    description: desc
+  };
+  if (sameAs.length) data.sameAs = sameAs;
+  if (s.city || s.country) {
+    data.address = {
+      "@type": "PostalAddress",
+      ...(s.city ? { addressLocality: s.city } : {}),
+      ...(s.country ? { addressCountry: s.country } : {})
+    };
+  }
+  return data;
+}
+function websiteLd(desc) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "Just a Design List",
+    url: SITE_BASE + "/",
+    description: desc
+  };
+}
 function setMeta(route) {
   const d = window.SITE || {};
   let title = "Just a Design List — A curated directory of design practices";
@@ -212,7 +249,10 @@ function setMeta(route) {
       title = `${s.name} — ${cat}${loc ? ", " + loc : ""} · Just a Design List`;
       desc = `${s.name} is an independent design practice${loc ? " based in " + loc : ""}, working in ${(s.category || "design").toLowerCase()}. Indexed on Just a Design List.`;
       if (s.url) image = `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=1200&h=630`;
+      jsonld = [studioLd(s, url, desc), breadcrumbLd([["Studios", SITE_BASE + "/studios"], [s.name, url]])];
     }
+  } else if (route.view === "index") {
+    jsonld = [websiteLd(desc)];
   } else if (route.view === "studios") {
     const f = route.filter || {};
     if (f.cat) {
