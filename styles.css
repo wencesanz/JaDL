@@ -439,6 +439,35 @@ em { font-style: italic; }
 .save-btn.is-saved { border-color: var(--ink); color: var(--ink); }
 .save-btn.is-saved:hover { background: transparent; color: var(--mute); border-color: var(--rule); }
 
+/* "Suggest a correction" — discreet toggle + tiny inline form in the
+   studio-detail side column, right after the Share block. */
+.correction-block { margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--rule); text-transform: none; letter-spacing: 0; }
+.correction-toggle {
+  font-family: var(--mono); font-size: 12px; letter-spacing: 0.02em;
+  color: var(--mute); cursor: pointer; text-align: left;
+  transition: color .15s ease;
+}
+.correction-toggle:hover { color: var(--ink); }
+.correction-form { display: grid; gap: 10px; }
+.correction-form textarea,
+.correction-form input {
+  width: 100%; font: inherit; font-family: var(--sans); font-size: 14px;
+  color: var(--ink); background: transparent; border: 1px solid var(--rule);
+  border-radius: 4px; padding: 9px 11px; outline: none;
+  transition: border-color .15s ease;
+}
+.correction-form textarea { resize: vertical; min-height: 70px; }
+.correction-form textarea:focus,
+.correction-form input:focus { border-color: var(--ink); }
+.correction-submit {
+  justify-self: start; padding: 8px 16px; border-radius: 999px;
+  background: var(--ink); color: var(--paper);
+  font-family: var(--mono); font-size: 11px; letter-spacing: .04em; text-transform: uppercase;
+  cursor: pointer; transition: opacity .15s ease;
+}
+.correction-submit:disabled { opacity: .5; cursor: default; }
+.correction-note { font-family: var(--mono); font-size: 12px; color: var(--mute); line-height: 1.5; }
+
 /* Random Studio discovery */
 @keyframes random-spin { to { transform: rotate(360deg); } }
 .random-glyph { display: inline-block; }
