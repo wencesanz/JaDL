@@ -7,6 +7,7 @@
   <url><loc>https://justadesignlist.com/about</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
   <url><loc>https://justadesignlist.com/submit</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
   <url><loc>https://justadesignlist.com/studio/oddity-studio</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/studio/raw</loc><lastmod>2026-09-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/studio-lotta-nieminen</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/and-smith</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/andwalsh</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -94,6 +95,7 @@
   <url><loc>https://justadesignlist.com/studio/aperitif</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/applied-arts</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/arce-studio</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/studio/arctic-research</loc><lastmod>2026-09-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/area17</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/aris-zenone</loc><lastmod>2026-08-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/ark-africa</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -911,6 +913,7 @@
   <url><loc>https://justadesignlist.com/studio/porto-rocha</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/positive-studio</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/post</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/studio/post-projects</loc><lastmod>2026-09-14</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/post-spectacular-office</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/postnew</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/poulsen-projects</loc><lastmod>2026-05-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -940,6 +943,7 @@
   <url><loc>https://justadesignlist.com/studio/raiz-studio</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/rapzoomers</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/rareview</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/studio/rasmus-und-christin</loc><lastmod>2026-09-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/rationale</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/raw-materials</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/rawty</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -947,7 +951,9 @@
   <url><loc>https://justadesignlist.com/studio/re-public</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/reaktor</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/realmente-bravo</loc><lastmod>2026-05-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/studio/recent</loc><lastmod>2026-09-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/redkroft</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/studio/redo-bureau</loc><lastmod>2026-09-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/rees-morgan</loc><lastmod>2026-05-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/reesaw</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/regular-practice</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
