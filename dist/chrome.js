@@ -200,16 +200,16 @@ function Footer({
   }, React.createElement("span", null, "Submit a studio"), React.createElement("span", {
     className: "arr"
   }, "\u2192")), React.createElement("a", {
-    href: "https://www.wenceslaosanz.rocks",
+    href: "https://x.com/justadesignlist",
     target: "_blank",
     rel: "noopener"
-  }, React.createElement("span", null, "Editor \u2014 wenceslaosanz.rocks"), React.createElement("span", {
+  }, React.createElement("span", null, "X"), React.createElement("span", {
     className: "arr"
   }, "\u2197")), React.createElement("a", {
-    href: "https://www.designmatazz.com",
+    href: "https://www.instagram.com/justadesignlist/",
     target: "_blank",
     rel: "noopener"
-  }, React.createElement("span", null, "Designmatazz"), React.createElement("span", {
+  }, React.createElement("span", null, "Instagram"), React.createElement("span", {
     className: "arr"
   }, "\u2197")), React.createElement("a", {
     href: "https://www.linkedin.com/in/wenceslaosanz/",
