@@ -222,6 +222,27 @@ function slugify(s) {
     .replace(/^-+|-+$/g, '');
 }
 
+async function updateIndexDescription(studios) {
+  const { readFile, writeFile } = await import('node:fs/promises');
+  const path = 'index.html';
+  let html;
+  try {
+    html = await readFile(path, 'utf8');
+  } catch {
+    console.warn(`Skipped ${path} (not found) — could not refresh the description count.`);
+    return;
+  }
+  const countryCount = new Set(studios.map(s => s.country).filter(Boolean)).size;
+  const sentence = `${studios.length} entries across ${countryCount} countries.`;
+  const updated = html.replace(/\d+ entries across \d+ countries\./, sentence);
+  if (updated !== html) {
+    await writeFile(path, updated, 'utf8');
+    console.log(`Updated index.html description: ${sentence}`);
+  } else {
+    console.log('index.html description already current.');
+  }
+}
+
 async function writeSitemap(studios) {
   const { writeFile } = await import('node:fs/promises');
   const today = new Date().toISOString().slice(0, 10);
@@ -322,6 +343,10 @@ ${items}
   // Write sitemap.xml (every page + one URL per studio)
   await writeSitemap(studios);
   console.log('Wrote sitemap.xml');
+
+  // Keep the static homepage description (used by og:description, since the
+  // homepage isn't prerendered) in sync with the real studio/country counts.
+  await updateIndexDescription(studios);
 
   // Quick diagnostics
   const missing = studios.filter(s => !s.url && !s.ig);
