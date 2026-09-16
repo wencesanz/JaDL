@@ -26,8 +26,9 @@ jobs:
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           DATABASE_ID: ${{ secrets.DATABASE_ID }}
-        # Also writes sitemap.xml and feed.xml (see writeSitemap/writeFeed
-        # in sync-notion.mjs) — no separate sitemap step needed.
+        # Also writes sitemap.xml, feed.xml, and refreshes the studio/country
+        # count in index.html's og:description (see writeSitemap/writeFeed/
+        # updateIndexDescription in sync-notion.mjs) — no separate step needed.
         run: node scripts/sync-notion.mjs
 
       - name: Prerender studio pages
@@ -37,8 +38,8 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add studios.json sitemap.xml feed.xml studio
-          if [[ -n "$(git status --porcelain studios.json sitemap.xml feed.xml studio)" ]]; then
+          git add studios.json sitemap.xml feed.xml studio index.html
+          if [[ -n "$(git status --porcelain studios.json sitemap.xml feed.xml studio index.html)" ]]; then
             git commit -m "chore: sync studios from Notion"
             git push
             echo "✔ Changes pushed."
