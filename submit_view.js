@@ -26,8 +26,7 @@ function SubmitView() {
   const [hp, setHp] = useSubSt("");
   const [catError, setCatError] = useSubSt(false);
   const [errMsg, setErrMsg] = useSubSt(null);
-  const EDITOR_EMAIL = "wencesanz@gmail.com";
-  const FORMSPREE_ENDPOINT = "https://formspree.io/f/xzdylwvg";
+  const EDITOR_EMAIL = "hola@justadesignlist.com";
   const d = window.SITE;
   const cats = (d.categoriesOrder || []).filter(c => d.byCat?.[c]);
   function upd(k, v) {
@@ -64,40 +63,32 @@ function SubmitView() {
     setSending(true);
     setFailedMailto(null);
     setErrMsg(null);
-    if (hp) {
-      setSending(false);
-      setSent(true);
-      return;
-    }
-    const payload = {
-      _subject: `Studio submission — ${form.name || "(untitled)"}`,
-      _replyto: form.submitterEmail,
-      "Studio name": form.name,
-      "Website": form.url,
-      "Instagram": form.ig || "—",
-      "Disciplines": resolvedCats() || "—",
-      "City": form.city || "—",
-      "Country": form.country || "—",
-      "Founded": form.founded || "—",
-      "Team size": form.size || "—",
-      "Description": form.description || "—",
-      "Submitted by": form.submitterName || "—",
-      "Email": form.submitterEmail || "—",
-      "Relation": relationLabel(),
-      "Notes to editor": form.notes || "—"
-    };
     try {
-      const res = await fetch(FORMSPREE_ENDPOINT, {
+      const res = await fetch("/api/submit", {
         method: "POST",
         headers: {
-          "Content-Type": "application/json",
-          "Accept": "application/json"
+          "Content-Type": "application/json"
         },
-        body: JSON.stringify(payload)
+        body: JSON.stringify({
+          name: form.name,
+          url: form.url,
+          ig: form.ig,
+          categories: resolvedCats(),
+          city: form.city,
+          country: form.country,
+          founded: form.founded,
+          size: form.size,
+          description: form.description,
+          submitterName: form.submitterName,
+          submitterEmail: form.submitterEmail,
+          relation: relationLabel(),
+          notes: form.notes,
+          website2: hp
+        })
       });
       if (!res.ok) {
-        const data = await res.json().catch(() => ({}));
-        throw new Error(data.errors && data.errors.map(x => x.message).join(", ") || `Request failed (${res.status})`);
+        const info = await res.json().catch(() => ({}));
+        throw new Error(info.error || `HTTP ${res.status}`);
       }
       setSent(true);
     } catch (err) {

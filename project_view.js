@@ -95,7 +95,7 @@ function StudioHero({
   }, loaded && host ? `${host} · click through to visit` : "Studio site preview · click through to visit"));
 }
 const CORRECTION_ENDPOINT = "https://formspree.io/f/xzdylwvg";
-const EDITOR_EMAIL_CORR = "wencesanz@gmail.com";
+const EDITOR_EMAIL_CORR = "hola@justadesignlist.com";
 
 // Discreet "spot something wrong?" link that expands into a tiny inline
 // form, posting straight to Formspree. Keeps the same fallback pattern as
