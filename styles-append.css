@@ -1,0 +1,147 @@
+/* ============================================================
+   Studio detail — new text + image layout
+   Append this block at the END of styles.css.
+   Uses existing tokens; the old .pd-head .meta / .pd-body /
+   .intro / .body-col / .pd-next rules stay for other views.
+   ============================================================ */
+
+/* Header: single column, number + name + one metadata line */
+.pd-head--stack {
+  display: block;
+  padding: clamp(48px, 7vw, 110px) 0 36px;
+  border-bottom: 1px solid var(--rule);
+}
+.pd-head--stack h2 { margin-top: 18px; max-width: 18ch; }
+.pd-meta-line {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 28px;
+  margin-top: 30px;
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--mute);
+}
+
+/* Spread: screenshot left, text and links right */
+.sd-spread {
+  display: grid;
+  grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+  gap: 48px;
+  padding-top: 48px;
+}
+.sd-figure-link { display: block; }
+.sd-figure {
+  position: relative;
+  aspect-ratio: 4 / 3;
+  border: 1px solid var(--rule);
+  background: var(--col, #D8CFBD);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sd-figure::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: repeating-linear-gradient(45deg, rgba(0,0,0,.04) 0 1px, transparent 1px 14px);
+}
+.sd-figure-fallback {
+  position: relative;
+  z-index: 2;
+  padding: 0 40px;
+  text-align: center;
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: clamp(36px, 6vw, 80px);
+  line-height: 1;
+  color: var(--ink);
+  opacity: .25;
+}
+.sd-figure-link:hover .sd-figure { border-color: var(--ink); }
+.sd-figure-link:hover .pd-hero-img { transform: scale(1.01); }
+.sd-cap {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  margin-top: 12px;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--mute);
+}
+
+/* Right column */
+.sd-nav { display: flex; flex-direction: column; }
+.sd-nav-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: baseline;
+  gap: 16px;
+  padding: 13px 0;
+  border-top: 1px solid var(--rule);
+  cursor: pointer;
+}
+.sd-nav-row .t { font-family: var(--serif); font-size: 22px; letter-spacing: -0.01em; }
+.sd-nav-row .k {
+  font-family: var(--mono);
+  font-size: var(--fs-meta);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--mute);
+}
+.sd-nav-row:hover .t { color: var(--accent); }
+
+.sd-note {
+  margin: 26px 0 0;
+  font-size: 15px;
+  line-height: 1.65;
+  color: var(--ink-2);
+  text-wrap: pretty;
+}
+
+.sd-links { display: grid; margin-top: 32px; border-top: 1px solid var(--rule); }
+.sd-links a {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 12px;
+  padding: 13px 0;
+  border-bottom: 1px solid var(--rule-soft);
+  font-family: var(--mono);
+  font-size: 13px;
+  color: var(--ink);
+}
+.sd-links a:hover { color: var(--accent); }
+
+.sd-lbl {
+  margin-top: 36px;
+  padding-top: 20px;
+  border-top: 1px solid var(--rule);
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--mute);
+}
+.sd-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+.sd-tag {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  padding: 6px 12px;
+  cursor: pointer;
+  transition: border-color .15s ease, color .15s ease;
+}
+.sd-tag:hover { border-color: var(--ink); color: var(--ink); }
+
+@media (max-width: 900px) {
+  .sd-spread { grid-template-columns: 1fr; gap: 32px; }
+  .sd-cap { flex-direction: column; gap: 6px; }
+}
