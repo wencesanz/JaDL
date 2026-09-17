@@ -5,8 +5,49 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:15:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:32:17 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hangar</title>
+      <link>https://hangar.co/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/hangar</guid>
+      <pubDate>Thu, 17 Sep 2026 16:02:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Hamrun, Malta.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>HalloBasis</title>
+      <link>https://hallobasis.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/hallobasis</guid>
+      <pubDate>Thu, 17 Sep 2026 13:35:00 GMT</pubDate>
+      <description>Branding — Frankfurt, Germany.</description>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>Grebban</title>
+      <link>https://www.grebban.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/grebban</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Graphic Design — Stockholm, Copenhague, Oslo, London, Gothenburg, Sweden, Denmark, Norway, England.</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Giang Ho</title>
+      <link>https://giangho.work/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/giang-ho</guid>
+      <pubDate>Thu, 17 Sep 2026 13:25:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Advertising/Campaigns · Illustration · Interactive/Digital · Packaging — Berlin, Germany.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Advertising/Campaigns</category>
+      <category>Illustration</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Studio Eräpuro</title>
       <link>https://www.erapuro.com/</link>
@@ -290,48 +331,6 @@
       <category>Graphic Design</category>
       <category>Motion</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>MuirMcNeil</title>
-      <link>https://muirmcneil.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/muirmcneil</guid>
-      <pubDate>Thu, 10 Sep 2026 08:38:00 GMT</pubDate>
-      <description>Graphic Design · Typography — London, England.</description>
-      <category>Graphic Design</category>
-      <category>Typography</category>
-    </item>
-    <item>
-      <title>Le Séisme</title>
-      <link>https://leseisme.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/le-seisme</guid>
-      <pubDate>Thu, 10 Sep 2026 08:00:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Motion · Packaging — Montreal, Canada.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Motion</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Denomination</title>
-      <link>https://denomination.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/denomination</guid>
-      <pubDate>Wed, 09 Sep 2026 14:59:00 GMT</pubDate>
-      <description>Branding · Packaging — London, New York, Sydney, San Francisco, England, USA, Australia.</description>
-      <category>Branding</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Demande Spéciale</title>
-      <link>https://demandespeciale.ca/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/demande-speciale</guid>
-      <pubDate>Wed, 09 Sep 2026 14:57:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Interactive/Digital · Advertising/Campaigns — Montreal, Canada.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
-      <category>Advertising/Campaigns</category>
     </item>
   </channel>
 </rss>
