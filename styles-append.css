@@ -31,9 +31,11 @@
   gap: 48px;
   padding-top: 48px;
 }
-.sd-figure-link { display: block; }
+.sd-figure-col { min-width: 0; }
+.sd-figure-link { display: block; min-width: 0; }
 .sd-figure {
   position: relative;
+  width: 100%;
   aspect-ratio: 4 / 3;
   border: 1px solid var(--rule);
   background: var(--col, #D8CFBD);
@@ -41,6 +43,22 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+/* The screenshot itself. Required: .pd-hero-img has no size of its own in
+   styles.css — the old .pd-hero container sized it. Without this rule the
+   image renders at its natural size and breaks the page layout. */
+.sd-figure .pd-hero-img {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
+  transition: opacity .45s ease, transform .6s ease;
 }
 .sd-figure::before {
   content: "";
