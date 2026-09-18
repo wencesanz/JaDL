@@ -5,19 +5,10 @@ const {
   useState: usePdState,
   useEffect: usePdEffect
 } = React;
+const h = React.createElement;
 const ES_MONTHS = {
-  enero: 0,
-  febrero: 1,
-  marzo: 2,
-  abril: 3,
-  mayo: 4,
-  junio: 5,
-  julio: 6,
-  agosto: 7,
-  septiembre: 8,
-  octubre: 9,
-  noviembre: 10,
-  diciembre: 11
+  enero: 0, febrero: 1, marzo: 2, abril: 3, mayo: 4, junio: 5,
+  julio: 6, agosto: 7, septiembre: 8, octubre: 9, noviembre: 10, diciembre: 11
 };
 function formatIndexed(raw) {
   if (!raw) return "—";
@@ -36,63 +27,35 @@ function formatIndexed(raw) {
   if (!d) return raw;
   try {
     return new Intl.DateTimeFormat("en-GB", {
-      day: "numeric",
-      month: "long",
-      year: "numeric",
-      timeZone: "UTC"
+      day: "numeric", month: "short", year: "numeric", timeZone: "UTC"
     }).format(d);
   } catch {
     return d.toDateString();
   }
 }
-function StudioHero({
-  s,
-  col
-}) {
+function StudioHero({ s, col }) {
   const [loaded, setLoaded] = usePdState(false);
   const [srcIdx, setSrcIdx] = usePdState(0);
-  const sources = s.url ? [`/api/ogimage?url=${encodeURIComponent(s.url)}`, `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=1600&h=1000`] : [];
+  const sources = s.url ? [`/api/ogimage?url=${encodeURIComponent(s.url)}`, `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=1600&h=1200`] : [];
   usePdEffect(() => {
     setLoaded(false);
     setSrcIdx(0);
   }, [s.url]);
   const shot = sources[srcIdx] || null;
   const exhausted = srcIdx >= sources.length;
-  const host = (s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "");
   const advance = () => setSrcIdx(i => i + 1);
-  return React.createElement("div", {
-    className: "pd-hero",
-    style: {
-      "--col": col
-    }
-  }, shot && !exhausted && React.createElement("img", {
+  return h("div", {
+    className: "sd-figure",
+    style: { "--col": col }
+  }, shot && !exhausted && h("img", {
     key: shot,
     src: shot,
     alt: `${s.name} — website preview`,
-    onLoad: e => {
-      if (e.target.naturalWidth > 100) setLoaded(true);else advance();
-    },
+    onLoad: e => { if (e.target.naturalWidth > 100) setLoaded(true); else advance(); },
     onError: advance,
     className: "pd-hero-img",
-    style: {
-      opacity: loaded ? 1 : 0
-    }
-  }), !loaded && React.createElement("div", {
-    style: {
-      fontFamily: "var(--serif)",
-      fontStyle: "italic",
-      fontSize: "clamp(36px, 6vw, 80px)",
-      color: "var(--ink)",
-      opacity: .25,
-      position: "relative",
-      zIndex: 2,
-      textAlign: "center",
-      padding: "0 40px",
-      lineHeight: 1
-    }
-  }, s.name), React.createElement("span", {
-    className: "ph"
-  }, loaded && host ? `${host} · click through to visit` : "Studio site preview · click through to visit"));
+    style: { opacity: loaded ? 1 : 0 }
+  }), !loaded && h("div", { className: "sd-figure-fallback" }, s.name));
 }
 const CORRECTION_ENDPOINT = "https://formspree.io/f/xzdylwvg";
 const EDITOR_EMAIL_CORR = "hola@justadesignlist.com";
@@ -101,9 +64,7 @@ const EDITOR_EMAIL_CORR = "hola@justadesignlist.com";
 // form, posting straight to Formspree. Keeps the same fallback pattern as
 // SubmitView: if the network call fails, hand the user a pre-written
 // mailto: link instead of just failing silently.
-function CorrectionBlock({
-  s
-}) {
+function CorrectionBlock({ s }) {
   const [open, setOpen] = usePdState(false);
   const [note, setNote] = usePdState("");
   const [email, setEmail] = usePdState("");
@@ -120,10 +81,7 @@ function CorrectionBlock({
     try {
       const res = await fetch(CORRECTION_ENDPOINT, {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "Accept": "application/json"
-        },
+        headers: { "Content-Type": "application/json", "Accept": "application/json" },
         body: JSON.stringify({
           _subject: `Correction — ${s.name}`,
           studio: s.name,
@@ -143,49 +101,39 @@ function CorrectionBlock({
   }
 
   if (sent) {
-    return React.createElement("div", {
-      className: "correction-block"
-    }, React.createElement("p", {
-      className: "correction-note"
-    }, "Thanks — noted. It'll be checked."));
+    return h("div", { className: "correction-block" },
+      h("p", { className: "correction-note" }, "Thanks — noted. It'll be checked."));
   }
 
-  return React.createElement("div", {
-    className: "correction-block"
-  }, !open ? React.createElement("button", {
+  return h("div", { className: "correction-block" }, !open ? h("button", {
     className: "correction-toggle",
     onClick: () => setOpen(true)
-  }, React.createElement("span", null, "Spot something wrong? Suggest a correction")) : React.createElement("form", {
+  }, h("span", null, "Spot something wrong? Suggest a correction")) : h("form", {
     className: "correction-form",
     onSubmit: handleSubmit
-  }, React.createElement("textarea", {
+  }, h("textarea", {
     required: true,
     value: note,
     onChange: e => setNote(e.target.value),
     placeholder: "What's outdated or wrong? (e.g. broken link, wrong city, new category)"
-  }), React.createElement("input", {
+  }), h("input", {
     type: "email",
     value: email,
     onChange: e => setEmail(e.target.value),
     placeholder: "Your email (optional, in case of questions)"
-  }), React.createElement("button", {
+  }), h("button", {
     type: "submit",
     className: "correction-submit",
     disabled: sending
-  }, sending ? "Sending…" : "Send"), err && React.createElement("p", {
+  }, sending ? "Sending…" : "Send"), err && h("p", {
     className: "correction-note",
-    style: {
-      color: "var(--accent)"
-    }
-  }, `Couldn't send (${err}). `, React.createElement("a", {
+    style: { color: "var(--accent)" }
+  }, `Couldn't send (${err}). `, h("a", {
     className: "link",
     href: `mailto:${EDITOR_EMAIL_CORR}?subject=${encodeURIComponent("Correction — " + s.name)}&body=${encodeURIComponent(note + (email ? "\n\nFrom: " + email : "") + "\n\nPage: " + pageUrl)}`
   }, "send by email instead"))));
 }
-function StudioDetail({
-  name,
-  go
-}) {
+function StudioDetail({ name, go }) {
   const d = window.SITE;
   const all = d.studios || [];
   const idx = all.findIndex(x => x.name === name);
@@ -198,33 +146,27 @@ function StudioDetail({
     return all.filter(x => x.name !== s.name && x.category.includes(firstCat)).slice(0, 6);
   }, [s]);
   if (!s) {
-    return React.createElement("div", {
+    return h("div", {
       className: "view wrap",
-      style: {
-        paddingTop: 120
-      }
-    }, React.createElement("p", {
-      style: {
-        fontFamily: "var(--serif)",
-        fontSize: 32
-      }
-    }, "Entry not found."), React.createElement("button", {
+      style: { paddingTop: 120 }
+    }, h("p", {
+      style: { fontFamily: "var(--serif)", fontSize: 32 }
+    }, "Entry not found."), h("button", {
       onClick: () => go("studios"),
       className: "link",
-      style: {
-        fontFamily: "var(--mono)",
-        fontSize: 12
-      }
+      style: { fontFamily: "var(--mono)", fontSize: 12 }
     }, "\u2190 Back to the list"));
   }
   const col = d.catColors?.[s.category.split(",")[0].trim()] || "#D8CFBD";
   const host = (s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "");
   const igHandle = (s.ig || "").split("/").filter(Boolean).pop();
+  const cats = s.category.split(",").map(c => c.trim()).filter(Boolean);
+  const place = [s.city, s.country].filter(Boolean).join(", ");
   usePdEffect(() => {
     if (window.recordVisit) window.recordVisit(s.name);
   }, [s.name]);
   const shareUrl = typeof window !== "undefined" ? window.location.href : "";
-  const shareText = `${s.name} — ${s.category.split(",")[0].trim()}${s.city ? `, ${s.city}` : ""} · via Just a Design List`;
+  const shareText = `${s.name} — ${cats[0] || "design"}${s.city ? `, ${s.city}` : ""} · via Just a Design List`;
   const [copied, setCopied] = usePdState(false);
   const [igOpen, setIgOpen] = usePdState(false);
   const copyLink = async () => {
@@ -245,338 +187,164 @@ function StudioDetail({
       document.body.removeChild(i);
     }
   };
-  return React.createElement("div", {
-    className: "view wrap"
-  }, React.createElement("div", {
-    className: "pd-topbar"
-  }, React.createElement("button", {
-    onClick: () => go("studios"),
-    className: "back-btn",
-    "aria-label": "Back to the list"
-  }, React.createElement("span", {
-    className: "arr"
-  }, "\u2190"), React.createElement("span", null, "The List")), window.RandomButton ? React.createElement(window.RandomButton, {
-    go: go,
-    currentName: s.name
-  }) : null), React.createElement("div", {
-    className: "pd-head"
-  }, React.createElement("div", null, React.createElement(Eyebrow, {
-    num: `№ ${String(idx + 1).padStart(3, "0")} of ${all.length}`
-  }, React.createElement("span", null, s.category.split(",")[0])), React.createElement("h2", {
-    style: {
-      marginTop: 14
-    }
-  }, s.name)), React.createElement("dl", {
-    className: "meta"
-  }, React.createElement("dt", null, "City"), React.createElement("dd", null, s.city || "—"), React.createElement("dt", null, "Country"), React.createElement("dd", null, s.country || "—"), React.createElement("dt", null, "Discipline"), React.createElement("dd", null, s.category), s.type && React.createElement(React.Fragment, null, React.createElement("dt", null, "Type"), React.createElement("dd", null, s.type)), React.createElement("dt", null, "Indexed"), React.createElement("dd", null, formatIndexed(s.created || s.edited)))), React.createElement("div", {
-    className: "pd-hero-wrap"
-  }, s.url ? React.createElement("a", {
-    href: s.url,
-    target: "_blank",
-    rel: "noopener",
-    style: {
-      display: "block"
-    }
-  }, React.createElement(StudioHero, {
-    s: s,
-    col: col
-  })) : React.createElement(StudioHero, {
-    s: s,
-    col: col
-  })), React.createElement("div", {
-    className: "pd-body"
-  }, React.createElement("aside", {
-    className: "side-col"
-  }, "Visit", React.createElement("div", {
-    style: {
-      marginTop: 14,
-      display: "grid",
-      gap: 10,
-      textTransform: "none",
-      letterSpacing: 0,
-      fontSize: 14
-    }
-  }, s.url && React.createElement("a", {
-    href: s.url,
-    target: "_blank",
-    rel: "noopener",
-    className: "link",
-    style: {
-      color: "var(--ink)",
-      display: "grid",
-      gridTemplateColumns: "1fr auto",
-      gap: 8
-    }
-  }, React.createElement("span", {
-    style: {
-      overflow: "hidden",
-      textOverflow: "ellipsis",
-      whiteSpace: "nowrap"
-    }
-  }, host), React.createElement("span", {
-    style: {
-      color: "var(--mute)"
-    }
-  }, "\u2197")), s.ig && React.createElement("a", {
-    href: s.ig,
-    target: "_blank",
-    rel: "noopener",
-    className: "link",
-    style: {
-      color: "var(--ink)",
-      display: "grid",
-      gridTemplateColumns: "1fr auto",
-      gap: 8
-    }
-  }, React.createElement("span", {
-    style: {
-      overflow: "hidden",
-      textOverflow: "ellipsis",
-      whiteSpace: "nowrap"
-    }
-  }, "@", igHandle), React.createElement("span", {
-    style: {
-      color: "var(--mute)"
-    }
-  }, "\u2197"))), window.SaveButton ? React.createElement("div", {
-    className: "save-block"
-  }, React.createElement(window.SaveButton, {
-    studio: s
-  })) : null, React.createElement("div", {
-    className: "share-block"
-  }, React.createElement("div", {
+
+  const shareBlock = h("div", { className: "share-block" }, h("div", {
     className: "share-lbl"
-  }, "Share"), React.createElement("div", {
-    className: "share-row"
-  }, React.createElement("a", {
+  }, "Share"), h("div", { className: "share-row" }, h("a", {
     className: "share-btn",
     href: `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`,
     target: "_blank",
     rel: "noopener",
     "aria-label": "Share on X / Twitter",
     title: "Share on X / Twitter"
-  }, React.createElement("svg", {
-    viewBox: "0 0 24 24",
-    width: "14",
-    height: "14",
-    fill: "currentColor",
-    "aria-hidden": "true"
-  }, React.createElement("path", {
+  }, h("svg", {
+    viewBox: "0 0 24 24", width: "14", height: "14", fill: "currentColor", "aria-hidden": "true"
+  }, h("path", {
     d: "M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"
-  })), React.createElement("span", null, "X")), React.createElement("a", {
+  })), h("span", null, "X")), h("a", {
     className: "share-btn",
     href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(shareUrl)}`,
     target: "_blank",
     rel: "noopener",
     "aria-label": "Share on LinkedIn",
     title: "Share on LinkedIn"
-  }, React.createElement("svg", {
-    viewBox: "0 0 24 24",
-    width: "14",
-    height: "14",
-    fill: "currentColor",
-    "aria-hidden": "true"
-  }, React.createElement("path", {
+  }, h("svg", {
+    viewBox: "0 0 24 24", width: "14", height: "14", fill: "currentColor", "aria-hidden": "true"
+  }, h("path", {
     d: "M20.45 20.45h-3.55v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.13 1.45-2.13 2.94v5.67H9.37V9h3.41v1.56h.05c.47-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.45v6.29zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z"
-  })), React.createElement("span", null, "LinkedIn")), React.createElement("a", {
+  })), h("span", null, "LinkedIn")), h("a", {
     className: "share-btn",
     href: `mailto:?subject=${encodeURIComponent(s.name + " — Just a Design List")}&body=${encodeURIComponent(shareText + "\n\n" + shareUrl)}`,
     "aria-label": "Share by email",
     title: "Share by email"
-  }, React.createElement("svg", {
-    viewBox: "0 0 24 24",
-    width: "14",
-    height: "14",
-    fill: "none",
-    stroke: "currentColor",
-    strokeWidth: "1.6",
-    "aria-hidden": "true"
-  }, React.createElement("rect", {
-    x: "3",
-    y: "5",
-    width: "18",
-    height: "14",
-    rx: "1"
-  }), React.createElement("path", {
+  }, h("svg", {
+    viewBox: "0 0 24 24", width: "14", height: "14", fill: "none", stroke: "currentColor", strokeWidth: "1.6", "aria-hidden": "true"
+  }, h("rect", { x: "3", y: "5", width: "18", height: "14", rx: "1" }), h("path", {
     d: "M3 7l9 6 9-6"
-  })), React.createElement("span", null, "Email")), React.createElement("button", {
+  })), h("span", null, "Email")), h("button", {
     className: "share-btn",
     onClick: () => setIgOpen(true),
     "aria-label": "Share to Instagram",
     title: "Share to Instagram"
-  }, React.createElement("svg", {
-    viewBox: "0 0 24 24",
-    width: "14",
-    height: "14",
-    fill: "none",
-    stroke: "currentColor",
-    strokeWidth: "1.6",
-    "aria-hidden": "true"
-  }, React.createElement("rect", {
-    x: "3",
-    y: "3",
-    width: "18",
-    height: "18",
-    rx: "5"
-  }), React.createElement("circle", {
-    cx: "12",
-    cy: "12",
-    r: "4"
-  }), React.createElement("circle", {
-    cx: "17.5",
-    cy: "6.5",
-    r: "1",
-    fill: "currentColor",
-    stroke: "none"
-  })), React.createElement("span", null, "Instagram")), React.createElement("button", {
+  }, h("svg", {
+    viewBox: "0 0 24 24", width: "14", height: "14", fill: "none", stroke: "currentColor", strokeWidth: "1.6", "aria-hidden": "true"
+  }, h("rect", { x: "3", y: "3", width: "18", height: "18", rx: "5" }), h("circle", {
+    cx: "12", cy: "12", r: "4"
+  }), h("circle", {
+    cx: "17.5", cy: "6.5", r: "1", fill: "currentColor", stroke: "none"
+  })), h("span", null, "Instagram")), h("button", {
     className: "share-btn",
     onClick: copyLink,
     "aria-label": "Copy link",
     title: "Copy link"
-  }, React.createElement("svg", {
-    viewBox: "0 0 24 24",
-    width: "14",
-    height: "14",
-    fill: "none",
-    stroke: "currentColor",
-    strokeWidth: "1.6",
-    strokeLinecap: "round",
-    strokeLinejoin: "round",
-    "aria-hidden": "true"
-  }, React.createElement("path", {
+  }, h("svg", {
+    viewBox: "0 0 24 24", width: "14", height: "14", fill: "none", stroke: "currentColor", strokeWidth: "1.6", strokeLinecap: "round", strokeLinejoin: "round", "aria-hidden": "true"
+  }, h("path", {
     d: "M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07l-1.5 1.5"
-  }), React.createElement("path", {
+  }), h("path", {
     d: "M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07l1.5-1.5"
-  })), React.createElement("span", null, copied ? "Copied" : "Copy link")))), React.createElement(CorrectionBlock, {
-    s: s
-  })), React.createElement("div", {
-    className: "intro"
-  }, "An independent practice based in ", React.createElement("em", null, s.city || s.country), s.country && s.city ? React.createElement(React.Fragment, null, ", ", React.createElement("em", null, s.country)) : null, ", working in ", s.category.split(",").map((c, i, a) => React.createElement(React.Fragment, {
-    key: c
-  }, React.createElement("em", null, c.trim().toLowerCase()), i < a.length - 1 ? i === a.length - 2 ? " and " : ", " : null)), ".")), React.createElement("div", {
-    className: "pd-body"
-  }, React.createElement("div", {
-    className: "body-col"
-  }, React.createElement("p", null, "The entry is intentionally brief. The index is a pointer, not a review \u2014 visit the studio's own site to see the work in its preferred frame. What we note here is only what is needed to find the practice again: where it is, what it does, and where to look."), React.createElement("p", null, React.createElement("a", {
-    className: "link",
-    href: s.url,
-    target: "_blank",
-    rel: "noopener"
-  }, "Open ", host), s.ig && React.createElement(React.Fragment, null, " \xB7 ", React.createElement("a", {
-    className: "link",
-    href: s.ig,
-    target: "_blank",
-    rel: "noopener"
-  }, "Follow on Instagram")), "."))), React.createElement("div", {
-    className: "pd-credits"
-  }, React.createElement("h4", null, "Filed under"), React.createElement("dl", null, s.category.split(",").map(c => {
-    const t = c.trim();
-    return React.createElement(React.Fragment, {
-      key: t
-    }, React.createElement("dt", {
-      onClick: () => go("collection", {
-        kind: "discipline",
-        value: t
-      }),
-      style: {
-        cursor: "pointer"
-      }
-    }, t), React.createElement("dd", {
-      onClick: () => go("collection", {
-        kind: "discipline",
-        value: t
-      }),
-      style: {
-        cursor: "pointer",
-        color: "var(--ink-2)"
-      }
-    }, React.createElement("span", {
-      className: "link",
-      style: {
-        color: "var(--accent)"
-      }
-    }, "See all ", d.byCat[t], " \u2192")));
-  }), React.createElement("dt", {
-    onClick: () => go("collection", {
-      kind: "country",
-      value: s.country.split(",")[0].trim()
-    }),
-    style: {
-      cursor: "pointer"
-    }
-  }, s.country.split(",")[0]), React.createElement("dd", {
-    onClick: () => go("collection", {
-      kind: "country",
-      value: s.country.split(",")[0].trim()
-    }),
-    style: {
-      cursor: "pointer",
-      color: "var(--ink-2)"
-    }
-  }, React.createElement("span", {
-    className: "link",
-    style: {
-      color: "var(--accent)"
-    }
-  }, "See all ", d.byCountry[s.country.split(",")[0].trim()], " \u2192")))), related.length > 0 && React.createElement("div", {
-    style: {
-      paddingTop: 64,
-      marginTop: 64,
-      borderTop: "1px solid var(--rule)"
-    }
-  }, React.createElement(Eyebrow, null, "Neighbours in ", s.category.split(",")[0].trim()), React.createElement("div", {
+  })), h("span", null, copied ? "Copied" : "Copy link"))));
+
+  return h("div", { className: "view wrap" }, h("div", {
+    className: "pd-topbar"
+  }, h("button", {
+    onClick: () => go("studios"),
+    className: "back-btn",
+    "aria-label": "Back to the list"
+  }, h("span", { className: "arr" }, "\u2190"), h("span", null, "The List")),
+    window.RandomButton ? h(window.RandomButton, { go: go, currentName: s.name }) : null),
+
+  h("div", { className: "pd-head pd-head--stack" },
+    h(Eyebrow, null, h("span", { className: "num" }, `№ ${String(idx + 1).padStart(3, "0")} of ${all.length}`)),
+    h("h2", null, s.name),
+    h("div", { className: "pd-meta-line" },
+      place && h("span", null, place),
+      h("span", null, "Indexed ", formatIndexed(s.created || s.edited)),
+      cats.length > 0 && h("span", null, cats.join(" · ")))),
+
+  h("div", { className: "sd-spread" },
+    h("div", { className: "sd-figure-col" },
+      s.url ? h("a", {
+        href: s.url, target: "_blank", rel: "noopener", className: "sd-figure-link"
+      }, h(StudioHero, { s: s, col: col })) : h(StudioHero, { s: s, col: col }),
+      h("div", { className: "sd-cap" },
+        h("span", null, host ? `${host}, homepage` : "Studio site preview"),
+        s.url && h("a", {
+          className: "link", href: s.url, target: "_blank", rel: "noopener"
+        }, "Visit the site ↗"))),
+
+    h("div", { className: "sd-col" },
+      h("div", { className: "sd-nav" },
+        h("div", {
+          className: "sd-nav-row",
+          onClick: () => go("studio", { name: prev.name })
+        }, h("span", { className: "t" }, prev.name), h("span", { className: "k" }, "← Previous")),
+        h("div", {
+          className: "sd-nav-row",
+          onClick: () => go("studio", { name: next.name })
+        }, h("span", { className: "t" }, next.name), h("span", { className: "k" }, "Next →"))),
+
+      h("p", { className: "sd-note" }, "The entry is intentionally brief. The index is a pointer, not a review \u2014 visit the studio's own site to see the work in its preferred frame. What we note here is only what is needed to find the practice again: where it is, what it does, and where to look."),
+
+      h("div", { className: "sd-links" },
+        s.url && h("a", {
+          href: s.url, target: "_blank", rel: "noopener"
+        }, h("span", {
+          style: { overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }
+        }, host), h("span", { style: { color: "var(--mute)" } }, "\u2197")),
+        s.ig && h("a", {
+          href: s.ig, target: "_blank", rel: "noopener"
+        }, h("span", {
+          style: { overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }
+        }, "@", igHandle), h("span", { style: { color: "var(--mute)" } }, "\u2197"))),
+
+      window.SaveButton ? h("div", { className: "save-block" },
+        h(window.SaveButton, { studio: s })) : null,
+
+      shareBlock,
+
+      h(CorrectionBlock, { s: s }),
+
+      h("div", { className: "sd-lbl" }, "Filed under"),
+      h("div", { className: "sd-tags" },
+        cats.map(t => h("span", {
+          key: t,
+          className: "sd-tag",
+          onClick: () => go("collection", { kind: "discipline", value: t })
+        }, t, d.byCat && d.byCat[t] ? ` · ${d.byCat[t]}` : "")),
+        s.country && h("span", {
+          key: "country",
+          className: "sd-tag",
+          onClick: () => go("collection", { kind: "country", value: s.country.split(",")[0].trim() })
+        }, s.country.split(",")[0].trim(),
+           d.byCountry && d.byCountry[s.country.split(",")[0].trim()] ? ` · ${d.byCountry[s.country.split(",")[0].trim()]}` : "")))),
+
+  related.length > 0 && h("div", {
+    style: { paddingTop: 64, marginTop: 64, borderTop: "1px solid var(--rule)" }
+  }, h(Eyebrow, null, "Neighbours in ", cats[0]), h("div", {
     className: "st-list",
-    style: {
-      marginTop: 24
-    }
-  }, related.map(r => React.createElement("div", {
+    style: { marginTop: 24 }
+  }, related.map(r => h("div", {
     key: r.name,
     className: "studio-row",
-    onClick: () => go("studio", {
-      name: r.name
-    })
-  }, React.createElement("div", {
-    className: "t"
-  }, r.name), React.createElement("div", {
+    onClick: () => go("studio", { name: r.name })
+  }, h("div", { className: "t" }, r.name), h("div", {
     className: "c"
-  }, r.city, r.city && r.country ? ", " : "", r.country), React.createElement("div", {
+  }, r.city, r.city && r.country ? ", " : "", r.country), h("div", {
     className: "k"
-  }, r.category), React.createElement("div", {
+  }, r.category), h("div", {
     className: "u"
-  }, (r.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")), React.createElement("div", {
+  }, (r.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")), h("div", {
     className: "arr"
-  }, "\u2192"))))), igOpen && window.IGShareModal ? React.createElement(window.IGShareModal, {
-    s: s,
-    col: col,
-    idx: idx,
-    total: all.length,
-    onClose: () => setIgOpen(false)
-  }) : null, React.createElement("div", {
-    className: "pd-next"
-  }, React.createElement("div", {
-    className: "side",
-    onClick: () => go("studio", {
-      name: prev.name
-    })
-  }, React.createElement("span", {
-    className: "k"
-  }, "Previous"), React.createElement("span", {
-    className: "t"
-  }, prev.name)), React.createElement("div", {
-    className: "side right",
-    onClick: () => go("studio", {
-      name: next.name
-    })
-  }, React.createElement("span", {
-    className: "k"
-  }, "Next"), React.createElement("span", {
-    className: "t"
-  }, next.name))), window.RecentlyViewedInline ? React.createElement(window.RecentlyViewedInline, {
-    go: go,
-    excludeName: s.name
+  }, "\u2192"))))),
+
+  igOpen && window.IGShareModal ? h(window.IGShareModal, {
+    s: s, col: col, idx: idx, total: all.length, onClose: () => setIgOpen(false)
+  }) : null,
+
+  window.RecentlyViewedInline ? h(window.RecentlyViewedInline, {
+    go: go, excludeName: s.name
   }) : null);
 }
-Object.assign(window, {
-  StudioDetail
-});
+Object.assign(window, { StudioDetail });
 })();
