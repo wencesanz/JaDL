@@ -44,9 +44,18 @@ function StudioHero({ s, col }) {
   const shot = sources[srcIdx] || null;
   const exhausted = srcIdx >= sources.length;
   const advance = () => setSrcIdx(i => i + 1);
+  // Geometry is inline on purpose: .pd-hero-img has no size of its own in
+  // styles.css, so a stale or unpatched stylesheet would let the screenshot
+  // render at natural size and blow out the page.
   return h("div", {
     className: "sd-figure",
-    style: { "--col": col }
+    style: {
+      "--col": col,
+      position: "relative",
+      width: "100%",
+      aspectRatio: "4 / 3",
+      overflow: "hidden"
+    }
   }, shot && !exhausted && h("img", {
     key: shot,
     src: shot,
@@ -54,8 +63,23 @@ function StudioHero({ s, col }) {
     onLoad: e => { if (e.target.naturalWidth > 100) setLoaded(true); else advance(); },
     onError: advance,
     className: "pd-hero-img",
-    style: { opacity: loaded ? 1 : 0 }
-  }), !loaded && h("div", { className: "sd-figure-fallback" }, s.name));
+    style: {
+      position: "absolute",
+      inset: 0,
+      zIndex: 1,
+      width: "100%",
+      height: "100%",
+      maxWidth: "100%",
+      objectFit: "cover",
+      objectPosition: "top center",
+      display: "block",
+      opacity: loaded ? 1 : 0,
+      transition: "opacity .45s ease"
+    }
+  }), !loaded && h("div", {
+    className: "sd-figure-fallback",
+    style: { position: "relative", zIndex: 2 }
+  }, s.name));
 }
 const CORRECTION_ENDPOINT = "https://formspree.io/f/xzdylwvg";
 const EDITOR_EMAIL_CORR = "hola@justadesignlist.com";
@@ -263,9 +287,10 @@ function StudioDetail({ name, go }) {
       cats.length > 0 && h("span", null, cats.join(" · ")))),
 
   h("div", { className: "sd-spread" },
-    h("div", { className: "sd-figure-col" },
+    h("div", { className: "sd-figure-col", style: { minWidth: 0 } },
       s.url ? h("a", {
-        href: s.url, target: "_blank", rel: "noopener", className: "sd-figure-link"
+        href: s.url, target: "_blank", rel: "noopener", className: "sd-figure-link",
+        style: { display: "block", minWidth: 0 }
       }, h(StudioHero, { s: s, col: col })) : h(StudioHero, { s: s, col: col }),
       h("div", { className: "sd-cap" },
         h("span", null, host ? `${host}, homepage` : "Studio site preview"),
