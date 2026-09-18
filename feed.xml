@@ -5,8 +5,115 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 03:51:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:48:29 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Placeholder</title>
+      <link>https://www.placeholder.nyc/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/placeholder</guid>
+      <pubDate>Fri, 18 Sep 2026 10:27:00 GMT</pubDate>
+      <description>Branding — New York, USA.</description>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>NSSG</title>
+      <link>https://nssg.jp/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/nssg</guid>
+      <pubDate>Fri, 18 Sep 2026 10:12:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Typography · Packaging · Interactive/Digital — Tokyo, Japan.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Stefanie Brückler Studio</title>
+      <link>https://stefaniebrueckler.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/stefanie-bruckler-studio</guid>
+      <pubDate>Fri, 18 Sep 2026 10:09:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital — New York, USA.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>NR2154</title>
+      <link>https://www.nr2154.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/nr2154</guid>
+      <pubDate>Fri, 18 Sep 2026 10:05:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — New York, Copenhague, Paris, USA, Denmark, France.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Nowhere Studio</title>
+      <link>https://nowhere.studio/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/nowhere-studio</guid>
+      <pubDate>Fri, 18 Sep 2026 10:03:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Illustration · Interactive/Digital — Athens, Greece.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Illustration</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Nomis Creative</title>
+      <link>https://nomiscreative.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/nomis-creative</guid>
+      <pubDate>Fri, 18 Sep 2026 09:59:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — London, England.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>NB</title>
+      <link>https://nbstudio.co.uk/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/nb</guid>
+      <pubDate>Fri, 18 Sep 2026 09:24:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Packaging · Advertising/Campaigns · Motion · Interactive/Digital · Illustration — London, England.</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Advertising/Campaigns</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+      <category>Illustration</category>
+    </item>
+    <item>
+      <title>muskat</title>
+      <link>https://muskat.design/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/muskat</guid>
+      <pubDate>Fri, 18 Sep 2026 08:00:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Berlin, Germany.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Most Studios</title>
+      <link>https://moststudios.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/most-studios</guid>
+      <pubDate>Fri, 18 Sep 2026 07:58:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Motion — Stockholm, Sweden.</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>Middle Name</title>
+      <link>https://middlename.co.uk/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/middle-name</guid>
+      <pubDate>Fri, 18 Sep 2026 06:28:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — London, England.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Hangar</title>
       <link>https://hangar.co/</link>
@@ -220,117 +327,6 @@
       <category>Advertising/Campaigns</category>
       <category>Interactive/Digital</category>
       <category>Motion</category>
-    </item>
-    <item>
-      <title>Beton</title>
-      <link>https://www.beton.com.hr/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/beton</guid>
-      <pubDate>Sun, 13 Sep 2026 14:59:00 GMT</pubDate>
-      <description>Branding · Graphic Design — Zagreb, Croatia.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>B.A.M</title>
-      <link>https://bamlondon.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/b-a-m</guid>
-      <pubDate>Sun, 13 Sep 2026 14:57:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital — London, England.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Airborne Studio</title>
-      <link>https://www.airborne.studio/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/airborne-studio</guid>
-      <pubDate>Sun, 13 Sep 2026 14:50:00 GMT</pubDate>
-      <description>Branding · Motion · Interactive/Digital · Advertising/Campaigns — London, England.</description>
-      <category>Branding</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-      <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>LOTIPA™</title>
-      <link>https://www.lotipa.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/lotipa</guid>
-      <pubDate>Fri, 11 Sep 2026 13:02:00 GMT</pubDate>
-      <description>Branding · Packaging · Motion · Interactive/Digital — Sinop, Brazil.</description>
-      <category>Branding</category>
-      <category>Packaging</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Michael Longton</title>
-      <link>https://longtondesign.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/michael-longton</guid>
-      <pubDate>Fri, 11 Sep 2026 12:58:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Interactive/Digital · Advertising/Campaigns — Melbourne, Australia.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
-      <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>Studio Jarvis</title>
-      <link>https://studio-jarvis.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-jarvis</guid>
-      <pubDate>Fri, 11 Sep 2026 11:34:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital — Berlin, Paris, Germany, France.</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>LIT Create</title>
-      <link>https://www.litcreate.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/lit-create</guid>
-      <pubDate>Fri, 11 Sep 2026 10:26:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Typography · Illustration · Motion · Interactive/Digital · Packaging · Advertising/Campaigns — Berlin, Germany.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Typography</category>
-      <category>Illustration</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-      <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>Latitude</title>
-      <link>https://latitude.com.au/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/latitude</guid>
-      <pubDate>Fri, 11 Sep 2026 07:54:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Packaging · Advertising/Campaigns — Melbourne, Australia.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-      <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>Øyedrops</title>
-      <link>https://www.oyedrops.studio/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/yedrops</guid>
-      <pubDate>Thu, 10 Sep 2026 08:44:00 GMT</pubDate>
-      <description>Graphic Design · Illustration · Interactive/Digital · Motion — Oslo, Norway.</description>
-      <category>Graphic Design</category>
-      <category>Illustration</category>
-      <category>Interactive/Digital</category>
-      <category>Motion</category>
-    </item>
-    <item>
-      <title>Output</title>
-      <link>https://www.studio-output.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/output</guid>
-      <pubDate>Thu, 10 Sep 2026 08:42:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Motion · Interactive/Digital — London, England.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>
