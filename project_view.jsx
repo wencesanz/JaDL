@@ -11,12 +11,10 @@ const ES_MONTHS = {
 function formatIndexed(raw) {
   if (!raw) return "—";
   let d = null;
-  // Try ISO first
   if (/^\d{4}-\d{2}-\d{2}/.test(raw)) {
     const t = new Date(raw);
     if (!isNaN(t.getTime())) d = t;
   }
-  // Spanish "DD de mes de YYYY"
   if (!d) {
     const m = raw.match(/^(\d{1,2})\s+de\s+([a-záéíóúñ]+)\s+de\s+(\d{4})/i);
     if (m) {
@@ -24,10 +22,10 @@ function formatIndexed(raw) {
       if (month !== undefined) d = new Date(Date.UTC(Number(m[3]), month, Number(m[1])));
     }
   }
-  if (!d) return raw; // unrecognised format — show as-is
+  if (!d) return raw;
   try {
     return new Intl.DateTimeFormat("en-GB", {
-      day: "numeric", month: "long", year: "numeric", timeZone: "UTC",
+      day: "numeric", month: "short", year: "numeric", timeZone: "UTC",
     }).format(d);
   } catch {
     return d.toDateString();
@@ -44,21 +42,18 @@ function StudioHero({ s, col }) {
   const sources = s.url
     ? [
         `/api/ogimage?url=${encodeURIComponent(s.url)}`,
-        `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=1600&h=1000`,
+        `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=1600&h=1200`,
       ]
     : [];
 
-  // Reset when the studio changes (nav prev/next)
   usePdEffect(() => { setLoaded(false); setSrcIdx(0); }, [s.url]);
 
   const shot = sources[srcIdx] || null;
   const exhausted = srcIdx >= sources.length;
-  const host = (s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "");
-
   const advance = () => setSrcIdx((i) => i + 1);
 
   return (
-    <div className="pd-hero" style={{ "--col": col }}>
+    <div className="sd-figure" style={{ "--col": col }}>
       {shot && !exhausted && (
         <img
           key={shot}
@@ -71,11 +66,99 @@ function StudioHero({ s, col }) {
         />
       )}
       {!loaded && (
-        <div style={{ fontFamily: "var(--serif)", fontStyle: "italic", fontSize: "clamp(36px, 6vw, 80px)", color: "var(--ink)", opacity: .25, position: "relative", zIndex: 2, textAlign: "center", padding: "0 40px", lineHeight: 1 }}>
-          {s.name}
-        </div>
+        <div className="sd-figure-fallback">{s.name}</div>
       )}
-      <span className="ph">{loaded && host ? `${host} · click through to visit` : "Studio site preview · click through to visit"}</span>
+    </div>
+  );
+}
+
+const CORRECTION_ENDPOINT = "https://formspree.io/f/xzdylwvg";
+const EDITOR_EMAIL_CORR = "hola@justadesignlist.com";
+
+// Discreet "spot something wrong?" link that expands into a tiny inline
+// form, posting straight to Formspree. Keeps the same fallback pattern as
+// SubmitView: if the network call fails, hand the user a pre-written
+// mailto: link instead of just failing silently.
+function CorrectionBlock({ s }) {
+  const [open, setOpen] = usePdState(false);
+  const [note, setNote] = usePdState("");
+  const [email, setEmail] = usePdState("");
+  const [sending, setSending] = usePdState(false);
+  const [sent, setSent] = usePdState(false);
+  const [err, setErr] = usePdState(null);
+  const pageUrl = typeof window !== "undefined" ? window.location.href : "";
+
+  async function handleSubmit(e) {
+    e.preventDefault();
+    if (!note.trim() || sending) return;
+    setSending(true);
+    setErr(null);
+    try {
+      const res = await fetch(CORRECTION_ENDPOINT, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", "Accept": "application/json" },
+        body: JSON.stringify({
+          _subject: `Correction — ${s.name}`,
+          studio: s.name,
+          page: pageUrl,
+          note,
+          email,
+        }),
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      setSent(true);
+    } catch (err2) {
+      console.error("correction submit failed", err2);
+      setErr(err2.message);
+    } finally {
+      setSending(false);
+    }
+  }
+
+  if (sent) {
+    return (
+      <div className="correction-block">
+        <p className="correction-note">Thanks — noted. It'll be checked.</p>
+      </div>
+    );
+  }
+
+  return (
+    <div className="correction-block">
+      {!open ? (
+        <button className="correction-toggle" onClick={() => setOpen(true)}>
+          <span>Spot something wrong? Suggest a correction</span>
+        </button>
+      ) : (
+        <form className="correction-form" onSubmit={handleSubmit}>
+          <textarea
+            required
+            value={note}
+            onChange={(e) => setNote(e.target.value)}
+            placeholder="What's outdated or wrong? (e.g. broken link, wrong city, new category)"
+          />
+          <input
+            type="email"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            placeholder="Your email (optional, in case of questions)"
+          />
+          <button type="submit" className="correction-submit" disabled={sending}>
+            {sending ? "Sending…" : "Send"}
+          </button>
+          {err && (
+            <p className="correction-note" style={{ color: "var(--accent)" }}>
+              {`Couldn't send (${err}). `}
+              <a
+                className="link"
+                href={`mailto:${EDITOR_EMAIL_CORR}?subject=${encodeURIComponent("Correction — " + s.name)}&body=${encodeURIComponent(note + (email ? "\n\nFrom: " + email : "") + "\n\nPage: " + pageUrl)}`}
+              >
+                send by email instead
+              </a>
+            </p>
+          )}
+        </form>
+      )}
     </div>
   );
 }
@@ -106,16 +189,15 @@ function StudioDetail({ name, go }) {
   const col = d.catColors?.[s.category.split(",")[0].trim()] || "#D8CFBD";
   const host = (s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "");
   const igHandle = (s.ig || "").split("/").filter(Boolean).pop();
+  const cats = s.category.split(",").map((c) => c.trim()).filter(Boolean);
+  const place = [s.city, s.country].filter(Boolean).join(", ");
 
-  // Record this visit for the Recently Viewed feature (deduped, capped).
   usePdEffect(() => {
     if (window.recordVisit) window.recordVisit(s.name);
   }, [s.name]);
 
-  // Share helpers — use the current page URL so people land on this studio
-  // when the link is opened.
   const shareUrl = typeof window !== "undefined" ? window.location.href : "";
-  const shareText = `${s.name} — ${s.category.split(",")[0].trim()}${s.city ? `, ${s.city}` : ""} · via Just a Design List`;
+  const shareText = `${s.name} — ${cats[0] || "design"}${s.city ? `, ${s.city}` : ""} · via Just a Design List`;
   const [copied, setCopied] = usePdState(false);
   const [igOpen, setIgOpen] = usePdState(false);
   const copyLink = async () => {
@@ -124,7 +206,6 @@ function StudioDetail({ name, go }) {
       setCopied(true);
       setTimeout(() => setCopied(false), 1800);
     } catch {
-      // Fallback: select-and-copy via a temp input
       const i = document.createElement("input");
       i.value = shareUrl;
       document.body.appendChild(i);
@@ -144,52 +225,68 @@ function StudioDetail({ name, go }) {
         {window.RandomButton ? <window.RandomButton go={go} currentName={s.name} /> : null}
       </div>
 
-      <div className="pd-head">
-        <div>
-          <Eyebrow num={`№ ${String(idx + 1).padStart(3, "0")} of ${all.length}`}><span>{s.category.split(",")[0]}</span></Eyebrow>
-          <h2 style={{ marginTop: 14 }}>{s.name}</h2>
+      <div className="pd-head pd-head--stack">
+        <Eyebrow><span className="num">№ {String(idx + 1).padStart(3, "0")} of {all.length}</span></Eyebrow>
+        <h2>{s.name}</h2>
+        <div className="pd-meta-line">
+          {place && <span>{place}</span>}
+          <span>Indexed {formatIndexed(s.created || s.edited)}</span>
+          {cats.length > 0 && <span>{cats.join(" · ")}</span>}
         </div>
-        <dl className="meta">
-          <dt>City</dt><dd>{s.city || "—"}</dd>
-          <dt>Country</dt><dd>{s.country || "—"}</dd>
-          <dt>Discipline</dt><dd>{s.category}</dd>
-          {s.type && <><dt>Type</dt><dd>{s.type}</dd></>}
-          <dt>Indexed</dt><dd>{formatIndexed(s.created || s.edited)}</dd>
-        </dl>
       </div>
 
-      <div className="pd-hero-wrap">
-        {s.url ? (
-          <a href={s.url} target="_blank" rel="noopener" style={{ display: "block" }}>
+      <div className="sd-spread">
+        <div className="sd-figure-col">
+          {s.url ? (
+            <a href={s.url} target="_blank" rel="noopener" className="sd-figure-link">
+              <StudioHero s={s} col={col} />
+            </a>
+          ) : (
             <StudioHero s={s} col={col} />
-          </a>
-        ) : (
-          <StudioHero s={s} col={col} />
-        )}
-      </div>
+          )}
+          <div className="sd-cap">
+            <span>{host ? `${host}, homepage` : "Studio site preview"}</span>
+            {s.url && <a className="link" href={s.url} target="_blank" rel="noopener">Visit the site ↗</a>}
+          </div>
+        </div>
 
-      <div className="pd-body">
-        <aside className="side-col">
-          Visit
-          <div style={{ marginTop: 14, display: "grid", gap: 10, textTransform: "none", letterSpacing: 0, fontSize: 14 }}>
+        <div className="sd-col">
+          <div className="sd-nav">
+            <div className="sd-nav-row" onClick={() => go("studio", { name: prev.name })}>
+              <span className="t">{prev.name}</span>
+              <span className="k">← Previous</span>
+            </div>
+            <div className="sd-nav-row" onClick={() => go("studio", { name: next.name })}>
+              <span className="t">{next.name}</span>
+              <span className="k">Next →</span>
+            </div>
+          </div>
+
+          <p className="sd-note">
+            The entry is intentionally brief. The index is a pointer, not a review — visit the studio's own site to see the work in its preferred frame. What we note here is only what is needed to find the practice again: where it is, what it does, and where to look.
+          </p>
+
+          <div className="sd-links">
             {s.url && (
-              <a href={s.url} target="_blank" rel="noopener" className="link" style={{ color: "var(--ink)", display: "grid", gridTemplateColumns: "1fr auto", gap: 8 }}>
+              <a href={s.url} target="_blank" rel="noopener">
                 <span style={{ overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{host}</span>
                 <span style={{ color: "var(--mute)" }}>↗</span>
               </a>
             )}
             {s.ig && (
-              <a href={s.ig} target="_blank" rel="noopener" className="link" style={{ color: "var(--ink)", display: "grid", gridTemplateColumns: "1fr auto", gap: 8 }}>
+              <a href={s.ig} target="_blank" rel="noopener">
                 <span style={{ overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>@{igHandle}</span>
                 <span style={{ color: "var(--mute)" }}>↗</span>
               </a>
             )}
           </div>
+
           {window.SaveButton ? (
             <div className="save-block">
               <window.SaveButton studio={s} />
             </div>
           ) : null}
+
           <div className="share-block">
             <div className="share-lbl">Share</div>
             <div className="share-row">
@@ -258,55 +355,36 @@ function StudioDetail({ name, go }) {
               </button>
             </div>
           </div>
-        </aside>
-        <div className="intro">
-          An independent practice based in <em>{s.city || s.country}</em>
-          {s.country && s.city ? <>, <em>{s.country}</em></> : null},
-          working in {s.category.split(",").map((c, i, a) => (
-            <React.Fragment key={c}>
-              <em>{c.trim().toLowerCase()}</em>
-              {i < a.length - 1 ? (i === a.length - 2 ? " and " : ", ") : null}
-            </React.Fragment>
-          ))}.
-        </div>
-      </div>
 
-      <div className="pd-body">
-        <div className="body-col">
-          <p>
-            The entry is intentionally brief. The index is a pointer, not a review — visit the studio's own site to see the work in its preferred frame. What we note here is only what is needed to find the practice again: where it is, what it does, and where to look.
-          </p>
-          <p>
-            <a className="link" href={s.url} target="_blank" rel="noopener">Open {host}</a>
-            {s.ig && <> · <a className="link" href={s.ig} target="_blank" rel="noopener">Follow on Instagram</a></>}.
-          </p>
-        </div>
-      </div>
+          <CorrectionBlock s={s} />
 
-      <div className="pd-credits">
-        <h4>Filed under</h4>
-        <dl>
-          {s.category.split(",").map((c) => {
-            const t = c.trim();
-            return (
-              <React.Fragment key={t}>
-                <dt onClick={() => go("collection", { kind: "discipline", value: t })} style={{ cursor: "pointer" }}>{t}</dt>
-                <dd onClick={() => go("collection", { kind: "discipline", value: t })} style={{ cursor: "pointer", color: "var(--ink-2)" }}>
-                  <span className="link" style={{ color: "var(--accent)" }}>See all {d.byCat[t]} →</span>
-                </dd>
-              </React.Fragment>
-            );
-          })}
-          <dt onClick={() => go("collection", { kind: "country", value: s.country.split(",")[0].trim() })} style={{ cursor: "pointer" }}>{s.country.split(",")[0]}</dt>
-          <dd onClick={() => go("collection", { kind: "country", value: s.country.split(",")[0].trim() })} style={{ cursor: "pointer", color: "var(--ink-2)" }}>
-            <span className="link" style={{ color: "var(--accent)" }}>See all {d.byCountry[s.country.split(",")[0].trim()]} →</span>
-          </dd>
-        </dl>
+          <div className="sd-lbl">Filed under</div>
+          <div className="sd-tags">
+            {cats.map((t) => (
+              <span
+                key={t}
+                className="sd-tag"
+                onClick={() => go("collection", { kind: "discipline", value: t })}
+              >
+                {t}{d.byCat && d.byCat[t] ? ` · ${d.byCat[t]}` : ""}
+              </span>
+            ))}
+            {s.country && (
+              <span
+                className="sd-tag"
+                onClick={() => go("collection", { kind: "country", value: s.country.split(",")[0].trim() })}
+              >
+                {s.country.split(",")[0].trim()}
+                {d.byCountry && d.byCountry[s.country.split(",")[0].trim()] ? ` · ${d.byCountry[s.country.split(",")[0].trim()]}` : ""}
+              </span>
+            )}
+          </div>
+        </div>
       </div>
 
       {related.length > 0 && (
         <div style={{ paddingTop: 64, marginTop: 64, borderTop: "1px solid var(--rule)" }}>
-          <Eyebrow>Neighbours in {s.category.split(",")[0].trim()}</Eyebrow>
+          <Eyebrow>Neighbours in {cats[0]}</Eyebrow>
           <div className="st-list" style={{ marginTop: 24 }}>
             {related.map((r) => (
               <div key={r.name} className="studio-row" onClick={() => go("studio", { name: r.name })}>
@@ -330,17 +408,6 @@ function StudioDetail({ name, go }) {
           onClose={() => setIgOpen(false)}
         />
       ) : null}
-
-      <div className="pd-next">
-        <div className="side" onClick={() => go("studio", { name: prev.name })}>
-          <span className="k">Previous</span>
-          <span className="t">{prev.name}</span>
-        </div>
-        <div className="side right" onClick={() => go("studio", { name: next.name })}>
-          <span className="k">Next</span>
-          <span className="t">{next.name}</span>
-        </div>
-      </div>
 
       {window.RecentlyViewedInline ? <window.RecentlyViewedInline go={go} excludeName={s.name} /> : null}
     </div>
