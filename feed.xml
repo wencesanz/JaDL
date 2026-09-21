@@ -5,8 +5,26 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 12:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 21:48:58 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Soft Power</title>
+      <link>https://softpower.global/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/soft-power</guid>
+      <pubDate>Mon, 21 Sep 2026 15:48:00 GMT</pubDate>
+      <description>Graphic Design · Advertising/Campaigns — London, England.</description>
+      <category>Graphic Design</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>Sofia Pusa</title>
+      <link>https://www.sofiapusa.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/sofia-pusa</guid>
+      <pubDate>Mon, 21 Sep 2026 15:46:00 GMT</pubDate>
+      <description>Branding · Illustration — London, Helsinki, England, Finland.</description>
+      <category>Branding</category>
+      <category>Illustration</category>
+    </item>
     <item>
       <title>Smiling Wolf</title>
       <link>https://www.smilingwolf.co.uk/</link>
@@ -304,28 +322,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Packaging</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Eighth Day</title>
-      <link>https://eighthday.co.uk/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/eighth-day</guid>
-      <pubDate>Mon, 14 Sep 2026 08:44:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Brighton, England.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Studio Tyrell</title>
-      <link>https://www.studiotyrrell.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-tyrell</guid>
-      <pubDate>Mon, 14 Sep 2026 08:40:00 GMT</pubDate>
-      <description>Branding · Packaging · Graphic Design · Interactive/Digital — Brighton, England.</description>
-      <category>Branding</category>
-      <category>Packaging</category>
-      <category>Graphic Design</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>
