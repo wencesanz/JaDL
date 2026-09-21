@@ -5,8 +5,32 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 04:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:20:23 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Smiling Wolf</title>
+      <link>https://www.smilingwolf.co.uk/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/smiling-wolf</guid>
+      <pubDate>Mon, 21 Sep 2026 11:02:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Advertising/Campaigns · Motion · Illustration — Liverpool, England.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Advertising/Campaigns</category>
+      <category>Motion</category>
+      <category>Illustration</category>
+    </item>
+    <item>
+      <title>Formatet</title>
+      <link>https://formatet.dk/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/formatet</guid>
+      <pubDate>Mon, 21 Sep 2026 08:15:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Advertising/Campaigns · Interactive/Digital — Copenhague, Denmark.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Advertising/Campaigns</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Placeholder</title>
       <link>https://www.placeholder.nyc/</link>
@@ -303,30 +327,6 @@
       <category>Packaging</category>
       <category>Graphic Design</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>The Office of Ordinary Things</title>
-      <link>https://ot.studio/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/the-office-of-ordinary-things</guid>
-      <pubDate>Sun, 13 Sep 2026 15:19:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Packaging · Motion — San Francisco, USA.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-      <category>Motion</category>
-    </item>
-    <item>
-      <title>BonTemps</title>
-      <link>https://www.bontemps.agency/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/bontemps</guid>
-      <pubDate>Sun, 13 Sep 2026 15:02:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Advertising/Campaigns · Interactive/Digital · Motion — Mexico City, Mexico.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Advertising/Campaigns</category>
-      <category>Interactive/Digital</category>
-      <category>Motion</category>
     </item>
   </channel>
 </rss>
