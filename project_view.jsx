@@ -32,6 +32,17 @@ function formatIndexed(raw) {
   }
 }
 
+const SD_STYLE_ID = "sd-detail-styles";
+const SD_CSS = "/* Studio detail — new text + image layout.\n   Injected by this file on purpose: it must not depend on styles.css being\n   patched, nor on the stylesheet cache being fresh. Uses existing tokens\n   (--rule, --mute, --ink, --serif, --mono), so light/dark still apply. */\n.pd-head--stack {\n  display: block !important;\n  grid-template-columns: none !important;\n  padding: clamp(48px, 7vw, 110px) 0 36px;\n  border-bottom: 1px solid var(--rule);\n  text-align: left !important;\n}\n.pd-head--stack h2 {\n  margin: 18px 0 0 !important;\n  max-width: 18ch;\n  text-align: left !important;\n}\n.pd-meta-line {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 8px 28px;\n  margin-top: 30px;\n  font-family: var(--mono);\n  font-size: 12px;\n  letter-spacing: .05em;\n  text-transform: uppercase;\n  color: var(--mute);\n}\n.sd-spread {\n  display: grid;\n  grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);\n  gap: 48px;\n  padding-top: 48px;\n  align-items: start;\n}\n.sd-figure-col, .sd-col { min-width: 0; }\n.sd-figure-link { display: block; min-width: 0; }\n.sd-figure {\n  position: relative;\n  width: 100%;\n  aspect-ratio: 4 / 3;\n  border: 1px solid var(--rule);\n  background: var(--col, #D8CFBD);\n  overflow: hidden;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.sd-figure .pd-hero-img {\n  position: absolute;\n  inset: 0;\n  z-index: 1;\n  width: 100%;\n  height: 100%;\n  max-width: 100%;\n  object-fit: cover;\n  object-position: top center;\n  display: block;\n  transition: opacity .45s ease;\n}\n.sd-figure-fallback {\n  position: relative;\n  z-index: 2;\n  padding: 0 40px;\n  text-align: center;\n  font-family: var(--serif);\n  font-style: italic;\n  font-size: clamp(36px, 6vw, 80px);\n  line-height: 1;\n  color: var(--ink);\n  opacity: .25;\n}\n.sd-figure-link:hover .sd-figure { border-color: var(--ink); }\n.sd-cap {\n  display: flex;\n  justify-content: space-between;\n  gap: 24px;\n  margin-top: 12px;\n  font-family: var(--mono);\n  font-size: 11px;\n  letter-spacing: .05em;\n  text-transform: uppercase;\n  color: var(--mute);\n}\n.sd-nav { display: flex; flex-direction: column; }\n.sd-nav-row {\n  display: grid;\n  grid-template-columns: 1fr auto;\n  align-items: baseline;\n  gap: 16px;\n  padding: 13px 0;\n  border-top: 1px solid var(--rule);\n  cursor: pointer;\n}\n.sd-nav-row .t { font-family: var(--serif); font-size: 22px; letter-spacing: -.01em; }\n.sd-nav-row .k {\n  font-family: var(--mono);\n  font-size: 11px;\n  letter-spacing: .06em;\n  text-transform: uppercase;\n  color: var(--mute);\n  white-space: nowrap;\n}\n.sd-nav-row:hover .t { color: var(--accent); }\n.sd-note {\n  margin: 26px 0 0;\n  font-size: 15px;\n  line-height: 1.65;\n  color: var(--ink-2, var(--mute));\n  text-wrap: pretty;\n}\n.sd-links { display: grid; margin-top: 32px; border-top: 1px solid var(--rule); }\n.sd-links a {\n  display: grid;\n  grid-template-columns: 1fr auto;\n  gap: 12px;\n  padding: 13px 0;\n  border-bottom: 1px solid var(--rule);\n  font-family: var(--mono);\n  font-size: 13px;\n  color: var(--ink);\n  text-decoration: none;\n}\n.sd-links a:hover { color: var(--accent); }\n.sd-col .save-block { margin-top: 24px; }\n.sd-lbl {\n  margin-top: 36px;\n  padding-top: 20px;\n  border-top: 1px solid var(--rule);\n  font-family: var(--mono);\n  font-size: 11px;\n  letter-spacing: .06em;\n  text-transform: uppercase;\n  color: var(--mute);\n}\n.sd-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }\n.sd-tag {\n  font-family: var(--mono);\n  font-size: 11px;\n  letter-spacing: .05em;\n  text-transform: uppercase;\n  color: var(--ink);\n  border: 1px solid var(--rule);\n  border-radius: 999px;\n  padding: 6px 12px;\n  cursor: pointer;\n  transition: border-color .15s ease, color .15s ease;\n}\n.sd-tag:hover { border-color: var(--ink); color: var(--accent); }\n@media (max-width: 900px) {\n  .sd-spread { grid-template-columns: 1fr; gap: 32px; }\n  .sd-cap { flex-direction: column; gap: 6px; }\n}";
+function ensureSdStyles() {
+  if (typeof document === "undefined") return;
+  if (document.getElementById(SD_STYLE_ID)) return;
+  const el = document.createElement("style");
+  el.id = SD_STYLE_ID;
+  el.textContent = SD_CSS;
+  document.head.appendChild(el);
+}
+ensureSdStyles();
 function StudioHero({ s, col }) {
   const [loaded, setLoaded] = usePdState(false);
   const [srcIdx, setSrcIdx] = usePdState(0);
@@ -211,6 +222,7 @@ function StudioDetail({ name, go }) {
   const place = [s.city, s.country].filter(Boolean).join(", ");
 
   usePdEffect(() => {
+    ensureSdStyles();
     if (window.recordVisit) window.recordVisit(s.name);
   }, [s.name]);
 
