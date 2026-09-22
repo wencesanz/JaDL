@@ -5,8 +5,53 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:33:55 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ssnn</title>
+      <link>https://ssnn.be/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/ssnn</guid>
+      <pubDate>Tue, 22 Sep 2026 13:29:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital · Typography — Antwerp, Belgium.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Spy</title>
+      <link>https://spystudio.co.uk/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/spy</guid>
+      <pubDate>Tue, 22 Sep 2026 13:27:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging · Advertising/Campaigns — London, England.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>Studio NMW</title>
+      <link>https://nicolemillerwong.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-nmw</guid>
+      <pubDate>Tue, 22 Sep 2026 13:25:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Interactive/Digital · Motion — New York, USA.</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>SOLV</title>
+      <link>https://www.solv.team/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/solv</guid>
+      <pubDate>Tue, 22 Sep 2026 13:21:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Advertising/Campaigns — Kyiv, London, Zurich, Ukraine, England, Switzerland.</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Advertising/Campaigns</category>
+    </item>
     <item>
       <title>Soft Power</title>
       <link>https://softpower.global/</link>
@@ -280,49 +325,6 @@
       <category>Branding</category>
       <category>Interactive/Digital</category>
       <category>Packaging</category>
-    </item>
-    <item>
-      <title>Pitis e Associati</title>
-      <link>https://pitis.eu/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/pitis-e-associati</guid>
-      <pubDate>Mon, 14 Sep 2026 09:55:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Typography — Milan, Paris, Italy, France.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Typography</category>
-    </item>
-    <item>
-      <title>Studio Ongarato</title>
-      <link>https://studioongarato.com.au/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-ongarato</guid>
-      <pubDate>Mon, 14 Sep 2026 09:29:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital · Advertising/Campaigns · Graphic Design — Melbourne, Australia.</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-      <category>Advertising/Campaigns</category>
-      <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Escola</title>
-      <link>https://escola.studio/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/escola</guid>
-      <pubDate>Mon, 14 Sep 2026 08:49:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging — Liverpool, Barcelona, England, Spain.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Eremo</title>
-      <link>https://www.eremo.studio/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/eremo</guid>
-      <pubDate>Mon, 14 Sep 2026 08:46:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Milan, Italy.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>
