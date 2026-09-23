@@ -5,8 +5,19 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 16:24:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:16:18 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Moxie Sozo</title>
+      <link>https://moxiesozo.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/moxie-sozo</guid>
+      <pubDate>Wed, 23 Sep 2026 21:06:00 GMT</pubDate>
+      <description>Branding · Packaging · Illustration · Interactive/Digital — Boulder, USA.</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Illustration</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>The Future Forward</title>
       <link>https://thefutureforward.com/</link>
@@ -313,17 +324,6 @@
       <category>Illustration</category>
       <category>Typography</category>
       <category>Packaging</category>
-    </item>
-    <item>
-      <title>Recent™</title>
-      <link>https://www.recent.co/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/recent</guid>
-      <pubDate>Tue, 15 Sep 2026 14:39:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Advertising/Campaigns — Amsterdam, Abu Dhabi, The Netherlands, United Arab Emirates.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Advertising/Campaigns</category>
     </item>
   </channel>
 </rss>
