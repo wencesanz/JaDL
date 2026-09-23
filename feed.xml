@@ -5,8 +5,47 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:24:15 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Future Forward</title>
+      <link>https://thefutureforward.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/the-future-forward</guid>
+      <pubDate>Wed, 23 Sep 2026 12:51:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — New York, Miami, USA.</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Infinito</title>
+      <link>https://infinito.group/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/infinito</guid>
+      <pubDate>Wed, 23 Sep 2026 11:57:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — Lima, Madrid, Stockholm, Peru, Spain, Sweden.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Work by HOLIDAY</title>
+      <link>https://workbyholiday.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/work-by-holiday</guid>
+      <pubDate>Wed, 23 Sep 2026 11:47:00 GMT</pubDate>
+      <description>Branding · Packaging · Interactive/Digital · Graphic Design — Toronto, Canada.</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>For Good Design Lab</title>
+      <link>https://www.forgooddesignlab.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/for-good-design-lab</guid>
+      <pubDate>Wed, 23 Sep 2026 11:45:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Sydney, Australia.</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>ssnn</title>
       <link>https://ssnn.be/</link>
@@ -285,46 +324,6 @@
       <category>Graphic Design</category>
       <category>Interactive/Digital</category>
       <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>.raw</title>
-      <link>https://www.rawlab.co/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/raw</guid>
-      <pubDate>Tue, 15 Sep 2026 10:11:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital · Packaging · Motion — Ljubljana, Paris, Slovenia, France.</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-      <category>Motion</category>
-    </item>
-    <item>
-      <title>rasmus und christin</title>
-      <link>https://rasmusundchristin.de/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/rasmus-und-christin</guid>
-      <pubDate>Tue, 15 Sep 2026 10:08:00 GMT</pubDate>
-      <description>Branding · Graphic Design — Hamburg, Germany.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Arctic Research</title>
-      <link>https://arcticresearch.studio/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/arctic-research</guid>
-      <pubDate>Tue, 15 Sep 2026 05:57:00 GMT</pubDate>
-      <description>Branding · Graphic Design — USA.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Post Projects</title>
-      <link>https://www.postprojects.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/post-projects</guid>
-      <pubDate>Mon, 14 Sep 2026 13:31:00 GMT</pubDate>
-      <description>Graphic Design · Branding · Interactive/Digital · Packaging — Vancouver, Canada.</description>
-      <category>Graphic Design</category>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
     </item>
   </channel>
 </rss>
