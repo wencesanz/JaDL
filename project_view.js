@@ -447,7 +447,27 @@ function StudioDetail({
     d: "M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07l-1.5 1.5"
   }), React.createElement("path", {
     d: "M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07l1.5-1.5"
-  })), React.createElement("span", null, copied ? "Copied" : "Copy link")))), React.createElement(CorrectionBlock, {
+  })), React.createElement("span", null, copied ? "Copied" : "Copy link")))), React.createElement("div", {
+    className: "side-prevnext"
+  }, React.createElement("div", {
+    className: "pn-item",
+    onClick: () => go("studio", {
+      name: prev.name
+    })
+  }, React.createElement("div", {
+    className: "pn-k"
+  }, "\u2190 Previous"), React.createElement("div", {
+    className: "pn-t"
+  }, prev.name)), React.createElement("div", {
+    className: "pn-item",
+    onClick: () => go("studio", {
+      name: next.name
+    })
+  }, React.createElement("div", {
+    className: "pn-k"
+  }, "Next \u2192"), React.createElement("div", {
+    className: "pn-t"
+  }, next.name))), React.createElement(CorrectionBlock, {
     s: s
   })), React.createElement("div", {
     className: "intro"
@@ -551,27 +571,7 @@ function StudioDetail({
     idx: idx,
     total: all.length,
     onClose: () => setIgOpen(false)
-  }) : null, React.createElement("div", {
-    className: "pd-next"
-  }, React.createElement("div", {
-    className: "side",
-    onClick: () => go("studio", {
-      name: prev.name
-    })
-  }, React.createElement("span", {
-    className: "k"
-  }, "Previous"), React.createElement("span", {
-    className: "t"
-  }, prev.name)), React.createElement("div", {
-    className: "side right",
-    onClick: () => go("studio", {
-      name: next.name
-    })
-  }, React.createElement("span", {
-    className: "k"
-  }, "Next"), React.createElement("span", {
-    className: "t"
-  }, next.name))), window.RecentlyViewedInline ? React.createElement(window.RecentlyViewedInline, {
+  }) : null, window.RecentlyViewedInline ? React.createElement(window.RecentlyViewedInline, {
     go: go,
     excludeName: s.name
   }) : null);

@@ -161,13 +161,26 @@ em { font-style: italic; }
   display: flex; align-items: baseline; gap: 0;
 }
 .topbar .mark .mark-wordmark {
-  font-family: var(--mono);
-  font-weight: 500;
-  font-size: 14px;
-  letter-spacing: 0.02em;
-  text-transform: uppercase;
+  display: inline-flex; align-items: center;
+}
+.topbar .mark .mark-logo-full {
+  height: 18px;
+  display: block;
+  cursor: pointer;
   color: var(--ink);
-  display: inline-flex; align-items: baseline;
+}
+.topbar .mark .mark-logo-compact {
+  display: none;
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+  color: var(--ink);
+}
+/* Switch to the compact square mark before the nav gets tight, well ahead of
+   the 880px point where it collapses into the hamburger menu anyway. */
+@media (max-width: 1180px) {
+  .topbar .mark .mark-logo-full { display: none; }
+  .topbar .mark .mark-logo-compact { display: block; }
 }
 .topbar .mark .mark-wordmark .slash {
   color: var(--mute);
@@ -438,6 +451,23 @@ em { font-style: italic; }
 .save-btn:hover { background: var(--ink); color: var(--paper); border-color: var(--ink); }
 .save-btn.is-saved { border-color: var(--ink); color: var(--ink); }
 .save-btn.is-saved:hover { background: transparent; color: var(--mute); border-color: var(--rule); }
+
+/* Previous/Next — moved into the side column, right under Share */
+.side-prevnext {
+  margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--rule);
+  display: grid; gap: 16px;
+  text-transform: none; letter-spacing: 0;
+}
+.side-prevnext .pn-item { cursor: pointer; }
+.side-prevnext .pn-k {
+  font-family: var(--mono); font-size: 11px; letter-spacing: 0.06em;
+  text-transform: uppercase; color: var(--mute);
+}
+.side-prevnext .pn-t {
+  font-family: var(--serif); font-size: 18px; letter-spacing: -0.005em;
+  margin-top: 4px; transition: color .15s ease;
+}
+.side-prevnext .pn-item:hover .pn-t { color: var(--accent); }
 
 /* "Suggest a correction" — discreet toggle + tiny inline form in the
    studio-detail side column, right after the Share block. */
@@ -783,12 +813,6 @@ em { font-style: italic; }
 .pd-credits dt { font-family: var(--mono); font-size: var(--fs-meta); color: var(--mute); letter-spacing: 0.06em; text-transform: uppercase; }
 .pd-credits dd { margin: 0; }
 
-.pd-next { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; padding-top: 64px; margin-top: 64px; border-top: 1px solid var(--rule); }
-.pd-next .side { display: grid; gap: 6px; cursor: pointer; }
-.pd-next .side.right { text-align: right; }
-.pd-next .k { font-family: var(--mono); font-size: var(--fs-meta); color: var(--mute); letter-spacing: 0.06em; text-transform: uppercase; }
-.pd-next .t { font-family: var(--serif); font-size: 34px; letter-spacing: -0.01em; }
-.pd-next .side:hover .t { color: var(--accent); }
 
 /* --- view transitions --- */
 .view { animation: viewin .5s cubic-bezier(.2,.8,.2,1); }
@@ -1424,14 +1448,14 @@ em { font-style: italic; }
   }
 
   /* Compact wordmark */
-  .topbar .mark .mark-wordmark { font-size: 13px; }
+  .topbar .mark .mark-logo-compact { height: 34px; width: 34px; }
   .topbar .mark small { display: none; }
 }
 
 /* Mobile: even tighter */
 @media (max-width: 600px) {
   .topbar { padding: 12px 16px !important; }
-  .topbar .mark .mark-wordmark { font-size: 12px; }
+  .topbar .mark .mark-logo-compact { height: 30px; width: 30px; }
   .topbar .theme-toggle { margin-left: 8px; }
 
   /* General page padding */
@@ -1521,9 +1545,7 @@ em { font-style: italic; }
   .home-note-body { font-size: clamp(26px, 7vw, 34px) !important; max-width: none !important; }
 
   /* Studio prev/next → stack, wrap long names */
-  .pd-next { grid-template-columns: 1fr !important; gap: 28px !important; padding-top: 40px !important; margin-top: 40px !important; }
-  .pd-next .side.right { text-align: left !important; }
-  .pd-next .t { font-size: clamp(26px, 7vw, 32px) !important; overflow-wrap: anywhere; }
+  .side-prevnext .pn-t { font-size: clamp(16px, 5vw, 18px) !important; overflow-wrap: anywhere; }
 
   /* Submit form */
   .submit-form .two { grid-template-columns: 1fr !important; }
@@ -1539,7 +1561,7 @@ em { font-style: italic; }
 
 /* Small mobile */
 @media (max-width: 380px) {
-  .topbar .mark .mark-wordmark { font-size: 11px; }
+  .topbar .mark .mark-logo-compact { height: 26px; width: 26px; }
   .topbar .menu-toggle { width: 36px; height: 36px; }
   .stats-strip { grid-template-columns: 1fr 1fr !important; gap: 14px !important; }
 }
