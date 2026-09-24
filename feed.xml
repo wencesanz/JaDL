@@ -5,8 +5,27 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 03:50:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:21:19 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wunder Werkz</title>
+      <link>https://www.iheartwunderwerkz.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/wunder-werkz</guid>
+      <pubDate>Thu, 24 Sep 2026 08:42:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Denver, USA.</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Verena Michelitsch</title>
+      <link>https://verenamichelitsch.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/verena-michelitsch</guid>
+      <pubDate>Thu, 24 Sep 2026 08:28:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — New York, USA.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Moxie Sozo</title>
       <link>https://moxiesozo.com/</link>
@@ -300,29 +319,6 @@
       <description>Branding · Graphic Design · Packaging — Helsinki, Finland.</description>
       <category>Branding</category>
       <category>Graphic Design</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Yucca Studio</title>
-      <link>https://yucca-studio.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/yucca-studio</guid>
-      <pubDate>Wed, 16 Sep 2026 08:58:00 GMT</pubDate>
-      <description>Graphic Design · Branding · Interactive/Digital · Illustration — Zurich, Switzerland.</description>
-      <category>Graphic Design</category>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-      <category>Illustration</category>
-    </item>
-    <item>
-      <title>Redo Bureau</title>
-      <link>https://redobureau.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/redo-bureau</guid>
-      <pubDate>Tue, 15 Sep 2026 15:31:00 GMT</pubDate>
-      <description>Graphic Design · Interactive/Digital · Illustration · Typography · Packaging — Buenos Aires, Argentina.</description>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Illustration</category>
-      <category>Typography</category>
       <category>Packaging</category>
     </item>
   </channel>
