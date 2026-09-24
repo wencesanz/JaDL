@@ -171,8 +171,8 @@ em { font-style: italic; }
 }
 .topbar .mark .mark-logo-compact {
   display: none;
-  height: 40px;
-  width: 40px;
+  height: 36px;
+  width: auto;
   cursor: pointer;
   color: var(--ink);
 }
@@ -1448,14 +1448,14 @@ em { font-style: italic; }
   }
 
   /* Compact wordmark */
-  .topbar .mark .mark-logo-compact { height: 34px; width: 34px; }
+  .topbar .mark .mark-logo-compact { height: 30px; width: auto; }
   .topbar .mark small { display: none; }
 }
 
 /* Mobile: even tighter */
 @media (max-width: 600px) {
   .topbar { padding: 12px 16px !important; }
-  .topbar .mark .mark-logo-compact { height: 30px; width: 30px; }
+  .topbar .mark .mark-logo-compact { height: 26px; width: auto; }
   .topbar .theme-toggle { margin-left: 8px; }
 
   /* General page padding */
@@ -1561,7 +1561,7 @@ em { font-style: italic; }
 
 /* Small mobile */
 @media (max-width: 380px) {
-  .topbar .mark .mark-logo-compact { height: 26px; width: 26px; }
+  .topbar .mark .mark-logo-compact { height: 22px; width: auto; }
   .topbar .menu-toggle { width: 36px; height: 36px; }
   .stats-strip { grid-template-columns: 1fr 1fr !important; gap: 14px !important; }
 }
