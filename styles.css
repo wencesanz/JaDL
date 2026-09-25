@@ -36,9 +36,9 @@
 
   --serif: "Aileron", "Söhne", "Neue Haas Grotesk Text", "Helvetica Neue", Arial, sans-serif;
   --sans: "Aileron", "Söhne", "Neue Haas Grotesk Text", "Helvetica Neue", Arial, sans-serif;
-  --mono: "JetBrains Mono", "Berkeley Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  --mono: "M PLUS 1 Code", "Berkeley Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
   /* Section headlines — monospace display face */
-  --head: "Spline Sans Mono", "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  --head: "M PLUS 1 Code", ui-monospace, SFMono-Regular, Menlo, monospace;
 
   --fs-meta: 11.5px;
   --fs-body: 15px;
