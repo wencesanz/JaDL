@@ -79,13 +79,7 @@ function IndexView({
     className: "n"
   }, d.totals?.cities), React.createElement("span", {
     className: "k"
-  }, "Cities")), React.createElement("div", {
-    className: "stat"
-  }, React.createElement("span", {
-    className: "n"
-  }, Object.keys(d.byCat || {}).length), React.createElement("span", {
-    className: "k"
-  }, "Disciplines")))), React.createElement("section", {
+  }, "Cities")))), React.createElement("section", {
     className: "wrap",
     style: {
       paddingTop: 80,
