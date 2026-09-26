@@ -868,7 +868,7 @@ em { font-style: italic; }
 .boot-inner { text-align: center; }
 
 /* --- stats strip on index --- */
-.stats-strip { display: grid; grid-template-columns: repeat(4, 1fr); gap: 32px; padding: 40px 0; border-bottom: 1px solid var(--rule-soft); }
+.stats-strip { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; padding: 40px 0; border-bottom: 1px solid var(--rule-soft); }
 
 /* --- editorial grid on home (magazine-style, asymmetric) --- */
 .masthead--tight { padding-top: clamp(60px, 8vw, 100px); padding-bottom: clamp(40px, 5vw, 64px); }
