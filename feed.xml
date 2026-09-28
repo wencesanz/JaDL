@@ -5,8 +5,44 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 04:26:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:16:46 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Studio Coralie Wipf</title>
+      <link>https://www.coraliewipf.ch/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-coralie-wipf</guid>
+      <pubDate>Mon, 28 Sep 2026 13:15:00 GMT</pubDate>
+      <description> — Zurich, Switzerland.</description>
+
+    </item>
+    <item>
+      <title>Central studio</title>
+      <link>https://centralstudio.ch/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/central-studio</guid>
+      <pubDate>Mon, 28 Sep 2026 13:11:00 GMT</pubDate>
+      <description>Graphic Design — Lugano, Switzerland.</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Bureau Borsche</title>
+      <link>https://bureauborsche.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/bureau-borsche</guid>
+      <pubDate>Mon, 28 Sep 2026 13:09:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Munich, Germany.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Buddy-Buddy</title>
+      <link>https://buddy-buddy.co/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/buddy-buddy</guid>
+      <pubDate>Mon, 28 Sep 2026 13:06:00 GMT</pubDate>
+      <description>Branding · Illustration · Packaging — Minneapolis, USA.</description>
+      <category>Branding</category>
+      <category>Illustration</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Dina Creative Space</title>
       <link>https://dinacreative.space/</link>
@@ -278,49 +314,6 @@
       <category>Graphic Design</category>
       <category>Typography</category>
       <category>Packaging</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Stefanie Brückler Studio</title>
-      <link>https://stefaniebrueckler.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/stefanie-bruckler-studio</guid>
-      <pubDate>Fri, 18 Sep 2026 10:09:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Interactive/Digital — New York, USA.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>NR2154</title>
-      <link>https://www.nr2154.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/nr2154</guid>
-      <pubDate>Fri, 18 Sep 2026 10:05:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging — New York, Copenhague, Paris, USA, Denmark, France.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Nowhere Studio</title>
-      <link>https://nowhere.studio/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/nowhere-studio</guid>
-      <pubDate>Fri, 18 Sep 2026 10:03:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Illustration · Interactive/Digital — Athens, Greece.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Illustration</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Nomis Creative</title>
-      <link>https://nomiscreative.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/nomis-creative</guid>
-      <pubDate>Fri, 18 Sep 2026 09:59:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital — London, England.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>
