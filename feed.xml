@@ -5,15 +5,28 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 13:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 23:02:52 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>edition.studio</title>
+      <link>https://edition.studio/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/edition-studio</guid>
+      <pubDate>Mon, 28 Sep 2026 13:25:00 GMT</pubDate>
+      <description>Graphic Design · Interactive/Digital · Typography — New York, USA.</description>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+    </item>
     <item>
       <title>Studio Coralie Wipf</title>
       <link>https://www.coraliewipf.ch/</link>
       <guid isPermaLink="false">https://justadesignlist.com/studio/studio-coralie-wipf</guid>
       <pubDate>Mon, 28 Sep 2026 13:15:00 GMT</pubDate>
-      <description> — Zurich, Switzerland.</description>
-
+      <description>Graphic Design · Motion · Interactive/Digital · Branding — Zurich, Switzerland.</description>
+      <category>Graphic Design</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+      <category>Branding</category>
     </item>
     <item>
       <title>Central studio</title>
@@ -303,18 +316,6 @@
       <pubDate>Fri, 18 Sep 2026 10:27:00 GMT</pubDate>
       <description>Branding — New York, USA.</description>
       <category>Branding</category>
-    </item>
-    <item>
-      <title>NSSG</title>
-      <link>https://nssg.jp/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/nssg</guid>
-      <pubDate>Fri, 18 Sep 2026 10:12:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Typography · Packaging · Interactive/Digital — Tokyo, Japan.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Typography</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>
