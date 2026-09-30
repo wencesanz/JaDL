@@ -5,8 +5,56 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 04:42:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:08:58 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TEMPLO</title>
+      <link>https://templo.co.uk/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/templo</guid>
+      <pubDate>Wed, 30 Sep 2026 08:31:00 GMT</pubDate>
+      <description>Branding — London, England.</description>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>Emi Takahashi</title>
+      <link>https://emitakahashi.ca/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/emi-takahashi</guid>
+      <pubDate>Wed, 30 Sep 2026 08:27:00 GMT</pubDate>
+      <description>Graphic Design · Typography — Montreal, Canada.</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>KR8 bureau</title>
+      <link>https://www.kr8bureau.at/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/kr8-bureau</guid>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Vienna, Tokyo, Austria, Japan.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Kevin Hoegger Visual Services</title>
+      <link>https://kevinhoegger.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/kevin-hoegger-visual-services</guid>
+      <pubDate>Wed, 30 Sep 2026 08:14:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — Zurich, Switzerland.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Jean-Michel Mercier</title>
+      <link>https://jmmercier.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/jean-michel-mercier</guid>
+      <pubDate>Wed, 30 Sep 2026 08:10:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — Montreal, Canada.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Studio Robert Holmkvist</title>
       <link>https://www.robertholmkvist.com/</link>
@@ -266,58 +314,6 @@
       <category>Branding</category>
       <category>Interactive/Digital</category>
       <category>Motion</category>
-    </item>
-    <item>
-      <title>SOLV</title>
-      <link>https://www.solv.team/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/solv</guid>
-      <pubDate>Tue, 22 Sep 2026 13:21:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital · Advertising/Campaigns — Kyiv, London, Zurich, Ukraine, England, Switzerland.</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-      <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>Soft Power</title>
-      <link>https://softpower.global/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/soft-power</guid>
-      <pubDate>Mon, 21 Sep 2026 15:48:00 GMT</pubDate>
-      <description>Graphic Design · Advertising/Campaigns — London, England.</description>
-      <category>Graphic Design</category>
-      <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>Sofia Pusa</title>
-      <link>https://www.sofiapusa.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/sofia-pusa</guid>
-      <pubDate>Mon, 21 Sep 2026 15:46:00 GMT</pubDate>
-      <description>Branding · Illustration — London, Helsinki, England, Finland.</description>
-      <category>Branding</category>
-      <category>Illustration</category>
-    </item>
-    <item>
-      <title>Smiling Wolf</title>
-      <link>https://www.smilingwolf.co.uk/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/smiling-wolf</guid>
-      <pubDate>Mon, 21 Sep 2026 11:02:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Advertising/Campaigns · Motion · Illustration — Liverpool, England.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Advertising/Campaigns</category>
-      <category>Motion</category>
-      <category>Illustration</category>
-    </item>
-    <item>
-      <title>Formatet</title>
-      <link>https://formatet.dk/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/formatet</guid>
-      <pubDate>Mon, 21 Sep 2026 08:15:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Advertising/Campaigns · Interactive/Digital — Copenhague, Denmark.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Advertising/Campaigns</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>
