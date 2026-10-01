@@ -5,8 +5,31 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 04:54:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:42:59 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tricota</title>
+      <link>https://www.tricota.com.ar/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/tricota</guid>
+      <pubDate>Thu, 01 Oct 2026 08:12:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Motion · Packaging — Buenos Aires, Argentina.</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>L²</title>
+      <link>https://www.l2studio.co/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/l2</guid>
+      <pubDate>Thu, 01 Oct 2026 07:50:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Motion · Typography — Budapest, Hungary.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+      <category>Typography</category>
+    </item>
     <item>
       <title>TEMPLO</title>
       <link>https://templo.co.uk/</link>
@@ -291,29 +314,6 @@
       <category>Packaging</category>
       <category>Interactive/Digital</category>
       <category>Typography</category>
-    </item>
-    <item>
-      <title>Spy</title>
-      <link>https://spystudio.co.uk/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/spy</guid>
-      <pubDate>Tue, 22 Sep 2026 13:27:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Packaging · Advertising/Campaigns — London, England.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-      <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>Studio NMW</title>
-      <link>https://nicolemillerwong.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-nmw</guid>
-      <pubDate>Tue, 22 Sep 2026 13:25:00 GMT</pubDate>
-      <description>Graphic Design · Branding · Interactive/Digital · Motion — New York, USA.</description>
-      <category>Graphic Design</category>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-      <category>Motion</category>
     </item>
   </channel>
 </rss>
