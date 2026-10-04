@@ -5,8 +5,19 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 04:58:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 11:58:07 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cold Cuts</title>
+      <link>https://www.coldcuts.co/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/cold-cuts</guid>
+      <pubDate>Sun, 04 Oct 2026 10:19:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — New York, USA.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Feel For</title>
       <link>https://www.feelfor.co/</link>
@@ -303,15 +314,6 @@
       <category>Packaging</category>
       <category>Interactive/Digital</category>
       <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>For Good Design Lab</title>
-      <link>https://www.forgooddesignlab.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/for-good-design-lab</guid>
-      <pubDate>Wed, 23 Sep 2026 11:45:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital — Sydney, Australia.</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>
