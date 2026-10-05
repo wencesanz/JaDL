@@ -153,6 +153,40 @@ function TopBar({
     className: "nav-count"
   }, savedCount) : null))));
 }
+function CuratorAvatar() {
+  // Peeks out of its disc once, the first time the footer scrolls into view.
+  const ref = React.useRef(null);
+  const [seen, setSeen] = useState(false);
+  useEffect(() => {
+    const el = ref.current;
+    if (!el || !("IntersectionObserver" in window)) {
+      setSeen(true);
+      return;
+    }
+    const io = new IntersectionObserver(entries => {
+      if (entries.some(e => e.isIntersecting)) {
+        setSeen(true);
+        io.disconnect();
+      }
+    }, {
+      threshold: 0.9
+    });
+    io.observe(el);
+    return () => io.disconnect();
+  }, []);
+  return React.createElement("span", {
+    ref: ref,
+    className: `curator-av ${seen ? "is-in" : ""}`,
+    "aria-hidden": "true"
+  }, React.createElement("img", {
+    src: "/avatar-wences.png",
+    alt: "",
+    width: 48,
+    height: 48,
+    loading: "lazy",
+    decoding: "async"
+  }));
+}
 function Footer({
   go
 }) {
@@ -235,7 +269,14 @@ function Footer({
     className: "arr"
   }, "\u2192"))), React.createElement("div", {
     className: "colophon"
-  }, d.colophon.map((l, i) => React.createElement("span", {
+  }, d.colophon.map((l, i) => /Wences/.test(l) ? React.createElement("a", {
+    key: i,
+    className: "curator",
+    href: "https://wenceslaosanz.rocks/",
+    target: "_blank",
+    rel: "noopener",
+    title: "Wences Sanz-Alonso"
+  }, React.createElement(CuratorAvatar, null), React.createElement("span", null, l)) : React.createElement("span", {
     key: i
   }, l)), React.createElement("span", {
     style: {
