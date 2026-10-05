@@ -5,8 +5,55 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 04:45:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:59:47 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hochburg Design</title>
+      <link>https://www.hochburg.design/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/hochburg-design</guid>
+      <pubDate>Mon, 05 Oct 2026 12:41:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Stuttgart, Germany.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Alexis Cros</title>
+      <link>https://alexiscros.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/alexis-cros</guid>
+      <pubDate>Mon, 05 Oct 2026 10:38:00 GMT</pubDate>
+      <description>Graphic Design — Lyon, France.</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Geist*Studio</title>
+      <link>https://geist.studio/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/geist-studio</guid>
+      <pubDate>Mon, 05 Oct 2026 10:35:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — London, England.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Emily Klaebe</title>
+      <link>https://emilyklaebe.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/emily-klaebe</guid>
+      <pubDate>Mon, 05 Oct 2026 09:26:00 GMT</pubDate>
+      <description>Graphic Design · Typography — Portland, USA.</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Horah, Inc.</title>
+      <link>https://horah.world/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/horah-inc</guid>
+      <pubDate>Mon, 05 Oct 2026 09:24:00 GMT</pubDate>
+      <description>Graphic Design · Typography — Paris, France.</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+    </item>
     <item>
       <title>Cold Cuts</title>
       <link>https://www.coldcuts.co/</link>
@@ -263,57 +310,6 @@
       <description>Branding · Interactive/Digital — Denver, USA.</description>
       <category>Branding</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Verena Michelitsch</title>
-      <link>https://verenamichelitsch.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/verena-michelitsch</guid>
-      <pubDate>Thu, 24 Sep 2026 08:28:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging — New York, USA.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Moxie Sozo</title>
-      <link>https://moxiesozo.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/moxie-sozo</guid>
-      <pubDate>Wed, 23 Sep 2026 21:06:00 GMT</pubDate>
-      <description>Branding · Packaging · Illustration · Interactive/Digital — Boulder, USA.</description>
-      <category>Branding</category>
-      <category>Packaging</category>
-      <category>Illustration</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>The Future Forward</title>
-      <link>https://thefutureforward.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/the-future-forward</guid>
-      <pubDate>Wed, 23 Sep 2026 12:51:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital — New York, Miami, USA.</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Infinito</title>
-      <link>https://infinito.group/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/infinito</guid>
-      <pubDate>Wed, 23 Sep 2026 11:57:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging — Lima, Madrid, Stockholm, Peru, Spain, Sweden.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Work by HOLIDAY</title>
-      <link>https://workbyholiday.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/work-by-holiday</guid>
-      <pubDate>Wed, 23 Sep 2026 11:47:00 GMT</pubDate>
-      <description>Branding · Packaging · Interactive/Digital · Graphic Design — Toronto, Canada.</description>
-      <category>Branding</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
-      <category>Graphic Design</category>
     </item>
   </channel>
 </rss>
