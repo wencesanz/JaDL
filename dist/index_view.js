@@ -33,9 +33,7 @@ function IndexView({
     style: {
       marginTop: 20
     }
-  }, React.createElement("em", {
-    className: "count-accent"
-  }, d.totals?.studios || "—"), " design studios,", React.createElement("br", null), "collected ", React.createElement("em", null, "without ranking"), "."), React.createElement("p", {
+  }, "Studios and independent designers,", React.createElement("br", null), "collected ", React.createElement("em", null, "without ranking"), "."), React.createElement("p", {
     className: "sub"
   }, d.statement, " ", React.createElement("a", {
     className: "link",
