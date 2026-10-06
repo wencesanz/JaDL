@@ -34,7 +34,7 @@ window.SITE = {
   },
   contact: {
     email: "wencesanz@gmail.com",
-    instagram: "@thestudios.index",
+    instagram: "@justadesignlist",
     rss: "/feed.xml",
   },
   colophon: [
