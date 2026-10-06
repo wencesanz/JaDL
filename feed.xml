@@ -5,8 +5,30 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 05:32:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:59:58 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marius Fahrner Design</title>
+      <link>https://www.mariusfahrner.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/marius-fahrner-design</guid>
+      <pubDate>Tue, 06 Oct 2026 10:26:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Graphic Design · Packaging — Hamburg, Germany.</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Made Together</title>
+      <link>https://madetogether.com.au/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/made-together</guid>
+      <pubDate>Tue, 06 Oct 2026 10:22:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Sydney, Australia.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Hochburg Design</title>
       <link>https://www.hochburg.design/</link>
@@ -289,27 +311,6 @@
       <category>Graphic Design</category>
       <category>Interactive/Digital</category>
       <category>Typography</category>
-    </item>
-    <item>
-      <title>studio FM milano</title>
-      <link>https://studiofmmilano.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-fm-milano</guid>
-      <pubDate>Thu, 24 Sep 2026 12:39:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Advertising/Campaigns · Interactive/Digital — Milan, Italy.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Advertising/Campaigns</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Wunder Werkz</title>
-      <link>https://www.iheartwunderwerkz.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/wunder-werkz</guid>
-      <pubDate>Thu, 24 Sep 2026 08:42:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital — Denver, USA.</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>
