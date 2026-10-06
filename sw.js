@@ -5,7 +5,7 @@
 //   • Everything else same-origin: cache-first with background refresh.
 // Bump CACHE_VERSION whenever the shell file list changes to purge old caches.
 
-const CACHE_VERSION = "jadl-v3";
+const CACHE_VERSION = "jadl-v4";
 const SHELL = [
   "/",
   "/styles.css",
@@ -27,9 +27,9 @@ const SHELL = [
   "/dist/collections.js",
   "/dist/app.js",
   "/world-map.min.svg",
-  "/icons/icon-192.png",
-  "/icons/icon-512.png",
-  "/icons/icon-maskable-512.png",
+  "/icons/jadl-192.png",
+  "/icons/jadl-512.png",
+  "/icons/jadl-maskable-512.png",
   "/apple-touch-icon.png",
   "/favicon-32.png",
 ];
