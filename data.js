@@ -2,12 +2,12 @@
 // Loads studios.json at runtime; exposes SITE globally.
 window.SITE = {
   title: "Just a Design List",
-  strap: "A curated directory of design studios and independent practices.",
+  strap: "A curated directory of design studios and independent designers.",
   curator: "Edited by Wences — Madrid",
   since: "Begun 2023",
   updated: "",
   statement:
-    "A working index of studios whose practice the editor finds worth returning to. Entries are collected slowly, without ranking, and each is kept short on purpose — a pointer, not a review. Navigate by discipline, geography, or simply read it as a list.",
+    "A working index of studios and independent designers whose practice the editor finds worth returning to. Entries are collected slowly, without ranking, and each is kept short on purpose — a pointer, not a review. Navigate by discipline, geography, or simply read it as a list.",
   note:
     "The index is not exhaustive and makes no attempt to be. It favours small and medium studios, independent practices, and designers who publish their own work clearly on the open web.",
   categoriesOrder: [
