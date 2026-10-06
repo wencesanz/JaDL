@@ -215,7 +215,7 @@ function Footer({
     style: {
       fontSize: 14
     }
-  }, totals.studios, " studios", React.createElement("br", null), totals.countries, " countries, ", totals.cities, " cities", React.createElement("br", null), React.createElement("span", {
+  }, totals.studios, " studios & designers", React.createElement("br", null), totals.countries, " countries, ", totals.cities, " cities", React.createElement("br", null), React.createElement("span", {
     style: {
       color: "var(--mute)"
     }
@@ -235,7 +235,7 @@ function Footer({
     style: {
       cursor: "pointer"
     }
-  }, React.createElement("span", null, "Submit a studio"), React.createElement("span", {
+  }, React.createElement("span", null, "Submit a studio or designer"), React.createElement("span", {
     className: "arr"
   }, "\u2192")), React.createElement("a", {
     href: "https://x.com/justadesignlist",

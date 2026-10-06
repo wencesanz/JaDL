@@ -65,7 +65,7 @@ function IndexView({
     className: "n"
   }, d.totals?.studios), React.createElement("span", {
     className: "k"
-  }, "Studios indexed")), React.createElement("div", {
+  }, "Studios & designers")), React.createElement("div", {
     className: "stat"
   }, React.createElement("span", {
     className: "n"

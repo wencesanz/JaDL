@@ -236,7 +236,7 @@ function websiteLd(desc) {
 function setMeta(route) {
   const d = window.SITE || {};
   let title = "Just a Design List — A curated directory of design practices";
-  let desc = "A slow, curated index of design studios and independent practices. 814 entries across 54 countries.";
+  let desc = "A slow, curated index of design studios and independent designers. 814 entries across 54 countries.";
   let image = null;
   let robots = null;
   let jsonld = [];
@@ -266,7 +266,7 @@ function setMeta(route) {
       desc = `Independent design practices based in ${f.city}.`;
     } else {
       title = "All studios · Just a Design List";
-      desc = "Browse the full index of design studios and independent practices.";
+      desc = "Browse the full index of design studios and independent designers.";
     }
   } else if (route.view === "geography") {
     title = "Geography · Just a Design List";
@@ -278,8 +278,8 @@ function setMeta(route) {
     title = "Colophon · Just a Design List";
     desc = "About Just a Design List — a hand-edited index of design practices.";
   } else if (route.view === "submit") {
-    title = "Submit a studio · Just a Design List";
-    desc = "Suggest a design studio or independent practice for the index.";
+    title = "Submit a studio or designer · Just a Design List";
+    desc = "Suggest a design studio or independent designer for the index.";
   } else if (route.view === "list") {
     title = "My List · Just a Design List";
     desc = "Studios you've saved on this browser.";
