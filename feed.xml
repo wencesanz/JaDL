@@ -5,8 +5,62 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 05:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:54:21 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nicolás Gloazzo</title>
+      <link>https://nicolasgloazzo.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/nicolas-gloazzo</guid>
+      <pubDate>Wed, 07 Oct 2026 06:07:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Motion · Interactive/Digital · Advertising/Campaigns — Paris, France.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>Mirats Studio</title>
+      <link>https://miratsestudio.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/mirats-studio</guid>
+      <pubDate>Wed, 07 Oct 2026 06:03:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Barcelona, Spain.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>MB Studio</title>
+      <link>https://www.miltosbottis.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/mb-studio</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — London, England.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Melia Tandiono</title>
+      <link>https://meliatandiono.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/melia-tandiono</guid>
+      <pubDate>Wed, 07 Oct 2026 05:54:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — New York, USA.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Mariam Khalifah</title>
+      <link>https://www.mariamkhalifah.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/mariam-khalifah</guid>
+      <pubDate>Wed, 07 Oct 2026 05:48:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Berlin, Germany.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Marius Fahrner Design</title>
       <link>https://www.mariusfahrner.com/</link>
@@ -256,61 +310,6 @@
       <description>Branding · Graphic Design — Paris, France.</description>
       <category>Branding</category>
       <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>PDB</title>
-      <link>https://philippedb.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/pdb</guid>
-      <pubDate>Thu, 24 Sep 2026 15:14:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Illustration — Berlin, Germany.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Illustration</category>
-    </item>
-    <item>
-      <title>Richards Partners</title>
-      <link>https://www.richards.partners/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/richards-partners</guid>
-      <pubDate>Thu, 24 Sep 2026 15:11:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital — Auckland, New Zealand.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>SILKEIGHT</title>
-      <link>https://silkeight.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/silkeight</guid>
-      <pubDate>Thu, 24 Sep 2026 15:08:00 GMT</pubDate>
-      <description>Graphic Design · Branding · Interactive/Digital · Packaging · Typography — Bucharest, Romania.</description>
-      <category>Graphic Design</category>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-      <category>Typography</category>
-    </item>
-    <item>
-      <title>Silence</title>
-      <link>https://silence.design/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/silence</guid>
-      <pubDate>Thu, 24 Sep 2026 15:06:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Grenoble, France.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Studio FAX</title>
-      <link>https://www.studiofax.co.uk/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-fax</guid>
-      <pubDate>Thu, 24 Sep 2026 12:41:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Typography — London, England.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Typography</category>
     </item>
   </channel>
 </rss>
