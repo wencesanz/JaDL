@@ -5,8 +5,28 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:02:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:04:57 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gris</title>
+      <link>https://gris.agency/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/gris</guid>
+      <pubDate>Thu, 08 Oct 2026 14:10:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Barcelona, Spain.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Foreign Policy</title>
+      <link>https://www.foreignpolicy.design/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/foreign-policy</guid>
+      <pubDate>Thu, 08 Oct 2026 14:05:00 GMT</pubDate>
+      <description>Branding · Graphic Design — Singapore, Singapore.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
     <item>
       <title>Massa</title>
       <link>https://thisismassa.com/</link>
@@ -295,26 +315,6 @@
       <pubDate>Mon, 28 Sep 2026 13:11:00 GMT</pubDate>
       <description>Graphic Design — Lugano, Switzerland.</description>
       <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Bureau Borsche</title>
-      <link>https://bureauborsche.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/bureau-borsche</guid>
-      <pubDate>Mon, 28 Sep 2026 13:09:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital — Munich, Germany.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Buddy-Buddy</title>
-      <link>https://buddy-buddy.co/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/buddy-buddy</guid>
-      <pubDate>Mon, 28 Sep 2026 13:06:00 GMT</pubDate>
-      <description>Branding · Illustration · Packaging — Minneapolis, USA.</description>
-      <category>Branding</category>
-      <category>Illustration</category>
-      <category>Packaging</category>
     </item>
   </channel>
 </rss>
