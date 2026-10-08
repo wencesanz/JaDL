@@ -5,8 +5,43 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 05:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:02:50 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Massa</title>
+      <link>https://thisismassa.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/massa</guid>
+      <pubDate>Thu, 08 Oct 2026 07:15:00 GMT</pubDate>
+      <description>Branding · Packaging · Advertising/Campaigns · Graphic Design — Barcelona, Spain.</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Advertising/Campaigns</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>OTTO Creative Studio</title>
+      <link>https://www.ottostudio.co.uk/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/otto-creative-studio</guid>
+      <pubDate>Thu, 08 Oct 2026 07:05:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Advertising/Campaigns · Packaging · Motion · Interactive/Digital — Leeds, England.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Advertising/Campaigns</category>
+      <category>Packaging</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Omni Design</title>
+      <link>https://onmidesign.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/omni-design</guid>
+      <pubDate>Thu, 08 Oct 2026 07:01:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Advertising/Campaigns — Murcia, Spain.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Advertising/Campaigns</category>
+    </item>
     <item>
       <title>Nicolás Gloazzo</title>
       <link>https://nicolasgloazzo.com/</link>
@@ -280,36 +315,6 @@
       <category>Branding</category>
       <category>Illustration</category>
       <category>Packaging</category>
-    </item>
-    <item>
-      <title>Dina Creative Space</title>
-      <link>https://dinacreative.space/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/dina-creative-space</guid>
-      <pubDate>Fri, 25 Sep 2026 11:09:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Amsterdam, The Netherlands.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Blake Scott Design</title>
-      <link>https://www.blakescott.co</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/blake-scott-design</guid>
-      <pubDate>Fri, 25 Sep 2026 09:23:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging — Melbourne, Australia.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Plus Trente Trois</title>
-      <link>https://plus33studio.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/plus-trente-trois</guid>
-      <pubDate>Thu, 24 Sep 2026 16:59:00 GMT</pubDate>
-      <description>Branding · Graphic Design — Paris, France.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
     </item>
   </channel>
 </rss>
