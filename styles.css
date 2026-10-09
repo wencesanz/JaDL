@@ -1,5 +1,20 @@
 /* --- tokens --- */
 @font-face {
+  font-family: "Paper Mono";
+  src: url("/fonts/PaperMono-VF.woff2") format("woff2-variations"), url("/fonts/PaperMono-VF.woff2") format("woff2");
+  font-weight: 100 800;
+  font-display: swap;
+  size-adjust: 90%;
+}
+/* Regular text uses the Medium cut for a darker, crisper mono */
+@font-face {
+  font-family: "Paper Mono";
+  src: url("/fonts/PaperMono-Medium.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+  size-adjust: 90%;
+}
+@font-face {
   font-family: "Aileron";
   src: url("https://cdn.jsdelivr.net/fontsource/fonts/aileron@latest/latin-300-normal.woff2") format("woff2");
   font-weight: 300;
@@ -27,18 +42,19 @@
 :root {
   --paper: #FBFBFA;
   --ink: #0F0F0E;
-  --ink-2: #2A2A28;
-  --mute: #8A8A85;
-  --rule: #D6D6D2;
-  --rule-soft: #EAEAE6;
+  --ink-2: #1F1F1D;
+  --mute: #4F4F4C;
+  --rule: #BDBDB7;
+  --rule-soft: #DADAD4;
   --accent: #F95721;
   --accent-soft: rgba(249,87,33,0.12);
+  --accent-text: #BF3D0E;
 
   --serif: "Aileron", "Söhne", "Neue Haas Grotesk Text", "Helvetica Neue", Arial, sans-serif;
   --sans: "Aileron", "Söhne", "Neue Haas Grotesk Text", "Helvetica Neue", Arial, sans-serif;
-  --mono: "M PLUS 1 Code", "Berkeley Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  --mono: "Paper Mono", "Berkeley Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
   /* Section headlines — monospace display face */
-  --head: "M PLUS 1 Code", ui-monospace, SFMono-Regular, Menlo, monospace;
+  --head: "Paper Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
 
   --fs-meta: 11.5px;
   --fs-body: 15px;
@@ -62,7 +78,7 @@
   --paper: #F2EEE6;
   --ink: #12110F;
   --ink-2: #2A2824;
-  --mute: #8A867C;
+  --mute: #4F4C45;
   --rule: #CDC6B6;
   --rule-soft: #E3DCCC;
 }
@@ -70,7 +86,7 @@
   --paper: #F5F6F5;
   --rule: #D1D4D0;
   --rule-soft: #E4E6E2;
-  --mute: #7B7F7A;
+  --mute: #4A4E49;
   --accent: oklch(0.52 0.05 210);
   --accent-soft: oklch(0.52 0.05 210 / 0.1);
 }
@@ -80,7 +96,7 @@
   --ink-2: #222;
   --rule: #D6D6D2;
   --rule-soft: #EAEAE6;
-  --mute: #7B7B7B;
+  --mute: #4E4E4E;
   --accent: #F95721;
   --accent-soft: rgba(249,87,33,0.12);
 }
@@ -96,11 +112,12 @@ html[data-theme="dark"] body { background: var(--paper); color: var(--ink); }
   --paper: #0E0E0D;
   --ink: #F2F0EC;
   --ink-2: #C9C6BE;
-  --mute: #7A7872;
-  --rule: #2A2A28;
-  --rule-soft: #1C1C1A;
+  --mute: #B8B6B0;
+  --rule: #45453F;
+  --rule-soft: #2C2C29;
   --accent: #FF6E3C;
   --accent-soft: rgba(255,110,60,0.16);
+  --accent-text: #FF6E3C;
   color-scheme: dark;
 }
 [data-theme="dark"][data-palette="cool"] {
@@ -116,7 +133,7 @@ html[data-theme="dark"] body { background: var(--paper); color: var(--ink); }
   --paper: #13110D;
   --ink: #F0EADB;
   --ink-2: #CFC8B6;
-  --mute: #857F71;
+  --mute: #BAB4A3;
   --rule: #2B2620;
   --rule-soft: #1C1914;
   --accent: oklch(0.80 0.08 55);
@@ -146,7 +163,7 @@ html[data-theme="dark"] body { background: var(--paper); color: var(--ink); }
 html, body { margin: 0; padding: 0; background: var(--paper); color: var(--ink); font-family: var(--sans); font-size: var(--fs-body); line-height: 1.55; -webkit-font-smoothing: antialiased; text-rendering: geometricPrecision; }
 body { overflow-x: hidden; font-feature-settings: "ss01","cv11"; }
 a { color: inherit; text-decoration: none; }
-a.link { color: var(--accent); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: color-mix(in oklch, var(--accent) 40%, transparent); transition: text-decoration-color .2s; }
+a.link { color: var(--accent-text, var(--accent)); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: color-mix(in oklch, var(--accent) 40%, transparent); transition: text-decoration-color .2s; }
 a.link:hover { text-decoration-color: var(--accent); }
 button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; padding: 0; }
 p { margin: 0 0 1em; text-wrap: pretty; }
@@ -154,10 +171,10 @@ p { margin: 0 0 1em; text-wrap: pretty; }
 /* Emphasis: in sans mode, italic looks wrong on geometric sans — swap to accent color + same weight.
    In serif mode, keep classic italic. Component-level .t em, .now-items em etc. override where desired. */
 em { font-style: italic; }
-:root:not([data-type="serif"]) em { font-style: normal; color: var(--accent); }
+:root:not([data-type="serif"]) em { font-style: normal; color: var(--accent-text, var(--accent)); }
 :root:not([data-type="serif"]) .masthead h1 em,
 :root:not([data-type="serif"]) .sel-row .t em,
-:root:not([data-type="serif"]) .now-items .v em { font-family: var(--sans); color: var(--ink-2); font-style: normal; font-weight: 400; opacity: .55; }
+:root:not([data-type="serif"]) .now-items .v em { font-family: var(--sans); color: var(--ink-2); font-style: normal; font-weight: 400; opacity: .85; }
 /* masthead headline reads as one solid colour */
 :root .masthead h1 em { color: inherit !important; opacity: 1 !important; font-weight: inherit; }
 /* …except the studio count, which picks up the accent colour (same as the links) */
@@ -392,8 +409,8 @@ em { font-style: italic; }
 .work-grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 32px 24px; padding-top: 32px; }
 .work-grid .card { grid-column: span 4; }
 .work-grid .card .frame { position: relative; aspect-ratio: 4/5; background: var(--col); border: 1px solid var(--rule-soft); display: flex; align-items: end; padding: 20px; overflow: hidden; }
-.work-grid .card .frame .ix { position: absolute; top: 14px; left: 16px; font-family: var(--mono); font-size: var(--fs-meta); color: var(--ink); opacity: .55; }
-.work-grid .card .frame .yr { position: absolute; top: 14px; right: 16px; font-family: var(--mono); font-size: var(--fs-meta); color: var(--ink); opacity: .55; }
+.work-grid .card .frame .ix { position: absolute; top: 14px; left: 16px; font-family: var(--mono); font-size: var(--fs-meta); color: var(--ink); opacity: .85; }
+.work-grid .card .frame .yr { position: absolute; top: 14px; right: 16px; font-family: var(--mono); font-size: var(--fs-meta); color: var(--ink); opacity: .85; }
 .work-grid .card .frame .ttl { font-family: var(--serif); font-size: 28px; line-height: 1; letter-spacing: -0.01em; }
 .work-grid .card .meta { display: grid; grid-template-columns: 1fr auto; padding: 12px 0 0; font-family: var(--mono); font-size: var(--fs-meta); color: var(--mute); letter-spacing: 0.05em; text-transform: uppercase; }
 
@@ -817,7 +834,7 @@ em { font-style: italic; }
 .pd-head .meta dd { margin: 0; font-size: 14px; }
 .pd-hero { width: 100%; max-width: 440px; height: clamp(180px, 24vw, 280px); border: 1px solid var(--rule); background: var(--col, #D8CFBD); margin: 24px 0 56px; position: relative; display: flex; align-items: center; justify-content: center; overflow: hidden; }
 .pd-hero::before { content: ""; position: absolute; inset: 0; background-image: repeating-linear-gradient(45deg, rgba(0,0,0,.04) 0 1px, transparent 1px 14px); }
-.pd-hero .ph { position: absolute; bottom: 16px; left: 20px; font-family: var(--mono); font-size: 11px; color: var(--ink); opacity: .55; letter-spacing: 0.05em; text-transform: uppercase; }
+.pd-hero .ph { position: absolute; bottom: 16px; left: 20px; font-family: var(--mono); font-size: 11px; color: var(--ink); opacity: .85; letter-spacing: 0.05em; text-transform: uppercase; }
 .pd-hero-img {
   position: absolute; inset: 0;
   width: 100%; height: 100%;
@@ -845,7 +862,7 @@ em { font-style: italic; }
 .pd-plate { margin: 64px 0; display: grid; grid-template-columns: repeat(12, 1fr); gap: 32px; }
 .pd-plate .p { aspect-ratio: 4/5; border: 1px solid var(--rule); background: var(--col, #CFC7B3); position: relative; overflow: hidden; }
 .pd-plate .p::before { content: ""; position: absolute; inset: 0; background-image: repeating-linear-gradient(0deg, rgba(0,0,0,.04) 0 1px, transparent 1px 10px); }
-.pd-plate .p .cap { position: absolute; bottom: 10px; left: 12px; font-family: var(--mono); font-size: 10.5px; letter-spacing: 0.05em; text-transform: uppercase; color: var(--ink); opacity: .55; }
+.pd-plate .p .cap { position: absolute; bottom: 10px; left: 12px; font-family: var(--mono); font-size: 10.5px; letter-spacing: 0.05em; text-transform: uppercase; color: var(--ink); opacity: .85; }
 .pd-plate .p1 { grid-column: 1 / span 5; }
 .pd-plate .p2 { grid-column: 6 / span 7; aspect-ratio: 16/10; }
 .pd-plate .p3 { grid-column: 1 / span 4; aspect-ratio: 1/1; }
