@@ -79,8 +79,14 @@ function StudiosView({
     if (city !== "All") rs = rs.filter(s => (s.city || "").split(",").map(x => x.trim()).includes(city));
     if (type !== "All") rs = rs.filter(s => (s.type || "").trim() === type);
     if (q.trim()) {
-      const Q = q.trim().toLowerCase();
-      rs = rs.filter(s => s.name.toLowerCase().includes(Q) || s.city.toLowerCase().includes(Q) || s.country.toLowerCase().includes(Q) || s.category.toLowerCase().includes(Q));
+      // Every word must match somewhere (name, city, country, discipline, type
+      // or region), ignoring accents and case: "packaging barcelona" works.
+      const fold = t => String(t || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+      const words = fold(q).split(/[\s,]+/).filter(Boolean);
+      rs = rs.filter(s => {
+        const hay = fold([s.name, s.city, s.country, s.category, s.type, window.jadlRegion ? window.jadlRegion(s.country).name : ""].join(" "));
+        return words.every(w => hay.includes(w));
+      });
     }
     const coll = new Intl.Collator("en", {
       sensitivity: "base"
@@ -126,7 +132,7 @@ function StudiosView({
   }, "Search"), React.createElement("input", {
     value: q,
     onChange: e => setQ(e.target.value),
-    placeholder: "name, city, country\u2026"
+    placeholder: "name, city, discipline\u2026"
   }), q && React.createElement("button", {
     onClick: () => setQ(""),
     className: "clr"

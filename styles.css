@@ -1736,3 +1736,9 @@ html { overflow-x: clip; }
   .fb-leg { grid-template-columns: 1fr 1fr; }
   .ann { font-size: 10px; gap: 8px; flex-wrap: wrap; }
 }
+
+/* --- geography: region filter above the map legend --- */
+.geo-regions { display: grid; grid-template-columns: auto 1fr; gap: 10px 18px; align-items: center; margin-top: 22px; }
+.geo-regions .geo-legend-lbl { white-space: nowrap; }
+.geo-region-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+@media (max-width: 760px) { .geo-regions { grid-template-columns: 1fr; } }

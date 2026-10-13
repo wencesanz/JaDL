@@ -1,7 +1,8 @@
 /* global React */
-// World choropleth for the Geography view. Loads the inline SVG world map
-// (paths keyed by ISO 3166-1 alpha-2) and shades each country by the number
-// of studios indexed there. Map artwork: Al MacDonald / Fritz Lekschas,
+// World map for the Geography view. Loads the inline SVG world map (paths
+// keyed by ISO 3166-1 alpha-2) and colours each country with its region colour
+// (the code used on the "From the list" posts), stronger where more studios
+// are indexed. The legend filters the map by region. Map artwork: Al MacDonald / Fritz Lekschas,
 // CC BY-SA 3.0.
 
 const { useEffect: useMapEffect, useRef: useMapRef, useState: useMapState } = React;
@@ -9,7 +10,7 @@ const { useEffect: useMapEffect, useRef: useMapRef, useState: useMapState } = Re
 // Country name (as stored in studios.json) → ISO alpha-2 used by the SVG.
 // Sub-national entries fold into their sovereign state for the map.
 const NAME_TO_ISO = {
-  "USA": "us", "Spain": "es", "UK": "gb", "Germany": "de", "Australia": "au",
+  "USA": "us", "Spain": "es", "UK": "gb", "England": "gb", "Germany": "de", "Australia": "au",
   "France": "fr", "The Netherlands": "nl", "Switzerland": "ch", "Sweden": "se",
   "Canada": "ca", "Denmark": "dk", "Norway": "no", "Austria": "at", "Italy": "it",
   "Portugal": "pt", "China": "cn", "Belgium": "be", "Mexico": "mx", "Finland": "fi",
@@ -23,29 +24,32 @@ const NAME_TO_ISO = {
   "Slovakia": "sk", "Colombia": "co", "Northern Ireland": "gb", "North Macedonia": "mk",
 };
 
-// Discrete buckets → ink mix percentage (reads as a monochrome choropleth).
+// Discrete buckets → how much of the region colour shows through.
 function bucketPct(n) {
-  if (n >= 100) return 90;
-  if (n >= 40) return 72;
-  if (n >= 15) return 54;
-  if (n >= 5) return 38;
-  if (n >= 1) return 22;
+  if (n >= 100) return 100;
+  if (n >= 40) return 86;
+  if (n >= 15) return 72;
+  if (n >= 5) return 58;
+  if (n >= 1) return 44;
   return 0;
 }
 const LEGEND = [
-  ["1–4", 22], ["5–14", 38], ["15–39", 54], ["40–99", 72], ["100+", 90],
+  ["1–4", 44], ["5–14", 58], ["15–39", 72], ["40–99", 86], ["100+", 100],
 ];
 
-function fillFor(pct) {
+function fillFor(pct, color) {
   if (!pct) return "var(--rule-soft)";
-  return `color-mix(in srgb, var(--ink) ${pct}%, var(--paper))`;
+  return `color-mix(in srgb, ${color || "var(--ink)"} ${pct}%, var(--paper))`;
 }
+const regionFor = (name) => (window.jadlRegion ? window.jadlRegion(name) : { id: "all", name: "", color: "var(--ink)" });
 
 function WorldChoropleth({ go }) {
   const d = window.SITE;
   const holder = useMapRef(null);
   const wrapRef = useMapRef(null);
   const [tip, setTip] = useMapState(null); // { iso, name, n, x, y }
+  const [focus, setFocus] = useMapState(null); // region id shown on its own, or null
+  const paint = useMapRef([]); // [{ targets, fill, region }]
 
   useMapEffect(() => {
     // Aggregate studio counts per ISO (folding sub-nations into sovereigns),
@@ -83,7 +87,8 @@ function WorldChoropleth({ go }) {
           const iso = node.id;
           const n = byIso[iso] || 0;
           const pct = bucketPct(n);
-          const fill = fillFor(pct);
+          const region = n > 0 ? regionFor(primaryName[iso]) : null;
+          const fill = fillFor(pct, region && region.color);
           const targets = node.tagName.toLowerCase() === "g"
             ? node.querySelectorAll("path")
             : [node];
@@ -91,14 +96,15 @@ function WorldChoropleth({ go }) {
             p.style.fill = fill;
             p.style.stroke = "var(--paper)";
             p.style.strokeWidth = "0.4";
-            p.style.transition = "fill .15s ease";
+            p.style.transition = "fill .15s ease, opacity .2s ease";
             p.style.vectorEffect = "non-scaling-stroke";
           });
+          if (n > 0) paint.current.push({ targets, region: region.id });
           if (n > 0) {
             node.style.cursor = "pointer";
             const name = primaryName[iso];
             const enter = () => {
-              targets.forEach((p) => { p.style.fill = "var(--accent, var(--ink))"; });
+              targets.forEach((p) => { p.style.fill = "var(--ink)"; });
             };
             const leave = () => {
               targets.forEach((p) => { p.style.fill = fill; });
@@ -121,6 +127,14 @@ function WorldChoropleth({ go }) {
     return () => { cancelled = true; };
   }, []);
 
+  // Region filter: dim every country outside the chosen region.
+  useMapEffect(() => {
+    paint.current.forEach(({ targets, region }) => {
+      targets.forEach((p) => { p.style.opacity = !focus || focus === region ? "1" : "0.12"; });
+    });
+  }, [focus]);
+  const regions = window.JADL_REGIONS || [];
+
   return (
     <div className="geo-map-block">
       <div className="geo-map" ref={wrapRef}>
@@ -138,12 +152,25 @@ function WorldChoropleth({ go }) {
           </div>
         )}
       </div>
+      {regions.length > 0 && (
+        <div className="geo-regions">
+          <span className="geo-legend-lbl">Region</span>
+          <div className="chips geo-region-chips">
+            <button type="button" data-on={!focus} onClick={() => setFocus(null)}>All</button>
+            {regions.map((r) => (
+              <button type="button" key={r.id} data-on={focus === r.id} onClick={() => setFocus(focus === r.id ? null : r.id)}>
+                <span className="rg-dot" style={{ background: r.color }} />{r.name}
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
       <div className="geo-legend">
         <span className="geo-legend-lbl">Studios per country</span>
         <div className="geo-legend-scale">
           {LEGEND.map(([label, pct]) => (
             <div className="geo-legend-step" key={label}>
-              <span className="sw" style={{ background: fillFor(pct) }} />
+              <span className="sw" style={{ background: fillFor(pct, "var(--ink)") }} />
               <span className="lb">{label}</span>
             </div>
           ))}
