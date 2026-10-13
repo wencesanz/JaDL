@@ -43,6 +43,7 @@ function IndexView({ go }) {
       </section>
 
       {window.TodaysPick ? <window.TodaysPick go={go} /> : null}
+      {window.FollowBand ? <window.FollowBand /> : null}
 
       {window.RecentlyViewed ? <window.RecentlyViewed go={go} /> : null}
 

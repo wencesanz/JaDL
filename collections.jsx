@@ -119,7 +119,7 @@ function CollStudioList({ studios, go }) {
       <div className="st-list" style={{ marginTop: 24 }}>
         {shown.map((s) => (
           <div key={s.name} className="studio-row" onClick={() => go("studio", { name: s.name })}>
-            <div className="t">{s.name}</div>
+            <div className="t">{window.RegionDot ? <window.RegionDot country={s.country} /> : null}{s.name}</div>
             <div className="c">{s.city}{s.city && s.country ? ", " : ""}{s.country}</div>
             <div className="k">{s.category}</div>
             <div className="u">{(s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")}</div>

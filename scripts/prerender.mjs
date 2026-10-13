@@ -69,7 +69,8 @@ function metaForStudio(s) {
   // A dynamic edge image keeps the repo clean and updates automatically as the
   // directory grows — reliable for crawlers like LinkedIn (unlike lazy mshots).
   const metaLine = [cat, loc].filter(Boolean).join(' · ') || 'A curated directory of design practices';
-  const image = `${SITE_BASE}/api/og?name=${encodeURIComponent(s.name)}&meta=${encodeURIComponent(metaLine)}`;
+  // v=2: block layout matching the "From the list" posts (bump to refresh crawler caches).
+  const image = `${SITE_BASE}/api/og?name=${encodeURIComponent(s.name)}&meta=${encodeURIComponent(metaLine)}&v=2`;
   return { title, desc, url, image, cat, loc };
 }
 

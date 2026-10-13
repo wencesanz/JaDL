@@ -48,7 +48,7 @@ function IndexView({
     go: go
   }) : null), window.TodaysPick ? React.createElement(window.TodaysPick, {
     go: go
-  }) : null, window.RecentlyViewed ? React.createElement(window.RecentlyViewed, {
+  }) : null, window.FollowBand ? React.createElement(window.FollowBand, null) : null, window.RecentlyViewed ? React.createElement(window.RecentlyViewed, {
     go: go
   }) : null, React.createElement("div", {
     className: "hair wrap",

@@ -5,7 +5,7 @@
 //   • Everything else same-origin: cache-first with background refresh.
 // Bump CACHE_VERSION whenever the shell file list changes to purge old caches.
 
-const CACHE_VERSION = "jadl-v5";
+const CACHE_VERSION = "jadl-v6";
 const SHELL = [
   "/",
   "/styles.css",
@@ -13,6 +13,7 @@ const SHELL = [
   "/fonts/PaperMono-Medium.woff2",
   "/data.js",
   "/scroll_fx.js",
+  "/social.js",
   "/dist/chrome.js",
   "/dist/index_view.js",
   "/dist/studios_view.js",

@@ -142,7 +142,7 @@ function StudiosView({ go, initialFilter }) {
           <div className="chips scroll">
             {allCountries.slice(0, 16).map((c) => (
               <button key={c} data-on={country === c} onClick={() => setCountry(c)}>
-                {c}{c !== "All" && d.byCountry?.[c] ? <span className="num"> {d.byCountry[c]}</span> : null}
+                {window.RegionDot && c !== "All" ? <window.RegionDot country={c} exact /> : null}{c}{c !== "All" && d.byCountry?.[c] ? <span className="num"> {d.byCountry[c]}</span> : null}
               </button>
             ))}
             {allCountries.length > 16 && (
@@ -293,6 +293,7 @@ function StudioRow({ s, go }) {
       onMouseMove={(e) => { target.current = { x: e.clientX, y: e.clientY }; }}
     >
       <div className="t">
+        {window.RegionDot ? <window.RegionDot country={s.country} /> : null}
         {s.name}
         {s.type && s.type !== "Studio" && (
           <span className={`type-tag type-tag--${s.type.toLowerCase()}`}>{s.type}</span>

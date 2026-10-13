@@ -259,6 +259,7 @@ function StudioDetail({ name, go }) {
         <Eyebrow><span className="num">№ {String(idx + 1).padStart(3, "0")} of {all.length}</span></Eyebrow>
         <h2>{s.name}</h2>
         <div className="pd-meta-line">
+          {window.RegionChip ? <window.RegionChip country={s.country} /> : null}
           {place && <span>{place}</span>}
           <span>Indexed {formatIndexed(s.created || s.edited)}</span>
           {cats.length > 0 && <span>{cats.join(" · ")}</span>}
@@ -418,7 +419,7 @@ function StudioDetail({ name, go }) {
           <div className="st-list" style={{ marginTop: 24 }}>
             {related.map((r) => (
               <div key={r.name} className="studio-row" onClick={() => go("studio", { name: r.name })}>
-                <div className="t">{r.name}</div>
+                <div className="t">{window.RegionDot ? <window.RegionDot country={r.country} /> : null}{r.name}</div>
                 <div className="c">{r.city}{r.city && r.country ? ", " : ""}{r.country}</div>
                 <div className="k">{r.category}</div>
                 <div className="u">{(r.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")}</div>

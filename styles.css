@@ -1694,3 +1694,45 @@ html { overflow-x: clip; }
 }
 
 .fld-err{color:var(--accent);font-size:13px;margin-top:10px}
+
+/* --- region colour code (shared with the "From the list" posts) --- */
+.rg-dot { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 12px; vertical-align: 2px; flex: none; }
+.chips button .rg-dot { width: 7px; height: 7px; margin-right: 7px; vertical-align: 1px; }
+.rg-chip { display: inline-flex; align-items: center; gap: 8px; padding: 5px 10px 5px 8px; border-radius: 999px; color: #0F0F0E; letter-spacing: .06em; align-self: center; }
+.rg-chip i { width: 8px; height: 8px; border-radius: 50%; background: #0F0F0E; opacity: .55; display: block; }
+
+/* --- announcement bar above the top navigation --- */
+.ann { display: flex; justify-content: center; align-items: center; gap: 14px; padding: 9px 16px; background: #0F0F0E; color: #FBFBFA; font-family: var(--mono); font-size: 11.5px; letter-spacing: .06em; text-transform: uppercase; text-decoration: none; text-align: center; }
+.ann b { font-weight: 500; color: #C9C9C4; }
+.ann u { text-decoration: none; border-bottom: 1px solid #F95721; }
+.ann:hover u { color: #F95721; }
+[data-theme="dark"] .ann { background: #1C1C1A; }
+
+/* --- "Follow the list" band on the index page --- */
+.follow-wrap { margin-top: 56px; }
+.follow-band { display: grid; grid-template-columns: 1.6fr 1fr 1fr; gap: 10px; }
+.follow-band > div { min-width: 0; min-height: 190px; padding: 26px 28px; display: flex; flex-direction: column; justify-content: space-between; gap: 22px; }
+.fb-lbl { font-family: var(--mono); font-size: 11.5px; letter-spacing: .06em; text-transform: uppercase; }
+.fb-a { background: #141414; color: #FBFBFA; }
+.fb-a .fb-lbl, .fb-a h3 span { color: #C9C9C4; }
+.fb-a h3 { margin: 0; font-family: var(--sans); font-weight: 600; font-size: 44px; line-height: 1; letter-spacing: -.035em; text-wrap: balance; }
+.fb-b { background: #ECECE8; color: #0F0F0E; }
+.fb-b .fb-lbl { color: rgba(15,15,14,.7); }
+.fb-leg { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 9px 14px; font-family: var(--mono); font-size: 11px; letter-spacing: .05em; text-transform: uppercase; }
+.fb-leg li { display: flex; align-items: center; gap: 8px; white-space: nowrap; }
+.fb-leg i { width: 9px; height: 9px; border-radius: 2px; flex: none; display: block; }
+.fb-c { background: #DBDBDB; color: #0F0F0E; }
+.fb-c .fb-lbl { color: rgba(15,15,14,.7); }
+.fb-c a { display: flex; justify-content: space-between; align-items: baseline; padding-top: 10px; border-top: 1px solid rgba(15,15,14,.25); color: inherit; text-decoration: none; font-size: 20px; letter-spacing: -.02em; }
+.fb-c a + a { margin-top: 6px; }
+.fb-c a:hover { color: #BF3D0E; }
+[data-theme="dark"] .fb-b { background: #1C1C1A; color: #F2F0EC; }
+[data-theme="dark"] .fb-b .fb-lbl { color: #B8B6B0; }
+@media (max-width: 1100px) { .fb-a h3 { font-size: 36px; } .fb-leg { grid-template-columns: 1fr; } }
+@media (max-width: 760px) {
+  .follow-band { grid-template-columns: 1fr; }
+  .follow-band > div { min-height: 0; }
+  .fb-a h3 { font-size: 34px; }
+  .fb-leg { grid-template-columns: 1fr 1fr; }
+  .ann { font-size: 10px; gap: 8px; flex-wrap: wrap; }
+}

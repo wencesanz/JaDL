@@ -171,7 +171,7 @@ function StudiosView({
     key: c,
     "data-on": country === c,
     onClick: () => setCountry(c)
-  }, c, c !== "All" && d.byCountry?.[c] ? React.createElement("span", {
+  }, window.RegionDot && c !== "All" ? React.createElement(window.RegionDot, { country: c, exact: true }) : null, c, c !== "All" && d.byCountry?.[c] ? React.createElement("span", {
     className: "num"
   }, " ", d.byCountry[c]) : null)), allCountries.length > 16 && React.createElement("select", {
     className: "more-select",
@@ -374,7 +374,7 @@ function StudioRow({
     }
   }, React.createElement("div", {
     className: "t"
-  }, s.name, s.type && s.type !== "Studio" && React.createElement("span", {
+  }, window.RegionDot ? React.createElement(window.RegionDot, { country: s.country }) : null, s.name, s.type && s.type !== "Studio" && React.createElement("span", {
     className: `type-tag type-tag--${s.type.toLowerCase()}`
   }, s.type)), React.createElement("div", {
     className: "c"

@@ -294,6 +294,7 @@ function StudioDetail({ name, go }) {
     h(Eyebrow, null, h("span", { className: "num" }, `№ ${String(idx + 1).padStart(3, "0")} of ${all.length}`)),
     h("h2", null, s.name),
     h("div", { className: "pd-meta-line" },
+      window.RegionChip ? h(window.RegionChip, { country: s.country }) : null,
       place && h("span", null, place),
       h("span", null, "Indexed ", formatIndexed(s.created || s.edited)),
       cats.length > 0 && h("span", null, cats.join(" · ")))),
@@ -365,7 +366,7 @@ function StudioDetail({ name, go }) {
     key: r.name,
     className: "studio-row",
     onClick: () => go("studio", { name: r.name })
-  }, h("div", { className: "t" }, r.name), h("div", {
+  }, h("div", { className: "t" }, window.RegionDot ? h(window.RegionDot, { country: r.country }) : null, r.name), h("div", {
     className: "c"
   }, r.city, r.city && r.country ? ", " : "", r.country), h("div", {
     className: "k"

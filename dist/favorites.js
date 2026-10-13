@@ -165,7 +165,7 @@ function MyListView({
     })
   }, React.createElement("div", {
     className: "t"
-  }, s.name), React.createElement("div", {
+  }, window.RegionDot ? React.createElement(window.RegionDot, { country: s.country }) : null, s.name), React.createElement("div", {
     className: "c"
   }, s.city, s.city && s.country ? ", " : "", s.country), React.createElement("div", {
     className: "k"

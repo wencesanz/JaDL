@@ -389,6 +389,7 @@ function App() {
 
   return (
     <div className="page" data-screen-label={route.view}>
+      {window.AnnounceBar ? <window.AnnounceBar /> : null}
       <TopBar view={route.view} go={go} />
       <main>{body}</main>
       <Footer go={go} />
