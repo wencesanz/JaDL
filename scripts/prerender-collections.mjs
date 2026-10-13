@@ -40,6 +40,18 @@ function slugify(s) {
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '');
 }
+let ALL = [];
+// Studios whose names give the same slug (e.g. "Ensemble" and "ENSEMBLE") keep
+// the plain slug for the oldest entry; later ones get their first city appended.
+function studioSlug(s, list) {
+  const base = slugify(s && s.name);
+  const same = (list || []).filter((x) => x && x.name && slugify(x.name) === base);
+  if (same.length < 2) return base;
+  same.sort((a, b) => String(a.created || "").localeCompare(String(b.created || "")) || String(a.name).localeCompare(String(b.name)));
+  if (same[0].name === s.name) return base;
+  const city = slugify(String(s.city || "").split(",")[0]);
+  return base + "-" + (city || String(same.findIndex((x) => x.name === s.name) + 1));
+}
 function attrEsc(s) {
   return String(s || '').replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
@@ -104,7 +116,7 @@ function collectionLd(name, description, url, studios) {
     mainEntity: {
       '@type': 'ItemList', numberOfItems: studios.length,
       itemListElement: studios.slice(0, 100).map((s, i) => ({
-        '@type': 'ListItem', position: i + 1, url: `${SITE_BASE}/studio/${slugify(s.name)}`, name: s.name,
+        '@type': 'ListItem', position: i + 1, url: `${SITE_BASE}/studio/${studioSlug(s, ALL)}`, name: s.name,
       })),
     },
   };
@@ -119,7 +131,7 @@ function leafSnapshot(kind, value, studios, copy) {
   const cfg = KINDS[kind];
   const items = studios.slice(0, 200).map((s) => {
     const loc = [s.city, s.country].filter(Boolean).join(', ');
-    return `<li><a href="/studio/${slugify(s.name)}">${htmlEsc(s.name)}</a>${loc ? ` — ${htmlEsc(loc)}` : ''}</li>`;
+    return `<li><a href="/studio/${studioSlug(s, ALL)}">${htmlEsc(s.name)}</a>${loc ? ` — ${htmlEsc(loc)}` : ''}</li>`;
   }).join('');
   return `<div class="page" data-screen-label="collection"><main class="view wrap"><nav><a href="/${cfg.plural}">All ${cfg.labelPlural.toLowerCase()}</a></nav><header><p>${htmlEsc(cfg.label)}</p><h1>${htmlEsc(copy.h1)}</h1><p>${htmlEsc(copy.desc)}</p></header><ul>${items}</ul></main></div>`;
 }
@@ -157,6 +169,7 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot }) {
 (async () => {
   const template = await readFile(TEMPLATE_PATH, 'utf8');
   const studios = JSON.parse(await readFile(DATA_PATH, 'utf8'));
+  ALL = studios;
 
   let leaves = 0, hubs = 0, thin = 0;
   const sitemapUrls = []; // { path, priority } for indexable pages

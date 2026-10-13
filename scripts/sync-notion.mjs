@@ -221,6 +221,17 @@ function slugify(s) {
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '');
 }
+// Studios whose names give the same slug (e.g. "Ensemble" and "ENSEMBLE") keep
+// the plain slug for the oldest entry; later ones get their first city appended.
+function studioSlug(s, list) {
+  const base = slugify(s && s.name);
+  const same = (list || []).filter((x) => x && x.name && slugify(x.name) === base);
+  if (same.length < 2) return base;
+  same.sort((a, b) => String(a.created || "").localeCompare(String(b.created || "")) || String(a.name).localeCompare(String(b.name)));
+  if (same[0].name === s.name) return base;
+  const city = slugify(String(s.city || "").split(",")[0]);
+  return base + "-" + (city || String(same.findIndex((x) => x.name === s.name) + 1));
+}
 
 async function updateIndexDescription(studios) {
   const { readFile, writeFile } = await import('node:fs/promises');
@@ -260,7 +271,7 @@ async function writeSitemap(studios) {
   }
   const seen = new Set();
   for (const s of studios) {
-    const slug = slugify(s.name);
+    const slug = studioSlug(s, studios);
     if (!slug || seen.has(slug)) continue;
     seen.add(slug);
     let lastmod = today;
@@ -289,7 +300,7 @@ async function writeFeed(studios) {
     const cats = (s.category || '').split(',').map(x => x.trim()).filter(Boolean);
     const loc = [s.city, s.country].filter(Boolean).join(', ');
     const desc = `${cats.join(' · ')}${loc ? ' — ' + loc : ''}.`;
-    const guid = `${SITE_URL}/studio/${slugify(s.name)}`;
+    const guid = `${SITE_URL}/studio/${studioSlug(s, studios)}`;
     return `    <item>
       <title>${xmlEsc(s.name)}</title>
       <link>${xmlEsc(link)}</link>

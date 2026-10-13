@@ -43,7 +43,7 @@ async function findStudio(origin: string, name: string): Promise<Studio | null> 
     if (!res.ok) return null;
     const list = (await res.json()) as Studio[];
     const n = name.trim().toLowerCase();
-    return list.find((s) => (s.name || '').trim().toLowerCase() === n) || null;
+    return list.find((s) => (s.name || '').trim() === name.trim()) || list.find((s) => (s.name || '').trim().toLowerCase() === n) || null;
   } catch {
     return null;
   }

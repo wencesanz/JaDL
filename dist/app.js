@@ -7,16 +7,32 @@ const {
 function slugify(s) {
   return (s || "").toLowerCase().normalize("NFKD").replace(/[\u0300-\u036f]/g, "").replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
 }
+// Studios whose names give the same slug (e.g. "Ensemble" and "ENSEMBLE") keep
+// the plain slug for the oldest entry; later ones get their first city appended.
+function studioSlug(s, list) {
+  const base = slugify(s && s.name);
+  const same = (list || []).filter((x) => x && x.name && slugify(x.name) === base);
+  if (same.length < 2) return base;
+  same.sort((a, b) => String(a.created || "").localeCompare(String(b.created || "")) || String(a.name).localeCompare(String(b.name)));
+  if (same[0].name === s.name) return base;
+  const city = slugify(String(s.city || "").split(",")[0]);
+  return base + "-" + (city || String(same.findIndex((x) => x.name === s.name) + 1));
+}
 function findStudioBySlug(slug) {
   const st = window.SITE && window.SITE.studios || [];
-  return st.find(s => slugify(s.name) === slug);
+  return st.find(s => studioSlug(s, st) === slug);
 }
+window.studioSlug = s => studioSlug(s, window.SITE && window.SITE.studios || []);
 const SITE_BASE = "https://justadesignlist.com";
 function routeToPath(r) {
   if (!r) return "/";
   switch (r.view) {
     case "studio":
-      return `/studio/${slugify(r.name || "")}`;
+      {
+        const st = window.SITE && window.SITE.studios || [];
+        const s = st.find(x => x.name === r.name);
+        return `/studio/${s ? studioSlug(s, st) : slugify(r.name || "")}`;
+      }
     case "collection":
       {
         const cfg = (window.COLLECTION_KINDS || {})[r.kind];
@@ -190,7 +206,7 @@ function collectionLd(name, description, url, studios) {
       itemListElement: studios.slice(0, 100).map((s, i) => ({
         "@type": "ListItem",
         position: i + 1,
-        url: `${SITE_BASE}/studio/${slugify(s.name)}`,
+        url: `${SITE_BASE}/studio/${studioSlug(s, studios)}`,
         name: s.name
       }))
     }
