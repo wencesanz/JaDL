@@ -5,8 +5,46 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 00:19:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:49:09 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Carolanebel</title>
+      <link>https://carolanebel.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/carolanebel</guid>
+      <pubDate>Tue, 13 Oct 2026 10:24:00 GMT</pubDate>
+      <description>Graphic Design — Montreal, Canada.</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>21—87</title>
+      <link>https://21-87.co.uk/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/21-87</guid>
+      <pubDate>Tue, 13 Oct 2026 10:19:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — London, England.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Studio Anthony Lane</title>
+      <link>https://www.studioanthonylane.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-anthony-lane</guid>
+      <pubDate>Tue, 13 Oct 2026 10:15:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Packaging — Minneapolis, USA.</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>RXK Studio</title>
+      <link>https://rxkstudio.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/rxk-studio</guid>
+      <pubDate>Tue, 13 Oct 2026 08:05:00 GMT</pubDate>
+      <description>Interactive/Digital · Graphic Design — Paris, France.</description>
+      <category>Interactive/Digital</category>
+      <category>Graphic Design</category>
+    </item>
     <item>
       <title>Marc Atlan Design</title>
       <link>https://www.marcatlan.com/</link>
@@ -281,46 +319,6 @@
       <pubDate>Wed, 30 Sep 2026 08:31:00 GMT</pubDate>
       <description>Branding — London, England.</description>
       <category>Branding</category>
-    </item>
-    <item>
-      <title>Emi Takahashi</title>
-      <link>https://emitakahashi.ca/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/emi-takahashi</guid>
-      <pubDate>Wed, 30 Sep 2026 08:27:00 GMT</pubDate>
-      <description>Graphic Design · Typography — Montreal, Canada.</description>
-      <category>Graphic Design</category>
-      <category>Typography</category>
-    </item>
-    <item>
-      <title>KR8 bureau</title>
-      <link>https://www.kr8bureau.at/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/kr8-bureau</guid>
-      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Vienna, Tokyo, Austria, Japan.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Kevin Hoegger Visual Services</title>
-      <link>https://kevinhoegger.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/kevin-hoegger-visual-services</guid>
-      <pubDate>Wed, 30 Sep 2026 08:14:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging — Zurich, Switzerland.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Jean-Michel Mercier</title>
-      <link>https://jmmercier.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/jean-michel-mercier</guid>
-      <pubDate>Wed, 30 Sep 2026 08:10:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging — Montreal, Canada.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
     </item>
   </channel>
 </rss>
