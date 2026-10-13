@@ -794,8 +794,8 @@ em { font-style: italic; }
   color: var(--mute);
 }
 .ig-modal-head h3 {
-  font-family: "Instrument Serif", Georgia, serif;
-  font-style: italic; font-weight: 400;
+  font-family: var(--sans);
+  font-style: normal; font-weight: 600; letter-spacing: -.03em;
   font-size: 32px; line-height: 1.05;
   margin: 6px 0 8px;
   color: var(--ink);

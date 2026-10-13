@@ -36,7 +36,7 @@ async function buildStudioImage(s, col, idx, total) {
   const { paper, ink, mute, rule } = pickIgPaperInk();
 
   // Try to ensure fonts are ready so the canvas measures correctly
-  try { await document.fonts.ready; } catch {}
+  try { await Promise.all([document.fonts.load('600 120px Aileron'), document.fonts.load('400 30px Aileron'), document.fonts.load('500 22px "Paper Mono"')]).then(() => document.fonts.ready); } catch {}
 
   // Background paper
   ctx.fillStyle = paper;
@@ -72,10 +72,10 @@ async function buildStudioImage(s, col, idx, total) {
     let nameSize = 120;
     ctx.textAlign = "center";
     ctx.textBaseline = "middle";
-    ctx.font = `italic ${nameSize}px "Instrument Serif", Georgia, serif`;
+    ctx.font = `600 ${nameSize}px Aileron, "Helvetica Neue", Arial, sans-serif`;
     while (ctx.measureText(s.name).width > W - 120 && nameSize > 56) {
       nameSize -= 6;
-      ctx.font = `italic ${nameSize}px "Instrument Serif", Georgia, serif`;
+      ctx.font = `600 ${nameSize}px Aileron, "Helvetica Neue", Arial, sans-serif`;
     }
     ctx.fillText(s.name, W / 2, heroH / 2);
     ctx.restore();
@@ -92,7 +92,7 @@ async function buildStudioImage(s, col, idx, total) {
   ctx.fillStyle = mute;
   ctx.textAlign = "left";
   ctx.textBaseline = "top";
-  ctx.font = `500 22px "JetBrains Mono", ui-monospace, monospace`;
+  ctx.font = `500 22px "Paper Mono", ui-monospace, monospace`;
   const eyebrow = `№ ${String(idx + 1).padStart(3, "0")} OF ${total}    ·    ${s.category.split(",")[0].trim().toUpperCase()}`;
   ctx.fillText(eyebrow, pad, y);
   y += 56;
@@ -100,10 +100,10 @@ async function buildStudioImage(s, col, idx, total) {
   // Studio name — large italic serif, auto-fit to width
   ctx.fillStyle = ink;
   let nameSize = 132;
-  ctx.font = `italic ${nameSize}px "Instrument Serif", Georgia, serif`;
+  ctx.font = `600 ${nameSize}px Aileron, "Helvetica Neue", Arial, sans-serif`;
   while (ctx.measureText(s.name).width > W - pad * 2 && nameSize > 56) {
     nameSize -= 4;
-    ctx.font = `italic ${nameSize}px "Instrument Serif", Georgia, serif`;
+    ctx.font = `600 ${nameSize}px Aileron, "Helvetica Neue", Arial, sans-serif`;
   }
   ctx.textBaseline = "alphabetic";
   ctx.fillText(s.name, pad, y + nameSize * 0.85);
@@ -111,7 +111,7 @@ async function buildStudioImage(s, col, idx, total) {
 
   // Location — geist regular
   ctx.fillStyle = ink;
-  ctx.font = `400 30px "Geist", "Helvetica Neue", Arial, sans-serif`;
+  ctx.font = `400 30px Aileron, "Helvetica Neue", Arial, sans-serif`;
   ctx.textBaseline = "top";
   const loc = [s.city, s.country].filter(Boolean).join(", ");
   if (loc) ctx.fillText(loc, pad, y);
@@ -122,7 +122,7 @@ async function buildStudioImage(s, col, idx, total) {
   ctx.fillRect(pad, footerY - 36, W - pad * 2, 1);
 
   ctx.fillStyle = ink;
-  ctx.font = `500 20px "JetBrains Mono", ui-monospace, monospace`;
+  ctx.font = `500 20px "Paper Mono", ui-monospace, monospace`;
   ctx.textAlign = "left";
   ctx.textBaseline = "alphabetic";
   ctx.fillText("JUST A DESIGN LIST", pad, footerY);
