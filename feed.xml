@@ -5,8 +5,19 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 12:03:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:48:13 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Saint-Lazare</title>
+      <link>https://saint-lazare.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/saint-lazare</guid>
+      <pubDate>Wed, 14 Oct 2026 14:42:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Paris, New York, France, USA.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Acquazzone</title>
       <link>https://acquazzone.net/</link>
@@ -310,18 +321,6 @@
       <category>Interactive/Digital</category>
       <category>Motion</category>
       <category>Packaging</category>
-    </item>
-    <item>
-      <title>L²</title>
-      <link>https://www.l2studio.co/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/l2</guid>
-      <pubDate>Thu, 01 Oct 2026 07:50:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Motion · Typography — Budapest, Hungary.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Motion</category>
-      <category>Typography</category>
     </item>
   </channel>
 </rss>
