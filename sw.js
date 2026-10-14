@@ -5,7 +5,7 @@
 //   • Everything else same-origin: cache-first with background refresh.
 // Bump CACHE_VERSION whenever the shell file list changes to purge old caches.
 
-const CACHE_VERSION = "jadl-v11";
+const CACHE_VERSION = "jadl-v12";
 const SHELL = [
   "/",
   "/styles.css",
@@ -14,6 +14,7 @@ const SHELL = [
   "/data.js",
   "/scroll_fx.js",
   "/social.js",
+  "/community.js",
   "/dist/chrome.js",
   "/dist/index_view.js",
   "/dist/studios_view.js",
@@ -58,7 +59,8 @@ self.addEventListener("activate", (e) => {
 function isData(url) {
   return url.pathname === "/studios.json" ||
          url.pathname === "/feed.xml" ||
-         url.pathname === "/sitemap.xml";
+         url.pathname === "/sitemap.xml" ||
+         url.pathname === "/from-the-list.json";
 }
 
 self.addEventListener("fetch", (e) => {

@@ -6,7 +6,7 @@
     { "source": "/country/(.*)", "destination": "/index" },
     { "source": "/city/(.*)", "destination": "/index" },
     { "source": "/region/(.*)", "destination": "/index" },
-    { "source": "/(disciplines|countries|cities|regions|studios|geography|categories|about|submit)", "destination": "/index" }
+    { "source": "/(disciplines|countries|cities|regions|studios|geography|categories|about|submit|list|from-the-list)", "destination": "/index" }
   ],
   "headers": [
     {

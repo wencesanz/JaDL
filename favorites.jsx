@@ -88,7 +88,7 @@ function savedSlugify(s) {
 function SaveButton({ studio }) {
   const store = useSaved();
   if (!studio) return null;
-  const slug = savedSlugify(studio.name);
+  const slug = (window.studioSlug ? window.studioSlug(studio) : savedSlugify(studio.name));
   const saved = store.has(slug);
   return (
     <button
@@ -106,12 +106,16 @@ function SaveButton({ studio }) {
 }
 
 // ---------- My List page ----------
-function MyListView({ go }) {
+function MyListView({ go, shared }) {
+  if (shared && window.SharedListView) return <window.SharedListView go={go} shared={shared} />;
+  return <MyListOwn go={go} />;
+}
+function MyListOwn({ go }) {
   const store = useSaved();
   const all = (window.SITE && window.SITE.studios) || [];
   const bySlug = React.useMemo(() => {
     const m = new Map();
-    all.forEach((s) => m.set(savedSlugify(s.name), s));
+    all.forEach((s) => m.set((window.studioSlug ? window.studioSlug(s) : savedSlugify(s.name)), s));
     return m;
   }, [all]);
 
@@ -142,6 +146,8 @@ function MyListView({ go }) {
           </button>
         </div>
       ) : (
+        <>
+        {window.ShareListButton ? <window.ShareListButton slugs={rows.map((r) => r.it.slug)} /> : null}
         <div className="st-list" style={{ marginTop: 8 }}>
           {rows.map(({ it, s }) => (
             <div key={it.slug} className="studio-row mylist-row" onClick={() => go("studio", { name: s.name })}>
@@ -158,6 +164,7 @@ function MyListView({ go }) {
             </div>
           ))}
         </div>
+        </>
       )}
     </div>
   );

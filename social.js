@@ -116,7 +116,8 @@
           h("div", { className: "fb-lbl" }, "@justadesignlist"),
           h("div", null,
             h("a", { href: IG, target: "_blank", rel: "noopener" }, "Instagram", h("span", null, "\u2197")),
-            h("a", { href: X, target: "_blank", rel: "noopener" }, "X", h("span", null, "\u2197"))))));
+            h("a", { href: X, target: "_blank", rel: "noopener" }, "X", h("span", null, "\u2197")),
+            h("a", { href: "/from-the-list", onClick: function (e) { if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return; e.preventDefault(); window.jadlNavigate("/from-the-list"); } }, "Archive", h("span", null, "\u2192"))))));
   };
   // ---- Studio page: related groups (same city, same region, same discipline) ----
   var REGION_FROM = { "UK & Ireland": "the UK & Ireland", "Nordics": "the Nordic countries", "Rest of Europe": "elsewhere in Europe", "Rest of the world": "elsewhere in the world" };

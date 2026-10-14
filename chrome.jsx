@@ -153,6 +153,9 @@ function Footer({ go }) {
           <a onClick={() => go("submit")} style={{ cursor: "pointer" }}>
             <span>Submit a studio</span><span className="arr">→</span>
           </a>
+          <a href="/from-the-list" onClick={(e) => { if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return; e.preventDefault(); go("from-the-list"); }}>
+            <span>From the list archive</span><span className="arr">→</span>
+          </a>
           <a href="https://www.wenceslaosanz.rocks" target="_blank" rel="noopener">
             <span>Editor — wenceslaosanz.rocks</span><span className="arr">↗</span>
           </a>
@@ -166,6 +169,7 @@ function Footer({ go }) {
             <span>RSS feed</span><span className="arr">↗</span>
           </a>
         </div>
+        {window.NewsletterNote ? <window.NewsletterNote /> : null}
         <div className="sponsor">
           <span>Just a Design List is an independent side project. Interested in sponsoring it?</span>
           <a href="mailto:wencesanz@gmail.com?subject=SPONSOR">Get in touch<span className="arr">→</span></a>

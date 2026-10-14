@@ -265,6 +265,7 @@ async function writeSitemap(studios) {
     ['categories', '0.6', 'weekly'],
     ['about', '0.4', 'monthly'],
     ['submit', '0.4', 'monthly'],
+    ['from-the-list', '0.6', 'weekly'],
   ];
   for (const [path, pr, cf] of staticPages) {
     lines.push(`  <url><loc>${SITE_URL}/${path}</loc><changefreq>${cf}</changefreq><priority>${pr}</priority></url>`);
