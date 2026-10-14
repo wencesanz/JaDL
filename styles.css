@@ -1741,4 +1741,18 @@ html { overflow-x: clip; }
 .geo-regions { display: grid; grid-template-columns: auto 1fr; gap: 10px 18px; align-items: center; margin-top: 22px; }
 .geo-regions .geo-legend-lbl { white-space: nowrap; }
 .geo-region-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.geo-region-go { grid-column: 2; font-family: var(--mono); font-size: 12px; letter-spacing: .06em; text-transform: uppercase; color: var(--accent); text-decoration: none; justify-self: end; }
+.geo-region-go:hover { text-decoration: underline; text-underline-offset: 3px; }
+@media (max-width: 760px) { .geo-region-go { grid-column: 1; justify-self: start; } }
 @media (max-width: 760px) { .geo-regions { grid-template-columns: 1fr; } }
+
+/* --- studio rows and cards are real links now --- */
+a.studio-row, a.recent-row, a.sd-nav-row, .work-grid a.card, a.card { color: inherit; text-decoration: none; }
+a.studio-row:focus-visible, a.recent-row:focus-visible, a.sd-nav-row:focus-visible, a.card:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+a.rg-chip { text-decoration: none; cursor: pointer; }
+a.rg-chip:hover { filter: brightness(.94); }
+
+/* Studio page: related groups + no-screenshot figure */
+.sd-rel-more { display: inline-block; margin-top: 18px; font-family: var(--mono); font-size: 12px; letter-spacing: .06em; text-transform: uppercase; color: var(--accent); text-decoration: none; }
+.sd-rel-more:hover { text-decoration: underline; text-underline-offset: 3px; }
+.sd-figure.is-empty .sd-figure-fallback { opacity: 1; color: #111; font-family: var(--sans); font-style: normal; font-weight: 600; letter-spacing: -.03em; }

@@ -26,6 +26,7 @@
  *   SITE_BASE      default "https://justadesignlist.com"
  */
 
+import { regionOf } from './regions.mjs';
 import { readFile, writeFile, mkdir, rm } from 'node:fs/promises';
 
 const TEMPLATE_PATH = process.env.TEMPLATE_PATH || 'index.html';
@@ -112,10 +113,14 @@ function jsonLd(s, m) {
   const breadcrumb = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
-    itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Studios', item: `${SITE_BASE}/studios` },
-      { '@type': 'ListItem', position: 2, name: s.name, item: m.url },
-    ],
+    itemListElement: (() => {
+      const country = String(s.country || '').split(',')[0].trim();
+      const pairs = [['Home', `${SITE_BASE}/`]];
+      if (country) pairs.push([country, `${SITE_BASE}/country/${slugify(country)}`]);
+      else pairs.push(['Studios', `${SITE_BASE}/studios`]);
+      pairs.push([s.name, m.url]);
+      return pairs.map(([name, item], i) => ({ '@type': 'ListItem', position: i + 1, name, item }));
+    })(),
   };
   return [data, breadcrumb]
     .map((d) => `<script type="application/ld+json">${JSON.stringify(d)}</script>`)
@@ -125,12 +130,28 @@ function jsonLd(s, m) {
 // A minimal, real content block for crawlers. The SPA replaces #root's
 // children on hydration, so this only needs to be valid + informative.
 function bodySnapshot(s, m) {
+  const first = (v) => String(v || '').split(',')[0].trim();
+  const city = first(s.city), country = first(s.country), cat = first(s.category);
+  const region = regionOf(s.country);
   const facts = [
     ['Discipline', s.category],
     ['City', s.city],
     ['Country', s.country],
   ].filter(([, v]) => v);
-  return `<div class="page" data-screen-label="studio"><main class="view wrap"><article><h1>${htmlEsc(s.name)}</h1><p>${htmlEsc(m.desc)}</p><dl>${facts.map(([k, v]) => `<dt>${htmlEsc(k)}</dt><dd>${htmlEsc(v)}</dd>`).join('')}</dl>${s.url ? `<p><a href="${attrEsc(s.url)}" rel="noopener">Visit ${htmlEsc(s.name)} \u2197</a></p>` : ''}</article></main></div>`;
+  // Crawlable links to the collection pages this studio belongs to.
+  const colls = [
+    cat && [`/discipline/${slugify(cat)}`, cat],
+    city && [`/city/${slugify(city)}`, city],
+    country && [`/country/${slugify(country)}`, country],
+    region && [`/region/${slugify(region)}`, region],
+  ].filter(Boolean);
+  // A few studios from the same city (or region), for internal linking.
+  const near = ALL.filter((x) => x && x.name && x.name !== s.name && (city
+    ? String(x.city || '').split(',').map((c) => c.trim()).includes(city)
+    : region && regionOf(x.country) === region)).slice(0, 6);
+  const collHtml = colls.length ? `<nav><ul>${colls.map(([href, label]) => `<li><a href="${attrEsc(href)}">${htmlEsc(label)}</a></li>`).join('')}</ul></nav>` : '';
+  const nearHtml = near.length ? `<section><h2>More from ${htmlEsc(city || region)}</h2><ul>${near.map((x) => `<li><a href="/studio/${studioSlug(x, ALL)}">${htmlEsc(x.name)}</a></li>`).join('')}</ul></section>` : '';
+  return `<div class="page" data-screen-label="studio"><main class="view wrap"><article><h1>${htmlEsc(s.name)}</h1><p>${htmlEsc(m.desc)}</p><dl>${facts.map(([k, v]) => `<dt>${htmlEsc(k)}</dt><dd>${htmlEsc(v)}</dd>`).join('')}</dl>${s.url ? `<p><a href="${attrEsc(s.url)}" rel="noopener">Visit ${htmlEsc(s.name)} \u2197</a></p>` : ''}${collHtml}</article>${nearHtml}</main></div>`;
 }
 
 function renderPage(template, s) {

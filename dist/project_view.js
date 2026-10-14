@@ -58,10 +58,11 @@ function StudioHero({ s, col }) {
   // Geometry is inline on purpose: .pd-hero-img has no size of its own in
   // styles.css, so a stale or unpatched stylesheet would let the screenshot
   // render at natural size and blow out the page.
+  const rcol = window.jadlRegionColor ? window.jadlRegionColor(s.country) : col;
   return h("div", {
-    className: "sd-figure",
+    className: "sd-figure" + (exhausted ? " is-empty" : ""),
     style: {
-      "--col": col,
+      "--col": rcol,
       position: "relative",
       width: "100%",
       aspectRatio: "4 / 3",
@@ -177,8 +178,10 @@ function StudioDetail({ name, go }) {
   const next = all[(idx + 1) % all.length];
   const related = usePdMm(() => {
     if (!s) return [];
+    if (window.jadlRelatedGroups) return window.jadlRelatedGroups(s, all, 6);
     const firstCat = s.category.split(",")[0].trim();
-    return all.filter(x => x.name !== s.name && x.category.includes(firstCat)).slice(0, 6);
+    const items = all.filter(x => x.name !== s.name && x.category.includes(firstCat)).slice(0, 6);
+    return items.length ? [{ key: "cat", title: "Neighbours in " + firstCat, items }] : [];
   }, [s]);
   if (!s) {
     return h("div", {
@@ -313,13 +316,13 @@ function StudioDetail({ name, go }) {
 
     h("div", { className: "sd-col" },
       h("div", { className: "sd-nav" },
-        h("div", {
+        h("a", {
           className: "sd-nav-row",
-          onClick: () => go("studio", { name: prev.name })
+          ...(window.jadlStudioLink ? window.jadlStudioLink(prev, () => go("studio", { name: prev.name })) : { onClick: () => go("studio", { name: prev.name }) })
         }, h("span", { className: "t" }, prev.name), h("span", { className: "k" }, "← Previous")),
-        h("div", {
+        h("a", {
           className: "sd-nav-row",
-          onClick: () => go("studio", { name: next.name })
+          ...(window.jadlStudioLink ? window.jadlStudioLink(next, () => go("studio", { name: next.name })) : { onClick: () => go("studio", { name: next.name }) })
         }, h("span", { className: "t" }, next.name), h("span", { className: "k" }, "Next →"))),
 
       h("p", { className: "sd-note" }, "The entry is intentionally brief. The index is a pointer, not a review \u2014 visit the studio's own site to see the work in its preferred frame. What we note here is only what is needed to find the practice again: where it is, what it does, and where to look."),
@@ -358,14 +361,16 @@ function StudioDetail({ name, go }) {
            d.byCountry && d.byCountry[s.country.split(",")[0].trim()] ? ` · ${d.byCountry[s.country.split(",")[0].trim()]}` : "")))),
 
   related.length > 0 && h("div", {
+    className: "sd-related",
     style: { paddingTop: 64, marginTop: 64, borderTop: "1px solid var(--rule)" }
-  }, h(Eyebrow, null, "Neighbours in ", cats[0]), h("div", {
+  }, related.map((g, gi) => h("section", { key: g.key, className: "sd-rel-group", style: gi ? { marginTop: 56 } : null },
+    h(Eyebrow, null, g.title), h("div", {
     className: "st-list",
     style: { marginTop: 24 }
-  }, related.map(r => h("div", {
+  }, g.items.map(r => h("a", {
     key: r.name,
     className: "studio-row",
-    onClick: () => go("studio", { name: r.name })
+    ...(window.jadlStudioLink ? window.jadlStudioLink(r, () => go("studio", { name: r.name })) : { onClick: () => go("studio", { name: r.name }) })
   }, h("div", { className: "t" }, window.RegionDot ? h(window.RegionDot, { country: r.country }) : null, r.name), h("div", {
     className: "c"
   }, r.city, r.city && r.country ? ", " : "", r.country), h("div", {
@@ -374,7 +379,12 @@ function StudioDetail({ name, go }) {
     className: "u"
   }, (r.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")), h("div", {
     className: "arr"
-  }, "\u2192"))))),
+  }, "\u2192")))),
+    g.more ? h("a", {
+      className: "sd-rel-more",
+      href: g.more.href,
+      onClick: e => { if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button === 1) return; e.preventDefault(); go("collection", { kind: g.more.kind, value: g.more.value }); }
+    }, g.more.label, " \u2192") : null))),
 
   igOpen && window.IGShareModal ? h(window.IGShareModal, {
     s: s, col: col, idx: idx, total: all.length, onClose: () => setIgOpen(false)

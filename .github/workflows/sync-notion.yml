@@ -34,12 +34,17 @@ jobs:
       - name: Prerender studio pages
         run: node scripts/prerender.mjs
 
+      # Hubs + leaves for disciplines, countries, cities and regions.
+      # Also merges their URLs into sitemap.xml.
+      - name: Prerender collection pages
+        run: node scripts/prerender-collections.mjs
+
       - name: Commit changes (if any)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add studios.json sitemap.xml feed.xml studio index.html
-          if [[ -n "$(git status --porcelain studios.json sitemap.xml feed.xml studio index.html)" ]]; then
+          git add -A studios.json sitemap.xml feed.xml studio index.html disciplines.html countries.html cities.html regions.html discipline country city region
+          if [[ -n "$(git status --porcelain studios.json sitemap.xml feed.xml studio index.html disciplines.html countries.html cities.html regions.html discipline country city region)" ]]; then
             git commit -m "chore: sync studios from Notion"
             git push
             echo "✔ Changes pushed."

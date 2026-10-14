@@ -171,9 +171,9 @@ function RecentRow({ p, go }) {
   }, [hover]);
 
   return (
-    <div
+    <a
       className="recent-row"
-      onClick={() => go("studio", { name: p.name })}
+      {...(window.jadlStudioLink ? window.jadlStudioLink(p, () => go("studio", { name: p.name })) : { onClick: () => go("studio", { name: p.name }) })}
       onMouseEnter={() => setHover(true)}
       onMouseLeave={() => setHover(false)}
       onMouseMove={(e) => { target.current = { x: e.clientX, y: e.clientY }; }}
@@ -193,7 +193,7 @@ function RecentRow({ p, go }) {
           </div>
         </div>
       )}
-    </div>
+    </a>
   );
 }
 

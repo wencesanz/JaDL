@@ -248,11 +248,9 @@ function RecentRow({
     raf.current = requestAnimationFrame(tick);
     return () => cancelAnimationFrame(raf.current);
   }, [hover]);
-  return React.createElement("div", {
+  return React.createElement("a", {
     className: "recent-row",
-    onClick: () => go("studio", {
-      name: p.name
-    }),
+    ...(window.jadlStudioLink ? window.jadlStudioLink(p, () => go("studio", { name: p.name })) : { onClick: () => go("studio", { name: p.name }) }),
     onMouseEnter: () => setHover(true),
     onMouseLeave: () => setHover(false),
     onMouseMove: e => {

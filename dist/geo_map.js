@@ -1,5 +1,4 @@
-(function(){
-"use strict";
+(function(){"use strict";
 const { useEffect: useMapEffect, useRef: useMapRef, useState: useMapState } = React;
 const NAME_TO_ISO = {
   "USA": "us",
@@ -174,7 +173,26 @@ function WorldChoropleth({ go }) {
     },
     /* @__PURE__ */ React.createElement("span", { className: "geo-tip-name" }, tip.name),
     /* @__PURE__ */ React.createElement("span", { className: "geo-tip-n" }, tip.n, " studio", tip.n === 1 ? "" : "s")
-  )), regions.length > 0 && /* @__PURE__ */ React.createElement("div", { className: "geo-regions" }, /* @__PURE__ */ React.createElement("span", { className: "geo-legend-lbl" }, "Region"), /* @__PURE__ */ React.createElement("div", { className: "chips geo-region-chips" }, /* @__PURE__ */ React.createElement("button", { type: "button", "data-on": !focus, onClick: () => setFocus(null) }, "All"), regions.map((r) => /* @__PURE__ */ React.createElement("button", { type: "button", key: r.id, "data-on": focus === r.id, onClick: () => setFocus(focus === r.id ? null : r.id) }, /* @__PURE__ */ React.createElement("span", { className: "rg-dot", style: { background: r.color } }), r.name)))), /* @__PURE__ */ React.createElement("div", { className: "geo-legend" }, /* @__PURE__ */ React.createElement("span", { className: "geo-legend-lbl" }, "Studios per country"), /* @__PURE__ */ React.createElement("div", { className: "geo-legend-scale" }, LEGEND.map(([label, pct]) => /* @__PURE__ */ React.createElement("div", { className: "geo-legend-step", key: label }, /* @__PURE__ */ React.createElement("span", { className: "sw", style: { background: fillFor(pct, "var(--ink)") } }), /* @__PURE__ */ React.createElement("span", { className: "lb" }, label)))), /* @__PURE__ */ React.createElement("span", { className: "geo-legend-credit" }, "Map: Al MacDonald · Fritz Lekschas, CC BY-SA 3.0")));
+  )), regions.length > 0 && /* @__PURE__ */ React.createElement("div", { className: "geo-regions" }, /* @__PURE__ */ React.createElement("span", { className: "geo-legend-lbl" }, "Region"), /* @__PURE__ */ React.createElement("div", { className: "chips geo-region-chips" }, /* @__PURE__ */ React.createElement("button", { type: "button", "data-on": !focus, onClick: () => setFocus(null) }, "All"), regions.map((r) => /* @__PURE__ */ React.createElement("button", { type: "button", key: r.id, "data-on": focus === r.id, onClick: () => setFocus(focus === r.id ? null : r.id) }, /* @__PURE__ */ React.createElement("span", { className: "rg-dot", style: { background: r.color } }), r.name))), focus && (() => {
+    const r = regions.find((x) => x.id === focus);
+    if (!r || !window.jadlRegionHref) return null;
+    const href = window.jadlRegionHref(r.name);
+    return /* @__PURE__ */ React.createElement(
+      "a",
+      {
+        className: "geo-region-go",
+        href,
+        onClick: (e) => {
+          if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+          e.preventDefault();
+          window.jadlNavigate(href);
+        }
+      },
+      "See every studio in ",
+      r.name,
+      " →"
+    );
+  })()), /* @__PURE__ */ React.createElement("div", { className: "geo-legend" }, /* @__PURE__ */ React.createElement("span", { className: "geo-legend-lbl" }, "Studios per country"), /* @__PURE__ */ React.createElement("div", { className: "geo-legend-scale" }, LEGEND.map(([label, pct]) => /* @__PURE__ */ React.createElement("div", { className: "geo-legend-step", key: label }, /* @__PURE__ */ React.createElement("span", { className: "sw", style: { background: fillFor(pct, "var(--ink)") } }), /* @__PURE__ */ React.createElement("span", { className: "lb" }, label)))), /* @__PURE__ */ React.createElement("span", { className: "geo-legend-credit" }, "Map: Al MacDonald · Fritz Lekschas, CC BY-SA 3.0")));
 }
 Object.assign(window, { WorldChoropleth });
 })();

@@ -200,7 +200,7 @@ function StudiosView({ go, initialFilter }) {
               ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=800&h=560`
               : null;
             return (
-              <div className="card" key={s.name} onClick={() => go("studio", { name: s.name })} style={{ cursor: "pointer" }}>
+              <a className="card" key={s.name} {...(window.jadlStudioLink ? window.jadlStudioLink(s, () => go("studio", { name: s.name })) : { onClick: () => go("studio", { name: s.name }) })} style={{ cursor: "pointer" }}>
                 <div className="frame" style={{ "--col": col, position: "relative", overflow: "hidden" }}>
                   <div style={{ position: "absolute", inset: 0, backgroundImage: "repeating-linear-gradient(45deg, rgba(0,0,0,.05) 0 1px, transparent 1px 14px)" }} />
                   {shot && (
@@ -241,7 +241,7 @@ function StudiosView({ go, initialFilter }) {
                   <span>{s.category.split(",")[0]}</span>
                   <span>{(s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "").slice(0, 24)}</span>
                 </div>
-              </div>
+              </a>
             );
           })}
           {filtered.length > 48 && (
@@ -286,9 +286,9 @@ function StudioRow({ s, go }) {
   }, [hover]);
 
   return (
-    <div
+    <a
       className="studio-row"
-      onClick={() => go("studio", { name: s.name })}
+      {...(window.jadlStudioLink ? window.jadlStudioLink(s, () => go("studio", { name: s.name })) : { onClick: () => go("studio", { name: s.name }) })}
       onMouseEnter={() => setHover(true)}
       onMouseLeave={() => setHover(false)}
       onMouseMove={(e) => { target.current = { x: e.clientX, y: e.clientY }; }}
@@ -315,7 +315,7 @@ function StudioRow({ s, go }) {
           </div>
         </div>
       )}
-    </div>
+    </a>
   );
 }
 

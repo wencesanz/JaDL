@@ -56,12 +56,12 @@ function pathToRoute(pathname, search) {
     return s ? { view: "studio", name: s.name } : { view: "index" };
   }
   // Auto-generated taxonomy collections: /discipline/<slug>, /country/<slug>, /city/<slug>
-  if (["discipline", "country", "city"].includes(seg) && parts[1]) {
+  if (["discipline", "country", "city", "region"].includes(seg) && parts[1]) {
     const value = window.collSlugToValue ? window.collSlugToValue(seg, parts[1]) : null;
     return value ? { view: "collection", kind: seg, value } : { view: "index" };
   }
   // Collection hubs: /disciplines, /countries, /cities
-  if (["disciplines", "countries", "cities"].includes(seg)) {
+  if (["disciplines", "countries", "cities", "regions"].includes(seg)) {
     return { view: "collectionHub", kind: seg };
   }
   if (seg === "studios") {
@@ -87,8 +87,8 @@ function legacyHashToPath() {
   const seg = parts[0];
   if (!seg) return "/";
   if (seg === "studio" && parts[1]) return `/studio/${parts[1]}`;
-  if (["discipline", "country", "city"].includes(seg) && parts[1]) return `/${seg}/${parts[1]}`;
-  if (["disciplines", "countries", "cities"].includes(seg)) return `/${seg}`;
+  if (["discipline", "country", "city", "region"].includes(seg) && parts[1]) return `/${seg}/${parts[1]}`;
+  if (["disciplines", "countries", "cities", "regions"].includes(seg)) return `/${seg}`;
   if (seg === "studios") return queryStr ? `/studios?${queryStr}` : "/studios";
   if (["geography", "categories", "submit", "about", "list"].includes(seg)) return `/${seg}`;
   return "/";
@@ -215,10 +215,10 @@ function setMeta(route) {
       const loc = [s.city, s.country].filter(Boolean).join(", ");
       title = `${s.name} — ${cat}${loc ? ", " + loc : ""} · Just a Design List`;
       desc = `${s.name} is an independent design practice${loc ? " based in " + loc : ""}, working in ${(s.category || "design").toLowerCase()}. Indexed on Just a Design List.`;
-      if (s.url) image = `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=1200&h=630`;
+      image = `${SITE_BASE}/api/og?name=${encodeURIComponent(s.name)}&meta=${encodeURIComponent([cat, loc].filter(Boolean).join(" · ") || "A curated directory of design practices")}&v=2`;
       jsonld = [
         studioLd(s, url, desc),
-        breadcrumbLd([["Studios", SITE_BASE + "/studios"], [s.name, url]]),
+        breadcrumbLd([["Home", SITE_BASE + "/"], ...(s.country ? [[s.country.split(",")[0].trim(), SITE_BASE + "/country/" + (window.collSlugify ? window.collSlugify(s.country.split(",")[0].trim()) : "")]] : [["Studios", SITE_BASE + "/studios"]]), [s.name, url]]),
       ];
     }
   } else if (route.view === "index") {
@@ -242,7 +242,7 @@ function setMeta(route) {
   } else if (route.view === "collectionHub") {
     const cfg = Object.values(window.COLLECTION_KINDS || {}).find((c) => c.plural === route.kind);
     const lp = cfg ? cfg.labelPlural : "Collections";
-    title = `Design ${lp.toLowerCase()} · Just a Design List`;
+    title = `Design studios by ${cfg ? cfg.singular : "collection"} · Just a Design List`;
     desc = `Browse the index of design studios by ${cfg ? cfg.singular : "collection"}. Every ${cfg ? cfg.singular : "collection"} represented across the directory.`;
     jsonld = [breadcrumbLd([["Home", SITE_BASE + "/"], [lp, url]])];
   } else if (route.view === "collection") {

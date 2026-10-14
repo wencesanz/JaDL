@@ -36,7 +36,9 @@ const COLLECTION_KINDS = {
   discipline: { singular: "discipline", plural: "disciplines", field: "category", index: "byCat",     label: "Discipline", labelPlural: "Disciplines" },
   country:    { singular: "country",    plural: "countries",   field: "country",  index: "byCountry", label: "Country",    labelPlural: "Countries" },
   city:       { singular: "city",       plural: "cities",      field: "city",     index: "byCity",    label: "City",       labelPlural: "Cities" },
+  region:     { singular: "region",     plural: "regions",     field: "region",   index: "byRegion",  label: "Region",     labelPlural: "Regions" },
 };
+const REGION_PLACE = { "UK & Ireland": "the UK & Ireland", "Nordics": "the Nordic countries", "Rest of Europe": "the rest of Europe", "Rest of the world": "the rest of the world" };
 
 // Every distinct value for a kind, from the precomputed count map.
 function collValues(kind) {
@@ -81,6 +83,14 @@ function collCopy(kind, value, n) {
       desc: `${n} independent ${plural} and designers working in ${low}, collected in the Just a Design List index. Browse by country and city.`,
     };
   }
+  if (kind === "region") {
+    const place = REGION_PLACE[value] || value;
+    return {
+      h1: value,
+      title: `Design studios in ${place} · Just a Design List`,
+      desc: `${n} independent design ${plural} and designers based in ${place}, from the Just a Design List index. Browse by country, city and discipline.`,
+    };
+  }
   if (kind === "country") {
     return {
       h1: value,
@@ -118,13 +128,13 @@ function CollStudioList({ studios, go }) {
     <>
       <div className="st-list" style={{ marginTop: 24 }}>
         {shown.map((s) => (
-          <div key={s.name} className="studio-row" onClick={() => go("studio", { name: s.name })}>
+          <a key={s.name} className="studio-row" {...(window.jadlStudioLink ? window.jadlStudioLink(s, () => go("studio", { name: s.name })) : { onClick: () => go("studio", { name: s.name }) })}>
             <div className="t">{window.RegionDot ? <window.RegionDot country={s.country} /> : null}{s.name}</div>
             <div className="c">{s.city}{s.city && s.country ? ", " : ""}{s.country}</div>
             <div className="k">{s.category}</div>
             <div className="u">{(s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")}</div>
             <div className="arr">→</div>
-          </div>
+          </a>
         ))}
       </div>
       {studios.length > limit && (
@@ -157,8 +167,8 @@ function CollectionView({ kind, value, go }) {
     const disc = {}, countries = {}, cities = {};
     for (const s of studios) {
       s.category.split(",").map((x) => x.trim()).filter(Boolean).forEach((c) => (disc[c] = (disc[c] || 0) + 1));
-      s.country.split(",").map((x) => x.trim()).filter(Boolean).forEach((c) => (countries[c] = (countries[c] || 0) + 1));
-      s.city.split(",").map((x) => x.trim()).filter(Boolean).forEach((c) => (cities[c] = (cities[c] || 0) + 1));
+      s.country.split(",").map((x) => x.trim()).filter(Boolean).slice(0, kind === "region" ? 1 : 99).forEach((c) => (countries[c] = (countries[c] || 0) + 1));
+      s.city.split(",").map((x) => x.trim()).filter(Boolean).slice(0, kind === "region" ? 1 : 99).forEach((c) => (cities[c] = (cities[c] || 0) + 1));
     }
     const rank = (obj, exclude) =>
       Object.entries(obj).filter(([k]) => k !== exclude).sort((a, b) => b[1] - a[1]);
@@ -195,7 +205,7 @@ function CollectionView({ kind, value, go }) {
           <h2 style={{ marginTop: 14 }}>{copy.h1}</h2>
           <p style={{ marginTop: 14, maxWidth: 640, color: "var(--ink-2)", fontFamily: "var(--serif)", fontSize: 20, lineHeight: 1.5 }}>
             {studios.length} design {studios.length === 1 ? "studio" : "studios"}
-            {kind === "city" ? " based here" : kind === "country" ? " based here" : " in the index"}.
+            {kind === "city" || kind === "country" || kind === "region" ? " based here" : " in the index"}.
           </p>
         </div>
       </div>

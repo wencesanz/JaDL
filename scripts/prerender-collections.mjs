@@ -13,6 +13,8 @@
  *   /country/<slug>         -> country/<slug>.html
  *   /cities                 -> cities.html
  *   /city/<slug>            -> city/<slug>.html
+ *   /regions                -> regions.html
+ *   /region/<slug>          -> region/<slug>.html
  *
  * Leaves with < MIN_INDEXABLE studios are still written (correct social meta)
  * but marked <meta name="robots" content="noindex, follow"> and left OUT of the
@@ -25,6 +27,7 @@
  */
 
 import { readFile, writeFile, mkdir, rm } from 'node:fs/promises';
+import { regionOf, REGION_PLACE } from './regions.mjs';
 
 const TEMPLATE_PATH = process.env.TEMPLATE_PATH || 'index.html';
 const DATA_PATH     = process.env.DATA_PATH     || 'studios.json';
@@ -64,9 +67,20 @@ const KINDS = {
   discipline: { field: 'category', singular: 'discipline', plural: 'disciplines', label: 'Discipline', labelPlural: 'Disciplines' },
   country:    { field: 'country',  singular: 'country',    plural: 'countries',   label: 'Country',    labelPlural: 'Countries' },
   city:       { field: 'city',     singular: 'city',       plural: 'cities',      label: 'City',       labelPlural: 'Cities' },
+  region:     { field: 'region',   singular: 'region',     plural: 'regions',     label: 'Region',     labelPlural: 'Regions' },
 };
 
+
 // Build value -> studios[] for a kind.
+// Latest edit date among a set of studios (YYYY-MM-DD), for sitemap lastmod.
+function lastEdited(list) {
+  let best = '';
+  for (const s of list) {
+    const dt = new Date(s.edited || s.created || '');
+    if (!isNaN(dt.getTime())) { const d = dt.toISOString().slice(0, 10); if (d > best) best = d; }
+  }
+  return best || null;
+}
 function groupBy(studios, field) {
   const map = new Map();
   for (const s of studios) {
@@ -86,6 +100,14 @@ function copyFor(kind, value, n) {
       h1: value,
       title: `${value} design studios · Just a Design List`,
       desc: `${n} independent ${plural} and designers working in ${value.toLowerCase()}, collected in the Just a Design List index. Browse by country and city.`,
+    };
+  }
+  if (kind === 'region') {
+    const place = REGION_PLACE[value] || value;
+    return {
+      h1: value,
+      title: `Design studios in ${place} · Just a Design List`,
+      desc: `${n} independent design ${plural} and designers based in ${place}, from the Just a Design List index. Browse by country, city and discipline.`,
     };
   }
   if (kind === 'country') {
@@ -170,6 +192,7 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot }) {
   const template = await readFile(TEMPLATE_PATH, 'utf8');
   const studios = JSON.parse(await readFile(DATA_PATH, 'utf8'));
   ALL = studios;
+  for (const s of studios) s.region = regionOf(s.country);
 
   let leaves = 0, hubs = 0, thin = 0;
   const sitemapUrls = []; // { path, priority } for indexable pages
@@ -181,7 +204,7 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot }) {
 
     // ---- hub page ----
     const hubUrl = `${SITE_BASE}/${cfg.plural}`;
-    const hubTitle = `Design ${cfg.labelPlural.toLowerCase()} · Just a Design List`;
+    const hubTitle = `Design studios by ${cfg.singular} · Just a Design List`;
     const hubDesc = `Browse the index of design studios by ${cfg.singular}. Every ${cfg.singular} represented across the directory.`;
     await writeFile(`${cfg.plural}.html`, renderPage(template, {
       title: hubTitle, desc: hubDesc, url: hubUrl, robots: null,
@@ -189,7 +212,7 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot }) {
       snapshot: hubSnapshot(kind, rows),
     }), 'utf8');
     hubs++;
-    sitemapUrls.push({ path: cfg.plural, priority: '0.7' });
+    sitemapUrls.push({ path: cfg.plural, priority: '0.7', lastmod: lastEdited(studios) });
 
     // ---- leaf pages ----
     await rm(cfg.singular, { recursive: true, force: true });
@@ -213,7 +236,7 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot }) {
         snapshot: leafSnapshot(kind, value, sorted, copy),
       }), 'utf8');
       leaves++;
-      if (indexable) sitemapUrls.push({ path: `${cfg.singular}/${slug}`, priority: '0.6' });
+      if (indexable) sitemapUrls.push({ path: `${cfg.singular}/${slug}`, priority: '0.6', lastmod: lastEdited(group) });
       else thin++;
     }
   }
@@ -222,7 +245,7 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot }) {
   // sync-notion.mjs). Idempotent: replace any block between our markers.
   const today = new Date().toISOString().slice(0, 10);
   const block = sitemapUrls
-    .map(({ path, priority }) => `  <url><loc>${SITE_BASE}/${path}</loc><lastmod>${today}</lastmod><changefreq>weekly</changefreq><priority>${priority}</priority></url>`)
+    .map(({ path, priority, lastmod }) => `  <url><loc>${SITE_BASE}/${path}</loc><lastmod>${lastmod || today}</lastmod><changefreq>weekly</changefreq><priority>${priority}</priority></url>`)
     .join('\n');
   const START = '  <!-- collections:start -->';
   const END = '  <!-- collections:end -->';

@@ -66,10 +66,11 @@ function StudioHero({ s, col }) {
   // Geometry is inline on purpose: .pd-hero-img has no size of its own in
   // styles.css, so a stale or unpatched stylesheet would let the screenshot
   // render at natural size and blow out the page.
+  const rcol = window.jadlRegionColor ? window.jadlRegionColor(s.country) : col;
   return (
     <div
-      className="sd-figure"
-      style={{ "--col": col, position: "relative", width: "100%", aspectRatio: "4 / 3", overflow: "hidden" }}
+      className={"sd-figure" + (exhausted ? " is-empty" : "")}
+      style={{ "--col": rcol, position: "relative", width: "100%", aspectRatio: "4 / 3", overflow: "hidden" }}
     >
       {shot && !exhausted && (
         <img
@@ -202,8 +203,10 @@ function StudioDetail({ name, go }) {
 
   const related = usePdMm(() => {
     if (!s) return [];
+    if (window.jadlRelatedGroups) return window.jadlRelatedGroups(s, all, 6);
     const firstCat = s.category.split(",")[0].trim();
-    return all.filter((x) => x.name !== s.name && x.category.includes(firstCat)).slice(0, 6);
+    const items = all.filter((x) => x.name !== s.name && x.category.includes(firstCat)).slice(0, 6);
+    return items.length ? [{ key: "cat", title: "Neighbours in " + firstCat, items }] : [];
   }, [s]);
 
   if (!s) {
@@ -283,14 +286,14 @@ function StudioDetail({ name, go }) {
 
         <div className="sd-col">
           <div className="sd-nav">
-            <div className="sd-nav-row" onClick={() => go("studio", { name: prev.name })}>
+            <a className="sd-nav-row" {...(window.jadlStudioLink ? window.jadlStudioLink(prev, () => go("studio", { name: prev.name })) : { onClick: () => go("studio", { name: prev.name }) })}>
               <span className="t">{prev.name}</span>
               <span className="k">← Previous</span>
-            </div>
-            <div className="sd-nav-row" onClick={() => go("studio", { name: next.name })}>
+            </a>
+            <a className="sd-nav-row" {...(window.jadlStudioLink ? window.jadlStudioLink(next, () => go("studio", { name: next.name })) : { onClick: () => go("studio", { name: next.name }) })}>
               <span className="t">{next.name}</span>
               <span className="k">Next →</span>
-            </div>
+            </a>
           </div>
 
           <p className="sd-note">
@@ -414,19 +417,29 @@ function StudioDetail({ name, go }) {
       </div>
 
       {related.length > 0 && (
-        <div style={{ paddingTop: 64, marginTop: 64, borderTop: "1px solid var(--rule)" }}>
-          <Eyebrow>Neighbours in {cats[0]}</Eyebrow>
-          <div className="st-list" style={{ marginTop: 24 }}>
-            {related.map((r) => (
-              <div key={r.name} className="studio-row" onClick={() => go("studio", { name: r.name })}>
-                <div className="t">{window.RegionDot ? <window.RegionDot country={r.country} /> : null}{r.name}</div>
-                <div className="c">{r.city}{r.city && r.country ? ", " : ""}{r.country}</div>
-                <div className="k">{r.category}</div>
-                <div className="u">{(r.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")}</div>
-                <div className="arr">→</div>
+        <div className="sd-related" style={{ paddingTop: 64, marginTop: 64, borderTop: "1px solid var(--rule)" }}>
+          {related.map((g, gi) => (
+            <section key={g.key} className="sd-rel-group" style={gi ? { marginTop: 56 } : null}>
+              <Eyebrow>{g.title}</Eyebrow>
+              <div className="st-list" style={{ marginTop: 24 }}>
+                {g.items.map((r) => (
+                  <a key={r.name} className="studio-row" {...(window.jadlStudioLink ? window.jadlStudioLink(r, () => go("studio", { name: r.name })) : { onClick: () => go("studio", { name: r.name }) })}>
+                    <div className="t">{window.RegionDot ? <window.RegionDot country={r.country} /> : null}{r.name}</div>
+                    <div className="c">{r.city}{r.city && r.country ? ", " : ""}{r.country}</div>
+                    <div className="k">{r.category}</div>
+                    <div className="u">{(r.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")}</div>
+                    <div className="arr">→</div>
+                  </a>
+                ))}
               </div>
-            ))}
-          </div>
+              {g.more ? (
+                <a className="sd-rel-more" href={g.more.href}
+                  onClick={(e) => { if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button === 1) return; e.preventDefault(); go("collection", { kind: g.more.kind, value: g.more.value }); }}>
+                  {g.more.label} →
+                </a>
+              ) : null}
+            </section>
+          ))}
         </div>
       )}
 

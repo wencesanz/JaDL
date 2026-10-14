@@ -234,12 +234,10 @@ function StudiosView({
   }, filtered.slice(0, 48).map(s => {
     const col = d.catColors?.[s.category.split(",")[0].trim()] || "#D8CFBD";
     const shot = s.url ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=800&h=560` : null;
-    return React.createElement("div", {
+    return React.createElement("a", {
       className: "card",
       key: s.name,
-      onClick: () => go("studio", {
-        name: s.name
-      }),
+      ...(window.jadlStudioLink ? window.jadlStudioLink(s, () => go("studio", { name: s.name })) : { onClick: () => go("studio", { name: s.name }) }),
       style: {
         cursor: "pointer"
       }
@@ -365,11 +363,9 @@ function StudioRow({
     raf.current = requestAnimationFrame(tick);
     return () => cancelAnimationFrame(raf.current);
   }, [hover]);
-  return React.createElement("div", {
+  return React.createElement("a", {
     className: "studio-row",
-    onClick: () => go("studio", {
-      name: s.name
-    }),
+    ...(window.jadlStudioLink ? window.jadlStudioLink(s, () => go("studio", { name: s.name })) : { onClick: () => go("studio", { name: s.name }) }),
     onMouseEnter: () => setHover(true),
     onMouseLeave: () => setHover(false),
     onMouseMove: e => {

@@ -163,6 +163,17 @@ function WorldChoropleth({ go }) {
               </button>
             ))}
           </div>
+          {focus && (() => {
+            const r = regions.find((x) => x.id === focus);
+            if (!r || !window.jadlRegionHref) return null;
+            const href = window.jadlRegionHref(r.name);
+            return (
+              <a className="geo-region-go" href={href}
+                onClick={(e) => { if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return; e.preventDefault(); window.jadlNavigate(href); }}>
+                See every studio in {r.name} →
+              </a>
+            );
+          })()}
         </div>
       )}
       <div className="geo-legend">

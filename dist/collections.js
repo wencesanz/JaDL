@@ -31,8 +31,17 @@ const COLLECTION_KINDS = {
     index: "byCity",
     label: "City",
     labelPlural: "Cities"
+  },
+  region: {
+    singular: "region",
+    plural: "regions",
+    field: "region",
+    index: "byRegion",
+    label: "Region",
+    labelPlural: "Regions"
   }
 };
+const REGION_PLACE = { "UK & Ireland": "the UK & Ireland", "Nordics": "the Nordic countries", "Rest of Europe": "the rest of Europe", "Rest of the world": "the rest of the world" };
 function collValues(kind) {
   const d = window.SITE || {};
   const idx = d[COLLECTION_KINDS[kind].index] || {};
@@ -65,6 +74,14 @@ function collCopy(kind, value, n) {
       h1: value,
       title: `${value} design studios · Just a Design List`,
       desc: `${n} independent ${plural} and designers working in ${low}, collected in the Just a Design List index. Browse by country and city.`
+    };
+  }
+  if (kind === "region") {
+    const place = REGION_PLACE[value] || value;
+    return {
+      h1: value,
+      title: `Design studios in ${place} · Just a Design List`,
+      desc: `${n} independent design ${plural} and designers based in ${place}, from the Just a Design List index. Browse by country, city and discipline.`
     };
   }
   if (kind === "country") {
@@ -108,12 +125,10 @@ function CollStudioList({
     style: {
       marginTop: 24
     }
-  }, shown.map(s => React.createElement("div", {
+  }, shown.map(s => React.createElement("a", {
     key: s.name,
     className: "studio-row",
-    onClick: () => go("studio", {
-      name: s.name
-    })
+    ...(window.jadlStudioLink ? window.jadlStudioLink(s, () => go("studio", { name: s.name })) : { onClick: () => go("studio", { name: s.name }) })
   }, React.createElement("div", {
     className: "t"
   }, window.RegionDot ? React.createElement(window.RegionDot, { country: s.country }) : null, s.name), React.createElement("div", {
@@ -151,8 +166,8 @@ function CollectionView({
       cities = {};
     for (const s of studios) {
       s.category.split(",").map(x => x.trim()).filter(Boolean).forEach(c => disc[c] = (disc[c] || 0) + 1);
-      s.country.split(",").map(x => x.trim()).filter(Boolean).forEach(c => countries[c] = (countries[c] || 0) + 1);
-      s.city.split(",").map(x => x.trim()).filter(Boolean).forEach(c => cities[c] = (cities[c] || 0) + 1);
+      s.country.split(",").map(x => x.trim()).filter(Boolean).slice(0, kind === "region" ? 1 : 99).forEach(c => countries[c] = (countries[c] || 0) + 1);
+      s.city.split(",").map(x => x.trim()).filter(Boolean).slice(0, kind === "region" ? 1 : 99).forEach(c => cities[c] = (cities[c] || 0) + 1);
     }
     const rank = (obj, exclude) => Object.entries(obj).filter(([k]) => k !== exclude).sort((a, b) => b[1] - a[1]);
     return {
@@ -212,7 +227,7 @@ function CollectionView({
       fontSize: 20,
       lineHeight: 1.5
     }
-  }, studios.length, " design ", studios.length === 1 ? "studio" : "studios", kind === "city" ? " based here" : kind === "country" ? " based here" : " in the index", "."))), React.createElement("div", {
+  }, studios.length, " design ", studios.length === 1 ? "studio" : "studios", kind === "city" || kind === "country" || kind === "region" ? " based here" : " in the index", "."))), React.createElement("div", {
     className: "coll-facets"
   }, kind !== "discipline" && facets.disc.length > 0 && React.createElement("div", null, React.createElement("div", {
     className: "lbl"
