@@ -6,6 +6,11 @@ on:
     - cron: '0 */6 * * *'
   # Allow manual trigger from the Actions tab
   workflow_dispatch:
+    inputs:
+      indexnow_all:
+        description: 'Send every sitemap URL to IndexNow (not only the changed ones)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -21,6 +26,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+
+      # Keep the current sitemap to compare with after the sync (IndexNow).
+      - name: Save previous sitemap
+        run: cp sitemap.xml "$RUNNER_TEMP/sitemap.old.xml"
 
       - name: Run Notion sync
         env:
@@ -40,6 +49,7 @@ jobs:
         run: node scripts/prerender-collections.mjs
 
       - name: Commit changes (if any)
+        id: commit
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -47,7 +57,21 @@ jobs:
           if [[ -n "$(git status --porcelain studios.json sitemap.xml feed.xml studio index.html disciplines.html countries.html cities.html regions.html discipline country city region)" ]]; then
             git commit -m "chore: sync studios from Notion"
             git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
             echo "✔ Changes pushed."
           else
             echo "✔ No changes."
+          fi
+
+      # Tell Bing & co. (IndexNow) which URLs changed, once Vercel has deployed them.
+      - name: Notify IndexNow
+        if: steps.commit.outputs.pushed == 'true' || inputs.indexnow_all
+        continue-on-error: true
+        run: |
+          if [[ "${{ inputs.indexnow_all }}" == "true" ]]; then
+            [[ "${{ steps.commit.outputs.pushed }}" == "true" ]] && sleep 120
+            node scripts/indexnow.mjs --all sitemap.xml
+          else
+            sleep 120
+            node scripts/indexnow.mjs "$RUNNER_TEMP/sitemap.old.xml" sitemap.xml
           fi
