@@ -20,8 +20,10 @@ const REGIONS: { name: string; color: string; countries: string[] }[] = [
   { name: 'Rest of Europe', color: '#B79CFF', countries: ['Germany', 'France', 'The Netherlands', 'Switzerland', 'Italy', 'Austria', 'Belgium', 'Greece', 'Poland', 'Czech Republic', 'Romania', 'Ukraine', 'Hungary', 'Croatia', 'Slovenia', 'Estonia', 'Lithuania', 'Latvia', 'Slovakia', 'Malta', 'North Macedonia', 'Luxembourg', 'Bulgaria', 'Serbia'] },
   { name: 'Rest of the world', color: '#FF8FC7', countries: [] },
 ];
+const NOMAD = { name: 'Worldwide', color: '#ECECE8', countries: [] as string[] };
 const regionOf = (country: string) => {
   const c = (country || '').split(',')[0].trim().toLowerCase();
+  if (!c) return NOMAD;
   return REGIONS.find((r) => r.countries.some((k) => k.toLowerCase() === c)) || REGIONS[REGIONS.length - 1];
 };
 const DISC: Record<string, string> = { 'Interactive/Digital': 'Interactive', 'Advertising/Campaigns': 'Advertising' };

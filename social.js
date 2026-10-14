@@ -11,8 +11,11 @@
     { id: "europe", name: "Rest of Europe", color: "#B79CFF", countries: ["Germany", "France", "The Netherlands", "Switzerland", "Italy", "Austria", "Belgium", "Greece", "Poland", "Czech Republic", "Romania", "Ukraine", "Hungary", "Croatia", "Slovenia", "Estonia", "Lithuania", "Latvia", "Slovakia", "Malta", "North Macedonia", "Luxembourg", "Bulgaria", "Serbia"] },
     { id: "world", name: "Rest of the world", color: "#FF8FC7", countries: [] }
   ];
+  // Studios with no fixed base (no country) get a neutral colour.
+  var NOMAD = { id: "nomad", name: "Worldwide", color: "#BDBDB7", countries: [] };
   function regionOf(country) {
     var c = String(country || "").split(",")[0].trim().toLowerCase();
+    if (!c) return NOMAD;
     for (var i = 0; i < REGIONS.length - 1; i++) {
       for (var j = 0; j < REGIONS[i].countries.length; j++) {
         if (REGIONS[i].countries[j].toLowerCase() === c) return REGIONS[i];
