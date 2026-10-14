@@ -1,5 +1,4 @@
 /* Just a Design List — community features (plain JS, no build step).
-   - FromTheListView: archive of studios already posted on Instagram and X
    - JadlDupHint: warns on /submit when a studio is already in the list
    - SharedListView / ShareListButton: share "My List" as a link
    - NewsletterNote: small Substack block for the footer */
@@ -31,78 +30,6 @@
       props.date ? null : h("div", { className: "u" }, (s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")),
       h("div", { className: "arr" }, "→"));
   }
-
-  // ---------------------------------------------------------------- archive
-  // from-the-list.json: { time: "10:00", tz: "Europe/Madrid", posts: [{ date, name }] }
-  // A post shows once its date and time (Madrid) have passed.
-  var archiveCache = null;
-  function loadArchive() {
-    if (!archiveCache) {
-      archiveCache = fetch("/from-the-list.json", { cache: "no-cache" })
-        .then(function (r) { return r.ok ? r.json() : { posts: [] }; })
-        .catch(function () { return { posts: [] }; });
-    }
-    return archiveCache;
-  }
-  function madridNow() {
-    // "YYYY-MM-DD HH:MM" in Madrid, whatever the viewer's timezone.
-    try {
-      var p = new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Madrid", year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hourCycle: "h23" }).formatToParts(new Date());
-      var g = function (t) { return (p.find(function (x) { return x.type === t; }) || {}).value; };
-      return g("year") + "-" + g("month") + "-" + g("day") + " " + g("hour") + ":" + g("minute");
-    } catch (e) { return new Date().toISOString().slice(0, 16).replace("T", " "); }
-  }
-  function fmtDate(iso) {
-    var d = new Date(iso + "T12:00:00Z");
-    return d.toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric", timeZone: "UTC" });
-  }
-  window.jadlPublishedPosts = function (data) {
-    var now = madridNow(), time = (data && data.time) || "10:00";
-    var all = studios();
-    return ((data && data.posts) || [])
-      .filter(function (p) { return (p.date + " " + (p.time || time)) <= now; })
-      .map(function (p) { return { date: p.date, s: all.find(function (x) { return x.name === p.name; }) }; })
-      .filter(function (p) { return p.s; })
-      .sort(function (a, b) { return a.date < b.date ? 1 : a.date > b.date ? -1 : 0; });
-  };
-
-  window.FromTheListView = function (props) {
-    var go = props.go;
-    var st = React.useState(null), posts = st[0], setPosts = st[1];
-    React.useEffect(function () {
-      loadArchive().then(function (d) { setPosts(window.jadlPublishedPosts(d)); });
-    }, []);
-    // Group by month, newest first.
-    var groups = [];
-    (posts || []).forEach(function (p) {
-      var key = p.date.slice(0, 7);
-      var g = groups[groups.length - 1];
-      if (!g || g.key !== key) {
-        g = { key: key, label: new Date(key + "-15T12:00:00Z").toLocaleDateString("en-GB", { month: "long", year: "numeric", timeZone: "UTC" }), items: [] };
-        groups.push(g);
-      }
-      g.items.push(p);
-    });
-    return h("div", { className: "view wrap ftl" },
-      h("div", { className: "pd-head" },
-        h("div", null,
-          h(window.Eyebrow, null, h("span", null, "Instagram · X")),
-          h("h2", { style: { marginTop: 14 } }, "From the list"),
-          h("p", { className: "ftl-sub" }, "Every studio and designer posted on our Instagram and X so far, newest first. New ones every week.")),
-        h("dl", { className: "meta" },
-          h("dt", null, "Posted"), h("dd", null, posts ? posts.length : "—"),
-          h("dt", null, "Follow"), h("dd", null,
-            h("a", { href: "https://www.instagram.com/justadesignlist/", target: "_blank", rel: "noopener" }, "Instagram ↗"), "   ",
-            h("a", { href: "https://x.com/justadesignlist", target: "_blank", rel: "noopener" }, "X ↗")))),
-      posts && posts.length === 0 ? h("p", { className: "ftl-empty" }, "The first post is on its way.") : null,
-      groups.map(function (g) {
-        return h("section", { key: g.key, className: "ftl-month" },
-          h("div", { className: "ftl-month-lbl" }, g.label),
-          h("div", { className: "st-list ftl-list" }, g.items.map(function (p) {
-            return h(Row, { key: p.date + p.s.name, s: p.s, go: go, date: fmtDate(p.date), extra: "ftl-row" });
-          })));
-      }));
-  };
 
   // ------------------------------------------------------- submit: dup hint
   function findDupes(name, url) {
@@ -185,7 +112,7 @@
           h("span", null, missing.length ? (missing.length === rows.length ? "Save all to My List" : "Save the " + missing.length + " you don’t have") : "All saved in My List"))) : null,
       rows.length ? h("div", { className: "st-list", style: { marginTop: 8 } }, rows.map(function (s) {
         return h(Row, { key: s.name, s: s, go: go });
-      })) : h("p", { className: "ftl-empty" }, "This link has no studios that are still in the list."));
+      })) : h("p", { className: "shared-empty" }, "This link has no studios that are still in the list."));
   };
 
   // ------------------------------------------------------------ newsletter

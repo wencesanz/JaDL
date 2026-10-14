@@ -238,11 +238,6 @@ function Footer({
   }, React.createElement("span", null, "Submit a studio or designer"), React.createElement("span", {
     className: "arr"
   }, "\u2192")), React.createElement("a", {
-    href: "/from-the-list",
-    onClick: e => { if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return; e.preventDefault(); go("from-the-list"); }
-  }, React.createElement("span", null, "From the list archive"), React.createElement("span", {
-    className: "arr"
-  }, "\u2192")), React.createElement("a", {
     href: "https://x.com/justadesignlist",
     target: "_blank",
     rel: "noopener"

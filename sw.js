@@ -59,8 +59,7 @@ self.addEventListener("activate", (e) => {
 function isData(url) {
   return url.pathname === "/studios.json" ||
          url.pathname === "/feed.xml" ||
-         url.pathname === "/sitemap.xml" ||
-         url.pathname === "/from-the-list.json";
+         url.pathname === "/sitemap.xml";
 }
 
 self.addEventListener("fetch", (e) => {

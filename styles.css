@@ -1763,16 +1763,6 @@ a.rg-chip:hover { filter: brightness(.94); }
 .sd-rel-more:hover { text-decoration: underline; text-underline-offset: 3px; }
 .sd-figure.is-empty .sd-figure-fallback { opacity: 1; color: #111; font-family: var(--sans); font-style: normal; font-weight: 600; letter-spacing: -.03em; }
 
-/* From the list archive */
-.ftl-sub { margin-top: 14px; max-width: 52ch; font-size: 17px; line-height: 1.55; color: var(--ink-2); }
-.ftl .pd-head dd a { color: var(--accent); text-decoration: none; }
-.ftl-month { margin-top: 48px; }
-.ftl-month-lbl { font-family: var(--mono); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--mute); padding-bottom: 12px; }
-.ftl-list .studio-row.ftl-row { grid-template-columns: 120px minmax(0, 1.4fr) minmax(0, 1fr) minmax(0, 1.2fr) 24px; }
-.ftl-row .d { font-family: var(--mono); font-size: 12px; letter-spacing: .04em; text-transform: uppercase; color: var(--mute); }
-.ftl-empty { margin: 48px 0 96px; font-size: 17px; color: var(--ink-2); }
-@media (max-width: 760px) { .ftl-list .studio-row.ftl-row { grid-template-columns: 1fr; } }
-
 /* Submit: already in the list */
 .dup-hint { margin-top: 10px; padding: 10px 14px; border: 1px solid var(--rule); border-radius: 6px; font-size: 14px; line-height: 1.5; color: var(--ink-2); }
 .dup-hint.is-exact { border-color: var(--accent); }
@@ -1786,3 +1776,4 @@ a.rg-chip:hover { filter: brightness(.94); }
 .list-share .back-btn { margin: 0; }
 .list-share .back-btn[disabled] { opacity: .5; cursor: default; }
 .list-share-note { font-family: var(--mono); font-size: 11px; letter-spacing: .05em; text-transform: uppercase; color: var(--mute); }
+.shared-empty { margin: 48px 0 96px; font-size: 17px; color: var(--ink-2); }
