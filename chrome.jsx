@@ -166,6 +166,7 @@ function Footer({ go }) {
             <span>RSS feed</span><span className="arr">↗</span>
           </a>
         </div>
+        {window.NewsletterNote ? <window.NewsletterNote /> : null}
         <div className="sponsor">
           <span>Just a Design List is an independent side project. Interested in sponsoring it?</span>
           <a href="mailto:wencesanz@gmail.com?subject=SPONSOR">Get in touch<span className="arr">→</span></a>

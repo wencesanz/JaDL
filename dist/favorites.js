@@ -90,7 +90,7 @@ function SaveButton({
 }) {
   const store = useSaved();
   if (!studio) return null;
-  const slug = savedSlugify(studio.name);
+  const slug = (window.studioSlug ? window.studioSlug(studio) : savedSlugify(studio.name));
   const saved = store.has(slug);
   return React.createElement("button", {
     className: `save-btn ${saved ? "is-saved" : ""}`,
@@ -112,13 +112,20 @@ function SaveButton({
   })), React.createElement("span", null, saved ? "Saved" : "Save"));
 }
 function MyListView({
+  go,
+  shared
+}) {
+  if (shared && window.SharedListView) return React.createElement(window.SharedListView, { go, shared });
+  return React.createElement(MyListOwn, { go });
+}
+function MyListOwn({
   go
 }) {
   const store = useSaved();
   const all = window.SITE && window.SITE.studios || [];
   const bySlug = React.useMemo(() => {
     const m = new Map();
-    all.forEach(s => m.set(savedSlugify(s.name), s));
+    all.forEach(s => m.set((window.studioSlug ? window.studioSlug(s) : savedSlugify(s.name)), s));
     return m;
   }, [all]);
   const rows = store.get().map(it => ({
@@ -149,7 +156,7 @@ function MyListView({
     }
   }, React.createElement("span", {
     className: "arr"
-  }, "\u2192"), React.createElement("span", null, "Browse the studios"))) : React.createElement("div", {
+  }, "\u2192"), React.createElement("span", null, "Browse the studios"))) : React.createElement(React.Fragment, null, window.ShareListButton ? React.createElement(window.ShareListButton, { slugs: rows.map(r => r.it.slug) }) : null, React.createElement("div", {
     className: "st-list",
     style: {
       marginTop: 8
@@ -179,7 +186,7 @@ function MyListView({
     },
     "aria-label": `Remove ${s.name} from My List`,
     title: "Remove"
-  }, "\xD7")))));
+  }, "\xD7"))))));
 }
 Object.assign(window, {
   SavedStore,

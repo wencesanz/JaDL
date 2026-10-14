@@ -55,7 +55,7 @@ function routeToPath(r) {
     case "categories":
       return "/categories";
     case "list":
-      return "/list";
+      return r.shared ? `/list?s=${r.shared}` : "/list";
     case "submit":
       return "/submit";
     case "about":
@@ -107,7 +107,11 @@ function pathToRoute(pathname, search) {
       filter: Object.keys(filter).length ? filter : undefined
     };
   }
-  if (["geography", "categories", "submit", "about", "list", "index"].includes(seg)) {
+  if (seg === "list") {
+    const shared = new URLSearchParams(search || "").get("s");
+    return shared ? { view: "list", shared } : { view: "list" };
+  }
+  if (["geography", "categories", "submit", "about", "index"].includes(seg)) {
     return {
       view: seg
     };
@@ -298,8 +302,9 @@ function setMeta(route) {
     title = "Submit a studio or designer · Just a Design List";
     desc = "Suggest a design studio or independent designer for the index.";
   } else if (route.view === "list") {
-    title = "My List · Just a Design List";
-    desc = "Studios you've saved on this browser.";
+    title = route.shared ? "A shared list · Just a Design List" : "My List · Just a Design List";
+    desc = route.shared ? "A list of design studios shared from Just a Design List." : "Studios you've saved on this browser.";
+    if (route.shared) robots = "noindex, follow";
   } else if (route.view === "collectionHub") {
     const cfg = Object.values(window.COLLECTION_KINDS || {}).find(c => c.plural === route.kind);
     const lp = cfg ? cfg.labelPlural : "Collections";
@@ -373,7 +378,7 @@ function App() {
       top: 0,
       behavior: "instant"
     });
-  }, [ready, route.view, route.name, route.kind, route.value, route.filter?.cat, route.filter?.country, route.filter?.city]);
+  }, [ready, route.view, route.name, route.kind, route.value, route.filter?.cat, route.filter?.country, route.filter?.city, route.shared]);
   useEffect(() => {
     const onPop = () => setRoute(pathToRoute(window.location.pathname, window.location.search));
     window.addEventListener("popstate", onPop);
@@ -461,7 +466,8 @@ function App() {
       break;
     case "list":
       body = React.createElement(MyListView, {
-        go: go
+        go: go,
+        shared: route.shared
       });
       break;
     case "studio":

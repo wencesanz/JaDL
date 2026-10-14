@@ -261,7 +261,7 @@ function Footer({
     rel: "noopener"
   }, React.createElement("span", null, "RSS feed"), React.createElement("span", {
     className: "arr"
-  }, "\u2197"))), React.createElement("div", {
+  }, "\u2197"))), window.NewsletterNote ? React.createElement(window.NewsletterNote, null) : null, React.createElement("div", {
     className: "sponsor"
   }, React.createElement("span", null, "Just a Design List is an independent side project. Interested in sponsoring it?"), React.createElement("a", {
     href: "mailto:wencesanz@gmail.com?subject=SPONSOR"

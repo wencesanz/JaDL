@@ -39,7 +39,7 @@ function routeToPath(r) {
     }
     case "geography": return "/geography";
     case "categories": return "/categories";
-    case "list": return "/list";
+    case "list": return r.shared ? `/list?s=${r.shared}` : "/list";
     case "submit": return "/submit";
     case "about": return "/about";
     case "index":
@@ -72,7 +72,11 @@ function pathToRoute(pathname, search) {
     if (qs.get("city")) filter.city = qs.get("city");
     return { view: "studios", filter: Object.keys(filter).length ? filter : undefined };
   }
-  if (["geography", "categories", "submit", "about", "list", "index"].includes(seg)) {
+  if (seg === "list") {
+    const shared = new URLSearchParams(search || "").get("s");
+    return shared ? { view: "list", shared } : { view: "list" };
+  }
+  if (["geography", "categories", "submit", "about", "index"].includes(seg)) {
     return { view: seg };
   }
   return { view: "index" };
@@ -238,7 +242,9 @@ function setMeta(route) {
   } else if (route.view === "submit") {
     title = "Submit a studio · Just a Design List"; desc = "Suggest a design studio or independent practice for the index.";
   } else if (route.view === "list") {
-    title = "My List · Just a Design List"; desc = "Studios you've saved on this browser.";
+    title = route.shared ? "A shared list · Just a Design List" : "My List · Just a Design List";
+    desc = route.shared ? "A list of design studios shared from Just a Design List." : "Studios you've saved on this browser.";
+    if (route.shared) robots = "noindex, follow";
   } else if (route.view === "collectionHub") {
     const cfg = Object.values(window.COLLECTION_KINDS || {}).find((c) => c.plural === route.kind);
     const lp = cfg ? cfg.labelPlural : "Collections";
@@ -324,7 +330,7 @@ function App() {
     }
     setMeta(route);
     window.scrollTo({ top: 0, behavior: "instant" });
-  }, [ready, route.view, route.name, route.kind, route.value, route.filter?.cat, route.filter?.country, route.filter?.city]);
+  }, [ready, route.view, route.name, route.kind, route.value, route.filter?.cat, route.filter?.country, route.filter?.city, route.shared]);
 
   useEffect(() => {
     const onPop = () => setRoute(pathToRoute(window.location.pathname, window.location.search));
@@ -380,7 +386,7 @@ function App() {
     case "categories": body = <CategoriesView go={go} />; break;
     case "submit": body = <SubmitView />; break;
     case "about": body = <AboutView go={go} />; break;
-    case "list": body = <MyListView go={go} />; break;
+    case "list": body = <MyListView go={go} shared={route.shared} />; break;
     case "studio": body = <StudioDetail name={route.name} go={go} />; break;
     case "collection": body = <CollectionView kind={route.kind} value={route.value} go={go} />; break;
     case "collectionHub": body = <CollectionHubView kind={route.kind} go={go} />; break;

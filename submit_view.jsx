@@ -172,6 +172,7 @@ function SubmitView() {
           <div className="fld">
             <label>Studio name <span className="req">*</span></label>
             <input required value={form.name} onChange={(e) => upd("name", e.target.value)} placeholder="e.g. Atelier Dyakova" />
+            {window.JadlDupHint ? <window.JadlDupHint name={form.name} url={form.url} /> : null}
           </div>
 
           <div className="two">

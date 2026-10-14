@@ -358,6 +358,12 @@ em { font-style: italic; }
 .colophon .curator:hover .curator-av::before { background: var(--accent-soft); }
 @media (prefers-reduced-motion: reduce) { .curator-av img, .curator-av.is-in img { transform: none; transition: none; animation: none !important; } }
 
+/* footer newsletter note */
+.nl-note { grid-column: span 12; display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px 32px; margin-top: 40px; padding-top: 24px; border-top: 1px solid var(--rule-soft); }
+.nl-note > span { font-size: 15px; color: var(--ink-2); }
+.nl-note a { display: inline-flex; align-items: center; gap: 8px; font-family: var(--mono); font-size: 13px; letter-spacing: .03em; color: var(--accent); white-space: nowrap; }
+.nl-note + .sponsor { margin-top: 24px; padding-top: 24px; }
+
 /* footer sponsor callout */
 .sponsor {
   grid-column: span 12;
@@ -1756,3 +1762,18 @@ a.rg-chip:hover { filter: brightness(.94); }
 .sd-rel-more { display: inline-block; margin-top: 18px; font-family: var(--mono); font-size: 12px; letter-spacing: .06em; text-transform: uppercase; color: var(--accent); text-decoration: none; }
 .sd-rel-more:hover { text-decoration: underline; text-underline-offset: 3px; }
 .sd-figure.is-empty .sd-figure-fallback { opacity: 1; color: #111; font-family: var(--sans); font-style: normal; font-weight: 600; letter-spacing: -.03em; }
+
+/* Submit: already in the list */
+.dup-hint { margin-top: 10px; padding: 10px 14px; border: 1px solid var(--rule); border-radius: 6px; font-size: 14px; line-height: 1.5; color: var(--ink-2); }
+.dup-hint.is-exact { border-color: var(--accent); }
+.dup-hint .dup-lbl { font-family: var(--mono); font-size: 11px; letter-spacing: .05em; text-transform: uppercase; color: var(--ink); }
+.dup-hint.is-exact .dup-lbl { color: var(--accent); }
+.dup-hint a { color: var(--ink); text-decoration: underline; text-underline-offset: 3px; }
+.dup-hint .dup-city, .dup-hint .dup-note { color: var(--mute); }
+
+/* My List: share */
+.list-share { display: flex; align-items: center; flex-wrap: wrap; gap: 10px 18px; margin: 8px 0 20px; }
+.list-share .back-btn { margin: 0; }
+.list-share .back-btn[disabled] { opacity: .5; cursor: default; }
+.list-share-note { font-family: var(--mono); font-size: 11px; letter-spacing: .05em; text-transform: uppercase; color: var(--mute); }
+.shared-empty { margin: 48px 0 96px; font-size: 17px; color: var(--ink-2); }
