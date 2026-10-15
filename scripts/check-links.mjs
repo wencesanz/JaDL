@@ -135,7 +135,10 @@ function section(title, note, rows, all) {
 
   const down = results.filter((r) => r.kind === 'down');
   const err = results.filter((r) => r.kind === 'error');
-  const moved = results.filter((r) => r.kind === 'moved');
+  // Redirects already reviewed and accepted (scripts/link-check-ok.json: { "Studio": "domain it goes to" }).
+  let accepted = {};
+  try { accepted = JSON.parse(await readFile('scripts/link-check-ok.json', 'utf8')); } catch {}
+  const moved = results.filter((r) => r.kind === 'moved' && !(accepted[r.s.name] && r.detail.endsWith(accepted[r.s.name])));
   const ok = results.length - down.length - err.length - moved.length;
   const month = new Date().toLocaleDateString('es-ES', { month: 'long', year: 'numeric' });
 
