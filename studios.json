@@ -5150,6 +5150,16 @@
     "edited": "2026-10-08T14:12:00.000Z"
   },
   {
+    "name": "Guest Studio",
+    "category": "Branding, Interactive/Digital, Packaging, Advertising/Campaigns, Graphic Design",
+    "city": "London, Cornwall",
+    "country": "England",
+    "ig": "https://www.instagram.com/gueststudio.co/",
+    "url": "https://gueststudio.co/",
+    "created": "2026-08-13T14:06:00.000Z",
+    "edited": "2026-10-15T13:21:00.000Z"
+  },
+  {
     "name": "Guillotina",
     "category": "Branding, Graphic Design, Illustration, Packaging",
     "city": "A Coruña",
@@ -5567,16 +5577,6 @@
     "ig": "https://www.instagram.com/hugmun.studio/",
     "url": "https://hugmun.studio/",
     "created": "2023-05-29T15:59:00.000Z",
-    "edited": "2026-08-13T14:03:00.000Z"
-  },
-  {
-    "name": "Hugo & Marie",
-    "category": "Branding, Interactive/Digital",
-    "city": "New York",
-    "country": "USA",
-    "ig": "https://www.instagram.com/hugoandmarie/",
-    "url": "https://www.hugoandmarie.com/",
-    "created": "2023-06-01T14:16:00.000Z",
     "edited": "2026-08-13T14:03:00.000Z"
   },
   {
@@ -6348,16 +6348,6 @@
     "url": "https://kimeracorp.eu/",
     "created": "2026-05-12T14:40:00.000Z",
     "edited": "2026-06-26T09:34:00.000Z"
-  },
-  {
-    "name": "Kindly Made",
-    "category": "Branding, Interactive/Digital",
-    "city": "Amsterdam",
-    "country": "The Netherlands",
-    "ig": "https://www.instagram.com/kindlymade.studio/",
-    "url": "https://www.kindlymade.studio/",
-    "created": "2024-11-22T14:45:00.000Z",
-    "edited": "2026-08-13T14:03:00.000Z"
   },
   {
     "name": "Kinoto Studio",
@@ -8218,6 +8208,16 @@
     "url": "https://neversitstill.com/",
     "created": "2026-08-14T10:45:00.000Z",
     "edited": "2026-08-18T13:43:00.000Z"
+  },
+  {
+    "name": "Never Thought Studio",
+    "category": "Branding, Interactive/Digital",
+    "city": "Amsterdam",
+    "country": "The Netherlands",
+    "ig": "https://www.instagram.com/neverthought.studio/",
+    "url": "https://neverthought.studio/",
+    "created": "2024-11-22T14:45:00.000Z",
+    "edited": "2026-10-15T13:14:00.000Z"
   },
   {
     "name": "New Association",
@@ -11500,6 +11500,16 @@
     "edited": "2026-08-13T14:03:00.000Z"
   },
   {
+    "name": "Studio & Marie",
+    "category": "Branding, Interactive/Digital, Motion, Packaging, Graphic Design, Advertising/Campaigns",
+    "city": "New York",
+    "country": "USA",
+    "ig": "https://www.instagram.com/studioandmarie/",
+    "url": "https://www.studioandmarie.com/",
+    "created": "2023-06-01T14:16:00.000Z",
+    "edited": "2026-10-15T13:17:00.000Z"
+  },
+  {
     "name": "Studio Albert Romagosa",
     "category": "Graphic Design",
     "city": "Barcelona",
@@ -12218,16 +12228,6 @@
     "url": "https://studiotempo.co/",
     "created": "2026-07-13T08:59:00.000Z",
     "edited": "2026-08-18T13:43:00.000Z"
-  },
-  {
-    "name": "Studio Thomas",
-    "category": "Branding, Interactive/Digital, Packaging, Advertising/Campaigns, Graphic Design",
-    "city": "London, Cornwall",
-    "country": "England",
-    "ig": "",
-    "url": "https://studiothomas.co.uk/",
-    "created": "2026-08-13T14:06:00.000Z",
-    "edited": "2026-08-13T14:13:00.000Z"
   },
   {
     "name": "Studio Tillack Knöll",
