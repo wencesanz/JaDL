@@ -19,6 +19,7 @@ function GeographyView({
   }, React.createElement("div", null, React.createElement(Eyebrow, {
     num: "\xA7G"
   }, "Geography"), React.createElement("h2", {
+    role: "heading", "aria-level": 1, 
     style: {
       marginTop: 14
     }
@@ -120,6 +121,7 @@ function CategoriesView({
   }, React.createElement("div", null, React.createElement(Eyebrow, {
     num: "\xA7C"
   }, "Categories"), React.createElement("h2", {
+    role: "heading", "aria-level": 1, 
     style: {
       marginTop: 14
     }
@@ -177,6 +179,7 @@ function AboutView() {
   }, React.createElement(Eyebrow, {
     num: "\xA7B"
   }, "Colophon"), React.createElement("h2", {
+    role: "heading", "aria-level": 1, 
     style: {
       marginTop: 14
     }

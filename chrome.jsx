@@ -84,9 +84,9 @@ function TopBar({ view, go }) {
   return (
     <header className={`topbar ${menuOpen ? "is-open" : ""}`}>
       <div className="mark">
-        <span onClick={() => go("index")} style={{ cursor: "pointer" }} className="mark-wordmark">
+        <a href="/" aria-label="Just a Design List, home" onClick={(e) => { if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return; e.preventDefault(); go("index"); }} style={{ cursor: "pointer", color: "inherit" }} className="mark-wordmark">
           <span>JUST</span><span className="slash">/</span><span>A</span><span className="slash">/</span><span>DESIGN</span><span className="slash">/</span><span>LIST</span>
-        </span>
+        </a>
         <small></small>
       </div>
       <nav className="nav" aria-label="Primary">
@@ -133,7 +133,7 @@ function Footer({ go }) {
   return (
     <footer className="foot wrap">
       <div className="foot-grid">
-        <h3 style={{ lineHeight: 1.1 }}>
+        <h3 aria-level={2} style={{ lineHeight: 1.1 }}>
           A slow index of<br />design practices, worth returning to.
         </h3>
         <div className="addr">

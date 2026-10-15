@@ -141,7 +141,7 @@ function CollStudioList({ studios, go }) {
         <button
           onClick={() => setLimit((n) => n + 120)}
           className="link"
-          style={{ marginTop: 28, fontFamily: "var(--mono)", fontSize: 12, letterSpacing: ".06em", textTransform: "uppercase", color: "var(--accent)" }}
+          style={{ marginTop: 28, fontFamily: "var(--mono)", fontSize: 12, letterSpacing: ".06em", textTransform: "uppercase", color: "var(--accent-text, var(--accent))" }}
         >
           Show more — {studios.length - limit} remaining
         </button>

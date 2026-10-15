@@ -102,7 +102,7 @@
       h("div", { className: "pd-head" },
         h("div", null,
           h(window.Eyebrow, null, h("span", null, "Shared with you")),
-          h("h2", { style: { marginTop: 14 } }, "A list of " + rows.length + " " + (rows.length === 1 ? "studio" : "studios"))),
+          h("h2", { role: "heading", "aria-level": 1, style: { marginTop: 14 } }, "A list of " + rows.length + " " + (rows.length === 1 ? "studio" : "studios"))),
         h("dl", { className: "meta" },
           h("dt", null, "Studios"), h("dd", null, rows.length),
           h("dt", null, "Your list"), h("dd", null, h("a", { href: "/list", onClick: function (e) { e.preventDefault(); go("list"); } }, "Open My List →")))),
@@ -121,4 +121,28 @@
       h("span", null, "Wences also writes a newsletter on Substack."),
       h("a", { href: NEWSLETTER, target: "_blank", rel: "noopener" }, "Read and subscribe", h("span", { className: "arr" }, "↗")));
   };
+
+  // ------------------------------------------------------------- keyboard
+  // Some clickable rows and tags are plain elements. Make them reachable with
+  // Tab and usable with Enter / Space, without touching each view.
+  var KBD = ".country-row, .cat-long-row, .sd-tag, .pick-card, .mylist-row, a:not([href])";
+  function tagKbd(root) {
+    (root.querySelectorAll ? root.querySelectorAll(KBD) : []).forEach(function (el) {
+      if ((el.tagName === "A" && el.hasAttribute("href")) || el.tagName === "BUTTON" || el.hasAttribute("tabindex")) return;
+      el.setAttribute("tabindex", "0");
+      el.setAttribute("role", "link");
+    });
+  }
+  document.addEventListener("keydown", function (e) {
+    if (e.key !== "Enter" && e.key !== " ") return;
+    var el = e.target;
+    if (!el || !el.matches || !el.matches(KBD) || el.tagName === "BUTTON") return;
+    e.preventDefault();
+    el.click();
+  });
+  var start = function () {
+    tagKbd(document);
+    new MutationObserver(function () { tagKbd(document); }).observe(document.body, { childList: true, subtree: true });
+  };
+  if (document.body) start(); else document.addEventListener("DOMContentLoaded", start);
 })();

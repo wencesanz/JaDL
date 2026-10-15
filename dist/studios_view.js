@@ -111,6 +111,7 @@ function StudiosView({
   }, React.createElement("div", null, React.createElement(Eyebrow, {
     num: "\xA7S"
   }, "The List"), React.createElement("h2", {
+    role: "heading", "aria-level": 1, 
     style: {
       marginTop: 14
     }
@@ -181,6 +182,7 @@ function StudiosView({
     className: "num"
   }, " ", d.byCountry[c]) : null)), allCountries.length > 16 && React.createElement("select", {
     className: "more-select",
+    "aria-label": "More countries",
     value: allCountries.slice(16).includes(country) ? country : "",
     onChange: e => e.target.value && setCountry(e.target.value)
   }, React.createElement("option", {
