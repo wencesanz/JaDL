@@ -1,56 +1,118 @@
 {
   "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/studio/kindly-made",
+      "destination": "/studio/never-thought-studio",
+      "permanent": true
+    },
+    {
+      "source": "/studio/hugo-and-marie",
+      "destination": "/studio/studio-and-marie",
+      "permanent": true
+    },
+    {
+      "source": "/studio/studio-thomas",
+      "destination": "/studio/guest-studio",
+      "permanent": true
+    }
+  ],
   "rewrites": [
-    { "source": "/studio/(.*)", "destination": "/index" },
-    { "source": "/discipline/(.*)", "destination": "/index" },
-    { "source": "/country/(.*)", "destination": "/index" },
-    { "source": "/city/(.*)", "destination": "/index" },
-    { "source": "/region/(.*)", "destination": "/index" },
-    { "source": "/(disciplines|countries|cities|regions|studios|geography|categories|about|submit|list)", "destination": "/index" }
+    {
+      "source": "/studio/(.*)",
+      "destination": "/index"
+    },
+    {
+      "source": "/discipline/(.*)",
+      "destination": "/index"
+    },
+    {
+      "source": "/country/(.*)",
+      "destination": "/index"
+    },
+    {
+      "source": "/city/(.*)",
+      "destination": "/index"
+    },
+    {
+      "source": "/region/(.*)",
+      "destination": "/index"
+    },
+    {
+      "source": "/(disciplines|countries|cities|regions|studios|geography|categories|about|submit|list)",
+      "destination": "/index"
+    }
   ],
   "headers": [
     {
       "source": "/sw.js",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" },
-        { "key": "Service-Worker-Allowed", "value": "/" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        },
+        {
+          "key": "Service-Worker-Allowed",
+          "value": "/"
+        }
       ]
     },
     {
       "source": "/manifest.json",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
       ]
     },
     {
       "source": "/dist/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
       ]
     },
     {
       "source": "/icons/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
       ]
     },
     {
       "source": "/feed.xml",
       "headers": [
-        { "key": "Content-Type", "value": "application/rss+xml; charset=utf-8" },
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+        {
+          "key": "Content-Type",
+          "value": "application/rss+xml; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
       ]
     },
     {
       "source": "/sitemap.xml",
       "headers": [
-        { "key": "Content-Type", "value": "application/xml; charset=utf-8" }
+        {
+          "key": "Content-Type",
+          "value": "application/xml; charset=utf-8"
+        }
       ]
     },
     {
       "source": "/styles.css",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=86400, stale-while-revalidate=604800" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, stale-while-revalidate=604800"
+        }
       ]
     }
   ]
