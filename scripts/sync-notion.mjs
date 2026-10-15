@@ -53,6 +53,13 @@ function findProp(properties, candidates) {
 // ---------------------------------------------------------------------------
 // Extract a plain-string value from any Notion property type
 // ---------------------------------------------------------------------------
+// Notion URLs typed without "https://" would become relative links on the site.
+function withScheme(u) {
+  const v = String(u || '').trim();
+  if (!v) return v;
+  return /^[a-z][a-z0-9+.-]*:\/\//i.test(v) ? v : 'https://' + v.replace(/^\/+/, '');
+}
+
 function extractValue(prop) {
   if (!prop) return '';
   switch (prop.type) {
@@ -188,7 +195,7 @@ function mapPage(page) {
     city:     extractValue(findProp(p, FIELD_MAP.city)),
     country:  extractValue(findProp(p, FIELD_MAP.country)),
     ig:       extractValue(findProp(p, FIELD_MAP.ig)),
-    url:      extractValue(findProp(p, FIELD_MAP.url)),
+    url:      withScheme(extractValue(findProp(p, FIELD_MAP.url))),
     created:  page.created_time || '',
     edited:   page.last_edited_time || '',
   };

@@ -15,6 +15,16 @@
       "source": "/studio/studio-thomas",
       "destination": "/studio/guest-studio",
       "permanent": true
+    },
+    {
+      "source": "/studio/perron-roettinger",
+      "destination": "/studio/perron",
+      "permanent": true
+    },
+    {
+      "source": "/studio/ortnerschinko",
+      "destination": "/studio/ortner-etc",
+      "permanent": true
     }
   ],
   "rewrites": [
