@@ -177,7 +177,7 @@ function CorrectionBlock({ s }) {
             {sending ? "Sending…" : "Send"}
           </button>
           {err && (
-            <p className="correction-note" style={{ color: "var(--accent)" }}>
+            <p className="correction-note" style={{ color: "var(--accent-text, var(--accent))" }}>
               {`Couldn't send (${err}). `}
               <a
                 className="link"
@@ -260,7 +260,7 @@ function StudioDetail({ name, go }) {
 
       <div className="pd-head pd-head--stack">
         <Eyebrow><span className="num">№ {String(idx + 1).padStart(3, "0")} of {all.length}</span></Eyebrow>
-        <h2>{s.name}</h2>
+        <h2 role="heading" aria-level={1}>{s.name}</h2>
         <div className="pd-meta-line">
           {window.RegionChip ? <window.RegionChip country={s.country} /> : null}
           {place && <span>{place}</span>}

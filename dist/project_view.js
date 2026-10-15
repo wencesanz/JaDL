@@ -163,7 +163,7 @@ function CorrectionBlock({ s }) {
     disabled: sending
   }, sending ? "Sending…" : "Send"), err && h("p", {
     className: "correction-note",
-    style: { color: "var(--accent)" }
+    style: { color: "var(--accent-text, var(--accent))" }
   }, `Couldn't send (${err}). `, h("a", {
     className: "link",
     href: `mailto:${EDITOR_EMAIL_CORR}?subject=${encodeURIComponent("Correction — " + s.name)}&body=${encodeURIComponent(note + (email ? "\n\nFrom: " + email : "") + "\n\nPage: " + pageUrl)}`
@@ -295,7 +295,7 @@ function StudioDetail({ name, go }) {
 
   h("div", { className: "pd-head pd-head--stack" },
     h(Eyebrow, null, h("span", { className: "num" }, `№ ${String(idx + 1).padStart(3, "0")} of ${all.length}`)),
-    h("h2", null, s.name),
+    h("h2", { role: "heading", "aria-level": 1 }, s.name),
     h("div", { className: "pd-meta-line" },
       window.RegionChip ? h(window.RegionChip, { country: s.country }) : null,
       place && h("span", null, place),

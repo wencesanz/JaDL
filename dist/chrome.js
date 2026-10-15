@@ -106,10 +106,13 @@ function TopBar({
     className: `topbar ${menuOpen ? "is-open" : ""}`
   }, React.createElement("div", {
     className: "mark"
-  }, React.createElement("span", {
-    onClick: () => go("index"),
+  }, React.createElement("a", {
+    href: "/",
+    "aria-label": "Just a Design List, home",
+    onClick: e => { if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return; e.preventDefault(); go("index"); },
     style: {
-      cursor: "pointer"
+      cursor: "pointer",
+      color: "inherit"
     },
     className: "mark-wordmark"
   }, React.createElement("svg", {
@@ -197,6 +200,7 @@ function Footer({
   }, React.createElement("div", {
     className: "foot-grid"
   }, React.createElement("h3", {
+    "aria-level": 2,
     style: {
       lineHeight: 1.1
     }

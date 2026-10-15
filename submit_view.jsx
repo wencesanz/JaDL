@@ -311,7 +311,7 @@ function SubmitView() {
             {sending ? "Sending…" : "Send submission"} <span className="arr">→</span>
           </button>
           {failedMailto && (
-            <p style={{ color: "var(--accent)", fontSize: 13, marginTop: 12, maxWidth: "62ch" }}>
+            <p style={{ color: "var(--accent-text, var(--accent))", fontSize: 13, marginTop: 12, maxWidth: "62ch" }}>
               {errMsg ? `Couldn't send automatically (${errMsg}).` : "Something went wrong sending this automatically."}{" "}
               <a className="link" href={failedMailto}>Send it by email instead</a> — the
               message is already written for you.

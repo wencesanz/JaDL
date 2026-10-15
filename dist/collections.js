@@ -148,7 +148,7 @@ function CollStudioList({
       fontSize: 12,
       letterSpacing: ".06em",
       textTransform: "uppercase",
-      color: "var(--accent)"
+      color: "var(--accent-text, var(--accent))"
     }
   }, "Show more \u2014 ", studios.length - limit, " remaining"));
 }
@@ -215,6 +215,7 @@ function CollectionView({
       marginTop: 8
     }
   }, React.createElement("div", null, React.createElement(Eyebrow, null, React.createElement("span", null, cfg.label)), React.createElement("h2", {
+    role: "heading", "aria-level": 1, 
     style: {
       marginTop: 14
     }
@@ -276,6 +277,7 @@ function CollectionHubView({
   }, React.createElement("div", {
     className: "pd-head"
   }, React.createElement("div", null, React.createElement(Eyebrow, null, React.createElement("span", null, "Browse")), React.createElement("h2", {
+    role: "heading", "aria-level": 1, 
     style: {
       marginTop: 14
     }

@@ -95,10 +95,10 @@
   var h = function () { return React.createElement.apply(React, arguments); };
   // Thin bar above the top navigation.
   window.AnnounceBar = function () {
-    return h("a", { className: "ann", href: IG, target: "_blank", rel: "noopener" },
+    return h("aside", { "aria-label": "Announcement" }, h("a", { className: "ann", href: IG, target: "_blank", rel: "noopener" },
       h("b", null, "New"),
       h("span", null, "From the list, every week on Instagram and X"),
-      h("u", null, "@justadesignlist \u2192"));
+      h("u", null, "@justadesignlist \u2192")));
   };
   // Three tiles on the index page, after "Today's discovery".
   window.FollowBand = function () {
@@ -106,7 +106,7 @@
       h("div", { className: "follow-band" },
         h("div", { className: "fb-a" },
           h("div", { className: "fb-lbl" }, "Instagram \u00b7 X"),
-          h("h3", null, "Follow the list. ", h("span", null, "New studios and designers every week."))),
+          h("h3", { "aria-level": 2 }, "Follow the list. ", h("span", null, "New studios and designers every week."))),
         h("div", { className: "fb-b" },
           h("div", { className: "fb-lbl" }, "Colour code"),
           h("ul", { className: "fb-leg" }, REGIONS.map(function (r) {
