@@ -70,7 +70,7 @@ async function probe(url) {
 function classify(r, original) {
   if (r.error) return { kind: 'down', detail: errorText(r.error) };
   if (r.status === 404 || r.status === 410 || r.status >= 500) return { kind: 'error', detail: r.status === 404 || r.status === 410 ? `error ${r.status}, página no encontrada` : `error ${r.status} del servidor` };
-  if (r.status >= 400 && ![401, 403, 429].includes(r.status)) return { kind: 'error', detail: `HTTP ${r.status}` };
+  if (r.status >= 400 && ![401, 403, 429].includes(r.status)) return { kind: 'error', detail: r.status === 402 ? 'error 402, la web está suspendida (sin pagar el alojamiento)' : `error ${r.status}` };
   const a = host(original), b = host(r.finalUrl);
   if (a && b && a !== b && mainLabel(a) !== mainLabel(b)) return { kind: 'moved', detail: `ahora lleva a ${b}` };
   return { kind: 'ok' };
@@ -79,7 +79,7 @@ function errorText(code) {
   if (/ENOTFOUND|EAI_AGAIN/.test(code)) return 'el dominio no existe';
   if (/ECONNREFUSED/.test(code)) return 'rechaza la conexión';
   if (/TIMEOUT|ETIMEDOUT|UND_ERR_CONNECT_TIMEOUT|UND_ERR_HEADERS_TIMEOUT/.test(code)) return 'no contesta en 20 s';
-  if (/CERT|SSL|TLS|ERR_TLS/.test(code)) return 'problema con el certificado de seguridad';
+  if (/CERT|SSL|TLS|ERR_TLS|LEAF_SIGNATURE|SELF_SIGNED|ISSUER/i.test(code)) return 'problema con el certificado de seguridad';
   if (/ECONNRESET|UND_ERR_SOCKET/.test(code)) return 'corta la conexión';
   return code.toLowerCase();
 }
