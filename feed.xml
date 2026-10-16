@@ -5,8 +5,39 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 09:04:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:18:40 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Buena Suerte</title>
+      <link>https://buenasuerte.cl/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/buena-suerte</guid>
+      <pubDate>Fri, 16 Oct 2026 14:41:00 GMT</pubDate>
+      <description>Branding · Motion · Graphic Design — Santiago de Chile, Chile.</description>
+      <category>Branding</category>
+      <category>Motion</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>ANDMADE Inc.</title>
+      <link>https://andmade.jp/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/andmade-inc</guid>
+      <pubDate>Fri, 16 Oct 2026 14:35:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Tokyo, Japan.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>HAUS ARDORYOUTH</title>
+      <link>https://ardoryouth.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/haus-ardoryouth</guid>
+      <pubDate>Fri, 16 Oct 2026 14:25:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Seoul, South Korea.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Saint-Lazare</title>
       <link>https://saint-lazare.com/</link>
@@ -289,38 +320,6 @@
       <description>Graphic Design · Typography — Paris, France.</description>
       <category>Graphic Design</category>
       <category>Typography</category>
-    </item>
-    <item>
-      <title>Cold Cuts</title>
-      <link>https://www.coldcuts.co/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/cold-cuts</guid>
-      <pubDate>Sun, 04 Oct 2026 10:19:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Packaging — New York, USA.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Feel For</title>
-      <link>https://www.feelfor.co/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/feel-for</guid>
-      <pubDate>Fri, 02 Oct 2026 20:56:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging — San Diego, USA.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Tricota</title>
-      <link>https://www.tricota.com.ar/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/tricota</guid>
-      <pubDate>Thu, 01 Oct 2026 08:12:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital · Motion · Packaging — Buenos Aires, Argentina.</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-      <category>Motion</category>
-      <category>Packaging</category>
     </item>
   </channel>
 </rss>
