@@ -28,9 +28,12 @@ function Tweaks() {
   useTwEffect(() => {
     const root = document.documentElement;
     root.setAttribute("data-palette", vals.palette || "mono");
-    if (vals.density === "default" || !vals.density) root.removeAttribute("data-density");else root.setAttribute("data-density", vals.density);
-    if (vals.accent === "off") root.setAttribute("data-accent", "off");else root.removeAttribute("data-accent");
-    if (vals.motion === "off") root.setAttribute("data-listfx", "off");else root.removeAttribute("data-listfx");
+    if (vals.density === "default" || !vals.density) root.removeAttribute("data-density");
+    else root.setAttribute("data-density", vals.density);
+    if (vals.accent === "off") root.setAttribute("data-accent", "off");
+    else root.removeAttribute("data-accent");
+    if (vals.motion === "off") root.setAttribute("data-listfx", "off");
+    else root.removeAttribute("data-listfx");
     root.setAttribute("data-type", vals.type || "sans");
   }, [vals]);
   function set(k, v) {
@@ -49,7 +52,7 @@ function Tweaks() {
   if (!open) return null;
   const seg = (k, options) => React.createElement("div", {
     className: "seg"
-  }, options.map(o => React.createElement("button", {
+  }, options.map((o) => React.createElement("button", {
     key: o,
     "data-on": vals[k] === o,
     onClick: () => set(k, o)
@@ -59,7 +62,7 @@ function Tweaks() {
   }, React.createElement("button", {
     className: "close",
     onClick: () => setOpen(false)
-  }, "\xD7"), React.createElement("h5", null, "Tweaks"), React.createElement("div", {
+  }, "×"), React.createElement("h5", null, "Tweaks"), React.createElement("div", {
     className: "row"
   }, React.createElement("label", null, "Palette"), seg("palette", ["mono", "paper", "cool"])), React.createElement("div", {
     className: "row"

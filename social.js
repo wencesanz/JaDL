@@ -158,4 +158,17 @@
   };
   // Colour behind the studio name when there is no screenshot.
   window.jadlRegionColor = function (country) { return regionOf(country).color; };
+  // ---- Website screenshots ----
+  // Own captures (monthly GitHub Action, stored on the "shots" branch and
+  // served by jsDelivr at a fixed commit) come first; mshots is the fallback.
+  window.jadlShot = function (s, w, h) {
+    if (!s || !s.url) return null;
+    var m = window.JADL_SHOTS;
+    var slug = window.studioSlug ? window.studioSlug(s) : "";
+    if (m && m.ref && slug && m.has && m.has[slug]) return "https://cdn.jsdelivr.net/gh/wencesanz/JaDL@" + m.ref + "/s/" + slug + ".webp";
+    return "https://s.wordpress.com/mshots/v1/" + encodeURIComponent(s.url) + "?w=" + (w || 800) + "&h=" + (h || 600);
+  };
+  window.jadlMshot = function (s, w, h) {
+    return s && s.url ? "https://s.wordpress.com/mshots/v1/" + encodeURIComponent(s.url) + "?w=" + (w || 800) + "&h=" + (h || 600) : null;
+  };
 })();

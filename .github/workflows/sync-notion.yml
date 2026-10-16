@@ -48,13 +48,17 @@ jobs:
       - name: Prerender collection pages
         run: node scripts/prerender-collections.mjs
 
+      # Home, /studios, /geography, /categories, /about and /submit.
+      - name: Prerender main pages
+        run: node scripts/prerender-pages.mjs
+
       - name: Commit changes (if any)
         id: commit
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A studios.json sitemap.xml feed.xml studio index.html disciplines.html countries.html cities.html regions.html discipline country city region
-          if [[ -n "$(git status --porcelain studios.json sitemap.xml feed.xml studio index.html disciplines.html countries.html cities.html regions.html discipline country city region)" ]]; then
+          git add -A studios.json sitemap.xml feed.xml studio index.html disciplines.html countries.html cities.html regions.html discipline country city region studios.html geography.html categories.html about.html submit.html scripts/https-ok.json
+          if [[ -n "$(git status --porcelain studios.json sitemap.xml feed.xml studio index.html disciplines.html countries.html cities.html regions.html discipline country city region studios.html geography.html categories.html about.html submit.html scripts/https-ok.json)" ]]; then
             git commit -m "chore: sync studios from Notion"
             git push
             echo "pushed=true" >> "$GITHUB_OUTPUT"

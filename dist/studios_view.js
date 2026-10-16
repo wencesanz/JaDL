@@ -20,7 +20,8 @@ function writeStudiosState(patch) {
       ...cur,
       ...patch
     }));
-  } catch {}
+  } catch {
+  }
 }
 function StudiosView({
   go,
@@ -63,29 +64,27 @@ function StudiosView({
       mode
     });
   }, [q, cat, country, city, type, sort, mode]);
-  const allCats = ["All", ...d.categoriesOrder.filter(c => d.byCat?.[c])];
+  const allCats = ["All", ...d.categoriesOrder.filter((c) => d.byCat?.[c])];
   const allCountries = useMm(() => ["All", ...Object.entries(d.byCountry || {}).sort((a, b) => b[1] - a[1]).map(([c]) => c)], []);
   const typeOrder = ["Studio", "Freelance", "Ambiguous"];
   const allTypes = useMm(() => {
     const present = Object.keys(d.byType || {});
     if (!present.length) return null;
-    const ordered = [...typeOrder.filter(t => present.includes(t)), ...present.filter(t => !typeOrder.includes(t))];
+    const ordered = [...typeOrder.filter((t) => present.includes(t)), ...present.filter((t) => !typeOrder.includes(t))];
     return ["All", ...ordered];
   }, [d.byType]);
   const filtered = useMm(() => {
     let rs = all;
-    if (cat !== "All") rs = rs.filter(s => s.category.split(",").map(x => x.trim()).includes(cat));
-    if (country !== "All") rs = rs.filter(s => s.country.split(",").map(x => x.trim()).includes(country));
-    if (city !== "All") rs = rs.filter(s => (s.city || "").split(",").map(x => x.trim()).includes(city));
-    if (type !== "All") rs = rs.filter(s => (s.type || "").trim() === type);
+    if (cat !== "All") rs = rs.filter((s) => s.category.split(",").map((x) => x.trim()).includes(cat));
+    if (country !== "All") rs = rs.filter((s) => s.country.split(",").map((x) => x.trim()).includes(country));
+    if (city !== "All") rs = rs.filter((s) => (s.city || "").split(",").map((x) => x.trim()).includes(city));
+    if (type !== "All") rs = rs.filter((s) => (s.type || "").trim() === type);
     if (q.trim()) {
-      // Every word must match somewhere (name, city, country, discipline, type
-      // or region), ignoring accents and case: "packaging barcelona" works.
-      const fold = t => String(t || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+      const fold = (t) => String(t || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
       const words = fold(q).split(/[\s,]+/).filter(Boolean);
-      rs = rs.filter(s => {
+      rs = rs.filter((s) => {
         const hay = fold([s.name, s.city, s.country, s.category, s.type, window.jadlRegion ? window.jadlRegion(s.country).name : ""].join(" "));
-        return words.every(w => hay.includes(w));
+        return words.every((w) => hay.includes(w));
       });
     }
     const coll = new Intl.Collator("en", {
@@ -97,7 +96,7 @@ function StudiosView({
   const grouped = useMm(() => {
     if (sort !== "name") return null;
     const out = {};
-    filtered.forEach(s => {
+    filtered.forEach((s) => {
       const L = (s.name[0] || "#").toUpperCase();
       const K = /[A-Z]/.test(L) ? L : "#";
       (out[K] = out[K] || []).push(s);
@@ -109,9 +108,10 @@ function StudiosView({
   }, React.createElement("div", {
     className: "studios-head"
   }, React.createElement("div", null, React.createElement(Eyebrow, {
-    num: "\xA7S"
+    num: "§S"
   }, "The List"), React.createElement("h2", {
-    role: "heading", "aria-level": 1, 
+    role: "heading",
+    "aria-level": 1,
     style: {
       marginTop: 14
     }
@@ -120,7 +120,7 @@ function StudiosView({
     className: "clear-filter",
     "aria-label": "Clear city filter",
     title: "Clear city filter"
-  }, "\xD7")) : country !== "All" ? React.createElement(React.Fragment, null, ", from ", React.createElement("em", null, country)) : null, ".")), React.createElement("div", {
+  }, "×")) : country !== "All" ? React.createElement(React.Fragment, null, ", from ", React.createElement("em", null, country)) : null, ".")), React.createElement("div", {
     style: {
       display: "grid",
       gap: 16,
@@ -132,12 +132,12 @@ function StudiosView({
     className: "lbl"
   }, "Search"), React.createElement("input", {
     value: q,
-    onChange: e => setQ(e.target.value),
-    placeholder: "name, city, discipline\u2026"
+    onChange: (e) => setQ(e.target.value),
+    placeholder: "name, city, discipline…"
   }), q && React.createElement("button", {
     onClick: () => setQ(""),
     className: "clr"
-  }, "\xD7")), React.createElement("div", {
+  }, "×")), React.createElement("div", {
     className: "work-toggles"
   }, React.createElement("span", {
     className: "lbl"
@@ -154,7 +154,7 @@ function StudiosView({
     }
   }, "View"), React.createElement("div", {
     className: "seg"
-  }, ["list", "grid"].map(m => React.createElement("button", {
+  }, ["list", "grid"].map((m) => React.createElement("button", {
     key: m,
     "data-on": mode === m,
     onClick: () => setMode(m)
@@ -164,7 +164,7 @@ function StudiosView({
     className: "lbl"
   }, "Discipline"), React.createElement("div", {
     className: "chips"
-  }, allCats.map(c => React.createElement("button", {
+  }, allCats.map((c) => React.createElement("button", {
     key: c,
     "data-on": cat === c,
     onClick: () => setCat(c)
@@ -174,7 +174,7 @@ function StudiosView({
     className: "lbl"
   }, "Country"), React.createElement("div", {
     className: "chips scroll"
-  }, allCountries.slice(0, 16).map(c => React.createElement("button", {
+  }, allCountries.slice(0, 16).map((c) => React.createElement("button", {
     key: c,
     "data-on": country === c,
     onClick: () => setCountry(c)
@@ -184,27 +184,27 @@ function StudiosView({
     className: "more-select",
     "aria-label": "More countries",
     value: allCountries.slice(16).includes(country) ? country : "",
-    onChange: e => e.target.value && setCountry(e.target.value)
+    onChange: (e) => e.target.value && setCountry(e.target.value)
   }, React.createElement("option", {
     value: ""
-  }, "More\u2026"), allCountries.slice(16).map(c => React.createElement("option", {
+  }, "More…"), allCountries.slice(16).map((c) => React.createElement("option", {
     key: c,
     value: c
   }, c, " (", d.byCountry[c], ")"))))), allTypes && React.createElement("div", null, React.createElement("div", {
     className: "lbl"
   }, "Type"), React.createElement("div", {
     className: "chips"
-  }, allTypes.map(t => React.createElement("button", {
+  }, allTypes.map((t) => React.createElement("button", {
     key: t,
     "data-on": type === t,
     onClick: () => setType(t)
   }, t, t !== "All" && d.byType?.[t] ? React.createElement("span", {
     className: "num"
   }, " ", d.byType[t]) : null))))), mode === "list" && sort === "name" && grouped && React.createElement(AlphabetIndex, {
-    grouped: grouped
+    grouped
   }), mode === "list" ? React.createElement("div", {
     className: "st-list"
-  }, sort === "name" && grouped ? Object.keys(grouped).sort().map(L => React.createElement("div", {
+  }, sort === "name" && grouped ? Object.keys(grouped).sort().map((L) => React.createElement("div", {
     key: L,
     id: `grp-${L}`,
     className: "st-group"
@@ -212,12 +212,12 @@ function StudiosView({
     className: "st-letter"
   }, L), React.createElement("div", null, grouped[L].map((s, i) => React.createElement(StudioRow, {
     key: s.name + i,
-    s: s,
-    go: go
+    s,
+    go
   }))))) : filtered.map((s, i) => React.createElement(StudioRow, {
     key: s.name + i,
-    s: s,
-    go: go
+    s,
+    go
   })), filtered.length === 0 && React.createElement("div", {
     style: {
       padding: "80px 0",
@@ -233,13 +233,13 @@ function StudiosView({
     style: {
       paddingTop: 24
     }
-  }, filtered.slice(0, 48).map(s => {
+  }, filtered.slice(0, 48).map((s) => {
     const col = d.catColors?.[s.category.split(",")[0].trim()] || "#D8CFBD";
-    const shot = s.url ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=800&h=560` : null;
+    const shot = window.jadlShot ? window.jadlShot(s, 800, 560) : s.url ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=800&h=560` : null;
     return React.createElement("a", {
       className: "card",
       key: s.name,
-      ...(window.jadlStudioLink ? window.jadlStudioLink(s, () => go("studio", { name: s.name })) : { onClick: () => go("studio", { name: s.name }) }),
+      ...window.jadlStudioLink ? window.jadlStudioLink(s, () => go("studio", { name: s.name })) : { onClick: () => go("studio", { name: s.name }) },
       style: {
         cursor: "pointer"
       }
@@ -268,7 +268,7 @@ function StudiosView({
         objectFit: "cover",
         display: "block"
       },
-      onError: e => {
+      onError: (e) => {
         e.currentTarget.style.display = "none";
       }
     }), React.createElement("div", {
@@ -321,7 +321,7 @@ function StudiosView({
       letterSpacing: ".06em",
       textTransform: "uppercase"
     }
-  }, "Showing 48 of ", filtered.length, " \xB7 switch to list view to see all")));
+  }, "Showing 48 of ", filtered.length, " · switch to list view to see all")));
 }
 function StudioRow({
   s,
@@ -340,7 +340,7 @@ function StudioRow({
   });
   const raf = React.useRef(0);
   const primed = React.useRef(false);
-  const shot = s.url ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=520&h=400` : null;
+  const shot = window.jadlShot ? window.jadlShot(s, 520, 400) : s.url ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=520&h=400` : null;
   useEf(() => {
     if (!hover) {
       primed.current = false;
@@ -367,10 +367,10 @@ function StudioRow({
   }, [hover]);
   return React.createElement("a", {
     className: "studio-row",
-    ...(window.jadlStudioLink ? window.jadlStudioLink(s, () => go("studio", { name: s.name })) : { onClick: () => go("studio", { name: s.name }) }),
+    ...window.jadlStudioLink ? window.jadlStudioLink(s, () => go("studio", { name: s.name })) : { onClick: () => go("studio", { name: s.name }) },
     onMouseEnter: () => setHover(true),
     onMouseLeave: () => setHover(false),
-    onMouseMove: e => {
+    onMouseMove: (e) => {
       target.current = {
         x: e.clientX,
         y: e.clientY
@@ -388,7 +388,7 @@ function StudioRow({
     className: "u"
   }, host), React.createElement("div", {
     className: "arr"
-  }, "\u2192"), hover && shot && React.createElement("div", {
+  }, "→"), hover && shot && React.createElement("div", {
     ref: boxRef,
     className: "row-preview-follow"
   }, React.createElement("div", {
@@ -396,7 +396,7 @@ function StudioRow({
   }, React.createElement("img", {
     src: shot,
     alt: "",
-    onError: e => {
+    onError: (e) => {
       e.currentTarget.style.display = "none";
     }
   }))));
@@ -409,7 +409,7 @@ function AlphabetIndex({
 }) {
   const present = new Set(Object.keys(grouped));
   const letters = ["#", ..."ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("")];
-  const jump = L => {
+  const jump = (L) => {
     const el = document.getElementById(`grp-${L}`);
     if (!el) return;
     const top = el.getBoundingClientRect().top + window.pageYOffset - 96;
@@ -421,7 +421,7 @@ function AlphabetIndex({
   return React.createElement("nav", {
     className: "az-index",
     "aria-label": "Jump to letter"
-  }, letters.map(L => React.createElement("button", {
+  }, letters.map((L) => React.createElement("button", {
     key: L,
     className: "az-letter",
     "data-empty": !present.has(L),

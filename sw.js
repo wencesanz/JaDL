@@ -5,12 +5,18 @@
 //   • Everything else same-origin: cache-first with background refresh.
 // Bump CACHE_VERSION whenever the shell file list changes to purge old caches.
 
-const CACHE_VERSION = "jadl-v13";
+const CACHE_VERSION = "jadl-v14";
 const SHELL = [
   "/",
   "/styles.css",
   "/fonts/PaperMono-VF.woff2",
   "/fonts/PaperMono-Medium.woff2",
+  "/fonts/Aileron-300.woff2",
+  "/fonts/Aileron-400.woff2",
+  "/fonts/Aileron-600.woff2",
+  "/fonts/Aileron-700.woff2",
+  "/vendor/react-18.3.1.production.min.js",
+  "/vendor/react-dom-18.3.1.production.min.js",
   "/data.js",
   "/scroll_fx.js",
   "/social.js",

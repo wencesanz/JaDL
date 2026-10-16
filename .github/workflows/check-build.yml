@@ -1,0 +1,22 @@
+name: Check dist is built from the sources
+
+on:
+  push:
+    paths: ['*.jsx', 'dist/**', 'scripts/build.mjs']
+  pull_request:
+    paths: ['*.jsx', 'dist/**', 'scripts/build.mjs']
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install --no-save --no-package-lock esbuild@0.24.0
+      # Fails when someone edited dist/*.js by hand or forgot to build.
+      - run: node scripts/build.mjs --check

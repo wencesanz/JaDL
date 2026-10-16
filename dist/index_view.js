@@ -24,7 +24,7 @@ function IndexView({
 }) {
   const d = window.SITE;
   const top5Countries = useIdxMemo(() => Object.entries(d.byCountry || {}).sort((a, b) => b[1] - a[1]).slice(0, 5), []);
-  const top5Cats = useIdxMemo(() => d.categoriesOrder.filter(c => d.byCat?.[c]).slice(0, 6).map(c => [c, d.byCat[c]]), []);
+  const top5Cats = useIdxMemo(() => d.categoriesOrder.filter((c) => d.byCat?.[c]).slice(0, 6).map((c) => [c, d.byCat[c]]), []);
   return React.createElement("div", {
     className: "view"
   }, React.createElement("section", {
@@ -45,11 +45,11 @@ function IndexView({
     className: "link",
     onClick: () => go("geography")
   }, "geography"), "."), window.RandomInline ? React.createElement(window.RandomInline, {
-    go: go
+    go
   }) : null), window.TodaysPick ? React.createElement(window.TodaysPick, {
-    go: go
+    go
   }) : null, window.FollowBand ? React.createElement(window.FollowBand, null) : null, window.RecentlyViewed ? React.createElement(window.RecentlyViewed, {
-    go: go
+    go
   }) : null, React.createElement("div", {
     className: "hair wrap",
     style: {
@@ -86,7 +86,7 @@ function IndexView({
   }, React.createElement("div", {
     className: "home-note"
   }, React.createElement(Eyebrow, {
-    num: "\xA702"
+    num: "§02"
   }, "Note"), React.createElement("div", {
     className: "home-note-body"
   }, d.note))), React.createElement("div", {
@@ -99,7 +99,7 @@ function IndexView({
   }, React.createElement("div", {
     className: "sel-head"
   }, React.createElement("div", null, React.createElement(Eyebrow, {
-    num: "\xA703"
+    num: "§03"
   }, "By Discipline"), React.createElement("h2", {
     style: {
       marginTop: 14
@@ -113,7 +113,7 @@ function IndexView({
       textTransform: "uppercase",
       color: "var(--mute)"
     }
-  }, "All categories \xA0\u2192")), React.createElement("div", {
+  }, "All categories  →")), React.createElement("div", {
     className: "cat-grid"
   }, top5Cats.map(([c, n]) => {
     const col = (document.documentElement.getAttribute("data-theme") === "dark" ? d.catColorsDark?.[c] : d.catColors?.[c]) || "var(--ink)";
@@ -136,7 +136,7 @@ function IndexView({
       className: "bl"
     }, d.categoryBlurbs[c]), React.createElement("div", {
       className: "arr"
-    }, "\u2192"));
+    }, "→"));
   }))), React.createElement("section", {
     className: "wrap",
     style: {
@@ -145,17 +145,17 @@ function IndexView({
   }, React.createElement("div", {
     className: "sel-head"
   }, React.createElement("div", null, React.createElement(Eyebrow, {
-    num: "\xA704"
+    num: "§04"
   }, "Recent Additions"), React.createElement("h2", {
     style: {
       marginTop: 14
     }
   }, "Twenty most recent entries"))), React.createElement("div", {
     className: "recent-list"
-  }, (d.recent || []).map(p => React.createElement(RecentRow, {
+  }, (d.recent || []).map((p) => React.createElement(RecentRow, {
     key: p.name,
-    p: p,
-    go: go
+    p,
+    go
   })))), React.createElement("section", {
     className: "wrap",
     style: {
@@ -164,7 +164,7 @@ function IndexView({
   }, React.createElement("div", {
     className: "sel-head"
   }, React.createElement("div", null, React.createElement(Eyebrow, {
-    num: "\xA705"
+    num: "§05"
   }, "By Geography"), React.createElement("h2", {
     style: {
       marginTop: 14
@@ -178,7 +178,7 @@ function IndexView({
       textTransform: "uppercase",
       color: "var(--mute)"
     }
-  }, "All geography \xA0\u2192")), React.createElement("div", {
+  }, "All geography  →")), React.createElement("div", {
     style: {
       borderTop: "1px solid var(--rule)"
     }
@@ -205,7 +205,7 @@ function IndexView({
     className: "c"
   }, n, " studios"), React.createElement("div", {
     className: "arr"
-  }, "\u2192"))))));
+  }, "→"))))));
 }
 function RecentRow({
   p,
@@ -223,7 +223,7 @@ function RecentRow({
   });
   const raf = useIdxRef(0);
   const primed = useIdxRef(false);
-  const shot = p.url ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(p.url)}?w=520&h=400` : null;
+  const shot = window.jadlShot ? window.jadlShot(p, 520, 400) : p.url ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(p.url)}?w=520&h=400` : null;
   useIdxEffect(() => {
     if (!hover) {
       primed.current = false;
@@ -250,10 +250,10 @@ function RecentRow({
   }, [hover]);
   return React.createElement("a", {
     className: "recent-row",
-    ...(window.jadlStudioLink ? window.jadlStudioLink(p, () => go("studio", { name: p.name })) : { onClick: () => go("studio", { name: p.name }) }),
+    ...window.jadlStudioLink ? window.jadlStudioLink(p, () => go("studio", { name: p.name })) : { onClick: () => go("studio", { name: p.name }) },
     onMouseEnter: () => setHover(true),
     onMouseLeave: () => setHover(false),
-    onMouseMove: e => {
+    onMouseMove: (e) => {
       target.current = {
         x: e.clientX,
         y: e.clientY
@@ -275,7 +275,7 @@ function RecentRow({
   }, React.createElement("img", {
     src: shot,
     alt: "",
-    onError: e => {
+    onError: (e) => {
       e.currentTarget.style.display = "none";
     }
   }))));
@@ -286,7 +286,7 @@ function EditorialGrid({
 }) {
   const d = window.SITE;
   const pool = useIdxMemo(() => {
-    const all = (d.studios || []).filter(s => s && s.url);
+    const all = (d.studios || []).filter((s) => s && s.url);
     return all.length ? all : studios || [];
   }, []);
   const pickTwelve = React.useCallback(() => {
@@ -308,14 +308,14 @@ function EditorialGrid({
   }, React.createElement("div", {
     className: "eg-head"
   }, React.createElement(Eyebrow, {
-    num: "\xA701"
+    num: "§01"
   }, "Editor's Selection"), React.createElement("div", {
     className: "eg-head-meta"
   }, "Twelve studios, chosen this month")), React.createElement("div", {
     className: "eg-grid"
   }, tiles.map((s, i) => React.createElement(EditorialTile, {
     key: s.name + "@" + i,
-    s: s,
+    s,
     size: i % 12 + 1,
     index: i,
     onOpen: () => go("studio", {
@@ -335,8 +335,8 @@ function EditorialTile({
   const [inView, setInView] = useIdxState(false);
   useIdxEffect(() => {
     if (!ref.current) return;
-    const obs = new IntersectionObserver(entries => {
-      entries.forEach(e => {
+    const obs = new IntersectionObserver((entries) => {
+      entries.forEach((e) => {
         if (e.isIntersecting) {
           setInView(true);
           obs.disconnect();
@@ -351,11 +351,11 @@ function EditorialTile({
   const host = (s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "").replace(/^www\./, "");
   const shotW = size <= 2 ? 1200 : 700;
   const shotH = size <= 2 ? 900 : 540;
-  const shot = s.url && inView ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=${shotW}&h=${shotH}` : null;
+  const shot = s.url && inView ? window.jadlShot ? window.jadlShot(s, shotW, shotH) : `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=${shotW}&h=${shotH}` : null;
   const firstCat = (s.category || "").split(",")[0].trim();
   const col = window.SITE.catColors?.[firstCat] || "#D8CFBD";
   return React.createElement("div", {
-    ref: ref,
+    ref,
     className: `eg-tile eg-tile--size${size}`,
     onClick: onOpen,
     style: {
@@ -367,8 +367,9 @@ function EditorialTile({
     src: shot,
     alt: `${s.name} — ${host}`,
     loading: "lazy",
-    onLoad: e => {
-      if (e.target.naturalWidth > 100) setLoaded(true);else setFailed(true);
+    onLoad: (e) => {
+      if (e.target.naturalWidth > 100) setLoaded(true);
+      else setFailed(true);
     },
     onError: () => setFailed(true),
     className: "eg-img",
@@ -387,7 +388,7 @@ function EditorialTile({
     className: "eg-loc"
   }, s.city, s.city && s.country ? ", " : "", s.country), React.createElement("div", {
     className: "eg-host"
-  }, host, " \u2197")));
+  }, host, " ↗")));
 }
 Object.assign(window, {
   IndexView

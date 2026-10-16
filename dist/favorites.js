@@ -6,7 +6,7 @@ const {
 } = React;
 const SAVED_KEY = "tsi_saved";
 const SavedStore = (() => {
-  const listeners = new Set();
+  const listeners = /* @__PURE__ */ new Set();
   let items = load();
   function load() {
     try {
@@ -14,7 +14,7 @@ const SavedStore = (() => {
       if (!raw) return [];
       const parsed = JSON.parse(raw);
       const arr = Array.isArray(parsed) ? parsed : parsed && parsed.items;
-      return Array.isArray(arr) ? arr.filter(x => x && x.slug).map(x => ({
+      return Array.isArray(arr) ? arr.filter((x) => x && x.slug).map((x) => ({
         slug: x.slug,
         name: x.name || "",
         at: x.at || 0
@@ -29,17 +29,19 @@ const SavedStore = (() => {
         v: 1,
         items
       }));
-    } catch (e) {}
+    } catch (e) {
+    }
   }
   function emit() {
-    listeners.forEach(fn => {
+    listeners.forEach((fn) => {
       try {
         fn(items);
-      } catch (e) {}
+      } catch (e) {
+      }
     });
   }
   if (typeof window !== "undefined") {
-    window.addEventListener("storage", e => {
+    window.addEventListener("storage", (e) => {
       if (e.key === SAVED_KEY) {
         items = load();
         emit();
@@ -51,14 +53,15 @@ const SavedStore = (() => {
       return items.slice();
     },
     has(slug) {
-      return items.some(x => x.slug === slug);
+      return items.some((x) => x.slug === slug);
     },
     count() {
       return items.length;
     },
     toggle(slug, name) {
       if (!slug) return;
-      if (this.has(slug)) items = items.filter(x => x.slug !== slug);else items = [{
+      if (this.has(slug)) items = items.filter((x) => x.slug !== slug);
+      else items = [{
         slug,
         name: name || "",
         at: Date.now()
@@ -67,7 +70,7 @@ const SavedStore = (() => {
       emit();
     },
     remove(slug) {
-      items = items.filter(x => x.slug !== slug);
+      items = items.filter((x) => x.slug !== slug);
       persist();
       emit();
     },
@@ -79,7 +82,7 @@ const SavedStore = (() => {
 })();
 function useSaved() {
   const [, force] = useSavedState(0);
-  useSavedEffect(() => SavedStore.subscribe(() => force(n => n + 1)), []);
+  useSavedEffect(() => SavedStore.subscribe(() => force((n) => n + 1)), []);
   return SavedStore;
 }
 function savedSlugify(s) {
@@ -90,7 +93,7 @@ function SaveButton({
 }) {
   const store = useSaved();
   if (!studio) return null;
-  const slug = (window.studioSlug ? window.studioSlug(studio) : savedSlugify(studio.name));
+  const slug = window.studioSlug ? window.studioSlug(studio) : savedSlugify(studio.name);
   const saved = store.has(slug);
   return React.createElement("button", {
     className: `save-btn ${saved ? "is-saved" : ""}`,
@@ -124,20 +127,21 @@ function MyListOwn({
   const store = useSaved();
   const all = window.SITE && window.SITE.studios || [];
   const bySlug = React.useMemo(() => {
-    const m = new Map();
-    all.forEach(s => m.set((window.studioSlug ? window.studioSlug(s) : savedSlugify(s.name)), s));
+    const m = /* @__PURE__ */ new Map();
+    all.forEach((s) => m.set(window.studioSlug ? window.studioSlug(s) : savedSlugify(s.name), s));
     return m;
   }, [all]);
-  const rows = store.get().map(it => ({
+  const rows = store.get().map((it) => ({
     it,
     s: bySlug.get(it.slug)
-  })).filter(r => r.s);
+  })).filter((r) => r.s);
   return React.createElement("div", {
     className: "view wrap"
   }, React.createElement("div", {
     className: "pd-head"
   }, React.createElement("div", null, React.createElement(Eyebrow, null, React.createElement("span", null, "Saved")), React.createElement("h2", {
-    role: "heading", "aria-level": 1, 
+    role: "heading",
+    "aria-level": 1,
     style: {
       marginTop: 14
     }
@@ -149,7 +153,7 @@ function MyListOwn({
     className: "lead"
   }, "Nothing saved yet."), React.createElement("p", {
     className: "sub"
-  }, "Open any studio and tap ", React.createElement("em", null, "Save"), " to keep it here. Your list lives in this browser \u2014 no account needed."), React.createElement("button", {
+  }, "Open any studio and tap ", React.createElement("em", null, "Save"), " to keep it here. Your list lives in this browser — no account needed."), React.createElement("button", {
     onClick: () => go("studios"),
     className: "back-btn",
     style: {
@@ -157,7 +161,7 @@ function MyListOwn({
     }
   }, React.createElement("span", {
     className: "arr"
-  }, "\u2192"), React.createElement("span", null, "Browse the studios"))) : React.createElement(React.Fragment, null, window.ShareListButton ? React.createElement(window.ShareListButton, { slugs: rows.map(r => r.it.slug) }) : null, React.createElement("div", {
+  }, "→"), React.createElement("span", null, "Browse the studios"))) : React.createElement(React.Fragment, null, window.ShareListButton ? React.createElement(window.ShareListButton, { slugs: rows.map((r) => r.it.slug) }) : null, React.createElement("div", {
     className: "st-list",
     style: {
       marginTop: 8
@@ -181,13 +185,13 @@ function MyListOwn({
     className: "u"
   }, (s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")), React.createElement("button", {
     className: "mylist-remove",
-    onClick: e => {
+    onClick: (e) => {
       e.stopPropagation();
       store.remove(it.slug);
     },
     "aria-label": `Remove ${s.name} from My List`,
     title: "Remove"
-  }, "\xD7"))))));
+  }, "×"))))));
 }
 Object.assign(window, {
   SavedStore,

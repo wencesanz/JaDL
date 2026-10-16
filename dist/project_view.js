@@ -7,8 +7,18 @@ const {
 } = React;
 const h = React.createElement;
 const ES_MONTHS = {
-  enero: 0, febrero: 1, marzo: 2, abril: 3, mayo: 4, junio: 5,
-  julio: 6, agosto: 7, septiembre: 8, octubre: 9, noviembre: 10, diciembre: 11
+  enero: 0,
+  febrero: 1,
+  marzo: 2,
+  abril: 3,
+  mayo: 4,
+  junio: 5,
+  julio: 6,
+  agosto: 7,
+  septiembre: 8,
+  octubre: 9,
+  noviembre: 10,
+  diciembre: 11
 };
 function formatIndexed(raw) {
   if (!raw) return "—";
@@ -21,13 +31,16 @@ function formatIndexed(raw) {
     const m = raw.match(/^(\d{1,2})\s+de\s+([a-záéíóúñ]+)\s+de\s+(\d{4})/i);
     if (m) {
       const month = ES_MONTHS[m[2].toLowerCase()];
-      if (month !== undefined) d = new Date(Date.UTC(Number(m[3]), month, Number(m[1])));
+      if (month !== void 0) d = new Date(Date.UTC(Number(m[3]), month, Number(m[1])));
     }
   }
   if (!d) return raw;
   try {
     return new Intl.DateTimeFormat("en-GB", {
-      day: "numeric", month: "short", year: "numeric", timeZone: "UTC"
+      day: "numeric",
+      month: "short",
+      year: "numeric",
+      timeZone: "UTC"
     }).format(d);
   } catch {
     return d.toDateString();
@@ -47,17 +60,15 @@ ensureSdStyles();
 function StudioHero({ s, col }) {
   const [loaded, setLoaded] = usePdState(false);
   const [srcIdx, setSrcIdx] = usePdState(0);
-  const sources = s.url ? [`/api/ogimage?url=${encodeURIComponent(s.url)}`, `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=1600&h=1200`] : [];
+  const own = s.url && window.jadlShot ? window.jadlShot(s, 1600, 1200) : null;
+  const sources = s.url ? [own && own.indexOf("mshots") < 0 ? own : null, `/api/ogimage?url=${encodeURIComponent(s.url)}`, `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=1600&h=1200`].filter(Boolean) : [];
   usePdEffect(() => {
     setLoaded(false);
     setSrcIdx(0);
   }, [s.url]);
   const shot = sources[srcIdx] || null;
   const exhausted = srcIdx >= sources.length;
-  const advance = () => setSrcIdx(i => i + 1);
-  // Geometry is inline on purpose: .pd-hero-img has no size of its own in
-  // styles.css, so a stale or unpatched stylesheet would let the screenshot
-  // render at natural size and blow out the page.
+  const advance = () => setSrcIdx((i) => i + 1);
   const rcol = window.jadlRegionColor ? window.jadlRegionColor(s.country) : col;
   return h("div", {
     className: "sd-figure" + (exhausted ? " is-empty" : ""),
@@ -72,7 +83,11 @@ function StudioHero({ s, col }) {
     key: shot,
     src: shot,
     alt: `${s.name} — website preview`,
-    onLoad: e => { if (e.target.naturalWidth > 100) setLoaded(true); else advance(); },
+    onLoad: (e) => {
+      const iw = e.target.naturalWidth, ih = e.target.naturalHeight;
+      if (iw > 100 && !(iw === 400 && ih === 300)) setLoaded(true);
+      else advance();
+    },
     onError: advance,
     className: "pd-hero-img",
     style: {
@@ -95,11 +110,6 @@ function StudioHero({ s, col }) {
 }
 const CORRECTION_ENDPOINT = "https://formspree.io/f/xzdylwvg";
 const EDITOR_EMAIL_CORR = "hola@justadesignlist.com";
-
-// Discreet "spot something wrong?" link that expands into a tiny inline
-// form, posting straight to Formspree. Keeps the same fallback pattern as
-// SubmitView: if the network call fails, hand the user a pre-written
-// mailto: link instead of just failing silently.
 function CorrectionBlock({ s }) {
   const [open, setOpen] = usePdState(false);
   const [note, setNote] = usePdState("");
@@ -108,7 +118,6 @@ function CorrectionBlock({ s }) {
   const [sent, setSent] = usePdState(false);
   const [err, setErr] = usePdState(null);
   const pageUrl = typeof window !== "undefined" ? window.location.href : "";
-
   async function handleSubmit(e) {
     e.preventDefault();
     if (!note.trim() || sending) return;
@@ -135,12 +144,13 @@ function CorrectionBlock({ s }) {
       setSending(false);
     }
   }
-
   if (sent) {
-    return h("div", { className: "correction-block" },
-      h("p", { className: "correction-note" }, "Thanks — noted. It'll be checked."));
+    return h(
+      "div",
+      { className: "correction-block" },
+      h("p", { className: "correction-note" }, "Thanks — noted. It'll be checked.")
+    );
   }
-
   return h("div", { className: "correction-block" }, !open ? h("button", {
     className: "correction-toggle",
     onClick: () => setOpen(true)
@@ -150,12 +160,12 @@ function CorrectionBlock({ s }) {
   }, h("textarea", {
     required: true,
     value: note,
-    onChange: e => setNote(e.target.value),
+    onChange: (e) => setNote(e.target.value),
     placeholder: "What's outdated or wrong? (e.g. broken link, wrong city, new category)"
   }), h("input", {
     type: "email",
     value: email,
-    onChange: e => setEmail(e.target.value),
+    onChange: (e) => setEmail(e.target.value),
     placeholder: "Your email (optional, in case of questions)"
   }), h("button", {
     type: "submit",
@@ -172,7 +182,7 @@ function CorrectionBlock({ s }) {
 function StudioDetail({ name, go }) {
   const d = window.SITE;
   const all = d.studios || [];
-  const idx = all.findIndex(x => x.name === name);
+  const idx = all.findIndex((x) => x.name === name);
   const s = all[idx];
   const prev = all[(idx - 1 + all.length) % all.length];
   const next = all[(idx + 1) % all.length];
@@ -180,7 +190,7 @@ function StudioDetail({ name, go }) {
     if (!s) return [];
     if (window.jadlRelatedGroups) return window.jadlRelatedGroups(s, all, 6);
     const firstCat = s.category.split(",")[0].trim();
-    const items = all.filter(x => x.name !== s.name && x.category.includes(firstCat)).slice(0, 6);
+    const items = all.filter((x) => x.name !== s.name && x.category.includes(firstCat)).slice(0, 6);
     return items.length ? [{ key: "cat", title: "Neighbours in " + firstCat, items }] : [];
   }, [s]);
   if (!s) {
@@ -193,12 +203,12 @@ function StudioDetail({ name, go }) {
       onClick: () => go("studios"),
       className: "link",
       style: { fontFamily: "var(--mono)", fontSize: 12 }
-    }, "\u2190 Back to the list"));
+    }, "← Back to the list"));
   }
   const col = d.catColors?.[s.category.split(",")[0].trim()] || "#D8CFBD";
   const host = (s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "");
   const igHandle = (s.ig || "").split("/").filter(Boolean).pop();
-  const cats = s.category.split(",").map(c => c.trim()).filter(Boolean);
+  const cats = s.category.split(",").map((c) => c.trim()).filter(Boolean);
   const place = [s.city, s.country].filter(Boolean).join(", ");
   usePdEffect(() => {
     ensureSdStyles();
@@ -222,11 +232,11 @@ function StudioDetail({ name, go }) {
         document.execCommand("copy");
         setCopied(true);
         setTimeout(() => setCopied(false), 1800);
-      } catch {}
+      } catch {
+      }
       document.body.removeChild(i);
     }
   };
-
   const shareBlock = h("div", { className: "share-block" }, h("div", {
     className: "share-lbl"
   }, "Share"), h("div", { className: "share-row" }, h("a", {
@@ -237,7 +247,11 @@ function StudioDetail({ name, go }) {
     "aria-label": "Share on X / Twitter",
     title: "Share on X / Twitter"
   }, h("svg", {
-    viewBox: "0 0 24 24", width: "14", height: "14", fill: "currentColor", "aria-hidden": "true"
+    viewBox: "0 0 24 24",
+    width: "14",
+    height: "14",
+    fill: "currentColor",
+    "aria-hidden": "true"
   }, h("path", {
     d: "M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"
   })), h("span", null, "X")), h("a", {
@@ -248,7 +262,11 @@ function StudioDetail({ name, go }) {
     "aria-label": "Share on LinkedIn",
     title: "Share on LinkedIn"
   }, h("svg", {
-    viewBox: "0 0 24 24", width: "14", height: "14", fill: "currentColor", "aria-hidden": "true"
+    viewBox: "0 0 24 24",
+    width: "14",
+    height: "14",
+    fill: "currentColor",
+    "aria-hidden": "true"
   }, h("path", {
     d: "M20.45 20.45h-3.55v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.13 1.45-2.13 2.94v5.67H9.37V9h3.41v1.56h.05c.47-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.45v6.29zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z"
   })), h("span", null, "LinkedIn")), h("a", {
@@ -257,7 +275,13 @@ function StudioDetail({ name, go }) {
     "aria-label": "Share by email",
     title: "Share by email"
   }, h("svg", {
-    viewBox: "0 0 24 24", width: "14", height: "14", fill: "none", stroke: "currentColor", strokeWidth: "1.6", "aria-hidden": "true"
+    viewBox: "0 0 24 24",
+    width: "14",
+    height: "14",
+    fill: "none",
+    stroke: "currentColor",
+    strokeWidth: "1.6",
+    "aria-hidden": "true"
   }, h("rect", { x: "3", y: "5", width: "18", height: "14", rx: "1" }), h("path", {
     d: "M3 7l9 6 9-6"
   })), h("span", null, "Email")), h("button", {
@@ -266,133 +290,205 @@ function StudioDetail({ name, go }) {
     "aria-label": "Share to Instagram",
     title: "Share to Instagram"
   }, h("svg", {
-    viewBox: "0 0 24 24", width: "14", height: "14", fill: "none", stroke: "currentColor", strokeWidth: "1.6", "aria-hidden": "true"
+    viewBox: "0 0 24 24",
+    width: "14",
+    height: "14",
+    fill: "none",
+    stroke: "currentColor",
+    strokeWidth: "1.6",
+    "aria-hidden": "true"
   }, h("rect", { x: "3", y: "3", width: "18", height: "18", rx: "5" }), h("circle", {
-    cx: "12", cy: "12", r: "4"
+    cx: "12",
+    cy: "12",
+    r: "4"
   }), h("circle", {
-    cx: "17.5", cy: "6.5", r: "1", fill: "currentColor", stroke: "none"
+    cx: "17.5",
+    cy: "6.5",
+    r: "1",
+    fill: "currentColor",
+    stroke: "none"
   })), h("span", null, "Instagram")), h("button", {
     className: "share-btn",
     onClick: copyLink,
     "aria-label": "Copy link",
     title: "Copy link"
   }, h("svg", {
-    viewBox: "0 0 24 24", width: "14", height: "14", fill: "none", stroke: "currentColor", strokeWidth: "1.6", strokeLinecap: "round", strokeLinejoin: "round", "aria-hidden": "true"
+    viewBox: "0 0 24 24",
+    width: "14",
+    height: "14",
+    fill: "none",
+    stroke: "currentColor",
+    strokeWidth: "1.6",
+    strokeLinecap: "round",
+    strokeLinejoin: "round",
+    "aria-hidden": "true"
   }, h("path", {
     d: "M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07l-1.5 1.5"
   }), h("path", {
     d: "M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07l1.5-1.5"
   })), h("span", null, copied ? "Copied" : "Copy link"))));
-
-  return h("div", { className: "view wrap" }, h("div", {
-    className: "pd-topbar"
-  }, h("button", {
-    onClick: () => go("studios"),
-    className: "back-btn",
-    "aria-label": "Back to the list"
-  }, h("span", { className: "arr" }, "\u2190"), h("span", null, "The List")),
-    window.RandomButton ? h(window.RandomButton, { go: go, currentName: s.name }) : null),
-
-  h("div", { className: "pd-head pd-head--stack" },
-    h(Eyebrow, null, h("span", { className: "num" }, `№ ${String(idx + 1).padStart(3, "0")} of ${all.length}`)),
-    h("h2", { role: "heading", "aria-level": 1 }, s.name),
-    h("div", { className: "pd-meta-line" },
-      window.RegionChip ? h(window.RegionChip, { country: s.country }) : null,
-      place && h("span", null, place),
-      h("span", null, "Indexed ", formatIndexed(s.created || s.edited)),
-      cats.length > 0 && h("span", null, cats.join(" · ")))),
-
-  h("div", { className: "sd-spread" },
-    h("div", { className: "sd-figure-col", style: { minWidth: 0 } },
-      s.url ? h("a", {
-        href: s.url, target: "_blank", rel: "noopener", className: "sd-figure-link",
-        style: { display: "block", minWidth: 0 }
-      }, h(StudioHero, { s: s, col: col })) : h(StudioHero, { s: s, col: col }),
-      h("div", { className: "sd-cap" },
-        h("span", null, host ? `${host}, homepage` : "Studio site preview"),
-        s.url && h("a", {
-          className: "link", href: s.url, target: "_blank", rel: "noopener"
-        }, "Visit the site ↗"))),
-
-    h("div", { className: "sd-col" },
-      h("div", { className: "sd-nav" },
-        h("a", {
-          className: "sd-nav-row",
-          ...(window.jadlStudioLink ? window.jadlStudioLink(prev, () => go("studio", { name: prev.name })) : { onClick: () => go("studio", { name: prev.name }) })
-        }, h("span", { className: "t" }, prev.name), h("span", { className: "k" }, "← Previous")),
-        h("a", {
-          className: "sd-nav-row",
-          ...(window.jadlStudioLink ? window.jadlStudioLink(next, () => go("studio", { name: next.name })) : { onClick: () => go("studio", { name: next.name }) })
-        }, h("span", { className: "t" }, next.name), h("span", { className: "k" }, "Next →"))),
-
-      h("p", { className: "sd-note" }, "The entry is intentionally brief. The index is a pointer, not a review \u2014 visit the studio's own site to see the work in its preferred frame. What we note here is only what is needed to find the practice again: where it is, what it does, and where to look."),
-
-      h("div", { className: "sd-links" },
-        s.url && h("a", {
-          href: s.url, target: "_blank", rel: "noopener"
-        }, h("span", {
-          style: { overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }
-        }, host), h("span", { style: { color: "var(--mute)" } }, "\u2197")),
-        s.ig && h("a", {
-          href: s.ig, target: "_blank", rel: "noopener"
-        }, h("span", {
-          style: { overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }
-        }, "@", igHandle), h("span", { style: { color: "var(--mute)" } }, "\u2197"))),
-
-      window.SaveButton ? h("div", { className: "save-block" },
-        h(window.SaveButton, { studio: s })) : null,
-
-      shareBlock,
-
-      h(CorrectionBlock, { s: s }),
-
-      h("div", { className: "sd-lbl" }, "Filed under"),
-      h("div", { className: "sd-tags" },
-        cats.map(t => h("span", {
-          key: t,
-          className: "sd-tag",
-          onClick: () => go("collection", { kind: "discipline", value: t })
-        }, t, d.byCat && d.byCat[t] ? ` · ${d.byCat[t]}` : "")),
-        s.country && h("span", {
-          key: "country",
-          className: "sd-tag",
-          onClick: () => go("collection", { kind: "country", value: s.country.split(",")[0].trim() })
-        }, s.country.split(",")[0].trim(),
-           d.byCountry && d.byCountry[s.country.split(",")[0].trim()] ? ` · ${d.byCountry[s.country.split(",")[0].trim()]}` : "")))),
-
-  related.length > 0 && h("div", {
-    className: "sd-related",
-    style: { paddingTop: 64, marginTop: 64, borderTop: "1px solid var(--rule)" }
-  }, related.map((g, gi) => h("section", { key: g.key, className: "sd-rel-group", style: gi ? { marginTop: 56 } : null },
-    h(Eyebrow, null, g.title), h("div", {
-    className: "st-list",
-    style: { marginTop: 24 }
-  }, g.items.map(r => h("a", {
-    key: r.name,
-    className: "studio-row",
-    ...(window.jadlStudioLink ? window.jadlStudioLink(r, () => go("studio", { name: r.name })) : { onClick: () => go("studio", { name: r.name }) })
-  }, h("div", { className: "t" }, window.RegionDot ? h(window.RegionDot, { country: r.country }) : null, r.name), h("div", {
-    className: "c"
-  }, r.city, r.city && r.country ? ", " : "", r.country), h("div", {
-    className: "k"
-  }, r.category), h("div", {
-    className: "u"
-  }, (r.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")), h("div", {
-    className: "arr"
-  }, "\u2192")))),
-    g.more ? h("a", {
-      className: "sd-rel-more",
-      href: g.more.href,
-      onClick: e => { if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button === 1) return; e.preventDefault(); go("collection", { kind: g.more.kind, value: g.more.value }); }
-    }, g.more.label, " \u2192") : null))),
-
-  igOpen && window.IGShareModal ? h(window.IGShareModal, {
-    s: s, col: col, idx: idx, total: all.length, onClose: () => setIgOpen(false)
-  }) : null,
-
-  window.RecentlyViewedInline ? h(window.RecentlyViewedInline, {
-    go: go, excludeName: s.name
-  }) : null);
+  return h(
+    "div",
+    { className: "view wrap" },
+    h(
+      "div",
+      {
+        className: "pd-topbar"
+      },
+      h("button", {
+        onClick: () => go("studios"),
+        className: "back-btn",
+        "aria-label": "Back to the list"
+      }, h("span", { className: "arr" }, "←"), h("span", null, "The List")),
+      window.RandomButton ? h(window.RandomButton, { go, currentName: s.name }) : null
+    ),
+    h(
+      "div",
+      { className: "pd-head pd-head--stack" },
+      h(Eyebrow, null, h("span", { className: "num" }, `№ ${String(idx + 1).padStart(3, "0")} of ${all.length}`)),
+      h("h2", { role: "heading", "aria-level": 1 }, s.name),
+      h(
+        "div",
+        { className: "pd-meta-line" },
+        window.RegionChip ? h(window.RegionChip, { country: s.country }) : null,
+        place && h("span", null, place),
+        h("span", null, "Indexed ", formatIndexed(s.created || s.edited)),
+        cats.length > 0 && h("span", null, cats.join(" · "))
+      )
+    ),
+    h(
+      "div",
+      { className: "sd-spread" },
+      h(
+        "div",
+        { className: "sd-figure-col", style: { minWidth: 0 } },
+        s.url ? h("a", {
+          href: s.url,
+          target: "_blank",
+          rel: "noopener",
+          className: "sd-figure-link",
+          style: { display: "block", minWidth: 0 }
+        }, h(StudioHero, { s, col })) : h(StudioHero, { s, col }),
+        h(
+          "div",
+          { className: "sd-cap" },
+          h("span", null, host ? `${host}, homepage` : "Studio site preview"),
+          s.url && h("a", {
+            className: "link",
+            href: s.url,
+            target: "_blank",
+            rel: "noopener"
+          }, "Visit the site ↗")
+        )
+      ),
+      h(
+        "div",
+        { className: "sd-col" },
+        h(
+          "div",
+          { className: "sd-nav" },
+          h("a", {
+            className: "sd-nav-row",
+            ...window.jadlStudioLink ? window.jadlStudioLink(prev, () => go("studio", { name: prev.name })) : { onClick: () => go("studio", { name: prev.name }) }
+          }, h("span", { className: "t" }, prev.name), h("span", { className: "k" }, "← Previous")),
+          h("a", {
+            className: "sd-nav-row",
+            ...window.jadlStudioLink ? window.jadlStudioLink(next, () => go("studio", { name: next.name })) : { onClick: () => go("studio", { name: next.name }) }
+          }, h("span", { className: "t" }, next.name), h("span", { className: "k" }, "Next →"))
+        ),
+        h("p", { className: "sd-note" }, "The entry is intentionally brief. The index is a pointer, not a review — visit the studio's own site to see the work in its preferred frame. What we note here is only what is needed to find the practice again: where it is, what it does, and where to look."),
+        h(
+          "div",
+          { className: "sd-links" },
+          s.url && h("a", {
+            href: s.url,
+            target: "_blank",
+            rel: "noopener"
+          }, h("span", {
+            style: { overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }
+          }, host), h("span", { style: { color: "var(--mute)" } }, "↗")),
+          s.ig && h("a", {
+            href: s.ig,
+            target: "_blank",
+            rel: "noopener"
+          }, h("span", {
+            style: { overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }
+          }, "@", igHandle), h("span", { style: { color: "var(--mute)" } }, "↗"))
+        ),
+        window.SaveButton ? h(
+          "div",
+          { className: "save-block" },
+          h(window.SaveButton, { studio: s })
+        ) : null,
+        shareBlock,
+        h(CorrectionBlock, { s }),
+        h("div", { className: "sd-lbl" }, "Filed under"),
+        h(
+          "div",
+          { className: "sd-tags" },
+          cats.map((t) => h("span", {
+            key: t,
+            className: "sd-tag",
+            onClick: () => go("collection", { kind: "discipline", value: t })
+          }, t, d.byCat && d.byCat[t] ? ` · ${d.byCat[t]}` : "")),
+          s.country && h(
+            "span",
+            {
+              key: "country",
+              className: "sd-tag",
+              onClick: () => go("collection", { kind: "country", value: s.country.split(",")[0].trim() })
+            },
+            s.country.split(",")[0].trim(),
+            d.byCountry && d.byCountry[s.country.split(",")[0].trim()] ? ` · ${d.byCountry[s.country.split(",")[0].trim()]}` : ""
+          )
+        )
+      )
+    ),
+    related.length > 0 && h("div", {
+      className: "sd-related",
+      style: { paddingTop: 64, marginTop: 64, borderTop: "1px solid var(--rule)" }
+    }, related.map((g, gi) => h(
+      "section",
+      { key: g.key, className: "sd-rel-group", style: gi ? { marginTop: 56 } : null },
+      h(Eyebrow, null, g.title),
+      h("div", {
+        className: "st-list",
+        style: { marginTop: 24 }
+      }, g.items.map((r) => h("a", {
+        key: r.name,
+        className: "studio-row",
+        ...window.jadlStudioLink ? window.jadlStudioLink(r, () => go("studio", { name: r.name })) : { onClick: () => go("studio", { name: r.name }) }
+      }, h("div", { className: "t" }, window.RegionDot ? h(window.RegionDot, { country: r.country }) : null, r.name), h("div", {
+        className: "c"
+      }, r.city, r.city && r.country ? ", " : "", r.country), h("div", {
+        className: "k"
+      }, r.category), h("div", {
+        className: "u"
+      }, (r.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")), h("div", {
+        className: "arr"
+      }, "→")))),
+      g.more ? h("a", {
+        className: "sd-rel-more",
+        href: g.more.href,
+        onClick: (e) => {
+          if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button === 1) return;
+          e.preventDefault();
+          go("collection", { kind: g.more.kind, value: g.more.value });
+        }
+      }, g.more.label, " →") : null
+    ))),
+    igOpen && window.IGShareModal ? h(window.IGShareModal, {
+      s,
+      col,
+      idx,
+      total: all.length,
+      onClose: () => setIgOpen(false)
+    }) : null,
+    window.RecentlyViewedInline ? h(window.RecentlyViewedInline, {
+      go,
+      excludeName: s.name
+    }) : null
+  );
 }
 Object.assign(window, { StudioDetail });
 })();

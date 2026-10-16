@@ -44,9 +44,19 @@ window.SITE = {
 };
 
 // Async loader so studios.json isn't inlined (it's ~100KB).
-window.SITE_READY = fetch("studios.json")
-  .then((r) => r.json())
-  .then((studios) => {
+// Index of own website screenshots (written by the monthly capture task).
+const JADL_SHOTS_READY = fetch("/shots.json", { cache: "no-cache" })
+  .then((r) => (r.ok ? r.json() : null))
+  .then((j) => {
+    if (j && j.ref && Array.isArray(j.slugs)) {
+      const has = {};
+      j.slugs.forEach((x) => { has[x] = 1; });
+      window.JADL_SHOTS = { ref: j.ref, has };
+    }
+  })
+  .catch(() => {});
+window.SITE_READY = Promise.all([fetch("studios.json").then((r) => r.json()), JADL_SHOTS_READY])
+  .then(([studios]) => {
     window.SITE.studios = studios;
 
     // derive aggregates
