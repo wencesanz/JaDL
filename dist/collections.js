@@ -64,7 +64,7 @@ function collSlugToValue(kind, slug) {
 function collStudiosFor(kind, value) {
   const field = COLLECTION_KINDS[kind].field;
   const all = window.SITE && window.SITE.studios || [];
-  return all.filter(s => String(s[field] || "").split(",").map(x => x.trim()).includes(value));
+  return all.filter((s) => String(s[field] || "").split(",").map((x) => x.trim()).includes(value));
 }
 function collCopy(kind, value, n) {
   const plural = n === 1 ? "studio" : "studios";
@@ -125,10 +125,10 @@ function CollStudioList({
     style: {
       marginTop: 24
     }
-  }, shown.map(s => React.createElement("a", {
+  }, shown.map((s) => React.createElement("a", {
     key: s.name,
     className: "studio-row",
-    ...(window.jadlStudioLink ? window.jadlStudioLink(s, () => go("studio", { name: s.name })) : { onClick: () => go("studio", { name: s.name }) })
+    ...window.jadlStudioLink ? window.jadlStudioLink(s, () => go("studio", { name: s.name })) : { onClick: () => go("studio", { name: s.name }) }
   }, React.createElement("div", {
     className: "t"
   }, window.RegionDot ? React.createElement(window.RegionDot, { country: s.country }) : null, s.name), React.createElement("div", {
@@ -139,8 +139,8 @@ function CollStudioList({
     className: "u"
   }, (s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")), React.createElement("div", {
     className: "arr"
-  }, "\u2192")))), studios.length > limit && React.createElement("button", {
-    onClick: () => setLimit(n => n + 120),
+  }, "→")))), studios.length > limit && React.createElement("button", {
+    onClick: () => setLimit((n) => n + 120),
     className: "link",
     style: {
       marginTop: 28,
@@ -150,7 +150,7 @@ function CollStudioList({
       textTransform: "uppercase",
       color: "var(--accent-text, var(--accent))"
     }
-  }, "Show more \u2014 ", studios.length - limit, " remaining"));
+  }, "Show more — ", studios.length - limit, " remaining"));
 }
 function CollectionView({
   kind,
@@ -161,13 +161,11 @@ function CollectionView({
   const cfg = COLLECTION_KINDS[kind];
   const studios = useCollMm(() => collStudiosFor(kind, value).sort((a, b) => (a.name || "").localeCompare(b.name || "")), [kind, value]);
   const facets = useCollMm(() => {
-    const disc = {},
-      countries = {},
-      cities = {};
+    const disc = {}, countries = {}, cities = {};
     for (const s of studios) {
-      s.category.split(",").map(x => x.trim()).filter(Boolean).forEach(c => disc[c] = (disc[c] || 0) + 1);
-      s.country.split(",").map(x => x.trim()).filter(Boolean).slice(0, kind === "region" ? 1 : 99).forEach(c => countries[c] = (countries[c] || 0) + 1);
-      s.city.split(",").map(x => x.trim()).filter(Boolean).slice(0, kind === "region" ? 1 : 99).forEach(c => cities[c] = (cities[c] || 0) + 1);
+      s.category.split(",").map((x) => x.trim()).filter(Boolean).forEach((c) => disc[c] = (disc[c] || 0) + 1);
+      s.country.split(",").map((x) => x.trim()).filter(Boolean).slice(0, kind === "region" ? 1 : 99).forEach((c) => countries[c] = (countries[c] || 0) + 1);
+      s.city.split(",").map((x) => x.trim()).filter(Boolean).slice(0, kind === "region" ? 1 : 99).forEach((c) => cities[c] = (cities[c] || 0) + 1);
     }
     const rank = (obj, exclude) => Object.entries(obj).filter(([k]) => k !== exclude).sort((a, b) => b[1] - a[1]);
     return {
@@ -194,7 +192,7 @@ function CollectionView({
         fontFamily: "var(--mono)",
         fontSize: 12
       }
-    }, "\u2190 Back to the index"));
+    }, "← Back to the index"));
   }
   const copy = collCopy(kind, value, studios.length);
   return React.createElement("div", {
@@ -209,13 +207,14 @@ function CollectionView({
     "aria-label": `All ${cfg.labelPlural}`
   }, React.createElement("span", {
     className: "arr"
-  }, "\u2190"), React.createElement("span", null, "All ", cfg.labelPlural.toLowerCase()))), React.createElement("div", {
+  }, "←"), React.createElement("span", null, "All ", cfg.labelPlural.toLowerCase()))), React.createElement("div", {
     className: "pd-head",
     style: {
       marginTop: 8
     }
   }, React.createElement("div", null, React.createElement(Eyebrow, null, React.createElement("span", null, cfg.label)), React.createElement("h2", {
-    role: "heading", "aria-level": 1, 
+    role: "heading",
+    "aria-level": 1,
     style: {
       marginTop: 14
     }
@@ -256,15 +255,15 @@ function CollectionView({
       paddingTop: 40
     }
   }, React.createElement(Eyebrow, null, React.createElement("span", null, "The studios")), React.createElement(CollStudioList, {
-    studios: studios,
-    go: go
+    studios,
+    go
   })));
 }
 function CollectionHubView({
   kind,
   go
 }) {
-  const singular = Object.keys(COLLECTION_KINDS).find(k => COLLECTION_KINDS[k].plural === kind) || "discipline";
+  const singular = Object.keys(COLLECTION_KINDS).find((k) => COLLECTION_KINDS[k].plural === kind) || "discipline";
   const cfg = COLLECTION_KINDS[singular];
   const d = window.SITE || {};
   const rows = useCollMm(() => {
@@ -277,7 +276,8 @@ function CollectionHubView({
   }, React.createElement("div", {
     className: "pd-head"
   }, React.createElement("div", null, React.createElement(Eyebrow, null, React.createElement("span", null, "Browse")), React.createElement("h2", {
-    role: "heading", "aria-level": 1, 
+    role: "heading",
+    "aria-level": 1,
     style: {
       marginTop: 14
     }
@@ -318,7 +318,7 @@ function CollectionHubView({
     className: "c"
   }, n, " ", n === 1 ? "studio" : "studios"), React.createElement("div", {
     className: "arr"
-  }, "\u2192")))));
+  }, "→")))));
 }
 Object.assign(window, {
   COLLECTION_KINDS,

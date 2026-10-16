@@ -335,6 +335,46 @@ ${items}
 }
 
 // ---------------------------------------------------------------------------
+// http -> https
+// ---------------------------------------------------------------------------
+async function upgradeToHttps(studios) {
+  const todo = studios.filter((s) => /^http:\/\//i.test(s.url || ''));
+  if (!todo.length) return;
+  const host = (u) => { try { return new URL(u).hostname.replace(/^www\./, '').toLowerCase(); } catch { return ''; } };
+  const label = (h) => { const p = h.split('.'); return p.length > 2 && p[p.length - 2].length <= 3 ? p[p.length - 3] : p[p.length - 2] || h; };
+  const probe = async (url) => {
+    const ctrl = new AbortController();
+    const t = setTimeout(() => ctrl.abort(), 10000);
+    try {
+      const res = await fetch(url, { redirect: 'follow', signal: ctrl.signal, headers: { 'user-agent': 'Mozilla/5.0 JustADesignList-Sync' } });
+      try { await res.body?.cancel(); } catch {}
+      return res.status < 400 || [401, 403, 429].includes(res.status) ? (res.url || url) : null;
+    } catch { return null; } finally { clearTimeout(t); }
+  };
+  // Sites already verified stay upgraded without asking again, so a passing
+  // network hiccup never flips a link back and forth between runs.
+  const { readFile, writeFile } = await import('node:fs/promises');
+  const KNOWN = 'scripts/https-ok.json';
+  let known = [];
+  try { known = JSON.parse(await readFile(KNOWN, 'utf8')); } catch {}
+  const knownSet = new Set(known);
+  let i = 0, up = 0, fresh = 0;
+  await Promise.all(Array.from({ length: 8 }, async () => {
+    while (i < todo.length) {
+      const s = todo[i++];
+      const https = s.url.replace(/^http:/i, 'https:');
+      if (knownSet.has(s.url)) { s.url = https; up++; continue; }
+      const final = await probe(https);
+      if (final && /^https:/i.test(final) && label(host(final)) === label(host(s.url))) { knownSet.add(s.url); s.url = https; up++; fresh++; }
+    }
+  }));
+  const still = new Set(todo.map((s) => s.url.replace(/^https:/i, 'http:')));
+  const next = [...knownSet].filter((u) => still.has(u)).sort();
+  if (JSON.stringify(next) !== JSON.stringify(known)) await writeFile(KNOWN, JSON.stringify(next, null, 1) + '\n', 'utf8');
+  console.log(`https: ${up} of ${todo.length} http:// websites shown as https:// (${fresh} newly checked).`);
+}
+
+// ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
 (async () => {
@@ -348,6 +388,10 @@ ${items}
     .sort((a, b) => a.name.localeCompare(b.name));
 
   console.log(`Mapped ${studios.length} studios.`);
+
+  // Show http:// websites as https:// when the https version works and stays
+  // on the same site. Notion keeps whatever was typed; only the site changes.
+  await upgradeToHttps(studios);
 
   // Write JSON (compact-ish: one studio per line via indent 2)
   const { writeFile } = await import('node:fs/promises');

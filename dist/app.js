@@ -7,8 +7,6 @@ const {
 function slugify(s) {
   return (s || "").toLowerCase().normalize("NFKD").replace(/[\u0300-\u036f]/g, "").replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
 }
-// Studios whose names give the same slug (e.g. "Ensemble" and "ENSEMBLE") keep
-// the plain slug for the oldest entry; later ones get their first city appended.
 function studioSlug(s, list) {
   const base = slugify(s && s.name);
   const same = (list || []).filter((x) => x && x.name && slugify(x.name) === base);
@@ -20,36 +18,33 @@ function studioSlug(s, list) {
 }
 function findStudioBySlug(slug) {
   const st = window.SITE && window.SITE.studios || [];
-  return st.find(s => studioSlug(s, st) === slug);
+  return st.find((s) => studioSlug(s, st) === slug);
 }
-window.studioSlug = s => studioSlug(s, window.SITE && window.SITE.studios || []);
+window.studioSlug = (s) => studioSlug(s, window.SITE && window.SITE.studios || []);
 const SITE_BASE = "https://justadesignlist.com";
 function routeToPath(r) {
   if (!r) return "/";
   switch (r.view) {
-    case "studio":
-      {
-        const st = window.SITE && window.SITE.studios || [];
-        const s = st.find(x => x.name === r.name);
-        return `/studio/${s ? studioSlug(s, st) : slugify(r.name || "")}`;
-      }
-    case "collection":
-      {
-        const cfg = (window.COLLECTION_KINDS || {})[r.kind];
-        return cfg ? `/${cfg.singular}/${slugify(r.value || "")}` : "/";
-      }
+    case "studio": {
+      const st = window.SITE && window.SITE.studios || [];
+      const s = st.find((x) => x.name === r.name);
+      return `/studio/${s ? studioSlug(s, st) : slugify(r.name || "")}`;
+    }
+    case "collection": {
+      const cfg = (window.COLLECTION_KINDS || {})[r.kind];
+      return cfg ? `/${cfg.singular}/${slugify(r.value || "")}` : "/";
+    }
     case "collectionHub":
       return `/${r.kind}`;
-    case "studios":
-      {
-        const f = r.filter || {};
-        const qs = new URLSearchParams();
-        if (f.cat) qs.set("cat", f.cat);
-        if (f.country) qs.set("country", f.country);
-        if (f.city) qs.set("city", f.city);
-        const q = qs.toString();
-        return q ? `/studios?${q}` : "/studios";
-      }
+    case "studios": {
+      const f = r.filter || {};
+      const qs = new URLSearchParams();
+      if (f.cat) qs.set("cat", f.cat);
+      if (f.country) qs.set("country", f.country);
+      if (f.city) qs.set("city", f.city);
+      const q = qs.toString();
+      return q ? `/studios?${q}` : "/studios";
+    }
     case "geography":
       return "/geography";
     case "categories":
@@ -104,7 +99,7 @@ function pathToRoute(pathname, search) {
     if (qs.get("city")) filter.city = qs.get("city");
     return {
       view: "studios",
-      filter: Object.keys(filter).length ? filter : undefined
+      filter: Object.keys(filter).length ? filter : void 0
     };
   }
   if (seg === "list") {
@@ -216,10 +211,6 @@ function collectionLd(name, description, url, studios) {
     }
   };
 }
-// Mirror of jsonLd() in scripts/prerender.mjs — keep the two in sync. This
-// runs client-side so SPA navigation between studios (e.g. the Random button)
-// gets correct per-studio structured data too, not just the prerendered
-// first-load page.
 function studioLd(s, url, desc) {
   const sameAs = [];
   if (s.url) sameAs.push(s.url);
@@ -238,8 +229,8 @@ function studioLd(s, url, desc) {
   if (s.city || s.country) {
     data.address = {
       "@type": "PostalAddress",
-      ...(s.city ? { addressLocality: s.city } : {}),
-      ...(s.country ? { addressCountry: s.country } : {})
+      ...s.city ? { addressLocality: s.city } : {},
+      ...s.country ? { addressCountry: s.country } : {}
     };
   }
   return data;
@@ -263,14 +254,14 @@ function setMeta(route) {
   let jsonld = [];
   const url = SITE_BASE + routeToPath(route);
   if (route.view === "studio") {
-    const s = (d.studios || []).find(x => x.name === route.name);
+    const s = (d.studios || []).find((x) => x.name === route.name);
     if (s) {
       const cat = (s.category || "").split(",")[0].trim();
       const loc = [s.city, s.country].filter(Boolean).join(", ");
       title = `${s.name} — ${cat}${loc ? ", " + loc : ""} · Just a Design List`;
       desc = `${s.name} is an independent design practice${loc ? " based in " + loc : ""}, working in ${(s.category || "design").toLowerCase()}. Indexed on Just a Design List.`;
       image = `${SITE_BASE}/api/og?name=${encodeURIComponent(s.name)}&meta=${encodeURIComponent([cat, loc].filter(Boolean).join(" · ") || "A curated directory of design practices")}&v=2`;
-      jsonld = [studioLd(s, url, desc), breadcrumbLd([["Home", SITE_BASE + "/"], ...(s.country ? [[s.country.split(",")[0].trim(), SITE_BASE + "/country/" + (window.collSlugify ? window.collSlugify(s.country.split(",")[0].trim()) : "")]] : [["Studios", SITE_BASE + "/studios"]]), [s.name, url]])];
+      jsonld = [studioLd(s, url, desc), breadcrumbLd([["Home", SITE_BASE + "/"], ...s.country ? [[s.country.split(",")[0].trim(), SITE_BASE + "/country/" + (window.collSlugify ? window.collSlugify(s.country.split(",")[0].trim()) : "")]] : [["Studios", SITE_BASE + "/studios"]], [s.name, url]])];
     }
   } else if (route.view === "index") {
     jsonld = [websiteLd(desc)];
@@ -306,7 +297,7 @@ function setMeta(route) {
     desc = route.shared ? "A list of design studios shared from Just a Design List." : "Studios you've saved on this browser.";
     if (route.shared) robots = "noindex, follow";
   } else if (route.view === "collectionHub") {
-    const cfg = Object.values(window.COLLECTION_KINDS || {}).find(c => c.plural === route.kind);
+    const cfg = Object.values(window.COLLECTION_KINDS || {}).find((c) => c.plural === route.kind);
     const lp = cfg ? cfg.labelPlural : "Collections";
     title = `Design studios by ${cfg ? cfg.singular : "collection"} · Just a Design List`;
     desc = `Browse the index of design studios by ${cfg ? cfg.singular : "collection"}. Every ${cfg ? cfg.singular : "collection"} represented across the directory.`;
@@ -354,14 +345,14 @@ function App() {
   });
   useEffect(() => {
     if (ready) return;
-    const p = window.SITE_READY || fetch("studios.json").then(r => r.json()).then(st => {
+    const p = window.SITE_READY || fetch("studios.json").then((r) => r.json()).then((st) => {
       window.SITE.studios = st;
       return window.SITE;
     });
     Promise.resolve(p).then(() => {
       setRoute(pathToRoute(window.location.pathname, window.location.search));
       setReady(true);
-    }).catch(err => {
+    }).catch((err) => {
       console.error("load failed", err);
       setReady(true);
     });
@@ -396,9 +387,6 @@ function App() {
     }
     setRoute(next);
   }
-  // ---------- Keyboard shortcut: "R" jumps to a random studio ----------
-  // Ignored while the user is typing (inputs, textareas, contenteditable) or
-  // holding a modifier key, so it never hijacks normal browser/OS shortcuts.
   useEffect(() => {
     if (!ready) return;
     function onKeyDown(e) {
@@ -430,7 +418,7 @@ function App() {
         letterSpacing: ".06em",
         textTransform: "uppercase"
       }
-    }, "Loading the index\u2026"), React.createElement("div", {
+    }, "Loading the index…"), React.createElement("div", {
       style: {
         fontFamily: "var(--serif)",
         fontSize: 40,
@@ -442,18 +430,18 @@ function App() {
   switch (route.view) {
     case "studios":
       body = React.createElement(StudiosView, {
-        go: go,
+        go,
         initialFilter: route.filter
       });
       break;
     case "geography":
       body = React.createElement(GeographyView, {
-        go: go
+        go
       });
       break;
     case "categories":
       body = React.createElement(CategoriesView, {
-        go: go
+        go
       });
       break;
     case "submit":
@@ -461,37 +449,37 @@ function App() {
       break;
     case "about":
       body = React.createElement(AboutView, {
-        go: go
+        go
       });
       break;
     case "list":
       body = React.createElement(MyListView, {
-        go: go,
+        go,
         shared: route.shared
       });
       break;
     case "studio":
       body = React.createElement(StudioDetail, {
         name: route.name,
-        go: go
+        go
       });
       break;
     case "collection":
       body = React.createElement(CollectionView, {
         kind: route.kind,
         value: route.value,
-        go: go
+        go
       });
       break;
     case "collectionHub":
       body = React.createElement(CollectionHubView, {
         kind: route.kind,
-        go: go
+        go
       });
       break;
     default:
       body = React.createElement(IndexView, {
-        go: go
+        go
       });
   }
   return React.createElement("div", {
@@ -499,9 +487,9 @@ function App() {
     "data-screen-label": route.view
   }, window.AnnounceBar ? React.createElement(window.AnnounceBar, null) : null, React.createElement(TopBar, {
     view: route.view,
-    go: go
+    go
   }), React.createElement("main", null, body), React.createElement(Footer, {
-    go: go
+    go
   }), React.createElement(Tweaks, null));
 }
 ReactDOM.createRoot(document.getElementById("root")).render(React.createElement(App, null));

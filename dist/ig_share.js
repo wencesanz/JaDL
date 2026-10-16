@@ -29,8 +29,7 @@ function pickIgPaperInk() {
   };
 }
 async function buildStudioImage(s, col, idx, total) {
-  const W = 1080,
-    H = 1350;
+  const W = 1080, H = 1350;
   const canvas = document.createElement("canvas");
   canvas.width = W;
   canvas.height = H;
@@ -42,8 +41,9 @@ async function buildStudioImage(s, col, idx, total) {
     rule
   } = pickIgPaperInk();
   try {
-    await Promise.all([document.fonts.load('600 120px Aileron'), document.fonts.load('400 30px Aileron'), document.fonts.load('500 22px "Paper Mono"')]).then(() => document.fonts.ready);
-  } catch {}
+    await Promise.all([document.fonts.load("600 120px Aileron"), document.fonts.load("400 30px Aileron"), document.fonts.load('500 22px "Paper Mono"')]).then(() => document.fonts.ready);
+  } catch {
+  }
   ctx.fillStyle = paper;
   ctx.fillRect(0, 0, W, H);
   const heroH = 760;
@@ -57,10 +57,7 @@ async function buildStudioImage(s, col, idx, total) {
       if (img.naturalWidth > 100) {
         const sa = img.naturalWidth / img.naturalHeight;
         const da = W / heroH;
-        let sx = 0,
-          sy = 0,
-          sw = img.naturalWidth,
-          sh = img.naturalHeight;
+        let sx = 0, sy = 0, sw = img.naturalWidth, sh = img.naturalHeight;
         if (sa > da) {
           sw = sh * da;
           sx = (img.naturalWidth - sw) / 2;
@@ -71,18 +68,19 @@ async function buildStudioImage(s, col, idx, total) {
         ctx.drawImage(img, sx, sy, sw, sh, 0, 0, W, heroH);
         drewShot = true;
       }
-    } catch (e) {}
+    } catch (e) {
+    }
   }
   if (!drewShot) {
     ctx.save();
     ctx.fillStyle = "rgba(15,15,14,0.22)";
-    let nameSize = 120;
+    let nameSize2 = 120;
     ctx.textAlign = "center";
     ctx.textBaseline = "middle";
-    ctx.font = `600 ${nameSize}px Aileron, "Helvetica Neue", Arial, sans-serif`;
-    while (ctx.measureText(s.name).width > W - 120 && nameSize > 56) {
-      nameSize -= 6;
-      ctx.font = `600 ${nameSize}px Aileron, "Helvetica Neue", Arial, sans-serif`;
+    ctx.font = `600 ${nameSize2}px Aileron, "Helvetica Neue", Arial, sans-serif`;
+    while (ctx.measureText(s.name).width > W - 120 && nameSize2 > 56) {
+      nameSize2 -= 6;
+      ctx.font = `600 ${nameSize2}px Aileron, "Helvetica Neue", Arial, sans-serif`;
     }
     ctx.fillText(s.name, W / 2, heroH / 2);
     ctx.restore();
@@ -127,7 +125,7 @@ async function buildStudioImage(s, col, idx, total) {
     ctx.textAlign = "right";
     ctx.fillText(host.toUpperCase(), W - pad, footerY);
   }
-  return await new Promise(resolve => canvas.toBlob(resolve, "image/png", 0.95));
+  return await new Promise((resolve) => canvas.toBlob(resolve, "image/png", 0.95));
 }
 function IGShareModal({
   s,
@@ -163,7 +161,7 @@ function IGShareModal({
     };
   }, [s.name]);
   useIgEffect(() => {
-    const onKey = e => {
+    const onKey = (e) => {
       if (e.key === "Escape") onClose();
     };
     window.addEventListener("keydown", onKey);
@@ -223,22 +221,22 @@ function IGShareModal({
     onClick: onClose
   }, React.createElement("div", {
     className: "ig-modal-inner",
-    onClick: e => e.stopPropagation()
+    onClick: (e) => e.stopPropagation()
   }, React.createElement("button", {
     className: "ig-close",
     onClick: onClose,
     "aria-label": "Close"
-  }, "\xD7"), React.createElement("div", {
+  }, "×"), React.createElement("div", {
     className: "ig-modal-head"
   }, React.createElement("div", {
     className: "ig-eyebrow"
-  }, "Share \xB7 Instagram"), React.createElement("h3", null, s.name), React.createElement("p", {
+  }, "Share · Instagram"), React.createElement("h3", null, s.name), React.createElement("p", {
     className: "ig-help"
-  }, "A 1080 \xD7 1350 card, ready for an Instagram post or Story.")), React.createElement("div", {
+  }, "A 1080 × 1350 card, ready for an Instagram post or Story.")), React.createElement("div", {
     className: "ig-preview-wrap"
   }, !url && !err && React.createElement("div", {
     className: "ig-loading"
-  }, "Composing image\u2026"), err && React.createElement("div", {
+  }, "Composing image…"), err && React.createElement("div", {
     className: "ig-loading"
   }, "Couldn't load the studio screenshot. Try again, or use one of the other share options."), url && React.createElement("img", {
     src: url,

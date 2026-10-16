@@ -1,0 +1,67 @@
+name: Capture website screenshots
+
+on:
+  # 2nd of every month, 03:17 UTC (the day after the link check)
+  schedule:
+    - cron: '17 3 2 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: capture-shots
+  cancel-in-progress: false
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Chromium and image tools
+        run: |
+          npm install --no-save --no-package-lock playwright@1.48.2 sharp@0.33.5
+          npx playwright install --with-deps chromium
+
+      # Start from last month's images, so a site that fails today keeps its old one.
+      - name: Get previous screenshots
+        run: |
+          mkdir -p shots/s
+          if git ls-remote --exit-code --heads origin shots >/dev/null; then
+            git fetch --depth 1 origin shots
+            git archive FETCH_HEAD | tar -x -C shots
+          fi
+
+      - name: Take screenshots
+        run: node scripts/capture-shots.mjs
+
+      # The images live on their own branch (one commit, replaced every month)
+      # so they never add weight to main. jsDelivr serves them from there.
+      - name: Publish the "shots" branch
+        id: publish
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd shots
+          printf '# Website screenshots\n\nGenerated monthly by .github/workflows/capture-shots.yml on main. Do not edit by hand.\n' > README.md
+          git init -q -b shots
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Screenshots $(date -u +%Y-%m-%d)"
+          git push -q --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" shots:shots
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Point the site at the new screenshots
+        run: |
+          node -e "const m=require('./shots/manifest.json');require('fs').writeFileSync('shots.json',JSON.stringify({ref:'${{ steps.publish.outputs.sha }}',at:m.at,slugs:m.slugs})+'\n')"
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add shots.json
+          git commit -q -m "chore: new website screenshots" || exit 0
+          for i in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 10; done

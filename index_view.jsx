@@ -1,165 +1,242 @@
-/* global React, Eyebrow */
-const { useState: useIdxState, useMemo: useIdxMemo, useEffect: useIdxEffect, useRef: useIdxRef } = React;
-
-// Pretty-print the `edited` field, whether it's ISO or Spanish-formatted.
+const {
+  useState: useIdxState,
+  useMemo: useIdxMemo,
+  useEffect: useIdxEffect,
+  useRef: useIdxRef
+} = React;
 function formatEdited(s) {
   if (!s) return "";
   const iso = Date.parse(s);
   if (!isNaN(iso)) {
     const d = new Date(iso);
-    return d.toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric" });
+    return d.toLocaleDateString("en-GB", {
+      day: "2-digit",
+      month: "short",
+      year: "numeric"
+    });
   }
-  // Already in Spanish prose — strip trailing time.
   return s.replace(/\s+\d{1,2}:\d{2}$/, "");
 }
-
-function IndexView({ go }) {
+function IndexView({
+  go
+}) {
   const d = window.SITE;
-
-  const top5Countries = useIdxMemo(
-    () => Object.entries(d.byCountry || {}).sort((a, b) => b[1] - a[1]).slice(0, 5),
-    []
-  );
-  const top5Cats = useIdxMemo(
-    () => d.categoriesOrder.filter((c) => d.byCat?.[c]).slice(0, 6).map((c) => [c, d.byCat[c]]),
-    []
-  );
-
-  return (
-    <div className="view">
-      {/* masthead — compact */}
-      <section className="masthead wrap masthead--tight">
-        <h1 style={{ marginTop: 20 }}>
-          <em className="count-accent">{d.totals?.studios || "—"}</em> design studios,<br />
-          collected <em>without ranking</em>.
-        </h1>
-        <p className="sub">
-          {d.statement}{" "}
-          <a className="link" onClick={() => go("studios")}>Read the full list</a>, or enter through
-          {" "}<a className="link" onClick={() => go("categories")}>discipline</a> or{" "}
-          <a className="link" onClick={() => go("geography")}>geography</a>.
-        </p>
-        {window.RandomInline ? <window.RandomInline go={go} /> : null}
-      </section>
-
-      {window.TodaysPick ? <window.TodaysPick go={go} /> : null}
-      {window.FollowBand ? <window.FollowBand /> : null}
-
-      {window.RecentlyViewed ? <window.RecentlyViewed go={go} /> : null}
-
-      <div className="hair wrap" style={{ marginTop: 24 }} />
-
-      {/* counts strip */}
-      <section className="wrap">
-        <div className="stats-strip">
-          <div className="stat"><span className="n">{d.totals?.studios}</span><span className="k">Studios indexed</span></div>
-          <div className="stat"><span className="n">{d.totals?.countries}</span><span className="k">Countries</span></div>
-          <div className="stat"><span className="n">{d.totals?.cities}</span><span className="k">Cities</span></div>
-          <div className="stat"><span className="n">{Object.keys(d.byCat||{}).length}</span><span className="k">Disciplines</span></div>
-        </div>
-      </section>
-
-      {/* typographic note */}
-      <section className="wrap" style={{ paddingTop: 80, paddingBottom: 80 }}>
-        <div className="home-note">
-          <Eyebrow num="§02">Note</Eyebrow>
-          <div className="home-note-body">
-            {d.note}
-          </div>
-        </div>
-      </section>
-
-      <div className="hair wrap" />
-
-      {/* quick access: disciplines */}
-      <section className="wrap" style={{ paddingTop: 64 }}>
-        <div className="sel-head">
-          <div>
-            <Eyebrow num="§03">By Discipline</Eyebrow>
-            <h2 style={{ marginTop: 14 }}>Enter through a category</h2>
-          </div>
-          <button onClick={() => go("categories")} style={{ fontFamily: "var(--mono)", fontSize: 11, letterSpacing: ".06em", textTransform: "uppercase", color: "var(--mute)" }}>
-            All categories &nbsp;→
-          </button>
-        </div>
-        <div className="cat-grid">
-          {top5Cats.map(([c, n]) => {
-            const col = (document.documentElement.getAttribute("data-theme") === "dark"
-              ? d.catColorsDark?.[c]
-              : d.catColors?.[c]) || "var(--ink)";
-            return (
-              <button key={c} className="cat-tile" style={{ "--cat-color": col }} onClick={() => go("studios", { filter: { cat: c } })}>
-                <div className="cnt">{n}</div>
-                <div className="nm">{c}</div>
-                <div className="bl">{d.categoryBlurbs[c]}</div>
-                <div className="arr">→</div>
-              </button>
-            );
-          })}
-        </div>
-      </section>
-
-      {/* recent additions */}
-      <section className="wrap" style={{ paddingTop: 80 }}>
-        <div className="sel-head">
-          <div>
-            <Eyebrow num="§04">Recent Additions</Eyebrow>
-            <h2 style={{ marginTop: 14 }}>Twenty most recent entries</h2>
-          </div>
-        </div>
-        <div className="recent-list">
-          {(d.recent || []).map((p) => (
-            <RecentRow key={p.name} p={p} go={go} />
-          ))}
-        </div>
-      </section>
-
-      {/* quick access: geography */}
-      <section className="wrap" style={{ paddingTop: 80 }}>
-        <div className="sel-head">
-          <div>
-            <Eyebrow num="§05">By Geography</Eyebrow>
-            <h2 style={{ marginTop: 14 }}>Five most represented countries</h2>
-          </div>
-          <button onClick={() => go("geography")} style={{ fontFamily: "var(--mono)", fontSize: 11, letterSpacing: ".06em", textTransform: "uppercase", color: "var(--mute)" }}>
-            All geography &nbsp;→
-          </button>
-        </div>
-        <div style={{ borderTop: "1px solid var(--rule)" }}>
-          {top5Countries.map(([c, n], i) => (
-            <div key={c} className="country-row" onClick={() => go("studios", { filter: { country: c } })}>
-              <div className="n">{String(i + 1).padStart(2, "0")}</div>
-              <div className="t">{c}</div>
-              <div className="bar"><div className="fill" style={{ width: `${(n / top5Countries[0][1]) * 100}%` }} /></div>
-              <div className="c">{n} studios</div>
-              <div className="arr">→</div>
-            </div>
-          ))}
-        </div>
-      </section>
-    </div>
-  );
+  const top5Countries = useIdxMemo(() => Object.entries(d.byCountry || {}).sort((a, b) => b[1] - a[1]).slice(0, 5), []);
+  const top5Cats = useIdxMemo(() => d.categoriesOrder.filter(c => d.byCat?.[c]).slice(0, 6).map(c => [c, d.byCat[c]]), []);
+  return React.createElement("div", {
+    className: "view"
+  }, React.createElement("section", {
+    className: "masthead wrap masthead--tight"
+  }, React.createElement("h1", {
+    style: {
+      marginTop: 20
+    }
+  }, "Studios and independent designers,", React.createElement("br", null), "collected ", React.createElement("em", null, "without ranking"), "."), React.createElement("p", {
+    className: "sub"
+  }, d.statement, " ", React.createElement("a", {
+    className: "link",
+    onClick: () => go("studios")
+  }, "Read the full list"), ", or enter through", " ", React.createElement("a", {
+    className: "link",
+    onClick: () => go("categories")
+  }, "discipline"), " or", " ", React.createElement("a", {
+    className: "link",
+    onClick: () => go("geography")
+  }, "geography"), "."), window.RandomInline ? React.createElement(window.RandomInline, {
+    go: go
+  }) : null), window.TodaysPick ? React.createElement(window.TodaysPick, {
+    go: go
+  }) : null, window.FollowBand ? React.createElement(window.FollowBand, null) : null, window.RecentlyViewed ? React.createElement(window.RecentlyViewed, {
+    go: go
+  }) : null, React.createElement("div", {
+    className: "hair wrap",
+    style: {
+      marginTop: 24
+    }
+  }), React.createElement("section", {
+    className: "wrap"
+  }, React.createElement("div", {
+    className: "stats-strip"
+  }, React.createElement("div", {
+    className: "stat"
+  }, React.createElement("span", {
+    className: "n"
+  }, d.totals?.studios), React.createElement("span", {
+    className: "k"
+  }, "Studios & designers")), React.createElement("div", {
+    className: "stat"
+  }, React.createElement("span", {
+    className: "n"
+  }, d.totals?.countries), React.createElement("span", {
+    className: "k"
+  }, "Countries")), React.createElement("div", {
+    className: "stat"
+  }, React.createElement("span", {
+    className: "n"
+  }, d.totals?.cities), React.createElement("span", {
+    className: "k"
+  }, "Cities")))), React.createElement("section", {
+    className: "wrap",
+    style: {
+      paddingTop: 80,
+      paddingBottom: 80
+    }
+  }, React.createElement("div", {
+    className: "home-note"
+  }, React.createElement(Eyebrow, {
+    num: "\xA702"
+  }, "Note"), React.createElement("div", {
+    className: "home-note-body"
+  }, d.note))), React.createElement("div", {
+    className: "hair wrap"
+  }), React.createElement("section", {
+    className: "wrap",
+    style: {
+      paddingTop: 64
+    }
+  }, React.createElement("div", {
+    className: "sel-head"
+  }, React.createElement("div", null, React.createElement(Eyebrow, {
+    num: "\xA703"
+  }, "By Discipline"), React.createElement("h2", {
+    style: {
+      marginTop: 14
+    }
+  }, "Enter through a category")), React.createElement("button", {
+    onClick: () => go("categories"),
+    style: {
+      fontFamily: "var(--mono)",
+      fontSize: 11,
+      letterSpacing: ".06em",
+      textTransform: "uppercase",
+      color: "var(--mute)"
+    }
+  }, "All categories \xA0\u2192")), React.createElement("div", {
+    className: "cat-grid"
+  }, top5Cats.map(([c, n]) => {
+    const col = (document.documentElement.getAttribute("data-theme") === "dark" ? d.catColorsDark?.[c] : d.catColors?.[c]) || "var(--ink)";
+    return React.createElement("button", {
+      key: c,
+      className: "cat-tile",
+      style: {
+        "--cat-color": col
+      },
+      onClick: () => go("studios", {
+        filter: {
+          cat: c
+        }
+      })
+    }, React.createElement("div", {
+      className: "cnt"
+    }, n), React.createElement("div", {
+      className: "nm"
+    }, c), React.createElement("div", {
+      className: "bl"
+    }, d.categoryBlurbs[c]), React.createElement("div", {
+      className: "arr"
+    }, "\u2192"));
+  }))), React.createElement("section", {
+    className: "wrap",
+    style: {
+      paddingTop: 80
+    }
+  }, React.createElement("div", {
+    className: "sel-head"
+  }, React.createElement("div", null, React.createElement(Eyebrow, {
+    num: "\xA704"
+  }, "Recent Additions"), React.createElement("h2", {
+    style: {
+      marginTop: 14
+    }
+  }, "Twenty most recent entries"))), React.createElement("div", {
+    className: "recent-list"
+  }, (d.recent || []).map(p => React.createElement(RecentRow, {
+    key: p.name,
+    p: p,
+    go: go
+  })))), React.createElement("section", {
+    className: "wrap",
+    style: {
+      paddingTop: 80
+    }
+  }, React.createElement("div", {
+    className: "sel-head"
+  }, React.createElement("div", null, React.createElement(Eyebrow, {
+    num: "\xA705"
+  }, "By Geography"), React.createElement("h2", {
+    style: {
+      marginTop: 14
+    }
+  }, "Five most represented countries")), React.createElement("button", {
+    onClick: () => go("geography"),
+    style: {
+      fontFamily: "var(--mono)",
+      fontSize: 11,
+      letterSpacing: ".06em",
+      textTransform: "uppercase",
+      color: "var(--mute)"
+    }
+  }, "All geography \xA0\u2192")), React.createElement("div", {
+    style: {
+      borderTop: "1px solid var(--rule)"
+    }
+  }, top5Countries.map(([c, n], i) => React.createElement("div", {
+    key: c,
+    className: "country-row",
+    onClick: () => go("studios", {
+      filter: {
+        country: c
+      }
+    })
+  }, React.createElement("div", {
+    className: "n"
+  }, String(i + 1).padStart(2, "0")), React.createElement("div", {
+    className: "t"
+  }, c), React.createElement("div", {
+    className: "bar"
+  }, React.createElement("div", {
+    className: "fill",
+    style: {
+      width: `${n / top5Countries[0][1] * 100}%`
+    }
+  })), React.createElement("div", {
+    className: "c"
+  }, n, " studios"), React.createElement("div", {
+    className: "arr"
+  }, "\u2192"))))));
 }
-
-// Row with the same cursor-following screenshot preview used on the /studios list.
-function RecentRow({ p, go }) {
+function RecentRow({
+  p,
+  go
+}) {
   const [hover, setHover] = useIdxState(false);
   const boxRef = useIdxRef(null);
-  const target = useIdxRef({ x: 0, y: 0 });
-  const cur = useIdxRef({ x: 0, y: 0 });
+  const target = useIdxRef({
+    x: 0,
+    y: 0
+  });
+  const cur = useIdxRef({
+    x: 0,
+    y: 0
+  });
   const raf = useIdxRef(0);
   const primed = useIdxRef(false);
-  const shot = p.url
-    ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(p.url)}?w=520&h=400`
-    : null;
-
-  // Smoothly ease the preview toward the cursor (trailing / inertia motion).
+  const shot = window.jadlShot ? window.jadlShot(p, 520, 400) : (p.url ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(p.url)}?w=520&h=400` : null);
   useIdxEffect(() => {
-    if (!hover) { primed.current = false; cancelAnimationFrame(raf.current); return; }
+    if (!hover) {
+      primed.current = false;
+      cancelAnimationFrame(raf.current);
+      return;
+    }
     const tick = () => {
       const el = boxRef.current;
       if (el) {
-        if (!primed.current) { cur.current = { ...target.current }; primed.current = true; }
+        if (!primed.current) {
+          cur.current = {
+            ...target.current
+          };
+          primed.current = true;
+        }
         cur.current.x += (target.current.x - cur.current.x) * 0.16;
         cur.current.y += (target.current.y - cur.current.y) * 0.16;
         el.style.transform = `translate(${cur.current.x + 24}px, ${cur.current.y - 140}px)`;
@@ -169,48 +246,47 @@ function RecentRow({ p, go }) {
     raf.current = requestAnimationFrame(tick);
     return () => cancelAnimationFrame(raf.current);
   }, [hover]);
-
-  return (
-    <a
-      className="recent-row"
-      {...(window.jadlStudioLink ? window.jadlStudioLink(p, () => go("studio", { name: p.name })) : { onClick: () => go("studio", { name: p.name }) })}
-      onMouseEnter={() => setHover(true)}
-      onMouseLeave={() => setHover(false)}
-      onMouseMove={(e) => { target.current = { x: e.clientX, y: e.clientY }; }}
-    >
-      <div className="d">{formatEdited(p.created || p.edited)}</div>
-      <div className="t">{p.name}</div>
-      <div className="c">{p.city}{p.city && p.country ? ", " : ""}{p.country}</div>
-      <div className="k">{(p.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")}</div>
-      {hover && shot && (
-        <div ref={boxRef} className="row-preview-follow">
-          <div className="row-preview">
-            <img
-              src={shot}
-              alt=""
-              onError={(e) => { e.currentTarget.style.display = "none"; }}
-            />
-          </div>
-        </div>
-      )}
-    </a>
-  );
+  return React.createElement("a", {
+    className: "recent-row",
+    ...(window.jadlStudioLink ? window.jadlStudioLink(p, () => go("studio", { name: p.name })) : { onClick: () => go("studio", { name: p.name }) }),
+    onMouseEnter: () => setHover(true),
+    onMouseLeave: () => setHover(false),
+    onMouseMove: e => {
+      target.current = {
+        x: e.clientX,
+        y: e.clientY
+      };
+    }
+  }, React.createElement("div", {
+    className: "d"
+  }, formatEdited(p.created || p.edited)), React.createElement("div", {
+    className: "t"
+  }, p.name), React.createElement("div", {
+    className: "c"
+  }, p.city, p.city && p.country ? ", " : "", p.country), React.createElement("div", {
+    className: "k"
+  }, (p.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")), hover && shot && React.createElement("div", {
+    ref: boxRef,
+    className: "row-preview-follow"
+  }, React.createElement("div", {
+    className: "row-preview"
+  }, React.createElement("img", {
+    src: shot,
+    alt: "",
+    onError: e => {
+      e.currentTarget.style.display = "none";
+    }
+  }))));
 }
-
-/* =============================================================
-   EDITORIAL GRID — uniform 4×3 grid of 12 tiles.
-   Picks 12 random studios (with URLs) from the pool on each load,
-   then periodically rotates one tile for a "living" front page.
-   ============================================================= */
-function EditorialGrid({ studios, go }) {
+function EditorialGrid({
+  studios,
+  go
+}) {
   const d = window.SITE;
-  // Pool = any studio with a URL; fall back to `studios` prop if empty.
   const pool = useIdxMemo(() => {
-    const all = (d.studios || []).filter((s) => s && s.url);
-    return all.length ? all : (studios || []);
+    const all = (d.studios || []).filter(s => s && s.url);
+    return all.length ? all : studios || [];
   }, []);
-
-  // Fisher-Yates shuffle → take 12
   const pickTwelve = React.useCallback(() => {
     const a = pool.slice();
     for (let i = a.length - 1; i > 0; i--) {
@@ -219,89 +295,98 @@ function EditorialGrid({ studios, go }) {
     }
     return a.slice(0, 12);
   }, [pool]);
-
   const [tiles] = useIdxState(() => pickTwelve());
-
   if (!tiles.length) return null;
-
-  return (
-    <section className="wrap" style={{ paddingTop: 24, paddingBottom: 48 }}>
-      <div className="eg-head">
-        <Eyebrow num="§01">Editor's Selection</Eyebrow>
-        <div className="eg-head-meta">Twelve studios, chosen this month</div>
-      </div>
-      <div className="eg-grid">
-        {tiles.map((s, i) => (
-          <EditorialTile key={s.name + "@" + i} s={s} size={(i % 12) + 1} index={i} onOpen={() => go("studio", { name: s.name })} />
-        ))}
-      </div>
-    </section>
-  );
+  return React.createElement("section", {
+    className: "wrap",
+    style: {
+      paddingTop: 24,
+      paddingBottom: 48
+    }
+  }, React.createElement("div", {
+    className: "eg-head"
+  }, React.createElement(Eyebrow, {
+    num: "\xA701"
+  }, "Editor's Selection"), React.createElement("div", {
+    className: "eg-head-meta"
+  }, "Twelve studios, chosen this month")), React.createElement("div", {
+    className: "eg-grid"
+  }, tiles.map((s, i) => React.createElement(EditorialTile, {
+    key: s.name + "@" + i,
+    s: s,
+    size: i % 12 + 1,
+    index: i,
+    onOpen: () => go("studio", {
+      name: s.name
+    })
+  }))));
 }
-
-function EditorialTile({ s, size, index, onOpen }) {
+function EditorialTile({
+  s,
+  size,
+  index,
+  onOpen
+}) {
   const [loaded, setLoaded] = useIdxState(false);
   const [failed, setFailed] = useIdxState(false);
   const ref = useIdxRef(null);
   const [inView, setInView] = useIdxState(false);
-
-  // Lazy-load: only request the screenshot when tile enters viewport
   useIdxEffect(() => {
     if (!ref.current) return;
-    const obs = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((e) => {
-          if (e.isIntersecting) { setInView(true); obs.disconnect(); }
-        });
-      },
-      { rootMargin: "200px" }
-    );
+    const obs = new IntersectionObserver(entries => {
+      entries.forEach(e => {
+        if (e.isIntersecting) {
+          setInView(true);
+          obs.disconnect();
+        }
+      });
+    }, {
+      rootMargin: "200px"
+    });
     obs.observe(ref.current);
     return () => obs.disconnect();
   }, []);
-
   const host = (s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "").replace(/^www\./, "");
-  // Different resolutions per size to save bandwidth — larger tiles get bigger shots
   const shotW = size <= 2 ? 1200 : 700;
   const shotH = size <= 2 ? 900 : 540;
-  const shot = s.url && inView
-    ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=${shotW}&h=${shotH}`
-    : null;
+  const shot = s.url && inView ? (window.jadlShot ? window.jadlShot(s, shotW, shotH) : `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=${shotW}&h=${shotH}`) : null;
   const firstCat = (s.category || "").split(",")[0].trim();
   const col = window.SITE.catColors?.[firstCat] || "#D8CFBD";
-
-  return (
-    <div
-      ref={ref}
-      className={`eg-tile eg-tile--size${size}`}
-      onClick={onOpen}
-      style={{ "--tile-col": col }}
-    >
-      <div className="eg-frame">
-        {shot && !failed && (
-          <img
-            src={shot}
-            alt={`${s.name} — ${host}`}
-            loading="lazy"
-            onLoad={(e) => { if (e.target.naturalWidth > 100) setLoaded(true); else setFailed(true); }}
-            onError={() => setFailed(true)}
-            className="eg-img"
-            style={{ opacity: loaded ? 1 : 0 }}
-          />
-        )}
-        {!loaded && (
-          <div className="eg-placeholder">
-            <span className="eg-ph-name">{s.name}</span>
-          </div>
-        )}
-      </div>
-      <div className="eg-meta">
-        <div className="eg-name">{s.name}</div>
-        <div className="eg-loc">{s.city}{s.city && s.country ? ", " : ""}{s.country}</div>
-        <div className="eg-host">{host} ↗</div>
-      </div>
-    </div>
-  );
+  return React.createElement("div", {
+    ref: ref,
+    className: `eg-tile eg-tile--size${size}`,
+    onClick: onOpen,
+    style: {
+      "--tile-col": col
+    }
+  }, React.createElement("div", {
+    className: "eg-frame"
+  }, shot && !failed && React.createElement("img", {
+    src: shot,
+    alt: `${s.name} — ${host}`,
+    loading: "lazy",
+    onLoad: e => {
+      if (e.target.naturalWidth > 100) setLoaded(true);else setFailed(true);
+    },
+    onError: () => setFailed(true),
+    className: "eg-img",
+    style: {
+      opacity: loaded ? 1 : 0
+    }
+  }), !loaded && React.createElement("div", {
+    className: "eg-placeholder"
+  }, React.createElement("span", {
+    className: "eg-ph-name"
+  }, s.name))), React.createElement("div", {
+    className: "eg-meta"
+  }, React.createElement("div", {
+    className: "eg-name"
+  }, s.name), React.createElement("div", {
+    className: "eg-loc"
+  }, s.city, s.city && s.country ? ", " : "", s.country), React.createElement("div", {
+    className: "eg-host"
+  }, host, " \u2197")));
 }
-
-Object.assign(window, { IndexView });
+Object.assign(window, {
+  IndexView
+});

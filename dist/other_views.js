@@ -17,9 +17,10 @@ function GeographyView({
   }, React.createElement("div", {
     className: "studios-head"
   }, React.createElement("div", null, React.createElement(Eyebrow, {
-    num: "\xA7G"
+    num: "§G"
   }, "Geography"), React.createElement("h2", {
-    role: "heading", "aria-level": 1, 
+    role: "heading",
+    "aria-level": 1,
     style: {
       marginTop: 14
     }
@@ -44,7 +45,7 @@ function GeographyView({
     "data-on": tab === k,
     onClick: () => setTab(k)
   }, l)))))), window.WorldChoropleth ? React.createElement(window.WorldChoropleth, {
-    go: go
+    go
   }) : null, tab === "countries" ? React.createElement("div", {
     style: {
       borderTop: "1px solid var(--rule)"
@@ -71,7 +72,7 @@ function GeographyView({
     className: "c"
   }, n, " studio", n === 1 ? "" : "s"), React.createElement("div", {
     className: "arr"
-  }, "\u2192")))) : React.createElement("div", {
+  }, "→")))) : React.createElement("div", {
     style: {
       borderTop: "1px solid var(--rule)"
     }
@@ -97,7 +98,7 @@ function GeographyView({
     className: "c"
   }, n, " studio", n === 1 ? "" : "s"), React.createElement("div", {
     className: "arr"
-  }, "\u2192"))), React.createElement("div", {
+  }, "→"))), React.createElement("div", {
     style: {
       padding: "24px 0",
       fontFamily: "var(--mono)",
@@ -106,22 +107,23 @@ function GeographyView({
       letterSpacing: ".05em",
       textTransform: "uppercase"
     }
-  }, "Top 30 shown \xB7 ", d.totals?.cities, " cities in total")));
+  }, "Top 30 shown · ", d.totals?.cities, " cities in total")));
 }
 function CategoriesView({
   go
 }) {
   const d = window.SITE;
-  const cats = d.categoriesOrder.filter(c => d.byCat?.[c]);
-  const max = Math.max(...cats.map(c => d.byCat[c]));
+  const cats = d.categoriesOrder.filter((c) => d.byCat?.[c]);
+  const max = Math.max(...cats.map((c) => d.byCat[c]));
   return React.createElement("div", {
     className: "view wrap"
   }, React.createElement("div", {
     className: "studios-head"
   }, React.createElement("div", null, React.createElement(Eyebrow, {
-    num: "\xA7C"
+    num: "§C"
   }, "Categories"), React.createElement("h2", {
-    role: "heading", "aria-level": 1, 
+    role: "heading",
+    "aria-level": 1,
     style: {
       marginTop: 14
     }
@@ -138,7 +140,7 @@ function CategoriesView({
     const colDark = d.catColorsDark?.[c] || col;
     const isDark = document.documentElement.getAttribute("data-theme") === "dark";
     const textCol = isDark ? colDark : col;
-    const exemplars = (d.studios || []).filter(s => s.category.split(",").map(x => x.trim()).includes(c)).slice(0, 4);
+    const exemplars = (d.studios || []).filter((s) => s.category.split(",").map((x) => x.trim()).includes(c)).slice(0, 4);
     return React.createElement("div", {
       key: c,
       className: "cat-long-row",
@@ -155,7 +157,7 @@ function CategoriesView({
       className: "bl"
     }, d.categoryBlurbs[c]), React.createElement("div", {
       className: "ex"
-    }, exemplars.map(s => s.name).join(" · ")), React.createElement("div", {
+    }, exemplars.map((s) => s.name).join(" · ")), React.createElement("div", {
       className: "bar"
     }, React.createElement("div", {
       className: "fill",
@@ -167,7 +169,7 @@ function CategoriesView({
       className: "ct"
     }, d.byCat[c]), React.createElement("div", {
       className: "arr"
-    }, "\u2192"));
+    }, "→"));
   })));
 }
 function AboutView() {
@@ -177,9 +179,10 @@ function AboutView() {
   }, React.createElement("div", {
     className: "about-head"
   }, React.createElement(Eyebrow, {
-    num: "\xA7B"
+    num: "§B"
   }, "Colophon"), React.createElement("h2", {
-    role: "heading", "aria-level": 1, 
+    role: "heading",
+    "aria-level": 1,
     style: {
       marginTop: 14
     }
@@ -206,7 +209,7 @@ function AboutView() {
     }
   }, React.createElement("span", null, "Every entry is personally curated."), React.createElement("span", null, "No ranking, no rating."), React.createElement("span", null, "Links checked quarterly."), React.createElement("span", null, "Removed entries leave no trace."))), React.createElement("div", {
     className: "about-body"
-  }, React.createElement("p", null, "Just a Design List is a personal reading list that grew too long to keep privately. It began in 2023 as a list of bookmarks, and is now a small, slow public archive \u2014 a place to point at studios whose work rewards close attention, without the obligation of a review."), React.createElement("p", null, React.createElement("strong", {
+  }, React.createElement("p", null, "Just a Design List is a personal reading list that grew too long to keep privately. It began in 2023 as a list of bookmarks, and is now a small, slow public archive — a place to point at studios whose work rewards close attention, without the obligation of a review."), React.createElement("p", null, React.createElement("strong", {
     style: {
       fontWeight: 500
     }
@@ -255,7 +258,7 @@ function AboutView() {
     className: "v"
   }, "wenceslaosanz.rocks"), React.createElement("span", {
     className: "a"
-  }, "\u2197")), React.createElement("a", {
+  }, "↗")), React.createElement("a", {
     className: "editor-link",
     href: "https://www.linkedin.com/in/wenceslaosanz/",
     target: "_blank",
@@ -266,7 +269,7 @@ function AboutView() {
     className: "v"
   }, "in/wenceslaosanz"), React.createElement("span", {
     className: "a"
-  }, "\u2197")), React.createElement("a", {
+  }, "↗")), React.createElement("a", {
     className: "editor-link",
     href: `mailto:${d.contact.email}`
   }, React.createElement("span", {
@@ -275,7 +278,7 @@ function AboutView() {
     className: "v"
   }, d.contact.email), React.createElement("span", {
     className: "a"
-  }, "\u2197")))))), React.createElement("div", {
+  }, "↗")))))), React.createElement("div", {
     style: {
       marginTop: 120,
       paddingTop: 48,
@@ -292,7 +295,7 @@ function AboutView() {
       gridColumn: "1 / span 3"
     }
   }, React.createElement(Eyebrow, {
-    num: "\xA7B.01"
+    num: "§B.01"
   }, "Write")), React.createElement("div", {
     style: {
       gridColumn: "4 / span 9",
@@ -302,7 +305,7 @@ function AboutView() {
       letterSpacing: "-0.015em",
       maxWidth: "26ch"
     }
-  }, "To propose a studio, correct an error, or simply say hello \u2014 ", React.createElement("a", {
+  }, "To propose a studio, correct an error, or simply say hello — ", React.createElement("a", {
     className: "link",
     href: `mailto:${d.contact.email}`
   }, d.contact.email), "."))));

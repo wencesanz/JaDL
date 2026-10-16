@@ -13,9 +13,9 @@ function Eyebrow({
   }, children);
 }
 function Clock() {
-  const [now, setNow] = useState(new Date());
+  const [now, setNow] = useState(/* @__PURE__ */ new Date());
   useEffect(() => {
-    const t = setInterval(() => setNow(new Date()), 30_000);
+    const t = setInterval(() => setNow(/* @__PURE__ */ new Date()), 3e4);
     return () => clearInterval(t);
   }, []);
   const fmt = now.toLocaleTimeString("en-GB", {
@@ -27,7 +27,7 @@ function Clock() {
     className: "clock"
   }, React.createElement("span", {
     className: "dot"
-  }), " Madrid \xB7 ", fmt, " CET");
+  }), " Madrid · ", fmt, " CET");
 }
 function ThemeToggle() {
   const [dark, setDark] = useState(() => {
@@ -39,14 +39,16 @@ function ThemeToggle() {
   });
   useEffect(() => {
     const root = document.documentElement;
-    if (dark) root.setAttribute("data-theme", "dark");else root.removeAttribute("data-theme");
+    if (dark) root.setAttribute("data-theme", "dark");
+    else root.removeAttribute("data-theme");
     try {
       localStorage.setItem("tsi_theme", dark ? "dark" : "light");
-    } catch {}
+    } catch {
+    }
   }, [dark]);
   return React.createElement("button", {
     className: "theme-toggle",
-    onClick: () => setDark(v => !v),
+    onClick: () => setDark((v) => !v),
     "aria-label": dark ? "Switch to light theme" : "Switch to dark theme",
     title: dark ? "Switch to light" : "Switch to dark"
   }, React.createElement("svg", {
@@ -98,7 +100,7 @@ function TopBar({
       document.body.style.overflow = "";
     };
   }, [menuOpen]);
-  const goAndClose = k => {
+  const goAndClose = (k) => {
     setMenuOpen(false);
     go(k);
   };
@@ -109,7 +111,11 @@ function TopBar({
   }, React.createElement("a", {
     href: "/",
     "aria-label": "Just a Design List, home",
-    onClick: e => { if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return; e.preventDefault(); go("index"); },
+    onClick: (e) => {
+      if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+      e.preventDefault();
+      go("index");
+    },
     style: {
       cursor: "pointer",
       color: "inherit"
@@ -131,14 +137,14 @@ function TopBar({
   }, items.map(([k, label]) => React.createElement("button", {
     key: k,
     onClick: () => go(k),
-    "aria-current": view === k ? "page" : undefined
+    "aria-current": view === k ? "page" : void 0
   }, label, k === "list" && savedCount > 0 ? React.createElement("sup", {
     className: "nav-count"
   }, savedCount) : null))), React.createElement("div", {
     className: "topbar-right"
   }, React.createElement(ThemeToggle, null), React.createElement("button", {
     className: "menu-toggle",
-    onClick: () => setMenuOpen(v => !v),
+    onClick: () => setMenuOpen((v) => !v),
     "aria-label": menuOpen ? "Close menu" : "Open menu",
     "aria-expanded": menuOpen
   }, React.createElement("span", {
@@ -150,14 +156,13 @@ function TopBar({
   }, items.map(([k, label]) => React.createElement("button", {
     key: k,
     onClick: () => goAndClose(k),
-    "aria-current": view === k ? "page" : undefined,
+    "aria-current": view === k ? "page" : void 0,
     className: view === k ? "is-current" : ""
   }, label, k === "list" && savedCount > 0 ? React.createElement("sup", {
     className: "nav-count"
   }, savedCount) : null))));
 }
 function CuratorAvatar() {
-  // Peeks out of its disc once, the first time the footer scrolls into view.
   const ref = React.useRef(null);
   const [seen, setSeen] = useState(false);
   useEffect(() => {
@@ -166,8 +171,8 @@ function CuratorAvatar() {
       setSeen(true);
       return;
     }
-    const io = new IntersectionObserver(entries => {
-      if (entries.some(e => e.isIntersecting)) {
+    const io = new IntersectionObserver((entries) => {
+      if (entries.some((e) => e.isIntersecting)) {
         setSeen(true);
         io.disconnect();
       }
@@ -178,7 +183,7 @@ function CuratorAvatar() {
     return () => io.disconnect();
   }, []);
   return React.createElement("span", {
-    ref: ref,
+    ref,
     className: `curator-av ${seen ? "is-in" : ""}`,
     "aria-hidden": "true"
   }, React.createElement("img", {
@@ -241,37 +246,37 @@ function Footer({
     }
   }, React.createElement("span", null, "Submit a studio or designer"), React.createElement("span", {
     className: "arr"
-  }, "\u2192")), React.createElement("a", {
+  }, "→")), React.createElement("a", {
     href: "https://x.com/justadesignlist",
     target: "_blank",
     rel: "noopener"
   }, React.createElement("span", null, "X"), React.createElement("span", {
     className: "arr"
-  }, "\u2197")), React.createElement("a", {
+  }, "↗")), React.createElement("a", {
     href: "https://www.instagram.com/justadesignlist/",
     target: "_blank",
     rel: "noopener"
   }, React.createElement("span", null, "Instagram"), React.createElement("span", {
     className: "arr"
-  }, "\u2197")), React.createElement("a", {
+  }, "↗")), React.createElement("a", {
     href: "https://www.linkedin.com/in/wenceslaosanz/",
     target: "_blank",
     rel: "noopener"
   }, React.createElement("span", null, "LinkedIn"), React.createElement("span", {
     className: "arr"
-  }, "\u2197")), React.createElement("a", {
+  }, "↗")), React.createElement("a", {
     href: "/feed.xml",
     target: "_blank",
     rel: "noopener"
   }, React.createElement("span", null, "RSS feed"), React.createElement("span", {
     className: "arr"
-  }, "\u2197"))), window.NewsletterNote ? React.createElement(window.NewsletterNote, null) : null, React.createElement("div", {
+  }, "↗"))), window.NewsletterNote ? React.createElement(window.NewsletterNote, null) : null, React.createElement("div", {
     className: "sponsor"
   }, React.createElement("span", null, "Just a Design List is an independent side project. Interested in sponsoring it?"), React.createElement("a", {
     href: "mailto:wencesanz@gmail.com?subject=SPONSOR"
   }, "Get in touch", React.createElement("span", {
     className: "arr"
-  }, "\u2192"))), React.createElement("div", {
+  }, "→"))), React.createElement("div", {
     className: "colophon"
   }, d.colophon.map((l, i) => /Wences/.test(l) ? React.createElement("a", {
     key: i,
@@ -296,7 +301,7 @@ function Footer({
       fontFamily: "var(--mono)",
       fontSize: 11
     }
-  }, "\u2191 Back to top")))));
+  }, "↑ Back to top")))));
 }
 Object.assign(window, {
   Eyebrow,

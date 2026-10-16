@@ -4,8 +4,8 @@ let lastRandomName = null;
 function pickRandomStudio(excludeName) {
   const all = window.SITE && window.SITE.studios || [];
   if (!all.length) return null;
-  let pool = all.filter(s => s.name !== excludeName && s.name !== lastRandomName);
-  if (!pool.length) pool = all.filter(s => s.name !== excludeName);
+  let pool = all.filter((s) => s.name !== excludeName && s.name !== lastRandomName);
+  if (!pool.length) pool = all.filter((s) => s.name !== excludeName);
   if (!pool.length) pool = all;
   const pick = pool[Math.floor(Math.random() * pool.length)];
   lastRandomName = pick.name;
@@ -45,7 +45,7 @@ function RandomCTA({
   }, React.createElement("span", null, "Open a random studio"), React.createElement("span", {
     className: `random-glyph ${spin ? "is-spin" : ""}`,
     "aria-hidden": "true"
-  }, "\u2933"), React.createElement(RandomKbd, null))));
+  }, "⤳"), React.createElement(RandomKbd, null))));
 }
 function RandomButton({
   go,
@@ -67,7 +67,7 @@ function RandomButton({
     className: `random-glyph ${spin ? "is-spin" : ""}`,
     onAnimationEnd: () => setSpin(false),
     "aria-hidden": "true"
-  }, "\u2933"), React.createElement(RandomKbd, null));
+  }, "⤳"), React.createElement(RandomKbd, null));
 }
 Object.assign(window, {
   pickRandomStudio,
@@ -93,6 +93,6 @@ function RandomInline({
     className: `random-glyph ${spin ? "is-spin" : ""}`,
     onAnimationEnd: () => setSpin(false),
     "aria-hidden": "true"
-  }, "\u2933"), React.createElement(RandomKbd, null));
+  }, "⤳"), React.createElement(RandomKbd, null));
 }
 })();

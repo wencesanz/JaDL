@@ -1,12 +1,12 @@
-/* global React, Eyebrow */
-const { useMemo: usePdMm, useState: usePdState, useEffect: usePdEffect } = React;
-
-// Format a raw "edited" value to a readable, editorial English date.
-// Handles both ISO ("2023-06-04T17:48:00.000Z") and Spanish-formatted
-// ("29 de mayo de 2023 12:18") strings.
+const {
+  useMemo: usePdMm,
+  useState: usePdState,
+  useEffect: usePdEffect
+} = React;
+const h = React.createElement;
 const ES_MONTHS = {
   enero: 0, febrero: 1, marzo: 2, abril: 3, mayo: 4, junio: 5,
-  julio: 6, agosto: 7, septiembre: 8, octubre: 9, noviembre: 10, diciembre: 11,
+  julio: 6, agosto: 7, septiembre: 8, octubre: 9, noviembre: 10, diciembre: 11
 };
 function formatIndexed(raw) {
   if (!raw) return "—";
@@ -25,13 +25,12 @@ function formatIndexed(raw) {
   if (!d) return raw;
   try {
     return new Intl.DateTimeFormat("en-GB", {
-      day: "numeric", month: "short", year: "numeric", timeZone: "UTC",
+      day: "numeric", month: "short", year: "numeric", timeZone: "UTC"
     }).format(d);
   } catch {
     return d.toDateString();
   }
 }
-
 const SD_STYLE_ID = "sd-detail-styles";
 const SD_CSS = "/* Studio detail — new text + image layout.\n   Injected by this file on purpose: it must not depend on styles.css being\n   patched, nor on the stylesheet cache being fresh. Uses existing tokens\n   (--rule, --mute, --ink, --serif, --mono), so light/dark still apply. */\n.pd-head--stack {\n  display: block !important;\n  grid-template-columns: none !important;\n  padding: clamp(48px, 7vw, 110px) 0 36px;\n  border-bottom: 1px solid var(--rule);\n  text-align: left !important;\n}\n.pd-head--stack h2 {\n  margin: 18px 0 0 !important;\n  max-width: 18ch;\n  text-align: left !important;\n}\n.pd-meta-line {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 8px 28px;\n  margin-top: 30px;\n  font-family: var(--mono);\n  font-size: 12px;\n  letter-spacing: .05em;\n  text-transform: uppercase;\n  color: var(--mute);\n}\n.sd-spread {\n  display: grid;\n  grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);\n  gap: 48px;\n  padding-top: 48px;\n  align-items: start;\n}\n.sd-figure-col, .sd-col { min-width: 0; }\n.sd-figure-link { display: block; min-width: 0; }\n.sd-figure {\n  position: relative;\n  width: 100%;\n  aspect-ratio: 4 / 3;\n  border: 1px solid var(--rule);\n  background: var(--col, #D8CFBD);\n  overflow: hidden;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.sd-figure .pd-hero-img {\n  position: absolute;\n  inset: 0;\n  z-index: 1;\n  width: 100%;\n  height: 100%;\n  max-width: 100%;\n  object-fit: cover;\n  object-position: top center;\n  display: block;\n  transition: opacity .45s ease;\n}\n.sd-figure-fallback {\n  position: relative;\n  z-index: 2;\n  padding: 0 40px;\n  text-align: center;\n  font-family: var(--serif);\n  font-style: italic;\n  font-size: clamp(36px, 6vw, 80px);\n  line-height: 1;\n  color: var(--ink);\n  opacity: .25;\n}\n.sd-figure-link:hover .sd-figure { border-color: var(--ink); }\n.sd-cap {\n  display: flex;\n  justify-content: space-between;\n  gap: 24px;\n  margin-top: 12px;\n  font-family: var(--mono);\n  font-size: 11px;\n  letter-spacing: .05em;\n  text-transform: uppercase;\n  color: var(--mute);\n}\n.sd-nav { display: flex; flex-direction: column; }\n.sd-nav-row {\n  display: grid;\n  grid-template-columns: 1fr auto;\n  align-items: baseline;\n  gap: 16px;\n  padding: 13px 0;\n  border-top: 1px solid var(--rule);\n  cursor: pointer;\n}\n.sd-nav-row .t { font-family: var(--serif); font-size: 22px; letter-spacing: -.01em; }\n.sd-nav-row .k {\n  font-family: var(--mono);\n  font-size: 11px;\n  letter-spacing: .06em;\n  text-transform: uppercase;\n  color: var(--mute);\n  white-space: nowrap;\n}\n.sd-nav-row:hover .t { color: var(--accent); }\n.sd-note {\n  margin: 26px 0 0;\n  font-size: 15px;\n  line-height: 1.65;\n  color: var(--ink-2, var(--mute));\n  text-wrap: pretty;\n}\n.sd-links { display: grid; margin-top: 32px; border-top: 1px solid var(--rule); }\n.sd-links a {\n  display: grid;\n  grid-template-columns: 1fr auto;\n  gap: 12px;\n  padding: 13px 0;\n  border-bottom: 1px solid var(--rule);\n  font-family: var(--mono);\n  font-size: 13px;\n  color: var(--ink);\n  text-decoration: none;\n}\n.sd-links a:hover { color: var(--accent); }\n.sd-col .save-block { margin-top: 24px; }\n.sd-lbl {\n  margin-top: 36px;\n  padding-top: 20px;\n  border-top: 1px solid var(--rule);\n  font-family: var(--mono);\n  font-size: 11px;\n  letter-spacing: .06em;\n  text-transform: uppercase;\n  color: var(--mute);\n}\n.sd-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }\n.sd-tag {\n  font-family: var(--mono);\n  font-size: 11px;\n  letter-spacing: .05em;\n  text-transform: uppercase;\n  color: var(--ink);\n  border: 1px solid var(--rule);\n  border-radius: 999px;\n  padding: 6px 12px;\n  cursor: pointer;\n  transition: border-color .15s ease, color .15s ease;\n}\n.sd-tag:hover { border-color: var(--ink); color: var(--accent); }\n@media (max-width: 900px) {\n  .sd-spread { grid-template-columns: 1fr; gap: 32px; }\n  .sd-cap { flex-direction: column; gap: 6px; }\n}";
 function ensureSdStyles() {
@@ -46,62 +45,53 @@ ensureSdStyles();
 function StudioHero({ s, col }) {
   const [loaded, setLoaded] = usePdState(false);
   const [srcIdx, setSrcIdx] = usePdState(0);
-
-  // Source cascade: the OG-image endpoint returns a curated, higher-quality
-  // image when the studio has set one; if it 404s (no og:image, or running
-  // outside Vercel) we fall back to the mshots screenshot.
-  const sources = s.url
-    ? [
-        `/api/ogimage?url=${encodeURIComponent(s.url)}`,
-        `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=1600&h=1200`,
-      ]
-    : [];
-
-  usePdEffect(() => { setLoaded(false); setSrcIdx(0); }, [s.url]);
-
+  const own = s.url && window.jadlShot ? window.jadlShot(s, 1600, 1200) : null;
+  const sources = s.url ? [own && own.indexOf("mshots") < 0 ? own : null, `/api/ogimage?url=${encodeURIComponent(s.url)}`, `https://s.wordpress.com/mshots/v1/${encodeURIComponent(s.url)}?w=1600&h=1200`].filter(Boolean) : [];
+  usePdEffect(() => {
+    setLoaded(false);
+    setSrcIdx(0);
+  }, [s.url]);
   const shot = sources[srcIdx] || null;
   const exhausted = srcIdx >= sources.length;
-  const advance = () => setSrcIdx((i) => i + 1);
-
+  const advance = () => setSrcIdx(i => i + 1);
   // Geometry is inline on purpose: .pd-hero-img has no size of its own in
   // styles.css, so a stale or unpatched stylesheet would let the screenshot
   // render at natural size and blow out the page.
   const rcol = window.jadlRegionColor ? window.jadlRegionColor(s.country) : col;
-  return (
-    <div
-      className={"sd-figure" + (exhausted ? " is-empty" : "")}
-      style={{ "--col": rcol, position: "relative", width: "100%", aspectRatio: "4 / 3", overflow: "hidden" }}
-    >
-      {shot && !exhausted && (
-        <img
-          key={shot}
-          src={shot}
-          alt={`${s.name} — website preview`}
-          onLoad={(e) => { if (e.target.naturalWidth > 100) setLoaded(true); else advance(); }}
-          onError={advance}
-          className="pd-hero-img"
-          style={{
-            position: "absolute",
-            inset: 0,
-            zIndex: 1,
-            width: "100%",
-            height: "100%",
-            maxWidth: "100%",
-            objectFit: "cover",
-            objectPosition: "top center",
-            display: "block",
-            opacity: loaded ? 1 : 0,
-            transition: "opacity .45s ease",
-          }}
-        />
-      )}
-      {!loaded && (
-        <div className="sd-figure-fallback" style={{ position: "relative", zIndex: 2 }}>{s.name}</div>
-      )}
-    </div>
-  );
+  return h("div", {
+    className: "sd-figure" + (exhausted ? " is-empty" : ""),
+    style: {
+      "--col": rcol,
+      position: "relative",
+      width: "100%",
+      aspectRatio: "4 / 3",
+      overflow: "hidden"
+    }
+  }, shot && !exhausted && h("img", {
+    key: shot,
+    src: shot,
+    alt: `${s.name} — website preview`,
+    onLoad: e => { const iw = e.target.naturalWidth, ih = e.target.naturalHeight; /* mshots answers 400x300 "generating" placeholders */ if (iw > 100 && !(iw === 400 && ih === 300)) setLoaded(true); else advance(); },
+    onError: advance,
+    className: "pd-hero-img",
+    style: {
+      position: "absolute",
+      inset: 0,
+      zIndex: 1,
+      width: "100%",
+      height: "100%",
+      maxWidth: "100%",
+      objectFit: "cover",
+      objectPosition: "top center",
+      display: "block",
+      opacity: loaded ? 1 : 0,
+      transition: "opacity .45s ease"
+    }
+  }), !loaded && h("div", {
+    className: "sd-figure-fallback",
+    style: { position: "relative", zIndex: 2 }
+  }, s.name));
 }
-
 const CORRECTION_ENDPOINT = "https://formspree.io/f/xzdylwvg";
 const EDITOR_EMAIL_CORR = "hola@justadesignlist.com";
 
@@ -132,8 +122,8 @@ function CorrectionBlock({ s }) {
           studio: s.name,
           page: pageUrl,
           note,
-          email,
-        }),
+          email
+        })
       });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       setSent(true);
@@ -146,89 +136,73 @@ function CorrectionBlock({ s }) {
   }
 
   if (sent) {
-    return (
-      <div className="correction-block">
-        <p className="correction-note">Thanks — noted. It'll be checked.</p>
-      </div>
-    );
+    return h("div", { className: "correction-block" },
+      h("p", { className: "correction-note" }, "Thanks — noted. It'll be checked."));
   }
 
-  return (
-    <div className="correction-block">
-      {!open ? (
-        <button className="correction-toggle" onClick={() => setOpen(true)}>
-          <span>Spot something wrong? Suggest a correction</span>
-        </button>
-      ) : (
-        <form className="correction-form" onSubmit={handleSubmit}>
-          <textarea
-            required
-            value={note}
-            onChange={(e) => setNote(e.target.value)}
-            placeholder="What's outdated or wrong? (e.g. broken link, wrong city, new category)"
-          />
-          <input
-            type="email"
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
-            placeholder="Your email (optional, in case of questions)"
-          />
-          <button type="submit" className="correction-submit" disabled={sending}>
-            {sending ? "Sending…" : "Send"}
-          </button>
-          {err && (
-            <p className="correction-note" style={{ color: "var(--accent-text, var(--accent))" }}>
-              {`Couldn't send (${err}). `}
-              <a
-                className="link"
-                href={`mailto:${EDITOR_EMAIL_CORR}?subject=${encodeURIComponent("Correction — " + s.name)}&body=${encodeURIComponent(note + (email ? "\n\nFrom: " + email : "") + "\n\nPage: " + pageUrl)}`}
-              >
-                send by email instead
-              </a>
-            </p>
-          )}
-        </form>
-      )}
-    </div>
-  );
+  return h("div", { className: "correction-block" }, !open ? h("button", {
+    className: "correction-toggle",
+    onClick: () => setOpen(true)
+  }, h("span", null, "Spot something wrong? Suggest a correction")) : h("form", {
+    className: "correction-form",
+    onSubmit: handleSubmit
+  }, h("textarea", {
+    required: true,
+    value: note,
+    onChange: e => setNote(e.target.value),
+    placeholder: "What's outdated or wrong? (e.g. broken link, wrong city, new category)"
+  }), h("input", {
+    type: "email",
+    value: email,
+    onChange: e => setEmail(e.target.value),
+    placeholder: "Your email (optional, in case of questions)"
+  }), h("button", {
+    type: "submit",
+    className: "correction-submit",
+    disabled: sending
+  }, sending ? "Sending…" : "Send"), err && h("p", {
+    className: "correction-note",
+    style: { color: "var(--accent-text, var(--accent))" }
+  }, `Couldn't send (${err}). `, h("a", {
+    className: "link",
+    href: `mailto:${EDITOR_EMAIL_CORR}?subject=${encodeURIComponent("Correction — " + s.name)}&body=${encodeURIComponent(note + (email ? "\n\nFrom: " + email : "") + "\n\nPage: " + pageUrl)}`
+  }, "send by email instead"))));
 }
-
 function StudioDetail({ name, go }) {
   const d = window.SITE;
   const all = d.studios || [];
-  const idx = all.findIndex((x) => x.name === name);
+  const idx = all.findIndex(x => x.name === name);
   const s = all[idx];
   const prev = all[(idx - 1 + all.length) % all.length];
   const next = all[(idx + 1) % all.length];
-
   const related = usePdMm(() => {
     if (!s) return [];
     if (window.jadlRelatedGroups) return window.jadlRelatedGroups(s, all, 6);
     const firstCat = s.category.split(",")[0].trim();
-    const items = all.filter((x) => x.name !== s.name && x.category.includes(firstCat)).slice(0, 6);
+    const items = all.filter(x => x.name !== s.name && x.category.includes(firstCat)).slice(0, 6);
     return items.length ? [{ key: "cat", title: "Neighbours in " + firstCat, items }] : [];
   }, [s]);
-
   if (!s) {
-    return (
-      <div className="view wrap" style={{ paddingTop: 120 }}>
-        <p style={{ fontFamily: "var(--serif)", fontSize: 32 }}>Entry not found.</p>
-        <button onClick={() => go("studios")} className="link" style={{ fontFamily: "var(--mono)", fontSize: 12 }}>← Back to the list</button>
-      </div>
-    );
+    return h("div", {
+      className: "view wrap",
+      style: { paddingTop: 120 }
+    }, h("p", {
+      style: { fontFamily: "var(--serif)", fontSize: 32 }
+    }, "Entry not found."), h("button", {
+      onClick: () => go("studios"),
+      className: "link",
+      style: { fontFamily: "var(--mono)", fontSize: 12 }
+    }, "\u2190 Back to the list"));
   }
-
   const col = d.catColors?.[s.category.split(",")[0].trim()] || "#D8CFBD";
   const host = (s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "");
   const igHandle = (s.ig || "").split("/").filter(Boolean).pop();
-  const cats = s.category.split(",").map((c) => c.trim()).filter(Boolean);
+  const cats = s.category.split(",").map(c => c.trim()).filter(Boolean);
   const place = [s.city, s.country].filter(Boolean).join(", ");
-
   usePdEffect(() => {
     ensureSdStyles();
     if (window.recordVisit) window.recordVisit(s.name);
   }, [s.name]);
-
   const shareUrl = typeof window !== "undefined" ? window.location.href : "";
   const shareText = `${s.name} — ${cats[0] || "design"}${s.city ? `, ${s.city}` : ""} · via Just a Design List`;
   const [copied, setCopied] = usePdState(false);
@@ -243,219 +217,180 @@ function StudioDetail({ name, go }) {
       i.value = shareUrl;
       document.body.appendChild(i);
       i.select();
-      try { document.execCommand("copy"); setCopied(true); setTimeout(() => setCopied(false), 1800); } catch {}
+      try {
+        document.execCommand("copy");
+        setCopied(true);
+        setTimeout(() => setCopied(false), 1800);
+      } catch {}
       document.body.removeChild(i);
     }
   };
 
-  return (
-    <div className="view wrap">
-      <div className="pd-topbar">
-        <button onClick={() => go("studios")} className="back-btn" aria-label="Back to the list">
-          <span className="arr">←</span>
-          <span>The List</span>
-        </button>
-        {window.RandomButton ? <window.RandomButton go={go} currentName={s.name} /> : null}
-      </div>
+  const shareBlock = h("div", { className: "share-block" }, h("div", {
+    className: "share-lbl"
+  }, "Share"), h("div", { className: "share-row" }, h("a", {
+    className: "share-btn",
+    href: `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`,
+    target: "_blank",
+    rel: "noopener",
+    "aria-label": "Share on X / Twitter",
+    title: "Share on X / Twitter"
+  }, h("svg", {
+    viewBox: "0 0 24 24", width: "14", height: "14", fill: "currentColor", "aria-hidden": "true"
+  }, h("path", {
+    d: "M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"
+  })), h("span", null, "X")), h("a", {
+    className: "share-btn",
+    href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(shareUrl)}`,
+    target: "_blank",
+    rel: "noopener",
+    "aria-label": "Share on LinkedIn",
+    title: "Share on LinkedIn"
+  }, h("svg", {
+    viewBox: "0 0 24 24", width: "14", height: "14", fill: "currentColor", "aria-hidden": "true"
+  }, h("path", {
+    d: "M20.45 20.45h-3.55v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.13 1.45-2.13 2.94v5.67H9.37V9h3.41v1.56h.05c.47-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.45v6.29zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z"
+  })), h("span", null, "LinkedIn")), h("a", {
+    className: "share-btn",
+    href: `mailto:?subject=${encodeURIComponent(s.name + " — Just a Design List")}&body=${encodeURIComponent(shareText + "\n\n" + shareUrl)}`,
+    "aria-label": "Share by email",
+    title: "Share by email"
+  }, h("svg", {
+    viewBox: "0 0 24 24", width: "14", height: "14", fill: "none", stroke: "currentColor", strokeWidth: "1.6", "aria-hidden": "true"
+  }, h("rect", { x: "3", y: "5", width: "18", height: "14", rx: "1" }), h("path", {
+    d: "M3 7l9 6 9-6"
+  })), h("span", null, "Email")), h("button", {
+    className: "share-btn",
+    onClick: () => setIgOpen(true),
+    "aria-label": "Share to Instagram",
+    title: "Share to Instagram"
+  }, h("svg", {
+    viewBox: "0 0 24 24", width: "14", height: "14", fill: "none", stroke: "currentColor", strokeWidth: "1.6", "aria-hidden": "true"
+  }, h("rect", { x: "3", y: "3", width: "18", height: "18", rx: "5" }), h("circle", {
+    cx: "12", cy: "12", r: "4"
+  }), h("circle", {
+    cx: "17.5", cy: "6.5", r: "1", fill: "currentColor", stroke: "none"
+  })), h("span", null, "Instagram")), h("button", {
+    className: "share-btn",
+    onClick: copyLink,
+    "aria-label": "Copy link",
+    title: "Copy link"
+  }, h("svg", {
+    viewBox: "0 0 24 24", width: "14", height: "14", fill: "none", stroke: "currentColor", strokeWidth: "1.6", strokeLinecap: "round", strokeLinejoin: "round", "aria-hidden": "true"
+  }, h("path", {
+    d: "M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07l-1.5 1.5"
+  }), h("path", {
+    d: "M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07l1.5-1.5"
+  })), h("span", null, copied ? "Copied" : "Copy link"))));
 
-      <div className="pd-head pd-head--stack">
-        <Eyebrow><span className="num">№ {String(idx + 1).padStart(3, "0")} of {all.length}</span></Eyebrow>
-        <h2 role="heading" aria-level={1}>{s.name}</h2>
-        <div className="pd-meta-line">
-          {window.RegionChip ? <window.RegionChip country={s.country} /> : null}
-          {place && <span>{place}</span>}
-          <span>Indexed {formatIndexed(s.created || s.edited)}</span>
-          {cats.length > 0 && <span>{cats.join(" · ")}</span>}
-        </div>
-      </div>
+  return h("div", { className: "view wrap" }, h("div", {
+    className: "pd-topbar"
+  }, h("button", {
+    onClick: () => go("studios"),
+    className: "back-btn",
+    "aria-label": "Back to the list"
+  }, h("span", { className: "arr" }, "\u2190"), h("span", null, "The List")),
+    window.RandomButton ? h(window.RandomButton, { go: go, currentName: s.name }) : null),
 
-      <div className="sd-spread">
-        <div className="sd-figure-col" style={{ minWidth: 0 }}>
-          {s.url ? (
-            <a href={s.url} target="_blank" rel="noopener" className="sd-figure-link" style={{ display: "block", minWidth: 0 }}>
-              <StudioHero s={s} col={col} />
-            </a>
-          ) : (
-            <StudioHero s={s} col={col} />
-          )}
-          <div className="sd-cap">
-            <span>{host ? `${host}, homepage` : "Studio site preview"}</span>
-            {s.url && <a className="link" href={s.url} target="_blank" rel="noopener">Visit the site ↗</a>}
-          </div>
-        </div>
+  h("div", { className: "pd-head pd-head--stack" },
+    h(Eyebrow, null, h("span", { className: "num" }, `№ ${String(idx + 1).padStart(3, "0")} of ${all.length}`)),
+    h("h2", { role: "heading", "aria-level": 1 }, s.name),
+    h("div", { className: "pd-meta-line" },
+      window.RegionChip ? h(window.RegionChip, { country: s.country }) : null,
+      place && h("span", null, place),
+      h("span", null, "Indexed ", formatIndexed(s.created || s.edited)),
+      cats.length > 0 && h("span", null, cats.join(" · ")))),
 
-        <div className="sd-col">
-          <div className="sd-nav">
-            <a className="sd-nav-row" {...(window.jadlStudioLink ? window.jadlStudioLink(prev, () => go("studio", { name: prev.name })) : { onClick: () => go("studio", { name: prev.name }) })}>
-              <span className="t">{prev.name}</span>
-              <span className="k">← Previous</span>
-            </a>
-            <a className="sd-nav-row" {...(window.jadlStudioLink ? window.jadlStudioLink(next, () => go("studio", { name: next.name })) : { onClick: () => go("studio", { name: next.name }) })}>
-              <span className="t">{next.name}</span>
-              <span className="k">Next →</span>
-            </a>
-          </div>
+  h("div", { className: "sd-spread" },
+    h("div", { className: "sd-figure-col", style: { minWidth: 0 } },
+      s.url ? h("a", {
+        href: s.url, target: "_blank", rel: "noopener", className: "sd-figure-link",
+        style: { display: "block", minWidth: 0 }
+      }, h(StudioHero, { s: s, col: col })) : h(StudioHero, { s: s, col: col }),
+      h("div", { className: "sd-cap" },
+        h("span", null, host ? `${host}, homepage` : "Studio site preview"),
+        s.url && h("a", {
+          className: "link", href: s.url, target: "_blank", rel: "noopener"
+        }, "Visit the site ↗"))),
 
-          <p className="sd-note">
-            The entry is intentionally brief. The index is a pointer, not a review — visit the studio's own site to see the work in its preferred frame. What we note here is only what is needed to find the practice again: where it is, what it does, and where to look.
-          </p>
+    h("div", { className: "sd-col" },
+      h("div", { className: "sd-nav" },
+        h("a", {
+          className: "sd-nav-row",
+          ...(window.jadlStudioLink ? window.jadlStudioLink(prev, () => go("studio", { name: prev.name })) : { onClick: () => go("studio", { name: prev.name }) })
+        }, h("span", { className: "t" }, prev.name), h("span", { className: "k" }, "← Previous")),
+        h("a", {
+          className: "sd-nav-row",
+          ...(window.jadlStudioLink ? window.jadlStudioLink(next, () => go("studio", { name: next.name })) : { onClick: () => go("studio", { name: next.name }) })
+        }, h("span", { className: "t" }, next.name), h("span", { className: "k" }, "Next →"))),
 
-          <div className="sd-links">
-            {s.url && (
-              <a href={s.url} target="_blank" rel="noopener">
-                <span style={{ overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{host}</span>
-                <span style={{ color: "var(--mute)" }}>↗</span>
-              </a>
-            )}
-            {s.ig && (
-              <a href={s.ig} target="_blank" rel="noopener">
-                <span style={{ overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>@{igHandle}</span>
-                <span style={{ color: "var(--mute)" }}>↗</span>
-              </a>
-            )}
-          </div>
+      h("p", { className: "sd-note" }, "The entry is intentionally brief. The index is a pointer, not a review \u2014 visit the studio's own site to see the work in its preferred frame. What we note here is only what is needed to find the practice again: where it is, what it does, and where to look."),
 
-          {window.SaveButton ? (
-            <div className="save-block">
-              <window.SaveButton studio={s} />
-            </div>
-          ) : null}
+      h("div", { className: "sd-links" },
+        s.url && h("a", {
+          href: s.url, target: "_blank", rel: "noopener"
+        }, h("span", {
+          style: { overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }
+        }, host), h("span", { style: { color: "var(--mute)" } }, "\u2197")),
+        s.ig && h("a", {
+          href: s.ig, target: "_blank", rel: "noopener"
+        }, h("span", {
+          style: { overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }
+        }, "@", igHandle), h("span", { style: { color: "var(--mute)" } }, "\u2197"))),
 
-          <div className="share-block">
-            <div className="share-lbl">Share</div>
-            <div className="share-row">
-              <a
-                className="share-btn"
-                href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`}
-                target="_blank"
-                rel="noopener"
-                aria-label="Share on X / Twitter"
-                title="Share on X / Twitter"
-              >
-                <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true">
-                  <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
-                </svg>
-                <span>X</span>
-              </a>
-              <a
-                className="share-btn"
-                href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(shareUrl)}`}
-                target="_blank"
-                rel="noopener"
-                aria-label="Share on LinkedIn"
-                title="Share on LinkedIn"
-              >
-                <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true">
-                  <path d="M20.45 20.45h-3.55v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.13 1.45-2.13 2.94v5.67H9.37V9h3.41v1.56h.05c.47-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.45v6.29zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z"/>
-                </svg>
-                <span>LinkedIn</span>
-              </a>
-              <a
-                className="share-btn"
-                href={`mailto:?subject=${encodeURIComponent(s.name + " — Just a Design List")}&body=${encodeURIComponent(shareText + "\n\n" + shareUrl)}`}
-                aria-label="Share by email"
-                title="Share by email"
-              >
-                <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" strokeWidth="1.6" aria-hidden="true">
-                  <rect x="3" y="5" width="18" height="14" rx="1"/>
-                  <path d="M3 7l9 6 9-6"/>
-                </svg>
-                <span>Email</span>
-              </a>
-              <button
-                className="share-btn"
-                onClick={() => setIgOpen(true)}
-                aria-label="Share to Instagram"
-                title="Share to Instagram"
-              >
-                <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" strokeWidth="1.6" aria-hidden="true">
-                  <rect x="3" y="3" width="18" height="18" rx="5"/>
-                  <circle cx="12" cy="12" r="4"/>
-                  <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/>
-                </svg>
-                <span>Instagram</span>
-              </button>
-              <button
-                className="share-btn"
-                onClick={copyLink}
-                aria-label="Copy link"
-                title="Copy link"
-              >
-                <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-                  <path d="M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07l-1.5 1.5"/>
-                  <path d="M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07l1.5-1.5"/>
-                </svg>
-                <span>{copied ? "Copied" : "Copy link"}</span>
-              </button>
-            </div>
-          </div>
+      window.SaveButton ? h("div", { className: "save-block" },
+        h(window.SaveButton, { studio: s })) : null,
 
-          <CorrectionBlock s={s} />
+      shareBlock,
 
-          <div className="sd-lbl">Filed under</div>
-          <div className="sd-tags">
-            {cats.map((t) => (
-              <span
-                key={t}
-                className="sd-tag"
-                onClick={() => go("collection", { kind: "discipline", value: t })}
-              >
-                {t}{d.byCat && d.byCat[t] ? ` · ${d.byCat[t]}` : ""}
-              </span>
-            ))}
-            {s.country && (
-              <span
-                className="sd-tag"
-                onClick={() => go("collection", { kind: "country", value: s.country.split(",")[0].trim() })}
-              >
-                {s.country.split(",")[0].trim()}
-                {d.byCountry && d.byCountry[s.country.split(",")[0].trim()] ? ` · ${d.byCountry[s.country.split(",")[0].trim()]}` : ""}
-              </span>
-            )}
-          </div>
-        </div>
-      </div>
+      h(CorrectionBlock, { s: s }),
 
-      {related.length > 0 && (
-        <div className="sd-related" style={{ paddingTop: 64, marginTop: 64, borderTop: "1px solid var(--rule)" }}>
-          {related.map((g, gi) => (
-            <section key={g.key} className="sd-rel-group" style={gi ? { marginTop: 56 } : null}>
-              <Eyebrow>{g.title}</Eyebrow>
-              <div className="st-list" style={{ marginTop: 24 }}>
-                {g.items.map((r) => (
-                  <a key={r.name} className="studio-row" {...(window.jadlStudioLink ? window.jadlStudioLink(r, () => go("studio", { name: r.name })) : { onClick: () => go("studio", { name: r.name }) })}>
-                    <div className="t">{window.RegionDot ? <window.RegionDot country={r.country} /> : null}{r.name}</div>
-                    <div className="c">{r.city}{r.city && r.country ? ", " : ""}{r.country}</div>
-                    <div className="k">{r.category}</div>
-                    <div className="u">{(r.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")}</div>
-                    <div className="arr">→</div>
-                  </a>
-                ))}
-              </div>
-              {g.more ? (
-                <a className="sd-rel-more" href={g.more.href}
-                  onClick={(e) => { if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button === 1) return; e.preventDefault(); go("collection", { kind: g.more.kind, value: g.more.value }); }}>
-                  {g.more.label} →
-                </a>
-              ) : null}
-            </section>
-          ))}
-        </div>
-      )}
+      h("div", { className: "sd-lbl" }, "Filed under"),
+      h("div", { className: "sd-tags" },
+        cats.map(t => h("span", {
+          key: t,
+          className: "sd-tag",
+          onClick: () => go("collection", { kind: "discipline", value: t })
+        }, t, d.byCat && d.byCat[t] ? ` · ${d.byCat[t]}` : "")),
+        s.country && h("span", {
+          key: "country",
+          className: "sd-tag",
+          onClick: () => go("collection", { kind: "country", value: s.country.split(",")[0].trim() })
+        }, s.country.split(",")[0].trim(),
+           d.byCountry && d.byCountry[s.country.split(",")[0].trim()] ? ` · ${d.byCountry[s.country.split(",")[0].trim()]}` : "")))),
 
-      {igOpen && window.IGShareModal ? (
-        <window.IGShareModal
-          s={s}
-          col={col}
-          idx={idx}
-          total={all.length}
-          onClose={() => setIgOpen(false)}
-        />
-      ) : null}
+  related.length > 0 && h("div", {
+    className: "sd-related",
+    style: { paddingTop: 64, marginTop: 64, borderTop: "1px solid var(--rule)" }
+  }, related.map((g, gi) => h("section", { key: g.key, className: "sd-rel-group", style: gi ? { marginTop: 56 } : null },
+    h(Eyebrow, null, g.title), h("div", {
+    className: "st-list",
+    style: { marginTop: 24 }
+  }, g.items.map(r => h("a", {
+    key: r.name,
+    className: "studio-row",
+    ...(window.jadlStudioLink ? window.jadlStudioLink(r, () => go("studio", { name: r.name })) : { onClick: () => go("studio", { name: r.name }) })
+  }, h("div", { className: "t" }, window.RegionDot ? h(window.RegionDot, { country: r.country }) : null, r.name), h("div", {
+    className: "c"
+  }, r.city, r.city && r.country ? ", " : "", r.country), h("div", {
+    className: "k"
+  }, r.category), h("div", {
+    className: "u"
+  }, (r.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")), h("div", {
+    className: "arr"
+  }, "\u2192")))),
+    g.more ? h("a", {
+      className: "sd-rel-more",
+      href: g.more.href,
+      onClick: e => { if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button === 1) return; e.preventDefault(); go("collection", { kind: g.more.kind, value: g.more.value }); }
+    }, g.more.label, " \u2192") : null))),
 
-      {window.RecentlyViewedInline ? <window.RecentlyViewedInline go={go} excludeName={s.name} /> : null}
-    </div>
-  );
+  igOpen && window.IGShareModal ? h(window.IGShareModal, {
+    s: s, col: col, idx: idx, total: all.length, onClose: () => setIgOpen(false)
+  }) : null,
+
+  window.RecentlyViewedInline ? h(window.RecentlyViewedInline, {
+    go: go, excludeName: s.name
+  }) : null);
 }
-
 Object.assign(window, { StudioDetail });

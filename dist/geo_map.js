@@ -1,4 +1,5 @@
-(function(){"use strict";
+(function(){
+"use strict";
 const { useEffect: useMapEffect, useRef: useMapRef, useState: useMapState } = React;
 const NAME_TO_ISO = {
   "USA": "us",

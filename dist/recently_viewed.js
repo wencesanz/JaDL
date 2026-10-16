@@ -7,7 +7,7 @@ function readRV() {
   try {
     const raw = localStorage.getItem(RV_KEY);
     const arr = raw ? JSON.parse(raw) : [];
-    return Array.isArray(arr) ? arr.filter(x => typeof x === "string") : [];
+    return Array.isArray(arr) ? arr.filter((x) => typeof x === "string") : [];
   } catch {
     return [];
   }
@@ -17,10 +17,11 @@ function recordVisit(name) {
   try {
     const cur = readRV();
     if (cur[0] === name) return;
-    const next = [name, ...cur.filter(n => n !== name)].slice(0, RV_MAX);
+    const next = [name, ...cur.filter((n) => n !== name)].slice(0, RV_MAX);
     localStorage.setItem(RV_KEY, JSON.stringify(next));
     window.dispatchEvent(new Event(RV_EVENT));
-  } catch {}
+  } catch {
+  }
 }
 function useRecentlyViewed(excludeName) {
   const [names, setNames] = React.useState(readRV);
@@ -35,8 +36,8 @@ function useRecentlyViewed(excludeName) {
   }, []);
   return React.useMemo(() => {
     const all = window.SITE && window.SITE.studios || [];
-    const byName = new Map(all.map(s => [s.name, s]));
-    return names.filter(n => n !== excludeName && byName.has(n)).map(n => byName.get(n));
+    const byName = new Map(all.map((s) => [s.name, s]));
+    return names.filter((n) => n !== excludeName && byName.has(n)).map((n) => byName.get(n));
   }, [names, excludeName]);
 }
 function RVChips({
@@ -46,7 +47,7 @@ function RVChips({
 }) {
   return React.createElement("div", {
     className: "rv-list"
-  }, items.slice(0, limit).map(s => React.createElement("button", {
+  }, items.slice(0, limit).map((s) => React.createElement("button", {
     key: s.name,
     className: "rv-chip",
     onClick: () => go("studio", {
@@ -70,8 +71,8 @@ function RecentlyViewed({
   }, React.createElement("span", {
     className: "rv-eyebrow"
   }, "Recently viewed")), React.createElement(RVChips, {
-    items: items,
-    go: go,
+    items,
+    go,
     limit: 6
   }));
 }
@@ -86,8 +87,8 @@ function RecentlyViewedInline({
   }, React.createElement("span", {
     className: "rv-eyebrow"
   }, "Recently viewed"), React.createElement(RVChips, {
-    items: items,
-    go: go,
+    items,
+    go,
     limit: 5
   }));
 }
