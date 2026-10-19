@@ -5,8 +5,37 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 03:51:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:33:27 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meinhard Taxer</title>
+      <link>https://meinhardtaxer.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/meinhard-taxer</guid>
+      <pubDate>Mon, 19 Oct 2026 09:39:00 GMT</pubDate>
+      <description>Graphic Design · Branding — Innsbruck, Austria.</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>Murri Studio</title>
+      <link>https://murri.studio/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/murri-studio</guid>
+      <pubDate>Mon, 19 Oct 2026 09:37:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Typography · Packaging — Barcelona, Spain.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Studio 11x1</title>
+      <link>https://www.studio11x1.ch/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-11x1</guid>
+      <pubDate>Mon, 19 Oct 2026 09:36:00 GMT</pubDate>
+      <description>Graphic Design — Lugano, Switzerland.</description>
+      <category>Graphic Design</category>
+    </item>
     <item>
       <title>Buena Suerte</title>
       <link>https://buenasuerte.cl/</link>
@@ -292,34 +321,6 @@
       <pubDate>Mon, 05 Oct 2026 10:38:00 GMT</pubDate>
       <description>Graphic Design — Lyon, France.</description>
       <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Geist*Studio</title>
-      <link>https://geist.studio/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/geist-studio</guid>
-      <pubDate>Mon, 05 Oct 2026 10:35:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital — London, England.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Emily Klaebe</title>
-      <link>https://emilyklaebe.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/emily-klaebe</guid>
-      <pubDate>Mon, 05 Oct 2026 09:26:00 GMT</pubDate>
-      <description>Graphic Design · Typography — Portland, USA.</description>
-      <category>Graphic Design</category>
-      <category>Typography</category>
-    </item>
-    <item>
-      <title>Horah, Inc.</title>
-      <link>https://horah.world/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/horah-inc</guid>
-      <pubDate>Mon, 05 Oct 2026 09:24:00 GMT</pubDate>
-      <description>Graphic Design · Typography — Paris, France.</description>
-      <category>Graphic Design</category>
-      <category>Typography</category>
     </item>
   </channel>
 </rss>
