@@ -311,7 +311,7 @@ function StudioDetail({ name, go }) {
         h("span", null, host ? `${host}, homepage` : "Studio site preview"),
         s.url && h("a", {
           className: "link", href: s.url, target: "_blank", rel: "noopener"
-        }, "Visit the site ↗"))),
+        }, "Visit the site ", (window.jadlArrowNE ? window.jadlArrowNE() : "\u2197\uFE0E")))),
 
     h("div", { className: "sd-col" },
       h("div", { className: "sd-nav" },
@@ -331,12 +331,12 @@ function StudioDetail({ name, go }) {
           href: s.url, target: "_blank", rel: "noopener"
         }, h("span", {
           style: { overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }
-        }, host), h("span", { style: { color: "var(--mute)" } }, "\u2197")),
+        }, host), h("span", { style: { color: "var(--mute)" } }, (window.jadlArrowNE ? window.jadlArrowNE() : "\u2197\uFE0E"))),
         s.ig && h("a", {
           href: s.ig, target: "_blank", rel: "noopener"
         }, h("span", {
           style: { overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }
-        }, "@", igHandle), h("span", { style: { color: "var(--mute)" } }, "\u2197"))),
+        }, "@", igHandle), h("span", { style: { color: "var(--mute)" } }, (window.jadlArrowNE ? window.jadlArrowNE() : "\u2197\uFE0E")))),
 
       window.SaveButton ? h("div", { className: "save-block" },
         h(window.SaveButton, { studio: s })) : null,

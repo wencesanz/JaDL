@@ -82,7 +82,7 @@
     };
     return h("div", { className: "list-share" },
       h("button", { type: "button", className: "back-btn", onClick: share },
-        h("span", { className: "arr" }, "↗"), h("span", null, copied ? "Link copied" : "Share this list")),
+        h("span", { className: "arr" }, (window.jadlArrowNE ? window.jadlArrowNE() : "\u2197\uFE0E")), h("span", null, copied ? "Link copied" : "Share this list")),
       h("span", { className: "list-share-note" }, "Anyone with the link sees these " + slugs.length + " " + (slugs.length === 1 ? "studio" : "studios") + "."));
   };
   window.SharedListView = function (props) {
@@ -119,7 +119,7 @@
   window.NewsletterNote = function () {
     return h("div", { className: "nl-note" },
       h("span", null, "Wences also writes a newsletter on Substack."),
-      h("a", { href: NEWSLETTER, target: "_blank", rel: "noopener" }, "Read and subscribe", h("span", { className: "arr" }, "↗")));
+      h("a", { href: NEWSLETTER, target: "_blank", rel: "noopener" }, "Read and subscribe", h("span", { className: "arr" }, (window.jadlArrowNE ? window.jadlArrowNE() : "\u2197\uFE0E"))));
   };
 
   // ------------------------------------------------------------- keyboard

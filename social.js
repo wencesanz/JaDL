@@ -115,8 +115,8 @@
         h("div", { className: "fb-c" },
           h("div", { className: "fb-lbl" }, "@justadesignlist"),
           h("div", null,
-            h("a", { href: IG, target: "_blank", rel: "noopener" }, "Instagram", h("span", null, "\u2197")),
-            h("a", { href: X, target: "_blank", rel: "noopener" }, "X", h("span", null, "\u2197"))))));
+            h("a", { href: IG, target: "_blank", rel: "noopener" }, "Instagram", h("span", null, (window.jadlArrowNE ? window.jadlArrowNE() : "\u2197\uFE0E"))),
+            h("a", { href: X, target: "_blank", rel: "noopener" }, "X", h("span", null, (window.jadlArrowNE ? window.jadlArrowNE() : "\u2197\uFE0E")))))));
   };
   // ---- Studio page: related groups (same city, same region, same discipline) ----
   var REGION_FROM = { "UK & Ireland": "the UK & Ireland", "Nordics": "the Nordic countries", "Rest of Europe": "elsewhere in Europe", "Rest of the world": "elsewhere in the world" };
@@ -170,5 +170,11 @@
   };
   window.jadlMshot = function (s, w, h) {
     return s && s.url ? "https://s.wordpress.com/mshots/v1/" + encodeURIComponent(s.url) + "?w=" + (w || 800) + "&h=" + (h || 600) : null;
+  };
+  // Thin "opens elsewhere" arrow. The ↗ character turns into a blue emoji on
+  // iPhone, so links use this drawn version instead.
+  window.jadlArrowNE = function () {
+    return React.createElement("svg", { className: "arr-ne", viewBox: "0 0 12 12", width: "0.72em", height: "0.72em", "aria-hidden": "true", focusable: "false" },
+      React.createElement("path", { d: "M3 9 9 3M4.2 3H9v4.8", fill: "none", stroke: "currentColor", strokeWidth: 1.15, strokeLinecap: "square" }));
   };
 })();

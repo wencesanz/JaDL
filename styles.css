@@ -1784,3 +1784,6 @@ a.rg-chip:hover { filter: brightness(.94); }
 :where(a, button, select, summary, [tabindex]):focus-visible { outline: 2px solid var(--accent-text, var(--accent)); outline-offset: 3px; border-radius: 2px; }
 .searchbar:focus-within { box-shadow: 0 0 0 2px var(--accent-text, var(--accent)); }
 .mark-wordmark { display: inline-block; text-decoration: none; }
+
+/* Drawn north-east arrow (see jadlArrowNE in social.js) */
+.arr-ne { display: inline-block; vertical-align: -0.04em; overflow: visible; }

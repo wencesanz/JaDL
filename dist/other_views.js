@@ -258,7 +258,7 @@ function AboutView() {
     className: "v"
   }, "wenceslaosanz.rocks"), React.createElement("span", {
     className: "a"
-  }, "↗")), React.createElement("a", {
+  }, window.jadlArrowNE ? window.jadlArrowNE() : "↗︎")), React.createElement("a", {
     className: "editor-link",
     href: "https://www.linkedin.com/in/wenceslaosanz/",
     target: "_blank",
@@ -269,7 +269,7 @@ function AboutView() {
     className: "v"
   }, "in/wenceslaosanz"), React.createElement("span", {
     className: "a"
-  }, "↗")), React.createElement("a", {
+  }, window.jadlArrowNE ? window.jadlArrowNE() : "↗︎")), React.createElement("a", {
     className: "editor-link",
     href: `mailto:${d.contact.email}`
   }, React.createElement("span", {
@@ -278,7 +278,7 @@ function AboutView() {
     className: "v"
   }, d.contact.email), React.createElement("span", {
     className: "a"
-  }, "↗")))))), React.createElement("div", {
+  }, window.jadlArrowNE ? window.jadlArrowNE() : "↗︎")))))), React.createElement("div", {
     style: {
       marginTop: 120,
       paddingTop: 48,

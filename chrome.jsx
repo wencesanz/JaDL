@@ -245,25 +245,25 @@ function Footer({
     rel: "noopener"
   }, React.createElement("span", null, "X"), React.createElement("span", {
     className: "arr"
-  }, "\u2197")), React.createElement("a", {
+  }, (window.jadlArrowNE ? window.jadlArrowNE() : "\u2197\uFE0E"))), React.createElement("a", {
     href: "https://www.instagram.com/justadesignlist/",
     target: "_blank",
     rel: "noopener"
   }, React.createElement("span", null, "Instagram"), React.createElement("span", {
     className: "arr"
-  }, "\u2197")), React.createElement("a", {
+  }, (window.jadlArrowNE ? window.jadlArrowNE() : "\u2197\uFE0E"))), React.createElement("a", {
     href: "https://www.linkedin.com/in/wenceslaosanz/",
     target: "_blank",
     rel: "noopener"
   }, React.createElement("span", null, "LinkedIn"), React.createElement("span", {
     className: "arr"
-  }, "\u2197")), React.createElement("a", {
+  }, (window.jadlArrowNE ? window.jadlArrowNE() : "\u2197\uFE0E"))), React.createElement("a", {
     href: "/feed.xml",
     target: "_blank",
     rel: "noopener"
   }, React.createElement("span", null, "RSS feed"), React.createElement("span", {
     className: "arr"
-  }, "\u2197"))), window.NewsletterNote ? React.createElement(window.NewsletterNote, null) : null, React.createElement("div", {
+  }, (window.jadlArrowNE ? window.jadlArrowNE() : "\u2197\uFE0E")))), window.NewsletterNote ? React.createElement(window.NewsletterNote, null) : null, React.createElement("div", {
     className: "sponsor"
   }, React.createElement("span", null, "Just a Design List is an independent side project. Interested in sponsoring it?"), React.createElement("a", {
     href: "mailto:wencesanz@gmail.com?subject=SPONSOR"

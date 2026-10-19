@@ -151,7 +151,7 @@ function bodySnapshot(s, m) {
     : region && regionOf(x.country) === region)).slice(0, 6);
   const collHtml = colls.length ? `<nav><ul>${colls.map(([href, label]) => `<li><a href="${attrEsc(href)}">${htmlEsc(label)}</a></li>`).join('')}</ul></nav>` : '';
   const nearHtml = near.length ? `<section><h2>More from ${htmlEsc(city || region)}</h2><ul>${near.map((x) => `<li><a href="/studio/${studioSlug(x, ALL)}">${htmlEsc(x.name)}</a></li>`).join('')}</ul></section>` : '';
-  return `<div class="page" data-screen-label="studio"><main class="view wrap"><article><h1>${htmlEsc(s.name)}</h1><p>${htmlEsc(m.desc)}</p><dl>${facts.map(([k, v]) => `<dt>${htmlEsc(k)}</dt><dd>${htmlEsc(v)}</dd>`).join('')}</dl>${s.url ? `<p><a href="${attrEsc(s.url)}" rel="noopener">Visit ${htmlEsc(s.name)} \u2197</a></p>` : ''}${collHtml}</article>${nearHtml}</main></div>`;
+  return `<div class="page" data-screen-label="studio"><main class="view wrap"><article><h1>${htmlEsc(s.name)}</h1><p>${htmlEsc(m.desc)}</p><dl>${facts.map(([k, v]) => `<dt>${htmlEsc(k)}</dt><dd>${htmlEsc(v)}</dd>`).join('')}</dl>${s.url ? `<p><a href="${attrEsc(s.url)}" rel="noopener">Visit ${htmlEsc(s.name)} \u2197\uFE0E</a></p>` : ''}${collHtml}</article>${nearHtml}</main></div>`;
 }
 
 function renderPage(template, s) {

@@ -94,7 +94,7 @@ function TodaysPick({
     }
   }), host && React.createElement("span", {
     className: "pick-host"
-  }, host, " ↗"))));
+  }, host, " ", window.jadlArrowNE ? window.jadlArrowNE() : "↗︎"))));
 }
 Object.assign(window, {
   pickStudioForDate,

@@ -385,7 +385,7 @@ function EditorialTile({
     className: "eg-loc"
   }, s.city, s.city && s.country ? ", " : "", s.country), React.createElement("div", {
     className: "eg-host"
-  }, host, " \u2197")));
+  }, host, " ", (window.jadlArrowNE ? window.jadlArrowNE() : "\u2197\uFE0E"))));
 }
 Object.assign(window, {
   IndexView

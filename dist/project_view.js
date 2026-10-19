@@ -378,7 +378,7 @@ function StudioDetail({ name, go }) {
             href: s.url,
             target: "_blank",
             rel: "noopener"
-          }, "Visit the site ↗")
+          }, "Visit the site ", window.jadlArrowNE ? window.jadlArrowNE() : "↗︎")
         )
       ),
       h(
@@ -406,14 +406,14 @@ function StudioDetail({ name, go }) {
             rel: "noopener"
           }, h("span", {
             style: { overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }
-          }, host), h("span", { style: { color: "var(--mute)" } }, "↗")),
+          }, host), h("span", { style: { color: "var(--mute)" } }, window.jadlArrowNE ? window.jadlArrowNE() : "↗︎")),
           s.ig && h("a", {
             href: s.ig,
             target: "_blank",
             rel: "noopener"
           }, h("span", {
             style: { overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }
-          }, "@", igHandle), h("span", { style: { color: "var(--mute)" } }, "↗"))
+          }, "@", igHandle), h("span", { style: { color: "var(--mute)" } }, window.jadlArrowNE ? window.jadlArrowNE() : "↗︎"))
         ),
         window.SaveButton ? h(
           "div",
