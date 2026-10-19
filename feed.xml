@@ -5,8 +5,32 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:33:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:14:08 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Studio JAM</title>
+      <link>https://www.studiojam.it/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-jam</guid>
+      <pubDate>Mon, 19 Oct 2026 15:56:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Motion · Typography · Interactive/Digital — San Marino, San Marino.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Motion</category>
+      <category>Typography</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Asketic</title>
+      <link>https://asketic.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/asketic</guid>
+      <pubDate>Mon, 19 Oct 2026 15:49:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Motion · Interactive/Digital — Riga, Latvia.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Meinhard Taxer</title>
       <link>https://meinhardtaxer.com/</link>
@@ -302,25 +326,6 @@
       <category>Graphic Design</category>
       <category>Interactive/Digital</category>
       <category>Packaging</category>
-    </item>
-    <item>
-      <title>Hochburg Design</title>
-      <link>https://www.hochburg.design/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/hochburg-design</guid>
-      <pubDate>Mon, 05 Oct 2026 12:41:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Stuttgart, Germany.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Alexis Cros</title>
-      <link>https://alexiscros.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/alexis-cros</guid>
-      <pubDate>Mon, 05 Oct 2026 10:38:00 GMT</pubDate>
-      <description>Graphic Design — Lyon, France.</description>
-      <category>Graphic Design</category>
     </item>
   </channel>
 </rss>
