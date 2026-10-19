@@ -54,7 +54,7 @@ function RVChips({
     className: "rv-name"
   }, s.name), (s.city || s.country) && React.createElement("span", {
     className: "rv-loc"
-  }, [s.city, s.country].filter(Boolean).join(", ")))));
+  }, (window.jadlPlace ? window.jadlPlace(s, "short") : [s.city, s.country].filter(Boolean).join(", "))))));
 }
 function RecentlyViewed({
   go

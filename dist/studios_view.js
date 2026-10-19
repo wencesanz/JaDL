@@ -103,6 +103,32 @@ function StudiosView({
     });
     return out;
   }, [filtered, sort]);
+  const STEP = 120;
+  const [limit, setLimit] = useSt(STEP);
+  useEf(() => {
+    setLimit(STEP);
+  }, [filtered]);
+  const more = React.useRef(null);
+  useEf(() => {
+    const el = more.current;
+    if (!el || limit >= filtered.length || typeof IntersectionObserver === "undefined") return;
+    const io = new IntersectionObserver((es) => {
+      if (es.some((e) => e.isIntersecting)) setLimit((n) => n + STEP * 2);
+    }, { rootMargin: "1200px 0px" });
+    io.observe(el);
+    return () => io.disconnect();
+  }, [limit, filtered.length, mode]);
+  const limitedGroups = useMm(() => {
+    if (!grouped) return null;
+    let left = limit;
+    const out = [];
+    for (const L of Object.keys(grouped).sort()) {
+      if (left <= 0) break;
+      out.push([L, grouped[L].slice(0, left)]);
+      left -= grouped[L].length;
+    }
+    return out;
+  }, [grouped, limit]);
   return React.createElement("div", {
     className: "view wrap"
   }, React.createElement("div", {
@@ -201,24 +227,29 @@ function StudiosView({
   }, t, t !== "All" && d.byType?.[t] ? React.createElement("span", {
     className: "num"
   }, " ", d.byType[t]) : null))))), mode === "list" && sort === "name" && grouped && React.createElement(AlphabetIndex, {
-    grouped
+    grouped,
+    onBeforeJump: () => setLimit(filtered.length)
   }), mode === "list" ? React.createElement("div", {
     className: "st-list"
-  }, sort === "name" && grouped ? Object.keys(grouped).sort().map((L) => React.createElement("div", {
+  }, sort === "name" && grouped ? limitedGroups.map(([L, rows]) => React.createElement("div", {
     key: L,
     id: `grp-${L}`,
     className: "st-group"
   }, React.createElement("div", {
     className: "st-letter"
-  }, L), React.createElement("div", null, grouped[L].map((s, i) => React.createElement(StudioRow, {
+  }, L), React.createElement("div", null, rows.map((s, i) => React.createElement(StudioRow, {
     key: s.name + i,
     s,
     go
-  }))))) : filtered.map((s, i) => React.createElement(StudioRow, {
+  }))))) : filtered.slice(0, limit).map((s, i) => React.createElement(StudioRow, {
     key: s.name + i,
     s,
     go
-  })), filtered.length === 0 && React.createElement("div", {
+  })), limit < filtered.length && React.createElement("div", {
+    ref: more,
+    className: "st-more",
+    "aria-hidden": "true"
+  }), filtered.length === 0 && React.createElement("div", {
     style: {
       padding: "80px 0",
       textAlign: "center",
@@ -382,7 +413,7 @@ function StudioRow({
     className: `type-tag type-tag--${s.type.toLowerCase()}`
   }, s.type)), React.createElement("div", {
     className: "c"
-  }, s.city, s.city && s.country ? ", " : "", s.country), React.createElement("div", {
+  }, window.jadlPlace ? window.jadlPlace(s, "short") : [s.city, s.country].filter(Boolean).join(", ")), React.createElement("div", {
     className: "k"
   }, s.category), React.createElement("div", {
     className: "u"
@@ -405,12 +436,18 @@ Object.assign(window, {
   StudiosView
 });
 function AlphabetIndex({
-  grouped
+  grouped,
+  onBeforeJump
 }) {
   const present = new Set(Object.keys(grouped));
   const letters = ["#", ..."ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("")];
-  const jump = (L) => {
-    const el = document.getElementById(`grp-${L}`);
+  const jump = (L, retry) => {
+    let el = document.getElementById(`grp-${L}`);
+    if (!el && onBeforeJump && !retry) {
+      onBeforeJump();
+      requestAnimationFrame(() => requestAnimationFrame(() => jump(L, true)));
+      return;
+    }
     if (!el) return;
     const top = el.getBoundingClientRect().top + window.pageYOffset - 96;
     window.scrollTo({

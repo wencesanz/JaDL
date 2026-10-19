@@ -265,7 +265,7 @@ function RecentRow({
     className: "t"
   }, p.name), React.createElement("div", {
     className: "c"
-  }, p.city, p.city && p.country ? ", " : "", p.country), React.createElement("div", {
+  }, window.jadlPlace ? window.jadlPlace(p, "short") : [p.city, p.country].filter(Boolean).join(", ")), React.createElement("div", {
     className: "k"
   }, (p.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "")), hover && shot && React.createElement("div", {
     ref: boxRef,
@@ -386,7 +386,7 @@ function EditorialTile({
     className: "eg-name"
   }, s.name), React.createElement("div", {
     className: "eg-loc"
-  }, s.city, s.city && s.country ? ", " : "", s.country), React.createElement("div", {
+  }, window.jadlPlace ? window.jadlPlace(s, "short") : [s.city, s.country].filter(Boolean).join(", ")), React.createElement("div", {
     className: "eg-host"
   }, host, " ", window.jadlArrowNE ? window.jadlArrowNE() : "↗︎")));
 }

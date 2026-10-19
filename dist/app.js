@@ -257,10 +257,11 @@ function setMeta(route) {
     const s = (d.studios || []).find((x) => x.name === route.name);
     if (s) {
       const cat = (s.category || "").split(",")[0].trim();
-      const loc = [s.city, s.country].filter(Boolean).join(", ");
-      title = `${s.name} — ${cat}${loc ? ", " + loc : ""} · Just a Design List`;
+      const loc = window.jadlPlace ? window.jadlPlace(s, "full") : [s.city, s.country].filter(Boolean).join(", ");
+      const loc1 = window.jadlPlace ? window.jadlPlace(s, "primary") : loc;
+      title = `${s.name} — ${cat}${loc1 ? ", " + loc1 : ""} · Just a Design List`;
       desc = `${s.name} is an independent design practice${loc ? " based in " + loc : ""}, working in ${(s.category || "design").toLowerCase()}. Indexed on Just a Design List.`;
-      image = `${SITE_BASE}/api/og?name=${encodeURIComponent(s.name)}&meta=${encodeURIComponent([cat, loc].filter(Boolean).join(" · ") || "A curated directory of design practices")}&v=2`;
+      image = `${SITE_BASE}/api/og?name=${encodeURIComponent(s.name)}&meta=${encodeURIComponent([cat, loc1].filter(Boolean).join(" · ") || "A curated directory of design practices")}&v=2`;
       jsonld = [studioLd(s, url, desc), breadcrumbLd([["Home", SITE_BASE + "/"], ...s.country ? [[s.country.split(",")[0].trim(), SITE_BASE + "/country/" + (window.collSlugify ? window.collSlugify(s.country.split(",")[0].trim()) : "")]] : [["Studios", SITE_BASE + "/studios"]], [s.name, url]])];
     }
   } else if (route.view === "index") {
@@ -311,6 +312,7 @@ function setMeta(route) {
     title = c.title;
     desc = c.desc;
     if (studios.length < 2) robots = "noindex, follow";
+    image = `${SITE_BASE}/api/og?kind=${route.kind}&value=${encodeURIComponent(route.value || "")}&v=1`;
     const cfg = (window.COLLECTION_KINDS || {})[route.kind] || {};
     jsonld = [collectionLd(title, desc, url, studios), breadcrumbLd([["Home", SITE_BASE + "/"], [cfg.labelPlural || "Collections", SITE_BASE + "/" + (cfg.plural || "")], [route.value, url]])];
   }

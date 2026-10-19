@@ -133,7 +133,7 @@ function CollStudioList({
     className: "t"
   }, window.RegionDot ? React.createElement(window.RegionDot, { country: s.country }) : null, s.name), React.createElement("div", {
     className: "c"
-  }, s.city, s.city && s.country ? ", " : "", s.country), React.createElement("div", {
+  }, window.jadlPlace ? window.jadlPlace(s, "short") : [s.city, s.country].filter(Boolean).join(", ")), React.createElement("div", {
     className: "k"
   }, s.category), React.createElement("div", {
     className: "u"

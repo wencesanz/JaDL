@@ -51,11 +51,98 @@ async function findStudio(origin: string, name: string): Promise<Studio | null> 
   }
 }
 
+async function allStudios(origin: string): Promise<Studio[]> {
+  try {
+    const res = await fetch(`${origin}/studios.json`);
+    return res.ok ? ((await res.json()) as Studio[]) : [];
+  } catch {
+    return [];
+  }
+}
+
+const KIND_LABEL: Record<string, string> = { city: 'City', country: 'Country', region: 'Region', discipline: 'Discipline' };
+
+// Same three blocks as the studio card: the place (or discipline) and how
+// many studios it has, a tile in the region colour, and the logo tile.
+async function collectionCard(origin: string, kind: string, value: string) {
+  const [list, sans, mono] = await Promise.all([
+    allStudios(origin),
+    load(`${origin}/fonts/Aileron-600.woff`),
+    load(`${origin}/fonts/PaperMono-Medium.ttf`),
+  ]);
+  const has = (field: string) => (s: any) => split(s[field] || '').some((x) => x.toLowerCase() === value.toLowerCase());
+  let matches: Studio[] = [];
+  let colour = NOMAD.color;
+  let tag = KIND_LABEL[kind];
+  if (kind === 'region') {
+    const r = REGIONS.find((x) => x.name.toLowerCase() === value.toLowerCase());
+    matches = list.filter((s) => split(s.country || '').length && regionOf(s.country || '').name.toLowerCase() === value.toLowerCase());
+    if (r) { colour = r.color; tag = r.name; }
+  } else if (kind === 'country') {
+    matches = list.filter(has('country'));
+    const r = regionOf(value); colour = r.color; tag = r.name;
+  } else if (kind === 'city') {
+    matches = list.filter(has('city'));
+    // The city's country: the most common one among its single-country studios.
+    const votes: Record<string, number> = {};
+    for (const s of matches) { const k = split(s.country || ''); if (k.length === 1) votes[k[0]] = (votes[k[0]] || 0) + 1; }
+    const country = Object.keys(votes).sort((a, b) => votes[b] - votes[a])[0] || split(matches[0]?.country || '')[0] || '';
+    if (country) { const r = regionOf(country); colour = r.color; tag = r.name; }
+  } else {
+    matches = list.filter(has('category'));
+    colour = '#DBDBDB';
+  }
+  const n = matches.length;
+  const title = kind === 'discipline' ? (DISC[value] || value) : value;
+  const L = title.length;
+  const size = L > 22 ? 84 : L > 14 ? 100 : 118;
+
+  const fonts: any[] = [];
+  if (sans) fonts.push({ name: 'Aileron', data: sans, weight: 600, style: 'normal' });
+  if (mono) fonts.push({ name: 'Paper Mono', data: mono, weight: 500, style: 'normal' });
+  const lbl = (color: string) => ({ fontFamily: 'Paper Mono', fontSize: '17px', letterSpacing: '0.85px', textTransform: 'uppercase' as const, color });
+
+  return new ImageResponse(
+    (
+      <div style={{ width: '1200px', height: '630px', display: 'flex', background: '#000', padding: '20px', fontFamily: 'Aileron' }}>
+        <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-between', background: '#141414', padding: '30px 32px', marginRight: '12px' }}>
+          <div style={lbl('#C9C9C4')}>{KIND_LABEL[kind]}</div>
+          <div style={{ display: 'flex', flexDirection: 'column' }}>
+            <div style={{ fontSize: `${size}px`, lineHeight: 0.98, letterSpacing: `${-size * 0.04}px`, color: '#FBFBFA' }}>{title}</div>
+            <div style={{ fontSize: `${Math.round(size * 0.62)}px`, lineHeight: 1.05, letterSpacing: `${-size * 0.025}px`, color: '#C9C9C4', marginTop: '10px' }}>{`${n} ${n === 1 ? 'studio' : 'studios'}`}</div>
+          </div>
+        </div>
+        <div style={{ width: '330px', display: 'flex', flexDirection: 'column' }}>
+          <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-between', background: colour, padding: '30px 32px', marginBottom: '12px' }}>
+            <div style={lbl('rgba(15,15,14,0.72)')}>{kind === 'discipline' ? 'Discipline' : tag}</div>
+            <div style={{ display: 'flex', flexDirection: 'column', fontSize: '52px', lineHeight: 0.98, letterSpacing: '-2px', color: '#0F0F0E' }}>
+              <div>From</div>
+              <div>the list</div>
+            </div>
+          </div>
+          <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-between', background: '#DBDBDB', padding: '30px 32px' }}>
+            <img src={LOGO} height={66} width={Math.round(66 * LOGO_RATIO)} />
+            <div style={{ fontSize: '26px', letterSpacing: '-0.5px', color: '#0F0F0E' }}>justadesignlist.com</div>
+          </div>
+        </div>
+      </div>
+    ),
+    { width: 1200, height: 630, fonts, headers: { 'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400' } }
+  );
+}
+
 export default async function handler(req: Request) {
   const url = new URL(req.url);
   const origin = url.origin;
   const name = (url.searchParams.get('name') || 'Just a Design List').slice(0, 80);
   const meta = (url.searchParams.get('meta') || '').slice(0, 140);
+
+  // Collection pages (?kind=city|country|region|discipline&value=…).
+  const kind = (url.searchParams.get('kind') || '').toLowerCase();
+  const value = (url.searchParams.get('value') || '').slice(0, 60);
+  if (kind && value && ['city', 'country', 'region', 'discipline'].includes(kind)) {
+    return collectionCard(origin, kind, value);
+  }
 
   const [studio, sans, mono] = await Promise.all([
     findStudio(origin, name),

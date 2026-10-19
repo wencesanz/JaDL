@@ -142,7 +142,7 @@ function TopBar({
     className: "nav-count"
   }, savedCount) : null))), React.createElement("div", {
     className: "topbar-right"
-  }, React.createElement(ThemeToggle, null), React.createElement("button", {
+  }, window.JadlSearchButton ? React.createElement(window.JadlSearchButton, null) : null, React.createElement(ThemeToggle, null), React.createElement("button", {
     className: "menu-toggle",
     onClick: () => setMenuOpen((v) => !v),
     "aria-label": menuOpen ? "Close menu" : "Open menu",

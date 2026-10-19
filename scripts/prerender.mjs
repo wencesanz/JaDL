@@ -27,6 +27,7 @@
  */
 
 import { regionOf } from './regions.mjs';
+import { place } from './places.mjs';
 import { readFile, writeFile, mkdir, rm } from 'node:fs/promises';
 
 const TEMPLATE_PATH = process.env.TEMPLATE_PATH || 'index.html';
@@ -74,14 +75,15 @@ function htmlEsc(s) {
 // Mirror of setMeta() in app.jsx for the "studio" route.
 function metaForStudio(s) {
   const cat = (s.category || '').split(',')[0].trim();
-  const loc = [s.city, s.country].filter(Boolean).join(', ');
-  const title = `${s.name} — ${cat}${loc ? ', ' + loc : ''} · Just a Design List`;
+  const loc = place(s, ALL, 'full');
+  const loc1 = place(s, ALL, 'primary');
+  const title = `${s.name} — ${cat}${loc1 ? ', ' + loc1 : ''} · Just a Design List`;
   const desc = `${s.name} is an independent design practice${loc ? ' based in ' + loc : ''}, working in ${(s.category || 'design').toLowerCase()}. Indexed on Just a Design List.`;
   const url = `${SITE_BASE}/studio/${studioSlug(s, ALL)}`;
   // Per-studio Open Graph card, generated on the fly by /api/og (see api/og.tsx).
   // A dynamic edge image keeps the repo clean and updates automatically as the
   // directory grows — reliable for crawlers like LinkedIn (unlike lazy mshots).
-  const metaLine = [cat, loc].filter(Boolean).join(' · ') || 'A curated directory of design practices';
+  const metaLine = [cat, loc1].filter(Boolean).join(' · ') || 'A curated directory of design practices';
   // v=2: block layout matching the "From the list" posts (bump to refresh crawler caches).
   const image = `${SITE_BASE}/api/og?name=${encodeURIComponent(s.name)}&meta=${encodeURIComponent(metaLine)}&v=2`;
   return { title, desc, url, image, cat, loc };

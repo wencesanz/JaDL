@@ -165,7 +165,7 @@ function hubSnapshot(kind, rows) {
   return `<div class="page" data-screen-label="collectionHub"><main class="view wrap"><header><p>Browse</p><h1>${htmlEsc(cfg.labelPlural)}</h1><p>${rows.length} ${cfg.labelPlural.toLowerCase()} represented across the index.</p></header><ul>${items}</ul></main></div>`;
 }
 
-function renderPage(template, { title, desc, url, robots, jsonld, snapshot }) {
+function renderPage(template, { title, desc, url, robots, jsonld, snapshot, image }) {
   let html = template;
   const repl = (re, out) => { html = html.replace(re, out); };
   repl(/<title>[\s\S]*?<\/title>/, `<title>${htmlEsc(title)}</title>`);
@@ -177,6 +177,10 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot }) {
   repl(/<meta property="og:url" content="[^"]*">/, `<meta property="og:url" content="${attrEsc(url)}">`);
   repl(/<meta name="twitter:title" content="[^"]*">/, `<meta name="twitter:title" content="${attrEsc(title)}">`);
   repl(/<meta name="twitter:description" content="[^"]*">/, `<meta name="twitter:description" content="${attrEsc(desc)}">`);
+  if (image) {
+    repl(/(<meta property="og:image" content=")[^"]*(">)/, `$1${attrEsc(image)}$2`);
+    repl(/(<meta name="twitter:image" content=")[^"]*(">)/, `$1${attrEsc(image)}$2`);
+  }
   // Inject robots (thin pages) + JSON-LD before </head>.
   const head = `${robots ? `<meta name="robots" content="${robots}">\n` : ''}${ldScripts(jsonld)}\n</head>`;
   html = html.replace(/<\/head>/, head);
@@ -228,6 +232,7 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot }) {
       const sorted = [...group].sort((a, b) => (a.name || '').localeCompare(b.name || ''));
       await writeFile(`${cfg.singular}/${slug}.html`, renderPage(template, {
         title: copy.title, desc: copy.desc, url,
+        image: `${SITE_BASE}/api/og?kind=${kind}&value=${encodeURIComponent(value)}&v=1`,
         robots: indexable ? null : 'noindex, follow',
         jsonld: [
           collectionLd(copy.title, copy.desc, url, sorted),

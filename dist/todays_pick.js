@@ -37,7 +37,7 @@ function TodaysPick({
   const [loaded, setLoaded] = React.useState(false);
   const [failed, setFailed] = React.useState(false);
   if (!pick) return null;
-  const loc = [pick.city, pick.country].filter(Boolean).join(", ");
+  const loc = window.jadlPlace ? window.jadlPlace(pick, "full") : [pick.city, pick.country].filter(Boolean).join(", ");
   const host = (pick.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "").replace(/^www\./, "");
   const shot = window.jadlShot ? window.jadlShot(pick, 520, 400) : pick.url ? `https://s.wordpress.com/mshots/v1/${encodeURIComponent(pick.url)}?w=520&h=400` : null;
   const today = (/* @__PURE__ */ new Date()).toLocaleDateString("en-GB", {

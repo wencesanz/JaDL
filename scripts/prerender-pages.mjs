@@ -23,6 +23,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import vm from 'node:vm';
 import { regionOf, REGIONS } from './regions.mjs';
+import { place as placeOf } from './places.mjs';
 
 const SITE_BASE = process.env.SITE_BASE || 'https://justadesignlist.com';
 const TEMPLATE_PATH = process.env.TEMPLATE_PATH || 'index.html';
@@ -54,7 +55,7 @@ function count(studios, field, firstOnly) {
   return [...m.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
 }
 const studioLink = (s) => `<a href="/studio/${studioSlug(s, ALL)}">${htmlEsc(s.name)}</a>`;
-const place = (s) => [first(s.city), first(s.country)].filter(Boolean).join(', ');
+const place = (s) => placeOf(s, ALL, 'full');
 const nav = `<nav aria-label="Primary"><ul><li><a href="/">Index</a></li><li><a href="/studios">Studios</a></li><li><a href="/geography">Geography</a></li><li><a href="/categories">Categories</a></li><li><a href="/submit">Submit</a></li><li><a href="/about">Colophon</a></li></ul></nav>`;
 const wrap = (label, inner, extra = '') => `<div class="page" data-screen-label="${label}">${nav}<main class="view wrap">${inner}</main>${extra}</div>`;
 

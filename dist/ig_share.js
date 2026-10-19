@@ -109,7 +109,7 @@ async function buildStudioImage(s, col, idx, total) {
   ctx.fillStyle = ink;
   ctx.font = `400 30px Aileron, "Helvetica Neue", Arial, sans-serif`;
   ctx.textBaseline = "top";
-  const loc = [s.city, s.country].filter(Boolean).join(", ");
+  const loc = window.jadlPlace ? window.jadlPlace(s, "primary") : [s.city, s.country].filter(Boolean).join(", ");
   if (loc) ctx.fillText(loc, pad, y);
   const footerY = H - pad - 14;
   ctx.fillStyle = rule;

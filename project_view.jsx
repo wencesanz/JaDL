@@ -198,7 +198,7 @@ function StudioDetail({ name, go }) {
   const host = (s.url || "").replace(/^https?:\/\//, "").replace(/\/$/, "");
   const igHandle = (s.ig || "").split("/").filter(Boolean).pop();
   const cats = s.category.split(",").map(c => c.trim()).filter(Boolean);
-  const place = [s.city, s.country].filter(Boolean).join(", ");
+  const place = (window.jadlPlace ? window.jadlPlace(s, "full") : [s.city, s.country].filter(Boolean).join(", "));
   usePdEffect(() => {
     ensureSdStyles();
     if (window.recordVisit) window.recordVisit(s.name);
@@ -372,7 +372,7 @@ function StudioDetail({ name, go }) {
     ...(window.jadlStudioLink ? window.jadlStudioLink(r, () => go("studio", { name: r.name })) : { onClick: () => go("studio", { name: r.name }) })
   }, h("div", { className: "t" }, window.RegionDot ? h(window.RegionDot, { country: r.country }) : null, r.name), h("div", {
     className: "c"
-  }, r.city, r.city && r.country ? ", " : "", r.country), h("div", {
+  }, (window.jadlPlace ? window.jadlPlace(r, "short") : [r.city, r.country].filter(Boolean).join(", "))), h("div", {
     className: "k"
   }, r.category), h("div", {
     className: "u"
