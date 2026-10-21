@@ -5,8 +5,28 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 03:52:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:24:11 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Studio Substrata</title>
+      <link>https://studiosubstrata.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-substrata</guid>
+      <pubDate>Wed, 21 Oct 2026 07:55:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Typography — Melbourne, Australia.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Lucy Andersen</title>
+      <link>https://www.lucyandersen.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/lucy-andersen</guid>
+      <pubDate>Wed, 21 Oct 2026 07:54:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — New York, USA.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Studio JAM</title>
       <link>https://www.studiojam.it/</link>
@@ -304,28 +324,6 @@
       <category>Graphic Design</category>
       <category>Packaging</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Marius Fahrner Design</title>
-      <link>https://www.mariusfahrner.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/marius-fahrner-design</guid>
-      <pubDate>Tue, 06 Oct 2026 10:26:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital · Graphic Design · Packaging — Hamburg, Germany.</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Made Together</title>
-      <link>https://madetogether.com.au/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/made-together</guid>
-      <pubDate>Tue, 06 Oct 2026 10:22:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Sydney, Australia.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
     </item>
   </channel>
 </rss>
