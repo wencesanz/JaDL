@@ -162,38 +162,11 @@ function TopBar({
     className: "nav-count"
   }, savedCount) : null))));
 }
-function CuratorAvatar() {
-  const ref = React.useRef(null);
-  const [seen, setSeen] = useState(false);
-  useEffect(() => {
-    const el = ref.current;
-    if (!el || !("IntersectionObserver" in window)) {
-      setSeen(true);
-      return;
-    }
-    const io = new IntersectionObserver((entries) => {
-      if (entries.some((e) => e.isIntersecting)) {
-        setSeen(true);
-        io.disconnect();
-      }
-    }, {
-      threshold: 0.9
-    });
-    io.observe(el);
-    return () => io.disconnect();
-  }, []);
+function CuratorMark() {
   return React.createElement("span", {
-    ref,
-    className: `curator-av ${seen ? "is-in" : ""}`,
+    className: "curator-mark",
     "aria-hidden": "true"
-  }, React.createElement("img", {
-    src: "/avatar-wences.png",
-    alt: "",
-    width: 48,
-    height: 48,
-    loading: "lazy",
-    decoding: "async"
-  }));
+  });
 }
 function Footer({
   go
@@ -270,13 +243,13 @@ function Footer({
     rel: "noopener"
   }, React.createElement("span", null, "RSS feed"), React.createElement("span", {
     className: "arr"
-  }, window.jadlArrowNE ? window.jadlArrowNE() : "↗︎"))), window.NewsletterNote ? React.createElement(window.NewsletterNote, null) : null, React.createElement("div", {
+  }, window.jadlArrowNE ? window.jadlArrowNE() : "↗︎"))), React.createElement("div", {
     className: "sponsor"
   }, React.createElement("span", null, "Just a Design List is an independent side project. Interested in sponsoring it?"), React.createElement("a", {
     href: "mailto:wencesanz@gmail.com?subject=SPONSOR"
   }, "Get in touch", React.createElement("span", {
     className: "arr"
-  }, "→"))), React.createElement("div", {
+  }, "→"))), window.NewsletterNote ? React.createElement(window.NewsletterNote, null) : null, React.createElement("div", {
     className: "colophon"
   }, d.colophon.map((l, i) => /Wences/.test(l) ? React.createElement("a", {
     key: i,
@@ -285,7 +258,7 @@ function Footer({
     target: "_blank",
     rel: "noopener",
     title: "Wences Sanz-Alonso"
-  }, React.createElement(CuratorAvatar, null), React.createElement("span", null, l)) : React.createElement("span", {
+  }, React.createElement(CuratorMark, null), React.createElement("span", null, l)) : React.createElement("span", {
     key: i
   }, l)), React.createElement("span", {
     style: {

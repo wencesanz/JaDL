@@ -118,7 +118,7 @@
   // ------------------------------------------------------------ newsletter
   window.NewsletterNote = function () {
     return h("div", { className: "nl-note" },
-      h("span", null, "Wences also writes a newsletter on Substack."),
+      h("span", null, "There\u2019s also a newsletter, on Substack."),
       h("a", { href: NEWSLETTER, target: "_blank", rel: "noopener" }, "Read and subscribe", h("span", { className: "arr" }, (window.jadlArrowNE ? window.jadlArrowNE() : "\u2197\uFE0E"))));
   };
 
