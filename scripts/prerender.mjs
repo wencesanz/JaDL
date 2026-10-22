@@ -70,13 +70,33 @@ function htmlEsc(s) {
     .replace(/>/g, '&gt;');
 }
 
+// Factual, per-studio description (no editorial blurb): disciplines, place,
+// how many studios share its city or country, and when it was added.
+const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+function studioDesc(s, loc, all) {
+  const list = (v) => String(v || '').split(',').map((t) => t.trim()).filter(Boolean);
+  const cats = list(s.category).map((c) => c.toLowerCase()).slice(0, 3);
+  const what = cats.length ? (cats.length > 1 ? cats.slice(0, -1).join(', ') + ' and ' + cats[cats.length - 1] : cats[0]) + ' practice' : 'design practice';
+  const city = list(s.city)[0], country = list(s.country)[0];
+  const n = (field, v) => all.filter((x) => x && list(x[field]).includes(v)).length;
+  let where = '';
+  const nc = city ? n('city', city) : 0;
+  const nk = country ? n('country', country) : 0;
+  if (nc > 1) where = ` One of ${nc} studios from ${city} on Just a Design List`;
+  else if (nk > 1) where = ` ${city ? `The only studio from ${city}` : 'One'}${city ? ', one of' : ' of'} ${nk} from ${country} on Just a Design List`;
+  else where = ' On Just a Design List';
+  const d = s.created ? new Date(s.created) : null;
+  const added = d && !isNaN(d) ? `, added in ${MONTHS[d.getUTCMonth()]} ${d.getUTCFullYear()}` : '';
+  return `${s.name}: ${what}${loc ? ' based in ' + loc : ''}.${where}${added}.`;
+}
+
 // Mirror of setMeta() in app.jsx for the "studio" route.
 function metaForStudio(s) {
   const cat = (s.category || '').split(',')[0].trim();
   const loc = place(s, ALL, 'full');
   const loc1 = place(s, ALL, 'primary');
   const title = `${s.name} — ${cat}${loc1 ? ', ' + loc1 : ''} · Just a Design List`;
-  const desc = `${s.name} is an independent design practice${loc ? ' based in ' + loc : ''}, working in ${(s.category || 'design').toLowerCase()}. Indexed on Just a Design List.`;
+  const desc = studioDesc(s, loc1, ALL);
   const url = `${SITE_BASE}/studio/${studioSlug(s, ALL)}`;
   // Per-studio Open Graph card, generated on the fly by /api/og (see api/og.tsx).
   // A dynamic edge image keeps the repo clean and updates automatically as the

@@ -22,6 +22,23 @@ function findStudioBySlug(slug) {
 }
 window.studioSlug = (s) => studioSlug(s, window.SITE && window.SITE.studios || []);
 const SITE_BASE = "https://justadesignlist.com";
+const DESC_MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+function studioDesc(s, loc, all) {
+  const list = (v) => String(v || "").split(",").map((t) => t.trim()).filter(Boolean);
+  const cats = list(s.category).map((c) => c.toLowerCase()).slice(0, 3);
+  const what = cats.length ? (cats.length > 1 ? cats.slice(0, -1).join(", ") + " and " + cats[cats.length - 1] : cats[0]) + " practice" : "design practice";
+  const city = list(s.city)[0], country = list(s.country)[0];
+  const n = (field, v) => all.filter((x) => x && list(x[field]).includes(v)).length;
+  let where = "";
+  const nc = city ? n("city", city) : 0;
+  const nk = country ? n("country", country) : 0;
+  if (nc > 1) where = ` One of ${nc} studios from ${city} on Just a Design List`;
+  else if (nk > 1) where = ` ${city ? `The only studio from ${city}` : "One"}${city ? ", one of" : " of"} ${nk} from ${country} on Just a Design List`;
+  else where = " On Just a Design List";
+  const d = s.created ? new Date(s.created) : null;
+  const added = d && !isNaN(d) ? `, added in ${DESC_MONTHS[d.getUTCMonth()]} ${d.getUTCFullYear()}` : "";
+  return `${s.name}: ${what}${loc ? " based in " + loc : ""}.${where}${added}.`;
+}
 function routeToPath(r) {
   if (!r) return "/";
   switch (r.view) {
@@ -265,7 +282,7 @@ function setMeta(route) {
       const loc = window.jadlPlace ? window.jadlPlace(s, "full") : [s.city, s.country].filter(Boolean).join(", ");
       const loc1 = window.jadlPlace ? window.jadlPlace(s, "primary") : loc;
       title = `${s.name} — ${cat}${loc1 ? ", " + loc1 : ""} · Just a Design List`;
-      desc = `${s.name} is an independent design practice${loc ? " based in " + loc : ""}, working in ${(s.category || "design").toLowerCase()}. Indexed on Just a Design List.`;
+      desc = studioDesc(s, loc1, d.studios || []);
       image = `${SITE_BASE}/api/og?name=${encodeURIComponent(s.name)}&meta=${encodeURIComponent([cat, loc1].filter(Boolean).join(" · ") || "A curated directory of design practices")}&v=2`;
       jsonld = [studioLd(s, url, desc), breadcrumbLd([["Home", SITE_BASE + "/"], ...s.country ? [[s.country.split(",")[0].trim(), SITE_BASE + "/country/" + (window.collSlugify ? window.collSlugify(s.country.split(",")[0].trim()) : "")]] : [["Studios", SITE_BASE + "/studios"]], [s.name, url]])];
     }
