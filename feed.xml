@@ -5,8 +5,22 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 03:52:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:23:33 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Object-Matter</title>
+      <link>https://www.object-matter.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/object-matter</guid>
+      <pubDate>Thu, 22 Oct 2026 07:51:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Illustration · Packaging · Interactive/Digital · Motion · Advertising/Campaigns — Los Angeles, USA.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Illustration</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+      <category>Advertising/Campaigns</category>
+    </item>
     <item>
       <title>The Design Office of David McGillivray</title>
       <link>https://dmcg.co/</link>
@@ -312,17 +326,6 @@
       <category>Motion</category>
       <category>Interactive/Digital</category>
       <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>Mirats Studio</title>
-      <link>https://miratsestudio.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/mirats-studio</guid>
-      <pubDate>Wed, 07 Oct 2026 06:03:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Barcelona, Spain.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>
