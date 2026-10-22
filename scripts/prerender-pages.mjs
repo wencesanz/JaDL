@@ -61,9 +61,13 @@ const wrap = (label, inner, extra = '') => `<div class="page" data-screen-label=
 
 // Same replacement as the other prerender scripts: swap the meta tags and
 // the contents of #root (up to the React script that follows it).
-function renderPage(template, { title, desc, url, snapshot }) {
+function renderPage(template, { title, desc, url, snapshot, robots }) {
   let html = template;
   const repl = (re, out) => { html = html.replace(re, out); };
+  if (robots) {
+    html = html.replace(/<\/head>/, `<meta name="robots" content="${robots}">\n</head>`);
+    html = html.replace(/\s*<link rel="canonical" href="[^"]*">/, '');
+  }
   repl(/<title>[\s\S]*?<\/title>/, `<title>${htmlEsc(title)}</title>`);
   repl(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${attrEsc(desc)}">`);
   repl(/<link rel="canonical" href="[^"]*">/, `<link rel="canonical" href="${attrEsc(url)}">`);
@@ -169,6 +173,16 @@ function renderPage(template, { title, desc, url, snapshot }) {
     desc: 'Suggest a design studio or independent designer for the index.',
     url: `${SITE_BASE}/submit`,
     snapshot: wrap('submit', `<header><p>Submit</p><h1>Suggest a studio or designer</h1><p>Just a Design List is a hand-edited list. Entries are read, researched and added when they fit.</p></header>`),
+  });
+
+  // ---- 404 (Vercel serves 404.html for any address with no file) ----
+  pages.push({
+    file: '404.html',
+    title: 'Not found · Just a Design List',
+    desc: 'This page is not on the list.',
+    url: `${SITE_BASE}/`,
+    robots: 'noindex, follow',
+    snapshot: wrap('notfound', `<header><p>404 · Not found</p><h1>Not on the list.</h1><p>This page doesn\u2019t exist, or the studio it belonged to has left the index.</p><p><a href="/studios">Browse all ${studios.length} studios</a> or <a href="/geography">enter by geography</a>.</p></header>`),
   });
 
   // index.html is the template for every other page, so write it last and

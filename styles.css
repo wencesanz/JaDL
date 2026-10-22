@@ -1792,3 +1792,22 @@ html.qs-lock { overflow: hidden; }
 /* Footer: WS monogram instead of the avatar */
 .curator-mark { flex: none; display: block; width: 34px; height: 28px; background: currentColor; color: var(--ink); -webkit-mask: url("/ws-monogram.svg") center / contain no-repeat; mask: url("/ws-monogram.svg") center / contain no-repeat; transition: background-color .2s; }
 .colophon .curator:hover .curator-mark { background: var(--accent-text, var(--accent)); }
+
+/* 404 */
+.nf .about-head { padding-bottom: 8px; }
+.view.nf .nf-title { font-family: var(--serif); font-weight: 400; font-size: clamp(56px, 9vw, 140px); line-height: .92; letter-spacing: -0.025em; margin: 14px 0 0; }
+.view.nf .nf-title em { font-style: italic; color: var(--ink-2); }
+.nf-lead { max-width: 44ch; margin: 28px 0 0; font-size: 17px; line-height: 1.5; color: var(--ink-2); text-wrap: pretty; }
+.nf-actions { display: flex; flex-wrap: wrap; gap: 10px; margin: 36px 0 0; }
+.nf-btn { display: inline-flex; align-items: center; gap: 10px; height: 44px; padding: 0 18px; border: 1px solid var(--rule); border-radius: 999px; background: transparent; color: var(--ink); font: inherit; font-size: 14px; text-decoration: none; cursor: pointer; transition: border-color .15s, background .15s, color .15s; }
+.nf-btn:hover { border-color: var(--ink); }
+.nf-btn--primary { background: var(--ink); border-color: var(--ink); color: var(--paper); }
+.nf-btn--primary:hover { background: transparent; color: var(--ink); }
+.nf-btn .random-kbd { margin-left: 2px; }
+.nf-regions { margin: 64px 0 96px; padding-top: 20px; border-top: 1px solid var(--rule-soft); }
+.nf-regions-label { font-family: var(--mono); font-size: 11.5px; letter-spacing: .05em; text-transform: uppercase; color: var(--mute); margin-bottom: 14px; }
+.nf-regions ul { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); }
+.nf-regions li a { display: flex; align-items: center; gap: 10px; padding: 12px 0; border-bottom: 1px solid var(--rule-soft); color: var(--ink); text-decoration: none; font-size: 15px; }
+.nf-regions li a:hover { color: var(--accent-text); }
+.nf-regions i { width: 14px; height: 2px; flex: none; }
+@media (max-width: 600px) { .nf-btn { flex: 1 1 100%; justify-content: center; } }

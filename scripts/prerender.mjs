@@ -13,9 +13,7 @@
  * the meta + a small crawlable content snapshot into a real file per studio
  * fixes both — and the SPA still boots and hydrates over it as normal.
  *
- * Vercel serves these static files at the clean path (/studio/<slug>) when
- * "cleanUrls": true is set; the /studio/:slug -> /index.html rewrite stays as a
- * fallback for any slug that has not been prerendered yet.
+ * "cleanUrls": true is set. An address with no file gets 404.html.
  *
  * Zero dependencies. Run after sync-notion.mjs (studios.json must exist).
  *

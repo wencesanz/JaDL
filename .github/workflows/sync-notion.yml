@@ -41,7 +41,7 @@ jobs:
         run: node scripts/sync-notion.mjs
 
       - name: Prerender studio pages
-        run: node scripts/prerender.mjs
+        run: node scripts/prerender.mjs && node scripts/redirects.mjs
 
       # Hubs + leaves for disciplines, countries, cities and regions.
       # Also merges their URLs into sitemap.xml.
@@ -57,8 +57,8 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A studios.json sitemap.xml feed.xml studio index.html disciplines.html countries.html cities.html regions.html discipline country city region studios.html geography.html categories.html about.html submit.html scripts/https-ok.json
-          if [[ -n "$(git status --porcelain studios.json sitemap.xml feed.xml studio index.html disciplines.html countries.html cities.html regions.html discipline country city region studios.html geography.html categories.html about.html submit.html scripts/https-ok.json)" ]]; then
+          git add -A studios.json sitemap.xml feed.xml studio index.html disciplines.html countries.html cities.html regions.html discipline country city region studios.html geography.html categories.html about.html submit.html 404.html scripts/https-ok.json vercel.json
+          if [[ -n "$(git status --porcelain studios.json sitemap.xml feed.xml studio index.html disciplines.html countries.html cities.html regions.html discipline country city region studios.html geography.html categories.html about.html submit.html 404.html scripts/https-ok.json vercel.json)" ]]; then
             git commit -m "chore: sync studios from Notion"
             git push
             echo "pushed=true" >> "$GITHUB_OUTPUT"

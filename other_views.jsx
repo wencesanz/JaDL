@@ -305,7 +305,73 @@ function AboutView() {
     href: `mailto:${d.contact.email}`
   }, d.contact.email), "."))));
 }
+// Shown for any address that is not on the site (also served as 404.html).
+function NotFoundView({
+  go
+}) {
+  const d = window.SITE || {};
+  const n = (d.studios || []).length;
+  const regions = window.JADL_REGIONS || [];
+  const nav = (e, path) => {
+    if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button === 1) return;
+    e.preventDefault();
+    window.jadlNavigate ? window.jadlNavigate(path) : (window.location.href = path);
+  };
+  const random = () => {
+    const s = window.pickRandomStudio && window.pickRandomStudio(null);
+    if (s) go("studio", {
+      name: s.name
+    });
+  };
+  return React.createElement("div", {
+    className: "view wrap nf"
+  }, React.createElement("div", {
+    className: "about-head"
+  }, React.createElement(Eyebrow, {
+    num: "404"
+  }, "Not found"), React.createElement("h1", {
+    className: "nf-title"
+  }, "Not on", React.createElement("br", null), React.createElement("em", null, "the list"), "."), React.createElement("p", {
+    className: "nf-lead"
+  }, "This page doesn\u2019t exist, or the studio it belonged to has left the index. The other ", n || "", " entries are still here.")), React.createElement("div", {
+    className: "nf-actions"
+  }, React.createElement("button", {
+    type: "button",
+    className: "nf-btn nf-btn--primary",
+    onClick: () => window.jadlOpenSearch && window.jadlOpenSearch()
+  }, "Search the list", React.createElement("kbd", {
+    className: "random-kbd",
+    "aria-hidden": "true"
+  }, "/")), React.createElement("a", {
+    className: "nf-btn",
+    href: "/studios",
+    onClick: e => nav(e, "/studios")
+  }, "All studios, A\u2013Z"), React.createElement("button", {
+    type: "button",
+    className: "nf-btn",
+    onClick: random
+  }, "A random studio", React.createElement("kbd", {
+    className: "random-kbd",
+    "aria-hidden": "true"
+  }, "R"))), regions.length ? React.createElement("nav", {
+    className: "nf-regions",
+    "aria-label": "Regions"
+  }, React.createElement("div", {
+    className: "nf-regions-label"
+  }, "Or enter by region"), React.createElement("ul", null, regions.map(r => React.createElement("li", {
+    key: r.id
+  }, React.createElement("a", {
+    href: window.jadlRegionHref(r.name),
+    onClick: e => nav(e, window.jadlRegionHref(r.name))
+  }, React.createElement("i", {
+    style: {
+      background: r.color
+    },
+    "aria-hidden": "true"
+  }), r.name))))) : null);
+}
 Object.assign(window, {
+  NotFoundView,
   GeographyView,
   CategoriesView,
   AboutView

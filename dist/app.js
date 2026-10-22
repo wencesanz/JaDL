@@ -55,6 +55,8 @@ function routeToPath(r) {
       return "/submit";
     case "about":
       return "/about";
+    case "notfound":
+      return r.path || "/";
     case "index":
     default:
       return "/";
@@ -72,7 +74,8 @@ function pathToRoute(pathname, search) {
       view: "studio",
       name: s.name
     } : {
-      view: "index"
+      view: "notfound",
+      path: pathname
     };
   }
   if (["discipline", "country", "city", "region"].includes(seg) && parts[1]) {
@@ -82,7 +85,8 @@ function pathToRoute(pathname, search) {
       kind: seg,
       value
     } : {
-      view: "index"
+      view: "notfound",
+      path: pathname
     };
   }
   if (["disciplines", "countries", "cities", "regions"].includes(seg)) {
@@ -112,7 +116,8 @@ function pathToRoute(pathname, search) {
     };
   }
   return {
-    view: "index"
+    view: "notfound",
+    path: pathname
   };
 }
 function legacyHashToPath() {
@@ -297,6 +302,10 @@ function setMeta(route) {
     title = route.shared ? "A shared list · Just a Design List" : "My List · Just a Design List";
     desc = route.shared ? "A list of design studios shared from Just a Design List." : "Studios you've saved on this browser.";
     if (route.shared) robots = "noindex, follow";
+  } else if (route.view === "notfound") {
+    title = "Not found · Just a Design List";
+    desc = "This page is not on the list.";
+    robots = "noindex, follow";
   } else if (route.view === "collectionHub") {
     const cfg = Object.values(window.COLLECTION_KINDS || {}).find((c) => c.plural === route.kind);
     const lp = cfg ? cfg.labelPlural : "Collections";
@@ -470,6 +479,11 @@ function App() {
       body = React.createElement(CollectionView, {
         kind: route.kind,
         value: route.value,
+        go
+      });
+      break;
+    case "notfound":
+      body = React.createElement(NotFoundView, {
         go
       });
       break;

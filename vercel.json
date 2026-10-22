@@ -25,29 +25,54 @@
       "source": "/studio/ortnerschinko",
       "destination": "/studio/ortner-etc",
       "permanent": true
+    },
+    {
+      "source": "/studio/maud",
+      "destination": "/city/melbourne",
+      "permanent": true
+    },
+    {
+      "source": "/studio/nslt",
+      "destination": "/studio/bureau-nicolas-leuliet",
+      "permanent": true
+    },
+    {
+      "source": "/studio/jam3",
+      "destination": "/city/toronto",
+      "permanent": true
+    },
+    {
+      "source": "/studio/a-line-studio",
+      "destination": "/city/san-francisco",
+      "permanent": true
+    },
+    {
+      "source": "/studio/address-arts",
+      "destination": "/country/usa",
+      "permanent": true
+    },
+    {
+      "source": "/studio/bou",
+      "destination": "/city/helsinki",
+      "permanent": true
+    },
+    {
+      "source": "/studio/pop-and-pac",
+      "destination": "/studio/poc-and-pac",
+      "permanent": true
+    },
+    {
+      "source": "/studio/studio-dp",
+      "destination": "/studio/studio-daniel-peter",
+      "permanent": true
+    },
+    {
+      "source": "/studio/the-phoney-club",
+      "destination": "/studio/phoney",
+      "permanent": true
     }
   ],
   "rewrites": [
-    {
-      "source": "/studio/(.*)",
-      "destination": "/index"
-    },
-    {
-      "source": "/discipline/(.*)",
-      "destination": "/index"
-    },
-    {
-      "source": "/country/(.*)",
-      "destination": "/index"
-    },
-    {
-      "source": "/city/(.*)",
-      "destination": "/index"
-    },
-    {
-      "source": "/region/(.*)",
-      "destination": "/index"
-    },
     {
       "source": "/(disciplines|countries|cities|regions|studios|geography|categories|about|submit|list)",
       "destination": "/index"
