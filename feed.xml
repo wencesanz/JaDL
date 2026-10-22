@@ -5,8 +5,31 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 11:24:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:51:04 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>RoAndCo</title>
+      <link>https://www.roandcostudio.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/roandco</guid>
+      <pubDate>Thu, 22 Oct 2026 13:10:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Packaging · Graphic Design — New York, Los Angeles, USA.</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Relic</title>
+      <link>https://relicstudio.co/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/relic</guid>
+      <pubDate>Thu, 22 Oct 2026 12:43:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Illustration · Packaging · Interactive/Digital — Nashville, USA.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Illustration</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Object-Matter</title>
       <link>https://www.object-matter.com/</link>
@@ -303,29 +326,6 @@
       <category>Packaging</category>
       <category>Motion</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Omni Design</title>
-      <link>https://onmidesign.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/omni-design</guid>
-      <pubDate>Thu, 08 Oct 2026 07:01:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Advertising/Campaigns — Murcia, Spain.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>Nicolás Gloazzo</title>
-      <link>https://nicolasgloazzo.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/nicolas-gloazzo</guid>
-      <pubDate>Wed, 07 Oct 2026 06:07:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Motion · Interactive/Digital · Advertising/Campaigns — Paris, France.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-      <category>Advertising/Campaigns</category>
     </item>
   </channel>
 </rss>
