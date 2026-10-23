@@ -704,6 +704,7 @@
   <url><loc>https://justadesignlist.com/studio/luka-kopajtic-studio</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/lukas-haider</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/luke-brown</loc><lastmod>2026-05-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/studio/luke-robertson-studio</loc><lastmod>2026-10-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/luminous-design</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/lundgren-lindqvist</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/lunqdvist-and-dallyn</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -904,6 +905,7 @@
   <url><loc>https://justadesignlist.com/studio/ordinari</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/ordinary-people</loc><lastmod>2026-05-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/ordre</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/studio/ori-studio</loc><lastmod>2026-10-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/oriol-corsa</loc><lastmod>2026-05-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/orkestra</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/ortner-etc</loc><lastmod>2026-10-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -938,6 +940,7 @@
   <url><loc>https://justadesignlist.com/studio/paseo</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/path</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/patrick-fry-studio</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/studio/paul-belford-ltd</loc><lastmod>2026-10-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/pdb</loc><lastmod>2026-09-24</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/pearlfisher</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/pedro-del-corro</loc><lastmod>2026-05-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -1355,6 +1358,7 @@
   <url><loc>https://justadesignlist.com/studio/velvele</loc><lastmod>2026-08-11</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/vengavale</loc><lastmod>2026-07-06</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/verena-michelitsch</loc><lastmod>2026-09-24</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/studio/view-source</loc><lastmod>2026-10-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/viktor-horvath</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/village-green</loc><lastmod>2026-08-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/vincent-meertens</loc><lastmod>2026-05-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -1417,23 +1421,23 @@
   <url><loc>https://justadesignlist.com/studio/zoo-studio</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/studio/zoom-graphics</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <!-- collections:start -->
-  <url><loc>https://justadesignlist.com/disciplines</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://justadesignlist.com/discipline/branding</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/discipline/graphic-design</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/discipline/interactive-digital</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/discipline/packaging</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/disciplines</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://justadesignlist.com/discipline/branding</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/discipline/graphic-design</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/discipline/interactive-digital</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/discipline/packaging</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/discipline/motion</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/discipline/typography</loc><lastmod>2026-10-21</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/discipline/advertising-campaigns</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/discipline/advertising-campaigns</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/discipline/illustration</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/discipline/industrial-design</loc><lastmod>2026-09-04</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/countries</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://justadesignlist.com/country/usa</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/country/england</loc><lastmod>2026-10-16</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/countries</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://justadesignlist.com/country/usa</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/country/england</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/country/spain</loc><lastmod>2026-10-21</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/country/germany</loc><lastmod>2026-10-15</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/country/australia</loc><lastmod>2026-10-21</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/country/france</loc><lastmod>2026-10-15</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/country/france</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/country/the-netherlands</loc><lastmod>2026-10-15</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/country/switzerland</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/country/canada</loc><lastmod>2026-10-16</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -1445,8 +1449,8 @@
   <url><loc>https://justadesignlist.com/country/austria</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/country/finland</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/country/belgium</loc><lastmod>2026-09-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/country/china</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/country/new-zealand</loc><lastmod>2026-10-20</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/country/china</loc><lastmod>2026-08-31</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/country/greece</loc><lastmod>2026-10-14</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/country/scotland</loc><lastmod>2026-09-08</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/country/poland</loc><lastmod>2026-09-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -1478,11 +1482,11 @@
   <url><loc>https://justadesignlist.com/country/russia</loc><lastmod>2026-10-14</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/country/slovenia</loc><lastmod>2026-09-15</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/country/uruguay</loc><lastmod>2026-08-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/cities</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://justadesignlist.com/city/london</loc><lastmod>2026-10-15</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/city/new-york</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/cities</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://justadesignlist.com/city/london</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/city/new-york</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/barcelona</loc><lastmod>2026-10-21</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/city/paris</loc><lastmod>2026-10-15</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/city/paris</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/los-angeles</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/madrid</loc><lastmod>2026-10-15</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/melbourne</loc><lastmod>2026-10-21</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -1552,6 +1556,7 @@
   <url><loc>https://justadesignlist.com/city/shanghai</loc><lastmod>2026-08-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/a-coruna</loc><lastmod>2026-07-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/alicante</loc><lastmod>2026-08-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/city/beijing</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/belfast</loc><lastmod>2026-08-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/bern</loc><lastmod>2026-08-20</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/brescia</loc><lastmod>2026-08-27</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -1573,7 +1578,6 @@
   <url><loc>https://justadesignlist.com/city/zagreb</loc><lastmod>2026-09-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/atlanta</loc><lastmod>2026-08-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/bath</loc><lastmod>2026-09-07</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/city/beijing</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/bergen</loc><lastmod>2026-08-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/bilbao</loc><lastmod>2026-08-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/bordeaux</loc><lastmod>2026-08-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -1621,13 +1625,13 @@
   <url><loc>https://justadesignlist.com/city/vic</loc><lastmod>2026-08-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/wellington</loc><lastmod>2026-08-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/yerevan</loc><lastmod>2026-08-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/regions</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://justadesignlist.com/region/rest-of-europe</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/region/north-america</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/region/uk-and-ireland</loc><lastmod>2026-10-16</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/regions</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://justadesignlist.com/region/rest-of-europe</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/region/north-america</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/region/uk-and-ireland</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/region/iberia</loc><lastmod>2026-10-21</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/region/nordics</loc><lastmod>2026-10-15</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/region/oceania</loc><lastmod>2026-10-21</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/region/rest-of-the-world</loc><lastmod>2026-10-21</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/region/rest-of-the-world</loc><lastmod>2026-10-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <!-- collections:end -->
 </urlset>

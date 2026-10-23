@@ -5,8 +5,47 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 03:56:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:13:53 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Paul Belford Ltd</title>
+      <link>https://paulbelford.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/paul-belford-ltd</guid>
+      <pubDate>Fri, 23 Oct 2026 08:46:00 GMT</pubDate>
+      <description>Branding · Packaging · Graphic Design · Advertising/Campaigns — London, England.</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Graphic Design</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>ori studio</title>
+      <link>https://ori.studio/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/ori-studio</guid>
+      <pubDate>Fri, 23 Oct 2026 08:38:00 GMT</pubDate>
+      <description>Graphic Design — Beijing, China.</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Luke Robertson Studio</title>
+      <link>https://lukerobertson.studio/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/luke-robertson-studio</guid>
+      <pubDate>Fri, 23 Oct 2026 08:06:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Paris, France.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>View Source</title>
+      <link>https://view-source.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/view-source</guid>
+      <pubDate>Fri, 23 Oct 2026 07:50:00 GMT</pubDate>
+      <description>Branding · Packaging · Interactive/Digital — New York, USA.</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>RoAndCo</title>
       <link>https://www.roandcostudio.com/</link>
@@ -281,50 +320,6 @@
       <description>Branding · Graphic Design · Interactive/Digital — London, England.</description>
       <category>Branding</category>
       <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Gris</title>
-      <link>https://gris.agency/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/gris</guid>
-      <pubDate>Thu, 08 Oct 2026 14:10:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Barcelona, Spain.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Foreign Policy</title>
-      <link>https://www.foreignpolicy.design/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/foreign-policy</guid>
-      <pubDate>Thu, 08 Oct 2026 14:05:00 GMT</pubDate>
-      <description>Branding · Graphic Design — Singapore, Singapore.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Massa</title>
-      <link>https://thisismassa.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/massa</guid>
-      <pubDate>Thu, 08 Oct 2026 07:15:00 GMT</pubDate>
-      <description>Branding · Packaging · Advertising/Campaigns · Graphic Design — Barcelona, Spain.</description>
-      <category>Branding</category>
-      <category>Packaging</category>
-      <category>Advertising/Campaigns</category>
-      <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>OTTO Creative Studio</title>
-      <link>https://www.ottostudio.co.uk/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/otto-creative-studio</guid>
-      <pubDate>Thu, 08 Oct 2026 07:05:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Advertising/Campaigns · Packaging · Motion · Interactive/Digital — Leeds, England.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Advertising/Campaigns</category>
-      <category>Packaging</category>
-      <category>Motion</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>
