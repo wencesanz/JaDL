@@ -5,8 +5,48 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:30:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 22:25:46 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Estudio Republica</title>
+      <link>https://republica.work/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/estudio-republica</guid>
+      <pubDate>Mon, 26 Oct 2026 16:22:00 GMT</pubDate>
+      <description>Graphic Design · Illustration · Packaging — Malaga, Spain.</description>
+      <category>Graphic Design</category>
+      <category>Illustration</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Essentis</title>
+      <link>https://www.essentis.studio/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/essentis</guid>
+      <pubDate>Mon, 26 Oct 2026 15:56:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Porto Alegre, Brazil.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Tinloof</title>
+      <link>https://www.tinloof.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/tinloof</guid>
+      <pubDate>Mon, 26 Oct 2026 15:38:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Berlin, Germany.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Studio Bland</title>
+      <link>https://studiobland.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-bland</guid>
+      <pubDate>Mon, 26 Oct 2026 15:36:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Melbourne, Brisbane, Australia.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Bootstep</title>
       <link>https://boostep.co/</link>
@@ -275,50 +315,6 @@
       <category>Graphic Design</category>
       <category>Branding</category>
       <category>Packaging</category>
-    </item>
-    <item>
-      <title>RXK Studio</title>
-      <link>https://rxkstudio.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/rxk-studio</guid>
-      <pubDate>Tue, 13 Oct 2026 08:05:00 GMT</pubDate>
-      <description>Interactive/Digital · Graphic Design — Paris, France.</description>
-      <category>Interactive/Digital</category>
-      <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Marc Atlan Design</title>
-      <link>https://www.marcatlan.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/marc-atlan-design</guid>
-      <pubDate>Mon, 12 Oct 2026 14:39:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Advertising/Campaigns · Packaging — Los Angeles, USA.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Advertising/Campaigns</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Kobra</title>
-      <link>https://kobraagency.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/kobra</guid>
-      <pubDate>Mon, 12 Oct 2026 14:34:00 GMT</pubDate>
-      <description>Branding · Motion · Packaging · Graphic Design — Helsinki, Finland.</description>
-      <category>Branding</category>
-      <category>Motion</category>
-      <category>Packaging</category>
-      <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Magpie Studio</title>
-      <link>https://magpie-studio.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/magpie-studio</guid>
-      <pubDate>Sat, 10 Oct 2026 10:47:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Advertising/Campaigns · Illustration · Motion — London, England.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Advertising/Campaigns</category>
-      <category>Illustration</category>
-      <category>Motion</category>
     </item>
   </channel>
 </rss>
