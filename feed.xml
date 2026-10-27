@@ -5,8 +5,44 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 04:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:48:15 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hayley Lim</title>
+      <link>https://hayleylim.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/hayley-lim</guid>
+      <pubDate>Tue, 27 Oct 2026 11:16:00 GMT</pubDate>
+      <description>Graphic Design · Illustration — Montreal, Canada.</description>
+      <category>Graphic Design</category>
+      <category>Illustration</category>
+    </item>
+    <item>
+      <title>Marco Lüthi</title>
+      <link>https://www.marcoluthi.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/marco-luthi</guid>
+      <pubDate>Tue, 27 Oct 2026 10:56:00 GMT</pubDate>
+      <description>Graphic Design · Interactive/Digital — Zurich, Switzerland.</description>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>F/SPEE</title>
+      <link>https://fspee.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/f-spee</guid>
+      <pubDate>Tue, 27 Oct 2026 09:46:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Liege, Belgium.</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Everland</title>
+      <link>https://everland.dk/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/everland</guid>
+      <pubDate>Tue, 27 Oct 2026 06:46:00 GMT</pubDate>
+      <description>Branding · Packaging — Copenhagen, Oslo, Denmark, Norway.</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Estudio Republica</title>
       <link>https://republica.work/</link>
@@ -274,46 +310,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Interactive/Digital</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Acquazzone</title>
-      <link>https://acquazzone.net/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/acquazzone</guid>
-      <pubDate>Tue, 13 Oct 2026 20:40:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Typography — San Francisco, USA.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Typography</category>
-    </item>
-    <item>
-      <title>Carolanebel</title>
-      <link>https://carolanebel.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/carolanebel</guid>
-      <pubDate>Tue, 13 Oct 2026 10:24:00 GMT</pubDate>
-      <description>Graphic Design — Montreal, Canada.</description>
-      <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>21—87</title>
-      <link>https://21-87.co.uk/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/21-87</guid>
-      <pubDate>Tue, 13 Oct 2026 10:19:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Packaging — London, England.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Studio Anthony Lane</title>
-      <link>https://www.studioanthonylane.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-anthony-lane</guid>
-      <pubDate>Tue, 13 Oct 2026 10:15:00 GMT</pubDate>
-      <description>Graphic Design · Branding · Packaging — Minneapolis, USA.</description>
-      <category>Graphic Design</category>
-      <category>Branding</category>
       <category>Packaging</category>
     </item>
   </channel>
