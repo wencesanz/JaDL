@@ -89,7 +89,7 @@ function TopBar({
   }, [view]);
   useEffect(() => {
     const onResize = () => {
-      if (window.innerWidth > 880) setMenuOpen(false);
+      if (window.innerWidth > 960) setMenuOpen(false);
     };
     window.addEventListener("resize", onResize);
     return () => window.removeEventListener("resize", onResize);

@@ -180,7 +180,7 @@ em { font-style: italic; }
 :root .masthead h1 em.count-accent { color: var(--accent) !important; }
 
 /* --- layout --- */
-.page { min-height: 100vh; padding-bottom: 120px; }
+.page { min-height: 100vh; min-height: 100dvh; padding-bottom: 120px; }
 .wrap { padding-inline: var(--pad-x); }
 .grid-12 { display: grid; grid-template-columns: repeat(12, 1fr); gap: 32px; }
 .rule { border-top: 1px solid var(--rule); }
@@ -218,7 +218,7 @@ em { font-style: italic; }
   color: var(--ink);
 }
 /* Switch to the compact square mark before the nav gets tight, well ahead of
-   the 880px point where it collapses into the hamburger menu anyway. */
+   the 960px point where it collapses into the hamburger menu anyway. */
 @media (max-width: 1180px) {
   .topbar .mark .mark-logo-full { display: none; }
   .topbar .mark .mark-logo-compact { display: block; }
@@ -759,6 +759,7 @@ em { font-style: italic; }
   position: relative;
   width: min(440px, 100%);
   max-height: calc(100vh - 48px);
+  max-height: calc(100dvh - 48px);
   overflow: auto;
   background: var(--paper);
   border: 1px solid var(--rule);
@@ -891,7 +892,7 @@ em { font-style: italic; }
 .tweaks .close { position: absolute; top: 10px; right: 12px; font-size: 14px; color: var(--mute); }
 
 /* --- boot --- */
-.boot { min-height: 100vh; display: grid; place-items: center; background: var(--paper); }
+.boot { min-height: 100vh; min-height: 100dvh; display: grid; place-items: center; background: var(--paper); }
 .boot-inner { text-align: center; }
 
 /* --- stats strip on index --- */
@@ -1423,7 +1424,7 @@ em { font-style: italic; }
 .topbar .mobile-nav { display: none; }
 
 /* Tablet: collapse nav into hamburguer */
-@media (max-width: 880px) {
+@media (max-width: 960px) {
   .topbar {
     grid-template-columns: 1fr auto !important;
     padding: 14px 20px !important;
@@ -1811,3 +1812,16 @@ html.qs-lock { overflow: hidden; }
 .nf-regions li a:hover { color: var(--accent-text); }
 .nf-regions i { width: 14px; height: 2px; flex: none; }
 @media (max-width: 600px) { .nf-btn { flex: 1 1 100%; justify-content: center; } }
+
+/* Short, wide screens: an unfolded foldable (iPhone Duo ~890x626), phones in
+   landscape, small laptop windows. Less air above the headlines so the first
+   screen shows more than a title. */
+@media (min-width: 700px) and (max-height: 720px) {
+  :root { --fs-display: clamp(48px, 7vw, 88px); }
+  .masthead { padding-top: 48px; padding-bottom: 40px; }
+  .masthead .sub { margin-top: 24px; }
+  .masthead--tight { padding-top: 40px; padding-bottom: 32px; }
+  .about-head { padding-top: 40px; }
+  .pd-head, .pd-head--stack { padding-top: 32px !important; }
+  .pd-head h2 { font-size: clamp(40px, 6vw, 72px); }
+}
