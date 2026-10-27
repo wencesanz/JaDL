@@ -70,6 +70,11 @@
       "source": "/studio/the-phoney-club",
       "destination": "/studio/phoney",
       "permanent": true
+    },
+    {
+      "source": "/studio/bootstep",
+      "destination": "/studio/boostep",
+      "permanent": true
     }
   ],
   "rewrites": [
