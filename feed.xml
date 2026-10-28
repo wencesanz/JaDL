@@ -5,8 +5,19 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 12:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 22:20:44 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BLOND</title>
+      <link>https://www.blond.cc/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/blond</guid>
+      <pubDate>Wed, 28 Oct 2026 13:56:00 GMT</pubDate>
+      <description>Industrial Design · Branding · Packaging · Interactive/Digital — London, England.</description>
+      <category>Industrial Design</category>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Lome Studio</title>
       <link>https://lome.studio/</link>
@@ -298,16 +309,6 @@
       <guid isPermaLink="false">https://justadesignlist.com/studio/studio-11x1</guid>
       <pubDate>Mon, 19 Oct 2026 09:36:00 GMT</pubDate>
       <description>Graphic Design — Lugano, Switzerland.</description>
-      <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Buena Suerte</title>
-      <link>https://buenasuerte.cl/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/buena-suerte</guid>
-      <pubDate>Fri, 16 Oct 2026 14:41:00 GMT</pubDate>
-      <description>Branding · Motion · Graphic Design — Santiago de Chile, Chile.</description>
-      <category>Branding</category>
-      <category>Motion</category>
       <category>Graphic Design</category>
     </item>
   </channel>
