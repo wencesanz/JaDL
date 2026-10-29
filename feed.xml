@@ -5,8 +5,56 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:33:32 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kevin Hipke</title>
+      <link>https://kevinhipke.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/kevin-hipke</guid>
+      <pubDate>Thu, 29 Oct 2026 15:49:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — London, England.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Keita Takemura Studio</title>
+      <link>https://keitatakemura.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/keita-takemura-studio</guid>
+      <pubDate>Thu, 29 Oct 2026 15:45:00 GMT</pubDate>
+      <description>Graphic Design · Packaging · Interactive/Digital — London, England.</description>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>James Walsh Studio</title>
+      <link>https://www.jameswalsh.studio/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/james-walsh-studio</guid>
+      <pubDate>Thu, 29 Oct 2026 15:42:00 GMT</pubDate>
+      <description>Industrial Design — Melbourne, Australia.</description>
+      <category>Industrial Design</category>
+    </item>
+    <item>
+      <title>House of Adjaycent</title>
+      <link>https://www.adjaycent.work/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/house-of-adjaycent</guid>
+      <pubDate>Thu, 29 Oct 2026 15:37:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Advertising/Campaigns — Singapore, Singapore.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>burkhardthauke</title>
+      <link>https://www.burkhardthauke.de/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/burkhardthauke</guid>
+      <pubDate>Thu, 29 Oct 2026 14:37:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Typography — Stuttgart, Germany.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+    </item>
     <item>
       <title>BLOND</title>
       <link>https://www.blond.cc/</link>
@@ -257,59 +305,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Studio JAM</title>
-      <link>https://www.studiojam.it/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-jam</guid>
-      <pubDate>Mon, 19 Oct 2026 15:56:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Motion · Typography · Interactive/Digital — San Marino, San Marino.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Motion</category>
-      <category>Typography</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Asketic</title>
-      <link>https://asketic.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/asketic</guid>
-      <pubDate>Mon, 19 Oct 2026 15:49:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Motion · Interactive/Digital — Riga, Latvia.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Meinhard Taxer</title>
-      <link>https://meinhardtaxer.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/meinhard-taxer</guid>
-      <pubDate>Mon, 19 Oct 2026 09:39:00 GMT</pubDate>
-      <description>Graphic Design · Branding — Innsbruck, Austria.</description>
-      <category>Graphic Design</category>
-      <category>Branding</category>
-    </item>
-    <item>
-      <title>Murri Studio</title>
-      <link>https://murri.studio/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/murri-studio</guid>
-      <pubDate>Mon, 19 Oct 2026 09:37:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Typography · Packaging — Barcelona, Spain.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Typography</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Studio 11x1</title>
-      <link>https://www.studio11x1.ch/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-11x1</guid>
-      <pubDate>Mon, 19 Oct 2026 09:36:00 GMT</pubDate>
-      <description>Graphic Design — Lugano, Switzerland.</description>
-      <category>Graphic Design</category>
     </item>
   </channel>
 </rss>
