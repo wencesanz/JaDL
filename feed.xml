@@ -5,8 +5,20 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 05:28:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:57:54 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Domino New York</title>
+      <link>https://www.dominony.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/domino-new-york</guid>
+      <pubDate>Wed, 04 Nov 2026 09:27:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Typography · Interactive/Digital — New York, USA.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Typography</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Studio, Lisa Fessl</title>
       <link>https://lisamfessl.com/</link>
@@ -291,16 +303,6 @@
       <description>Branding · Graphic Design · Interactive/Digital — Paris, France.</description>
       <category>Branding</category>
       <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>View Source</title>
-      <link>https://view-source.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/view-source</guid>
-      <pubDate>Fri, 23 Oct 2026 07:50:00 GMT</pubDate>
-      <description>Branding · Packaging · Interactive/Digital — New York, USA.</description>
-      <category>Branding</category>
-      <category>Packaging</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>
