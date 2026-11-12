@@ -5,8 +5,32 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 13:47:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:14:48 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fabian Huber</title>
+      <link>https://fabianhuber.com</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/fabian-huber</guid>
+      <pubDate>Wed, 11 Nov 2026 19:09:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Motion · Packaging · Advertising/Campaigns — Koln, Germany.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+      <category>Packaging</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>Lippert Studios</title>
+      <link>https://lippert-studios.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/lippert-studios</guid>
+      <pubDate>Wed, 11 Nov 2026 15:19:00 GMT</pubDate>
+      <description>Industrial Design · Branding · Graphic Design · Illustration — Berlin, Germany.</description>
+      <category>Industrial Design</category>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Illustration</category>
+    </item>
     <item>
       <title>Convicts</title>
       <link>https://convicts.nyc/</link>
@@ -295,25 +319,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Motion</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Loïc Altaber</title>
-      <link>https://loicaltaber.fr/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/loic-altaber</guid>
-      <pubDate>Wed, 28 Oct 2026 07:35:00 GMT</pubDate>
-      <description>Graphic Design · Motion · Interactive/Digital — Paris, France.</description>
-      <category>Graphic Design</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Lynxeye</title>
-      <link>https://lynxeye.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/lynxeye</guid>
-      <pubDate>Wed, 28 Oct 2026 07:32:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital — Stockholm, Singapore, Sweden, Singapore.</description>
-      <category>Branding</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>
