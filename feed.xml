@@ -5,8 +5,40 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 00:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:50:39 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Office of Joe Diver</title>
+      <link>https://www.officeofjoediver.co/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/office-of-joe-diver</guid>
+      <pubDate>Thu, 12 Nov 2026 08:56:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Advertising/Campaigns — London, England.</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>Grzegorz Sołowiński</title>
+      <link>https://solowinski.work</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/grzegorz-so-owinski</guid>
+      <pubDate>Thu, 12 Nov 2026 08:50:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Typography — Warsaw, Poland.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>XS</title>
+      <link>https://extrasmall.kr/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/xs</guid>
+      <pubDate>Thu, 12 Nov 2026 08:44:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Seoul, South Korea.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Fabian Huber</title>
       <link>https://fabianhuber.com</link>
@@ -288,38 +320,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>burkhardthauke</title>
-      <link>https://www.burkhardthauke.de/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/burkhardthauke</guid>
-      <pubDate>Thu, 29 Oct 2026 14:37:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Typography — Stuttgart, Germany.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Typography</category>
-    </item>
-    <item>
-      <title>BLOND</title>
-      <link>https://www.blond.cc/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/blond</guid>
-      <pubDate>Wed, 28 Oct 2026 13:56:00 GMT</pubDate>
-      <description>Industrial Design · Branding · Packaging · Interactive/Digital — London, England.</description>
-      <category>Industrial Design</category>
-      <category>Branding</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Lome Studio</title>
-      <link>https://lome.studio/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/lome-studio</guid>
-      <pubDate>Wed, 28 Oct 2026 07:39:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Motion · Interactive/Digital — Paris, France.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>
