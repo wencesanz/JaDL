@@ -199,7 +199,7 @@ function renderPage(template, s) {
 
   // Swap the (template's) #root snapshot for this studio's snapshot.
   html = html.replace(
-    /<div id="root">[\s\S]*?<\/div>(\s*<script src="(?:https:\/\/unpkg\.com\/react|\/vendor\/react))/,
+    /<div id="root">[\s\S]*?<\/div>(\s*<script src="(?:https:\/\/unpkg\.com\/react|\/vendor\/react|\/dist\/bundle\.js))/,
     `<div id="root">${bodySnapshot(s, m)}</div>$1`
   );
 

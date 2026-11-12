@@ -5,7 +5,7 @@
 //   • Everything else same-origin: cache-first with background refresh.
 // Bump CACHE_VERSION whenever the shell file list changes to purge old caches.
 
-const CACHE_VERSION = "jadl-v20";
+const CACHE_VERSION = "jadl-v21";
 const SHELL = [
   "/",
   "/styles.css",
@@ -15,27 +15,6 @@ const SHELL = [
   "/fonts/Aileron-400.woff2",
   "/fonts/Aileron-600.woff2",
   "/fonts/Aileron-700.woff2",
-  "/vendor/react-18.3.1.production.min.js",
-  "/vendor/react-dom-18.3.1.production.min.js",
-  "/data.js",
-  "/scroll_fx.js",
-  "/social.js",
-  "/community.js",
-  "/dist/chrome.js",
-  "/dist/index_view.js",
-  "/dist/studios_view.js",
-  "/dist/other_views.js",
-  "/dist/geo_map.js",
-  "/dist/project_view.js",
-  "/dist/ig_share.js",
-  "/dist/submit_view.js",
-  "/dist/tweaks.js",
-  "/dist/favorites.js",
-  "/dist/random.js",
-  "/dist/todays_pick.js",
-  "/dist/recently_viewed.js",
-  "/dist/collections.js",
-  "/dist/app.js",
   "/world-map.min.svg",
   "/icons/jadl-192.png",
   "/icons/jadl-512.png",

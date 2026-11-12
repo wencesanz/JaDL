@@ -76,7 +76,7 @@ function renderPage(template, { title, desc, url, snapshot, robots }) {
   repl(/<meta property="og:url" content="[^"]*">/, `<meta property="og:url" content="${attrEsc(url)}">`);
   repl(/<meta name="twitter:title" content="[^"]*">/, `<meta name="twitter:title" content="${attrEsc(title)}">`);
   repl(/<meta name="twitter:description" content="[^"]*">/, `<meta name="twitter:description" content="${attrEsc(desc)}">`);
-  const ROOT = /<div id="root">[\s\S]*?<\/div>(\s*<script src="(?:https:\/\/unpkg\.com\/react|\/vendor\/react))/;
+  const ROOT = /<div id="root">[\s\S]*?<\/div>(\s*<script src="(?:https:\/\/unpkg\.com\/react|\/vendor\/react|\/dist\/bundle\.js))/;
   // (Comparing before/after is not enough: when nothing changed since the
   // last run the page is identical, which is fine.)
   if (!ROOT.test(html)) throw new Error('Could not find #root followed by the React script in the template');
