@@ -2,9 +2,9 @@ name: Check dist is built from the sources
 
 on:
   push:
-    paths: ['*.jsx', 'dist/**', 'scripts/build.mjs']
+    paths: ['*.jsx', 'dist/**', 'scripts/build.mjs', 'data.js', 'scroll_fx.js', 'social.js', 'community.js', 'vendor/**', 'index.html']
   pull_request:
-    paths: ['*.jsx', 'dist/**', 'scripts/build.mjs']
+    paths: ['*.jsx', 'dist/**', 'scripts/build.mjs', 'data.js', 'scroll_fx.js', 'social.js', 'community.js', 'vendor/**', 'index.html']
 
 permissions:
   contents: read

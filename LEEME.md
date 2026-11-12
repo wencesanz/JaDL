@@ -13,10 +13,13 @@ Web estática (React sin paso de build en Vercel). Los datos viven en Notion.
 ## Código de las vistas
 - Se edita **solo** en los `*.jsx` de la raíz. `dist/*.js` se genera con:
   `npm install --no-save esbuild@0.24.0 && node scripts/build.mjs`
-- Después hay que subir los `?v=` de `index.html` (dist/ se guarda en caché un año) y la versión
-  del service worker en `sw.js`.
-- `.github/workflows/check-build.yml` avisa si `dist/` no coincide con los `.jsx`.
-- `social.js`, `community.js` y `data.js` son JavaScript normal, sin build.
+- El mismo comando junta React, `data.js`, `scroll_fx.js`, `social.js`, `community.js` y
+  `dist/*.js` en **un solo fichero**, `dist/bundle.js`, y actualiza su `?v=` en todas las páginas.
+  Así cada visita pide un script en vez de ~20 (en Vercel cada fichero cuenta como petición).
+  Ya no hay que subir los `?v=` a mano. El orden de carga está en `BUNDLE` (`scripts/build.mjs`).
+- `social.js`, `community.js`, `data.js` y `scroll_fx.js` son JavaScript normal, pero al
+  cambiarlos hay que volver a ejecutar `node scripts/build.mjs` para regenerar el bundle.
+- `.github/workflows/check-build.yml` avisa si `dist/` o el bundle no están al día.
 
 ## Tareas automáticas
 - Día 1 de cada mes: revisión de webs (`check-links.yml`), que abre un aviso en GitHub.

@@ -186,7 +186,7 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot, imag
   html = html.replace(/<\/head>/, head);
   // Swap the template's #root snapshot for this page's snapshot.
   html = html.replace(
-    /<div id="root">[\s\S]*?<\/div>(\s*<script src="(?:https:\/\/unpkg\.com\/react|\/vendor\/react))/,
+    /<div id="root">[\s\S]*?<\/div>(\s*<script src="(?:https:\/\/unpkg\.com\/react|\/vendor\/react|\/dist\/bundle\.js))/,
     `<div id="root">${snapshot}</div>$1`
   );
   return html;
