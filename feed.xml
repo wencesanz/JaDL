@@ -5,8 +5,46 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 05:44:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:11:46 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Michael Verze</title>
+      <link>https://www.micheleverze.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/michael-verze</guid>
+      <pubDate>Fri, 13 Nov 2026 09:46:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Illustration · Motion · Packaging · Interactive/Digital — Sydney, Australia.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Illustration</category>
+      <category>Motion</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>STUDIO WAN</title>
+      <link>https://www.studiowan.uk/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-wan</guid>
+      <pubDate>Fri, 13 Nov 2026 09:43:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — London, England.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Hispánica</title>
+      <link>https://www.hispanica.mx/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/hispanica</guid>
+      <pubDate>Fri, 13 Nov 2026 09:07:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Motion · Illustration · Interactive/Digital · Advertising/Campaigns — Mexico City, Mexico.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Motion</category>
+      <category>Illustration</category>
+      <category>Interactive/Digital</category>
+      <category>Advertising/Campaigns</category>
+    </item>
     <item>
       <title>Office of Joe Diver</title>
       <link>https://www.officeofjoediver.co/</link>
@@ -292,34 +330,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Keita Takemura Studio</title>
-      <link>https://keitatakemura.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/keita-takemura-studio</guid>
-      <pubDate>Thu, 29 Oct 2026 15:45:00 GMT</pubDate>
-      <description>Graphic Design · Packaging · Interactive/Digital — London, England.</description>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>James Walsh Studio</title>
-      <link>https://www.jameswalsh.studio/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/james-walsh-studio</guid>
-      <pubDate>Thu, 29 Oct 2026 15:42:00 GMT</pubDate>
-      <description>Industrial Design — Melbourne, Australia.</description>
-      <category>Industrial Design</category>
-    </item>
-    <item>
-      <title>House of Adjaycent</title>
-      <link>https://www.adjaycent.work/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/house-of-adjaycent</guid>
-      <pubDate>Thu, 29 Oct 2026 15:37:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Advertising/Campaigns — Singapore, Singapore.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Advertising/Campaigns</category>
     </item>
   </channel>
 </rss>
