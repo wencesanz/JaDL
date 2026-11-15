@@ -1,0 +1,18 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://justadesignlist.com/studios.json",
+      "service-desc": [
+        { "href": "https://justadesignlist.com/openapi.json", "type": "application/vnd.oai.openapi+json" }
+      ],
+      "service-doc": [
+        { "href": "https://justadesignlist.com/llms.txt", "type": "text/markdown" }
+      ],
+      "item": [
+        { "href": "https://justadesignlist.com/studios.json", "type": "application/json" },
+        { "href": "https://justadesignlist.com/feed.xml", "type": "application/rss+xml" },
+        { "href": "https://justadesignlist.com/sitemap.xml", "type": "application/xml" }
+      ]
+    }
+  ]
+}

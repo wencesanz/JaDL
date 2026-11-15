@@ -1,0 +1,24 @@
+# Just a Design List
+
+> A hand-edited index of design studios and independent designers around the world, curated by Wences Sanz-Alonso in Madrid. Entries are kept short on purpose: name, place, disciplines and links. No ranking, no reviews.
+
+All data is public and read-only. Please link back to the studio page on justadesignlist.com when you cite an entry.
+
+## Data
+
+- [studios.json](https://justadesignlist.com/studios.json): every entry as a JSON array. Fields: name, category (comma-separated disciplines), city, country (comma-separated, paired in order), url (the studio's website), ig (Instagram), created, edited. Refreshed every six hours.
+- [OpenAPI description](https://justadesignlist.com/openapi.json): the same, described formally.
+- [RSS feed](https://justadesignlist.com/feed.xml): latest additions.
+- [Sitemap](https://justadesignlist.com/sitemap.xml): every page.
+
+## Pages
+
+- [All studios, A–Z](https://justadesignlist.com/studios)
+- Studio page: `/studio/<slug>`, where slug is the name in lowercase ASCII with non-alphanumerics as hyphens and "&" as "and".
+- By place: `/city/<slug>`, `/country/<slug>`, `/region/<slug>` (regions: Iberia, UK & Ireland, North America, Nordics, Oceania, Rest of Europe, Rest of the world).
+- By discipline: `/discipline/<slug>` — see [the nine disciplines](https://justadesignlist.com/categories).
+- [Geography](https://justadesignlist.com/geography), [About / colophon](https://justadesignlist.com/about).
+
+## Optional
+
+- [Suggest a studio](https://justadesignlist.com/submit): a form for people, not an API.

@@ -1,0 +1,53 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Just a Design List — public data",
+    "version": "1.0.0",
+    "description": "Read-only, static files. No authentication, no rate limit beyond normal fair use. The list is curated by hand and refreshed from the editor's database every six hours.",
+    "contact": { "url": "https://justadesignlist.com/about" }
+  },
+  "servers": [{ "url": "https://justadesignlist.com" }],
+  "paths": {
+    "/studios.json": {
+      "get": {
+        "summary": "Every studio on the list",
+        "operationId": "listStudios",
+        "responses": {
+          "200": {
+            "description": "All entries, unordered. Filter and sort on the client.",
+            "content": {
+              "application/json": {
+                "schema": { "type": "array", "items": { "$ref": "#/components/schemas/Studio" } }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/feed.xml": {
+      "get": {
+        "summary": "Latest additions as RSS 2.0",
+        "operationId": "feed",
+        "responses": { "200": { "description": "RSS feed", "content": { "application/rss+xml": {} } } }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Studio": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name": { "type": "string", "description": "Studio or designer name." },
+          "category": { "type": "string", "description": "Comma-separated disciplines, e.g. \"Branding, Packaging\"." },
+          "city": { "type": "string", "description": "Comma-separated cities. Paired in order with country when both list several." },
+          "country": { "type": "string", "description": "Comma-separated countries." },
+          "url": { "type": "string", "format": "uri", "description": "The studio's own website." },
+          "ig": { "type": "string", "description": "Instagram profile URL, when there is one." },
+          "created": { "type": "string", "format": "date-time", "description": "When the entry was added to the list." },
+          "edited": { "type": "string", "format": "date-time", "description": "Last change to the entry." }
+        }
+      }
+    }
+  }
+}
