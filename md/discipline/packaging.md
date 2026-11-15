@@ -1,0 +1,218 @@
+---
+title: "Packaging design studios · Just a Design List"
+description: "463 independent studios and designers working in packaging, collected in the Just a Design List index. Browse by country and city."
+url: "https://justadesignlist.com/discipline/packaging"
+---
+
+[All disciplines](https://justadesignlist.com/disciplines)
+
+Discipline
+
+# Packaging
+
+463 independent studios and designers working in packaging, collected in the Just a Design List index. Browse by country and city.
+
+- [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
+- [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
+- [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
+- [1 of 1 Studio](https://justadesignlist.com/studio/1-of-1-studio) — Auckland, New Zealand
+- [21—87](https://justadesignlist.com/studio/21-87) — London, England
+- [27b](https://justadesignlist.com/studio/27b) — Amsterdam, The Netherlands
+- [327](https://justadesignlist.com/studio/327) — Porto, Portugal
+- [50,000feet](https://justadesignlist.com/studio/50-000feet) — Chicago, New York, USA
+- [781studio](https://justadesignlist.com/studio/781studio) — Medellin, Colombia
+- [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
+- [Acquazzone](https://justadesignlist.com/studio/acquazzone) — San Francisco, USA
+- [Acute](https://justadesignlist.com/studio/acute) — Vienna, Austria
+- [AKLR](https://justadesignlist.com/studio/aklr) — Melbourne, Australia
+- [All the Way to Paris](https://justadesignlist.com/studio/all-the-way-to-paris) — Copenhagen, Denmark
+- [Allies](https://justadesignlist.com/studio/allies) — Belfast, Northern Ireland
+- [Alphabet](https://justadesignlist.com/studio/alphabet) — Manchester, England
+- [Alter](https://justadesignlist.com/studio/alter) — Melbourne, Australia
+- [Alvan](https://justadesignlist.com/studio/alvan) — Helsinki, Finland
+- [Ammunition](https://justadesignlist.com/studio/ammunition) — San Francisco, New York, USA
+- [Anagrama](https://justadesignlist.com/studio/anagrama) — Mexico City, Monterrey, Tokyo, USA, Mexico, Japan
+- [Andrei Robu Studio](https://justadesignlist.com/studio/andrei-robu-studio) — Barcelona, Spain
+- [Ang Studio®](https://justadesignlist.com/studio/ang-studio) — Bilbao, Spain
+- [Angel & Anchor](https://justadesignlist.com/studio/angel-and-anchor) — Belfast, Northern Ireland
+- [Angelina Pischikova](https://justadesignlist.com/studio/angelina-pischikova) — London, England
+- [Ania et Lucie](https://justadesignlist.com/studio/ania-et-lucie) — New York, USA
+- [Anna Bosch](https://justadesignlist.com/studio/anna-bosch) — Banyoles, Spain
+- [Another Practice](https://justadesignlist.com/studio/another-practice) — Athens, Greece
+- [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara) — Toledo, Madrid, Spain
+- [Aperitif](https://justadesignlist.com/studio/aperitif) — Chicago, USA
+- [Arce Studio](https://justadesignlist.com/studio/arce-studio) — Madrid, New York, Spain, USA
+- [Aris Zenone](https://justadesignlist.com/studio/aris-zenone) — Lausanne, Switzerland
+- [ARRAY](https://justadesignlist.com/studio/array) — Jacksonville, USA
+- [Aruliden](https://justadesignlist.com/studio/aruliden) — New York, USA
+- [Asketic](https://justadesignlist.com/studio/asketic) — Riga, Latvia
+- [Atelier César](https://justadesignlist.com/studio/atelier-cesar) — Paris, France
+- [Atelier Dyakova](https://justadesignlist.com/studio/atelier-dyakova) — London, England
+- [Atelier Pol](https://justadesignlist.com/studio/atelier-pol) — Bern, Switzerland
+- [Ateljé Altmann](https://justadesignlist.com/studio/atelje-altmann) — Stockholm, Sweden
+- [Atipus Studio](https://justadesignlist.com/studio/atipus-studio) — Barcelona, Spain
+- [Atollon](https://justadesignlist.com/studio/atollon) — Melbourne, Australia
+- [Atwork](https://justadesignlist.com/studio/atwork) — London, England
+- [Auge Design](https://justadesignlist.com/studio/auge-design) — Firenze, Italy
+- [Avellana Studio](https://justadesignlist.com/studio/avellana-studio) — Madrid, Spain
+- [AWP](https://justadesignlist.com/studio/awp) — Montreal, Canada
+- [Axel Peemöller](https://justadesignlist.com/studio/axel-peemoller) — New York, USA
+- [Azote Studio](https://justadesignlist.com/studio/azote-studio) — Valladolid, Spain
+- [Bakoom](https://justadesignlist.com/studio/bakoom) — Terrassa, Spain
+- [Baron & Baron](https://justadesignlist.com/studio/baron-and-baron) — New York, Paris, USA, France
+- [BAS ID](https://justadesignlist.com/studio/bas-id) — Stockholm, Sweden
+- [Base](https://justadesignlist.com/studio/base) — New York, Brussels, Genève, Melbourne, Saigon, USA, Belgium, Switzerland, Australia, Vietnam
+- [Basora](https://justadesignlist.com/studio/basora) — Barcelona, Spain
+- [BD85BD85](https://justadesignlist.com/studio/bd85bd85) — Hong Kong, London, China, England
+- [Bedow](https://justadesignlist.com/studio/bedow) — Stockholm, Sweden
+- [Believe In](https://justadesignlist.com/studio/believe-in) — Exeter, Mono, England, Canada
+- [Bendita Gloria](https://justadesignlist.com/studio/bendita-gloria) — Barcelona, Spain
+- [Bibliothèque](https://justadesignlist.com/studio/bibliotheque) — London, England
+- [Bildi](https://justadesignlist.com/studio/bildi) — Mediona, Spain
+- [Blake Scott Design](https://justadesignlist.com/studio/blake-scott-design) — Melbourne, Australia
+- [Blank Studio](https://justadesignlist.com/studio/blank-studio) — Barcelona, Spain
+- [bleucoeur studio](https://justadesignlist.com/studio/bleucoeur-studio) — Annency, France
+- [BLOND](https://justadesignlist.com/studio/blond) — London, England
+- [Blow](https://justadesignlist.com/studio/blow) — Hong Kong, China
+- [BOB Design](https://justadesignlist.com/studio/bob-design) — London, Zurich, England, Switzerland
+- [Bond](https://justadesignlist.com/studio/bond) — Helsinki, Dubai, New York, San Francisco, Finland, United Arab Emirates, USA
+- [Bonita](https://justadesignlist.com/studio/bonita) — Pamplona, Spain
+- [Boris Gautier](https://justadesignlist.com/studio/boris-gautier) — Paris, France
+- [Brada](https://justadesignlist.com/studio/brada) — Queretaro, Mexico
+- [Brandient](https://justadesignlist.com/studio/brandient) — Bucharest, Romania
+- [Brandson Digital Studio](https://justadesignlist.com/studio/brandson-digital-studio) — Barcelona, Spain
+- [Break Maiden](https://justadesignlist.com/studio/break-maiden) — St. Petersburg, USA
+- [Buddy-Buddy](https://justadesignlist.com/studio/buddy-buddy) — Minneapolis, USA
+- [buero ®S](https://justadesignlist.com/studio/buero-s) — Düsseldorf, Germany
+- [Bureau Burger](https://justadesignlist.com/studio/bureau-burger) — Munich, Germany
+- [BY NORTH™](https://justadesignlist.com/studio/by-north) — Bodø, Norway
+- [Carpenter Collective](https://justadesignlist.com/studio/carpenter-collective) — Kansas City, USA
+- [CASE Agency](https://justadesignlist.com/studio/case-agency) — New York, Los Angeles, USA
+- [Caserne](https://justadesignlist.com/studio/caserne) — Montreal, Canada
+- [CCRZ](https://justadesignlist.com/studio/ccrz) — Balerna, Anzano del Parco, Switzerland, Italy
+- [Celta](https://justadesignlist.com/studio/celta) — Antwerp, Belgium
+- [CENTER](https://justadesignlist.com/studio/center) — New York, USA
+- [Chris Chapman](https://justadesignlist.com/studio/chris-chapman) — London, England
+- [Cinco](https://justadesignlist.com/studio/cinco) — Portland, USA
+- [Ciprian Bădălan](https://justadesignlist.com/studio/ciprian-badalan) — Valencia, Spain
+- [Civilization](https://justadesignlist.com/studio/civilization) — Seattle, USA
+- [Clara Xarrié Studio](https://justadesignlist.com/studio/clara-xarrie-studio) — Barcelona, Spain
+- [Classmate Studio](https://justadesignlist.com/studio/classmate-studio) — Helsinki, Budapest, Glasgow, Finland, Hungary, Scotland
+- [CLUB](https://justadesignlist.com/studio/club) — Los Angeles, USA
+- [Coast](https://justadesignlist.com/studio/coast) — Brussels, Belgium
+- [Cocota](https://justadesignlist.com/studio/cocota) — Madrid, Spain
+- [Cocu](https://justadesignlist.com/studio/cocu) — Barcelona, Spain
+- [Cold Cuts](https://justadesignlist.com/studio/cold-cuts) — New York, USA
+- [Colville-Walker](https://justadesignlist.com/studio/colville-walker) — London, England
+- [Comence](https://justadesignlist.com/studio/comence) — St. Petersburg, Russia
+- [Commission](https://justadesignlist.com/studio/commission) — London, England
+- [Cómo Design](https://justadesignlist.com/studio/como-design) — Barcelona, Spain
+- [Compagnie et cie](https://justadesignlist.com/studio/compagnie-et-cie) — Montreal, Canada
+- [Company Policy](https://justadesignlist.com/studio/company-policy) — New York, USA
+- [Concrete](https://justadesignlist.com/studio/concrete) — Toronto, Canada
+- [Construct London](https://justadesignlist.com/studio/construct-london) — London, Bath, England
+- [Control Studio](https://justadesignlist.com/studio/control-studio) — Amsterdam, The Netherlands
+- [Costa](https://justadesignlist.com/studio/costa) — A Coruña, Spain
+- [CRV by Josiah Craven](https://justadesignlist.com/studio/crv-by-josiah-craven) — Manchester, England
+- [CuldeSac](https://justadesignlist.com/studio/culdesac) — Valencia, Spain
+- [Dan Cottrell](https://justadesignlist.com/studio/dan-cottrell) — London, Barcelona, England, Spain
+- [Daniel Carlsten](https://justadesignlist.com/studio/daniel-carlsten) — Stockholm, Sweden
+- [David Airey](https://justadesignlist.com/studio/david-airey) — Bangor, Northern Ireland
+- [Demande Spéciale](https://justadesignlist.com/studio/demande-speciale) — Montreal, Canada
+- [Denomination](https://justadesignlist.com/studio/denomination) — London, New York, Sydney, San Francisco, England, USA, Australia
+- [Design by AO](https://justadesignlist.com/studio/design-by-ao) — Shenzhen, China
+- [Deutsche & Japaner](https://justadesignlist.com/studio/deutsche-and-japaner) — Mannheim, Berlin, Germany
+- [Diemling](https://justadesignlist.com/studio/diemling) — Graz, Austria
+- [Diferente](https://justadesignlist.com/studio/diferente) — Barcelona, Spain
+- [Dina Creative Space](https://justadesignlist.com/studio/dina-creative-space) — Amsterdam, The Netherlands
+- [Dmowski&Co.](https://justadesignlist.com/studio/dmowskiandco) — Warsaw, Lublin, Poland
+- [Do Not Design](https://justadesignlist.com/studio/do-not-design) — Singapore, Singapore
+- [Domino New York](https://justadesignlist.com/studio/domino-new-york) — New York, USA
+- [Domo-A](https://justadesignlist.com/studio/domo-a) — Barcelona, Spain
+- [DoThings](https://justadesignlist.com/studio/dothings) — New York, Los Angeles, Paris, USA, France
+- [Duane Dalton Design](https://justadesignlist.com/studio/duane-dalton-design) — London, England
+- [Duzi Studio](https://justadesignlist.com/studio/duzi-studio) — London, England
+- [Egg Agency](https://justadesignlist.com/studio/egg-agency) — London, England
+- [EIGA](https://justadesignlist.com/studio/eiga) — Hamburg, Germany
+- [Eighth Day](https://justadesignlist.com/studio/eighth-day) — Brighton, England
+- [Elisabeth Kiviorg](https://justadesignlist.com/studio/elisabeth-kiviorg) — Lisbon, Portugal
+- [Elizabeth Goodspeed](https://justadesignlist.com/studio/elizabeth-goodspeed) — New York, USA
+- [Emma Dragovic](https://justadesignlist.com/studio/emma-dragovic) — London, England
+- [ENSEMBLE](https://justadesignlist.com/studio/ensemble-manchester) — Manchester, England
+- [Eremo](https://justadesignlist.com/studio/eremo) — Milan, Italy
+- [Escola](https://justadesignlist.com/studio/escola) — Liverpool, Barcelona, England, Spain
+- [EST+6](https://justadesignlist.com/studio/est-6) — New York, Barcelona, USA, Spain
+- [ESTABLISHED.](https://justadesignlist.com/studio/established) — New York, Barcelona, USA, Spain
+- [Estúdio Gole](https://justadesignlist.com/studio/estudio-gole) — Sao Paulo, Brazil
+- [Estudio Republica](https://justadesignlist.com/studio/estudio-republica) — Malaga, Spain
+- [Everland](https://justadesignlist.com/studio/everland) — Copenhagen, Oslo, Denmark, Norway
+- [F&B Happy](https://justadesignlist.com/studio/fandb-happy) — Gothenburg, Sweden
+- [FAAADE](https://justadesignlist.com/studio/faaade) — Madrid, Spain
+- [Fabian Huber](https://justadesignlist.com/studio/fabian-huber) — Koln, Germany
+- [Faculty](https://justadesignlist.com/studio/faculty) — Vancouver, Canada
+- [Faena Studio](https://justadesignlist.com/studio/faena-studio) — Mexico City, Mexico
+- [fase](https://justadesignlist.com/studio/fase) — Valencia, Spain
+- [Favorit Studio](https://justadesignlist.com/studio/favorit-studio) — Zurich, Switzerland
+- [FAY](https://justadesignlist.com/studio/fay) — New York, USA
+- [FCKLCK STUDIO](https://justadesignlist.com/studio/fcklck-studio) — Amsterdam, Antwerp, London, The Netherlands, Belgium, England
+- [February Agency](https://justadesignlist.com/studio/february-agency) — Newbury, England
+- [Feel For](https://justadesignlist.com/studio/feel-for) — San Diego, USA
+- [Feroz Estudio](https://justadesignlist.com/studio/feroz-estudio) — Elche, Spain
+- [Few — Digital Product Agency](https://justadesignlist.com/studio/few-digital-product-agency) — Little Rock, USA
+- [Field of Play](https://justadesignlist.com/studio/field-of-play) — Sydney, Whangārei, Australia, New Zealand
+- [Figur](https://justadesignlist.com/studio/figur) — Stockholm, Sweden
+- [Firmalt](https://justadesignlist.com/studio/firmalt) — Monterrey, Mexico
+- [Flat](https://justadesignlist.com/studio/flat) — Pamplona, Spain
+- [Folch](https://justadesignlist.com/studio/folch) — Barcelona, Madrid, Spain
+- [Fook](https://justadesignlist.com/studio/fook) — Toronto, Canada
+- [Format](https://justadesignlist.com/studio/format) — Vincennes, France
+- [Forner](https://justadesignlist.com/studio/forner) — Los Angeles, USA
+- [foster](https://justadesignlist.com/studio/foster) — Chicago, USA
+- [Gaëlle Alemany](https://justadesignlist.com/studio/gaelle-alemany) — Barcelona, Spain
+- [Gander](https://justadesignlist.com/studio/gander) — New York, USA
+- [Garrett Elizabeth Office](https://justadesignlist.com/studio/garrett-elizabeth-office) — New York, USA
+- [Gemma Mahoney](https://justadesignlist.com/studio/gemma-mahoney) — Melbourne, Australia
+- [Giang Ho](https://justadesignlist.com/studio/giang-ho) — Berlin, Germany
+- [Gionatan Nese](https://justadesignlist.com/studio/gionatan-nese) — Cernusco Lombardone, Italy
+- [Glupstudio](https://justadesignlist.com/studio/glupstudio) — Barcelona, Spain
+- [Goodside](https://justadesignlist.com/studio/goodside) — Austin, USA
+- [Gramática](https://justadesignlist.com/studio/gramatica) — London, Riga, England, Latvia
+- [GrandArmy](https://justadesignlist.com/studio/grandarmy) — New York, Los Angeles, USA
+- [Graphis Dept.](https://justadesignlist.com/studio/graphis-dept) — New York, USA
+- [Grávita](https://justadesignlist.com/studio/gravita) — Madrid, Spain
+- [Gris](https://justadesignlist.com/studio/gris) — Barcelona, Spain
+- [Grzegorz Sołowiński](https://justadesignlist.com/studio/grzegorz-so-owinski) — Warsaw, Poland
+- [Guest Studio](https://justadesignlist.com/studio/guest-studio) — London, Cornwall, England
+- [Guillotina](https://justadesignlist.com/studio/guillotina) — A Coruña, Spain
+- [Gummy Industries](https://justadesignlist.com/studio/gummy-industries) — Brescia, Italy
+- [Halvor Nordrum](https://justadesignlist.com/studio/halvor-nordrum) — Oslo, Norway
+- [HAUS ARDORYOUTH](https://justadesignlist.com/studio/haus-ardoryouth) — Seoul, South Korea
+- [HDU²³ Lab](https://justadesignlist.com/studio/hdu23-lab) — Wuxi, China
+- [Heart](https://justadesignlist.com/studio/heart) — Auckland, New Zealand
+- [Hello Comrade](https://justadesignlist.com/studio/hello-comrade) — Amsterdam, The Netherlands
+- [Hey](https://justadesignlist.com/studio/hey) — Barcelona, Spain
+- [High Tide](https://justadesignlist.com/studio/high-tide) — New York, USA
+- [HighSpirit](https://justadesignlist.com/studio/highspirit) — Brighton, London, England
+- [Hispánica](https://justadesignlist.com/studio/hispanica) — Mexico City, Mexico
+- [Hochburg Design](https://justadesignlist.com/studio/hochburg-design) — Stuttgart, Germany
+- [Homework](https://justadesignlist.com/studio/homework) — Copenhagen, Denmark
+- [Hondo](https://justadesignlist.com/studio/hondo) — London, England
+- [hopa studio](https://justadesignlist.com/studio/hopa-studio) — Warsaw, Poland
+- [Hugmun](https://justadesignlist.com/studio/hugmun) — Copenhagen, Denmark
+- [Hunt](https://justadesignlist.com/studio/hunt) — Kortrijk, Belgium
+- [HuskyFox](https://justadesignlist.com/studio/huskyfox) — Seoul, South Korea
+- [Hybrid Design](https://justadesignlist.com/studio/hybrid-design) — San Francisco, USA
+- [Hymn](https://justadesignlist.com/studio/hymn) — Lausanne, Zurich, Switzerland
+- [Iancu Barbărasă](https://justadesignlist.com/studio/iancu-barbarasa) — London, England
+- [Ideólogo](https://justadesignlist.com/studio/ideologo) — Cádiz, Spain
+- [Idol](https://justadesignlist.com/studio/idol) — Los Angeles, San Francisco, USA
+- [Indego design](https://justadesignlist.com/studio/indego-design) — Macau, China
+- [Infinito](https://justadesignlist.com/studio/infinito) — Lima, Madrid, Stockholm, Peru, Spain, Sweden
+- [Ingrid Picanyol Studio](https://justadesignlist.com/studio/ingrid-picanyol-studio) — Barcelona, Spain
+- [Inhouse](https://justadesignlist.com/studio/inhouse) — Auckland, New Zealand
+- [Irradié](https://justadesignlist.com/studio/irradie) — Paris, France
+- [IRRREAL](https://justadesignlist.com/studio/irrreal) — Sao Paulo, Brazil
+
+---
+
+From [Just a Design List](https://justadesignlist.com/), a hand-edited index of design studios. All entries as JSON: https://justadesignlist.com/studios.json

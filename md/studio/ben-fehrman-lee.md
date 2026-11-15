@@ -1,0 +1,33 @@
+---
+title: "Ben Fehrman-Lee — Graphic Design, New York, USA · Just a Design List"
+description: "Ben Fehrman-Lee: graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026."
+url: "https://justadesignlist.com/studio/ben-fehrman-lee"
+---
+
+# Ben Fehrman-Lee
+
+Ben Fehrman-Lee: graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026.
+
+- **Discipline:** Graphic Design, Typography
+- **City:** New York
+- **Country:** USA
+
+[Visit Ben Fehrman-Lee ↗](https://www.benfehrmanlee.info/)
+
+- [Graphic Design](https://justadesignlist.com/discipline/graphic-design)
+- [New York](https://justadesignlist.com/city/new-york)
+- [USA](https://justadesignlist.com/country/usa)
+- [North America](https://justadesignlist.com/region/north-america)
+
+## More from New York
+
+- [&Walsh](https://justadesignlist.com/studio/andwalsh)
+- [1stAveDesign](https://justadesignlist.com/studio/1stavedesign)
+- [2 x 4](https://justadesignlist.com/studio/2-x-4)
+- [50,000feet](https://justadesignlist.com/studio/50-000feet)
+- [Adam Ho, I.S.P.](https://justadesignlist.com/studio/adam-ho-i-s-p)
+- [AHOY](https://justadesignlist.com/studio/ahoy)
+
+---
+
+From [Just a Design List](https://justadesignlist.com/), a hand-edited index of design studios. All entries as JSON: https://justadesignlist.com/studios.json
