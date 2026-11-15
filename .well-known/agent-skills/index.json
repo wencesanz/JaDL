@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "find-design-studios",
+      "type": "skill-md",
+      "description": "Find independent design studios and designers by city, country, region or discipline using Just a Design List's public, read-only data. Use when someone asks for design studios, branding agencies or freelance designers in a place or field.",
+      "url": "https://justadesignlist.com/.well-known/agent-skills/find-design-studios/SKILL.md",
+      "digest": "sha256:88defb3d421a37df0e7cc7e790fb710e6eb596b5a0f0fb598abd264e12bbc477"
+    }
+  ]
+}
