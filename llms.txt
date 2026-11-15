@@ -8,6 +8,7 @@ All data is public and read-only. Please link back to the studio page on justade
 
 - [studios.json](https://justadesignlist.com/studios.json): every entry as a JSON array. Fields: name, category (comma-separated disciplines), city, country (comma-separated, paired in order), url (the studio's website), ig (Instagram), created, edited. Refreshed every six hours.
 - [Agent skill: find design studios](https://justadesignlist.com/.well-known/agent-skills/find-design-studios/SKILL.md): how to search and cite the list.
+- [AI catalog](https://justadesignlist.com/.well-known/ai-catalog.json): machine-readable list of everything above.
 - [OpenAPI description](https://justadesignlist.com/openapi.json): the same, described formally.
 - [RSS feed](https://justadesignlist.com/feed.xml): latest additions.
 - [Sitemap](https://justadesignlist.com/sitemap.xml): every page.

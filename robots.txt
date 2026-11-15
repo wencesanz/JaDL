@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://justadesignlist.com/sitemap.xml
+Agentmap: https://justadesignlist.com/.well-known/ai-catalog.json

@@ -1,0 +1,59 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Just a Design List",
+    "identifier": "did:web:justadesignlist.com",
+    "url": "https://justadesignlist.com/",
+    "description": "A hand-edited index of design studios and independent designers around the world, curated by Wences Sanz-Alonso. Public, read-only, no authentication."
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:justadesignlist.com:api:studios",
+      "displayName": "Studios data (OpenAPI)",
+      "description": "Read-only description of studios.json, every entry on the list with name, disciplines, city, country, website and Instagram, and of the RSS feed of new additions.",
+      "type": "application/vnd.oai.openapi+json",
+      "url": "https://justadesignlist.com/openapi.json",
+      "representativeQueries": [
+        "list of branding studios in Copenhagen",
+        "independent design studios in Spain",
+        "packaging design agencies in Australia",
+        "typography studios in the Nordics"
+      ]
+    },
+    {
+      "identifier": "urn:air:justadesignlist.com:dataset:studios",
+      "displayName": "All studios (JSON)",
+      "description": "The full list as a JSON array, refreshed every six hours.",
+      "type": "application/json",
+      "url": "https://justadesignlist.com/studios.json",
+      "representativeQueries": [
+        "download a dataset of design studios worldwide",
+        "graphic design studios with their websites and Instagram",
+        "which design studios are based in London"
+      ]
+    },
+    {
+      "identifier": "urn:air:justadesignlist.com:skill:find-design-studios",
+      "displayName": "Find design studios (agent skill)",
+      "description": "Instructions for agents: how to search, filter, link and cite studios from the list.",
+      "type": "text/markdown",
+      "url": "https://justadesignlist.com/.well-known/agent-skills/find-design-studios/SKILL.md",
+      "representativeQueries": [
+        "recommend a design studio for a rebrand in Lisbon",
+        "find motion design studios in New York",
+        "suggest freelance illustrators in Mexico City"
+      ]
+    },
+    {
+      "identifier": "urn:air:justadesignlist.com:doc:llms",
+      "displayName": "Site guide for language models",
+      "description": "Plain-language overview of the site, its data and its URL patterns.",
+      "type": "text/markdown",
+      "url": "https://justadesignlist.com/llms.txt",
+      "representativeQueries": [
+        "what is Just a Design List",
+        "how are studio pages on Just a Design List addressed"
+      ]
+    }
+  ]
+}
