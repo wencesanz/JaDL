@@ -1,4 +1,7 @@
+# Content Signals (https://contentsignals.org/): search engines and AI answers
+# may use this site; please do not use it to train AI models.
 User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=no
 Allow: /
 
 Sitemap: https://justadesignlist.com/sitemap.xml
