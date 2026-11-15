@@ -1825,3 +1825,11 @@ html.qs-lock { overflow: hidden; }
   .pd-head, .pd-head--stack { padding-top: 32px !important; }
   .pd-head h2 { font-size: clamp(40px, 6vw, 72px); }
 }
+
+/* Full-width footer rows. On tablets the grid has 6 columns; "span 12" on the
+   sponsor and newsletter rows added 6 extra implicit columns, so the colophon
+   ended up half as wide and wrapped every line. */
+.foot-grid > .sponsor, .foot-grid > .nl-note, .foot-grid > .colophon { grid-column: 1 / -1; }
+@media (max-width: 960px) {
+  .colophon { gap: 12px 32px; }
+}
