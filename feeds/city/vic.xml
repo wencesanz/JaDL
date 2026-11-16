@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Vic · Just a Design List</title>
+    <link>https://justadesignlist.com/city/vic</link>
+    <description>New additions to Just a Design List: design studios in Vic.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Jun 2023 18:34:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/vic.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Zoo Studio</title>
+      <link>https://justadesignlist.com/studio/zoo-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/zoo-studio</guid>
+      <pubDate>Sun, 04 Jun 2023 18:34:00 GMT</pubDate>
+      <description>Packaging · Branding — Vic, Spain. https://zoo.ad/</description>
+      <category>Packaging</category>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>Suki Design Studio</title>
+      <link>https://justadesignlist.com/studio/suki-design-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/suki-design-studio</guid>
+      <pubDate>Sun, 04 Jun 2023 18:21:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Interactive/Digital · Packaging — Vic, Spain. https://suki.ws/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

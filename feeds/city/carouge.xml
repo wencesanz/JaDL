@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Carouge · Just a Design List</title>
+    <link>https://justadesignlist.com/city/carouge</link>
+    <description>New additions to Just a Design List: design studios in Carouge.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jun 2023 15:22:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/carouge.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Neo Neo</title>
+      <link>https://justadesignlist.com/studio/neo-neo</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/neo-neo</guid>
+      <pubDate>Thu, 01 Jun 2023 15:22:00 GMT</pubDate>
+      <description>Graphic Design — Carouge, Switzerland. https://www.neoneo.ch/</description>
+      <category>Graphic Design</category>
+    </item>
+  </channel>
+</rss>

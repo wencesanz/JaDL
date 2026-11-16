@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Castellon · Just a Design List</title>
+    <link>https://justadesignlist.com/city/castellon</link>
+    <description>New additions to Just a Design List: design studios in Castellon.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Jun 2023 18:31:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/castellon.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>VXLAB</title>
+      <link>https://justadesignlist.com/studio/vxlab</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/vxlab</guid>
+      <pubDate>Sun, 04 Jun 2023 18:31:00 GMT</pubDate>
+      <description>Graphic Design · Branding — Castellon, Spain. https://www.vxlab.org/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

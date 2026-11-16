@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Kansas City · Just a Design List</title>
+    <link>https://justadesignlist.com/city/kansas-city</link>
+    <description>New additions to Just a Design List: design studios in Kansas City.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Jul 2026 11:09:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/kansas-city.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jekyll</title>
+      <link>https://justadesignlist.com/studio/jekyll</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/jekyll</guid>
+      <pubDate>Wed, 15 Jul 2026 11:09:00 GMT</pubDate>
+      <description>Branding · Illustration · Motion · Interactive/Digital · Advertising/Campaigns · Packaging · Graphic Design — Kansas City, USA. https://www.jekyll.studio/</description>
+      <category>Branding</category>
+      <category>Illustration</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+      <category>Advertising/Campaigns</category>
+      <category>Packaging</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Carpenter Collective</title>
+      <link>https://justadesignlist.com/studio/carpenter-collective</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/carpenter-collective</guid>
+      <pubDate>Mon, 11 May 2026 18:19:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Illustration — Kansas City, USA. https://carpentercollective.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Illustration</category>
+    </item>
+  </channel>
+</rss>

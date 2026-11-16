@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Bucharest · Just a Design List</title>
+    <link>https://justadesignlist.com/city/bucharest</link>
+    <description>New additions to Just a Design List: design studios in Bucharest.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 24 Sep 2026 15:08:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/bucharest.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SILKEIGHT</title>
+      <link>https://justadesignlist.com/studio/silkeight</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/silkeight</guid>
+      <pubDate>Thu, 24 Sep 2026 15:08:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Interactive/Digital · Packaging · Typography — Bucharest, Romania. https://silkeight.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Daniel and Andrew</title>
+      <link>https://justadesignlist.com/studio/daniel-and-andrew</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/daniel-and-andrew</guid>
+      <pubDate>Mon, 14 Oct 2024 06:46:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Typography — Bucharest, Romania. https://danielandandrew.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>VRLN Studio</title>
+      <link>https://justadesignlist.com/studio/vrln-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/vrln-studio</guid>
+      <pubDate>Mon, 14 Oct 2024 06:44:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — Bucharest, Romania. https://www.vrln.studio/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Brandient</title>
+      <link>https://justadesignlist.com/studio/brandient</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/brandient</guid>
+      <pubDate>Mon, 14 Oct 2024 06:38:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — Bucharest, Romania. https://brandient.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

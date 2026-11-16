@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Tampere · Just a Design List</title>
+    <link>https://justadesignlist.com/city/tampere</link>
+    <description>New additions to Just a Design List: design studios in Tampere.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Apr 2025 17:48:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/tampere.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Reaktor</title>
+      <link>https://justadesignlist.com/studio/reaktor</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/reaktor</guid>
+      <pubDate>Thu, 10 Apr 2025 17:48:00 GMT</pubDate>
+      <description>Interactive/Digital · Branding — New York, USA. https://www.reaktor.com/</description>
+      <category>Interactive/Digital</category>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

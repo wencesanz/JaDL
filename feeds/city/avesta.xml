@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Avesta · Just a Design List</title>
+    <link>https://justadesignlist.com/city/avesta</link>
+    <description>New additions to Just a Design List: design studios in Avesta.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Sep 2026 10:49:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/avesta.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Studio Robert Holmkvist</title>
+      <link>https://justadesignlist.com/studio/studio-robert-holmkvist</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-robert-holmkvist</guid>
+      <pubDate>Tue, 29 Sep 2026 10:49:00 GMT</pubDate>
+      <description>Branding · Typography · Graphic Design — Avesta, Sweden. https://www.robertholmkvist.com/</description>
+      <category>Branding</category>
+      <category>Typography</category>
+      <category>Graphic Design</category>
+    </item>
+  </channel>
+</rss>

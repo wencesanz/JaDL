@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Cupertino · Just a Design List</title>
+    <link>https://justadesignlist.com/city/cupertino</link>
+    <description>New additions to Just a Design List: design studios in Cupertino.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 May 2026 15:18:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/cupertino.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Champions Design</title>
+      <link>https://justadesignlist.com/studio/champions-design</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/champions-design</guid>
+      <pubDate>Wed, 13 May 2026 15:18:00 GMT</pubDate>
+      <description>Branding — New York, USA. https://www.championsdesign.com/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

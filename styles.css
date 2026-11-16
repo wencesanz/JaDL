@@ -1833,3 +1833,18 @@ html.qs-lock { overflow: hidden; }
 @media (max-width: 960px) {
   .colophon { gap: 12px 32px; }
 }
+
+/* Collection pages: follow by RSS */
+.coll-feed { display: inline-flex; align-items: center; gap: 8px; margin-top: 18px; font-family: var(--mono); font-size: 12px; letter-spacing: .03em; color: var(--accent-text); text-decoration: none; border-bottom: 1px solid transparent; padding-bottom: 2px; }
+.coll-feed:hover { border-bottom-color: currentColor; }
+.coll-feed .arr { display: inline-flex; }
+
+/* My List: carry it to another device */
+.list-qr { display: grid; grid-template-columns: 168px 1fr; gap: 28px; align-items: center; margin: 4px 0 28px; padding: 22px; border: 1px solid var(--rule); border-radius: 14px; max-width: 640px; }
+.list-qr-code { width: 168px; height: 168px; background: #fff; border-radius: 8px; padding: 6px; }
+.list-qr-code svg { width: 100%; height: 100%; display: block; }
+.list-qr-text p { margin: 0 0 10px; font-size: 15px; line-height: 1.5; color: var(--ink); }
+.list-qr-text .list-qr-note { font-size: 13px; color: var(--mute); }
+.list-qr-link { display: block; font-family: var(--mono); font-size: 11px; color: var(--mute); overflow-wrap: anywhere; text-decoration: none; }
+.list-qr-link:hover { color: var(--accent-text); }
+@media (max-width: 600px) { .list-qr { grid-template-columns: 1fr; justify-items: start; } }

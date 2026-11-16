@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Jacksonville · Just a Design List</title>
+    <link>https://justadesignlist.com/city/jacksonville</link>
+    <description>New additions to Just a Design List: design studios in Jacksonville.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Aug 2026 14:45:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/jacksonville.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ARRAY</title>
+      <link>https://justadesignlist.com/studio/array</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/array</guid>
+      <pubDate>Mon, 31 Aug 2026 14:45:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Packaging — Jacksonville, USA. https://madebyarray.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

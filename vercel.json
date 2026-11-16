@@ -294,6 +294,19 @@
           "value": "*"
         }
       ]
+    },
+    {
+      "source": "/feeds/(.*)",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/rss+xml; charset=utf-8"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
     }
   ]
 }

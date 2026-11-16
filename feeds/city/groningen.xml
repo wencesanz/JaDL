@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Groningen · Just a Design List</title>
+    <link>https://justadesignlist.com/city/groningen</link>
+    <description>New additions to Just a Design List: design studios in Groningen.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Aug 2026 07:10:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/groningen.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ozon Studio</title>
+      <link>https://justadesignlist.com/studio/ozon-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/ozon-studio</guid>
+      <pubDate>Mon, 17 Aug 2026 07:10:00 GMT</pubDate>
+      <description>Branding · Advertising/Campaigns · Interactive/Digital — Amsterdam, The Netherlands. https://ozon.studio/</description>
+      <category>Branding</category>
+      <category>Advertising/Campaigns</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>G2K Brand Design Agency</title>
+      <link>https://justadesignlist.com/studio/g2k-brand-design-agency</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/g2k-brand-design-agency</guid>
+      <pubDate>Fri, 21 Feb 2025 10:08:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Motion — Amsterdam, The Netherlands. https://g2k.nl/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>Rudmer van Hulzen</title>
+      <link>https://justadesignlist.com/studio/rudmer-van-hulzen</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/rudmer-van-hulzen</guid>
+      <pubDate>Tue, 30 May 2023 00:57:00 GMT</pubDate>
+      <description>Graphic Design — Groningen, The Netherlands. https://rudmervanhulzen.com/</description>
+      <category>Graphic Design</category>
+    </item>
+  </channel>
+</rss>

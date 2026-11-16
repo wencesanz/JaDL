@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in San Diego · Just a Design List</title>
+    <link>https://justadesignlist.com/city/san-diego</link>
+    <description>New additions to Just a Design List: design studios in San Diego.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Oct 2026 20:56:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/san-diego.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Feel For</title>
+      <link>https://justadesignlist.com/studio/feel-for</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/feel-for</guid>
+      <pubDate>Fri, 02 Oct 2026 20:56:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — San Diego, USA. https://www.feelfor.co/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Movetic</title>
+      <link>https://justadesignlist.com/studio/movetic</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/movetic</guid>
+      <pubDate>Fri, 19 Jun 2026 06:31:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — San Diego, USA. https://www.themovetic.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>MiresBall</title>
+      <link>https://justadesignlist.com/studio/miresball</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/miresball</guid>
+      <pubDate>Wed, 13 May 2026 16:44:00 GMT</pubDate>
+      <description>Branding · Packaging — San Diego, USA. https://miresball.com</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

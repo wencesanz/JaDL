@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Montevideo · Just a Design List</title>
+    <link>https://justadesignlist.com/city/montevideo</link>
+    <description>New additions to Just a Design List: design studios in Montevideo.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Jun 2026 10:14:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/montevideo.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>++hellohello</title>
+      <link>https://justadesignlist.com/studio/hellohello</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/hellohello</guid>
+      <pubDate>Fri, 05 Jun 2026 10:14:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Motion — Montevideo, Uruguay. https://www.hellohello.is/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>Estudio Blende</title>
+      <link>https://justadesignlist.com/studio/estudio-blende</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/estudio-blende</guid>
+      <pubDate>Mon, 29 May 2023 11:17:00 GMT</pubDate>
+      <description>Graphic Design · Branding — Montevideo, Uruguay. https://estudioblende.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

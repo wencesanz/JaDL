@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Medellin · Just a Design List</title>
+    <link>https://justadesignlist.com/city/medellin</link>
+    <description>New additions to Just a Design List: design studios in Medellin.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Nov 2024 19:44:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/medellin.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>781studio</title>
+      <link>https://justadesignlist.com/studio/781studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/781studio</guid>
+      <pubDate>Wed, 27 Nov 2024 19:44:00 GMT</pubDate>
+      <description>Branding · Packaging — Medellin, Colombia. https://www.781studio.com/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

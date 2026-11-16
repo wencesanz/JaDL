@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Rio de Janeiro · Just a Design List</title>
+    <link>https://justadesignlist.com/city/rio-de-janeiro</link>
+    <description>New additions to Just a Design List: design studios in Rio de Janeiro.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Nov 2026 17:43:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/rio-de-janeiro.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ESTUDIO CRU</title>
+      <link>https://justadesignlist.com/studio/estudio-cru</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/estudio-cru</guid>
+      <pubDate>Tue, 03 Nov 2026 17:43:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Motion · Interactive/Digital — Rio de Janeiro, Brazil. https://www.estudiocru.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Vissotto Studio &amp; Co.™</title>
+      <link>https://justadesignlist.com/studio/vissotto-studio-and-co</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/vissotto-studio-and-co</guid>
+      <pubDate>Wed, 12 Jun 2024 12:37:00 GMT</pubDate>
+      <description>Branding — Rio de Janeiro, Brazil. https://www.vissottostudio.com/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

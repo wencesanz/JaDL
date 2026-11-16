@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Anzano del Parco · Just a Design List</title>
+    <link>https://justadesignlist.com/city/anzano-del-parco</link>
+    <description>New additions to Just a Design List: design studios in Anzano del Parco.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jun 2023 11:40:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/anzano-del-parco.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CCRZ</title>
+      <link>https://justadesignlist.com/studio/ccrz</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/ccrz</guid>
+      <pubDate>Thu, 01 Jun 2023 11:40:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Packaging · Interactive/Digital — Balerna, Switzerland. https://ccrz.ch/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

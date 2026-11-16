@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Irvine · Just a Design List</title>
+    <link>https://justadesignlist.com/city/irvine</link>
+    <description>New additions to Just a Design List: design studios in Irvine.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Jun 2026 06:10:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/irvine.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ENVOY</title>
+      <link>https://justadesignlist.com/studio/envoy</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/envoy</guid>
+      <pubDate>Tue, 16 Jun 2026 06:10:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Advertising/Campaigns — Irvine, USA. https://www.weareenvoy.com</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+  </channel>
+</rss>

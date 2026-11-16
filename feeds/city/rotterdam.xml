@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Rotterdam · Just a Design List</title>
+    <link>https://justadesignlist.com/city/rotterdam</link>
+    <description>New additions to Just a Design List: design studios in Rotterdam.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Nov 2026 21:11:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/rotterdam.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>From Form</title>
+      <link>https://justadesignlist.com/studio/from-form</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/from-form</guid>
+      <pubDate>Mon, 09 Nov 2026 21:11:00 GMT</pubDate>
+      <description>Graphic Design · Advertising/Campaigns · Motion — Rotterdam, The Netherlands. https://fromform.nl/</description>
+      <category>Graphic Design</category>
+      <category>Advertising/Campaigns</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>Phoney</title>
+      <link>https://justadesignlist.com/studio/phoney</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/phoney</guid>
+      <pubDate>Wed, 10 Jun 2026 08:28:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Illustration · Graphic Design — Rotterdam, The Netherlands. https://thephoneyclub.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Illustration</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Evers + de Gier</title>
+      <link>https://justadesignlist.com/studio/evers-de-gier</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/evers-de-gier</guid>
+      <pubDate>Tue, 19 May 2026 17:13:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Rotterdam, The Netherlands. https://www.eversendegier.nl/en</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Studio Dumbar</title>
+      <link>https://justadesignlist.com/studio/studio-dumbar</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-dumbar</guid>
+      <pubDate>Tue, 11 Jun 2024 13:32:00 GMT</pubDate>
+      <description>Motion — Rotterdam, The Netherlands. https://studiodumbar.com/</description>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>Studio Spass</title>
+      <link>https://justadesignlist.com/studio/studio-spass</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-spass</guid>
+      <pubDate>Tue, 30 May 2023 17:56:00 GMT</pubDate>
+      <description>Graphic Design · Branding — Rotterdam, The Netherlands. https://studiospass.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

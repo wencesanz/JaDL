@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Oakland · Just a Design List</title>
+    <link>https://justadesignlist.com/city/oakland</link>
+    <description>New additions to Just a Design List: design studios in Oakland.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Feb 2025 08:49:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/oakland.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Study Hall</title>
+      <link>https://justadesignlist.com/studio/study-hall</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/study-hall</guid>
+      <pubDate>Mon, 24 Feb 2025 08:49:00 GMT</pubDate>
+      <description>Branding · Motion · Interactive/Digital · Illustration · Typography — Oakland, USA. https://studyhall.design/</description>
+      <category>Branding</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+      <category>Illustration</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>PROWL Studio</title>
+      <link>https://justadesignlist.com/studio/prowl-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/prowl-studio</guid>
+      <pubDate>Tue, 15 Oct 2024 11:42:00 GMT</pubDate>
+      <description>Industrial Design — Oakland, USA. https://www.prowlstud.io/</description>
+      <category>Industrial Design</category>
+    </item>
+    <item>
+      <title>Ryan Huntsinger</title>
+      <link>https://justadesignlist.com/studio/ryan-huntsinger</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/ryan-huntsinger</guid>
+      <pubDate>Tue, 30 May 2023 18:13:00 GMT</pubDate>
+      <description>Graphic Design · Interactive/Digital — Oakland, USA. https://iamryanhuntsinger.com/</description>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Yung Studio</title>
+      <link>https://justadesignlist.com/studio/yung-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/yung-studio</guid>
+      <pubDate>Mon, 29 May 2023 10:37:00 GMT</pubDate>
+      <description>Branding — Oakland, USA. https://www.yung.studio/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Brussels · Just a Design List</title>
+    <link>https://justadesignlist.com/city/brussels</link>
+    <description>New additions to Just a Design List: design studios in Brussels.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Jul 2025 16:23:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/brussels.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SUBSTANCE</title>
+      <link>https://justadesignlist.com/studio/substance</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/substance</guid>
+      <pubDate>Mon, 28 Jul 2025 16:23:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Motion · Interactive/Digital — Brussels, Belgium. https://www.substance.works/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Coast</title>
+      <link>https://justadesignlist.com/studio/coast</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/coast</guid>
+      <pubDate>Thu, 19 Dec 2024 13:08:00 GMT</pubDate>
+      <description>Branding · Packaging · Interactive/Digital · Typography — Brussels, Belgium. https://www.coast-agency.com/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Base</title>
+      <link>https://justadesignlist.com/studio/base</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/base</guid>
+      <pubDate>Mon, 05 Jun 2023 14:00:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Graphic Design · Packaging · Motion · Typography — New York, USA. https://www.basedesign.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Motion</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Erretres</title>
+      <link>https://justadesignlist.com/studio/erretres</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/erretres</guid>
+      <pubDate>Thu, 01 Jun 2023 15:25:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Madrid, Spain. https://erretres.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Stoëmp</title>
+      <link>https://justadesignlist.com/studio/stoemp</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/stoemp</guid>
+      <pubDate>Tue, 30 May 2023 18:41:00 GMT</pubDate>
+      <description>Branding · Packaging · Typography — Brussels, Belgium. https://stoempstudio.com/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Studio Berga</title>
+      <link>https://justadesignlist.com/studio/studio-berga</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-berga</guid>
+      <pubDate>Mon, 29 May 2023 16:12:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Interactive/Digital · Typography — Lisbon, Portugal. https://bernardoberga.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+    </item>
+  </channel>
+</rss>

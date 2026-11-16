@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Santiago de Compostela · Just a Design List</title>
+    <link>https://justadesignlist.com/city/santiago-de-compostela</link>
+    <description>New additions to Just a Design List: design studios in Santiago de Compostela.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 May 2026 19:43:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/santiago-de-compostela.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NM Type</title>
+      <link>https://justadesignlist.com/studio/nm-type</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/nm-type</guid>
+      <pubDate>Mon, 11 May 2026 19:43:00 GMT</pubDate>
+      <description>Typography — Stockholm, Sweden. https://nmtype.com/</description>
+      <category>Typography</category>
+    </item>
+  </channel>
+</rss>

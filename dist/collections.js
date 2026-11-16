@@ -227,7 +227,16 @@ function CollectionView({
       fontSize: 20,
       lineHeight: 1.5
     }
-  }, studios.length, " design ", studios.length === 1 ? "studio" : "studios", kind === "city" || kind === "country" || kind === "region" ? " based here" : " in the index", "."))), React.createElement("div", {
+  }, studios.length, " design ", studios.length === 1 ? "studio" : "studios", kind === "city" || kind === "country" || kind === "region" ? " based here" : " in the index", "."), React.createElement("a", {
+    className: "coll-feed",
+    href: `/feeds/${cfg.singular}/${collSlugify(value)}.xml`,
+    target: "_blank",
+    rel: "noopener",
+    title: `RSS feed of new studios: ${copy.h1}`
+  }, React.createElement("span", null, "Follow new studios here (RSS)"), React.createElement("span", {
+    className: "arr",
+    "aria-hidden": "true"
+  }, window.jadlArrowNE ? window.jadlArrowNE() : "↗")))), React.createElement("div", {
     className: "coll-facets"
   }, kind !== "discipline" && facets.disc.length > 0 && React.createElement("div", null, React.createElement("div", {
     className: "lbl"

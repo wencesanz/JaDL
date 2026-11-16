@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Sausalito · Just a Design List</title>
+    <link>https://justadesignlist.com/city/sausalito</link>
+    <description>New additions to Just a Design List: design studios in Sausalito.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Jul 2023 07:39:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/sausalito.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tolleson</title>
+      <link>https://justadesignlist.com/studio/tolleson</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/tolleson</guid>
+      <pubDate>Mon, 03 Jul 2023 07:39:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Packaging — Sausalito, USA. https://tolleson.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

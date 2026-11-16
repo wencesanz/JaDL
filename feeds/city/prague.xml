@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Prague · Just a Design List</title>
+    <link>https://justadesignlist.com/city/prague</link>
+    <description>New additions to Just a Design List: design studios in Prague.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Jul 2026 11:52:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/prague.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ashfall Studio</title>
+      <link>https://justadesignlist.com/studio/ashfall-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/ashfall-studio</guid>
+      <pubDate>Mon, 13 Jul 2026 11:52:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Prague, Czech Republic. https://ashfall.studio/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Humbleteam</title>
+      <link>https://justadesignlist.com/studio/humbleteam</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/humbleteam</guid>
+      <pubDate>Fri, 15 May 2026 09:11:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Motion · Interactive/Digital — Prague, Czech Republic. https://www.humbleteam.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Jiri Mocek</title>
+      <link>https://justadesignlist.com/studio/jiri-mocek</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/jiri-mocek</guid>
+      <pubDate>Tue, 30 May 2023 13:15:00 GMT</pubDate>
+      <description>Graphic Design — Prague, Czech Republic. https://jmocek.tumblr.com/</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Studio Najbrt</title>
+      <link>https://justadesignlist.com/studio/studio-najbrt</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-najbrt</guid>
+      <pubDate>Tue, 30 May 2023 12:41:00 GMT</pubDate>
+      <description>Graphic Design — Prague, Czech Republic. https://www.najbrt.cz/</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Parallel Practice</title>
+      <link>https://justadesignlist.com/studio/parallel-practice</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/parallel-practice</guid>
+      <pubDate>Tue, 30 May 2023 07:17:00 GMT</pubDate>
+      <description>Graphic Design — Prague, Czech Republic. https://parallelpractice.tumblr.com/</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Jozef Ondrik</title>
+      <link>https://justadesignlist.com/studio/jozef-ondrik</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/jozef-ondrik</guid>
+      <pubDate>Tue, 30 May 2023 07:12:00 GMT</pubDate>
+      <description>Graphic Design · Typography — Brno, Czech Republic. https://jozefondrik.tumblr.com/</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+    </item>
+  </channel>
+</rss>

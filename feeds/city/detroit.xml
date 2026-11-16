@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Detroit · Just a Design List</title>
+    <link>https://justadesignlist.com/city/detroit</link>
+    <description>New additions to Just a Design List: design studios in Detroit.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 May 2026 07:57:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/detroit.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>RemoteCTRL</title>
+      <link>https://justadesignlist.com/studio/remotectrl</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/remotectrl</guid>
+      <pubDate>Thu, 07 May 2026 07:57:00 GMT</pubDate>
+      <description>Interactive/Digital — Detroit, USA. https://www.remotectrl.com/</description>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Semi:Formal</title>
+      <link>https://justadesignlist.com/studio/semi-formal</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/semi-formal</guid>
+      <pubDate>Thu, 19 Dec 2024 07:38:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Packaging — Detroit, USA. https://www.semiformal.studio/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Scorpion Rose Studio</title>
+      <link>https://justadesignlist.com/studio/scorpion-rose-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/scorpion-rose-studio</guid>
+      <pubDate>Thu, 19 Dec 2024 07:33:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Typography · Packaging · Interactive/Digital — Detroit, USA. https://scorpionrose.studio/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Brighton · Just a Design List</title>
+    <link>https://justadesignlist.com/city/brighton</link>
+    <description>New additions to Just a Design List: design studios in Brighton.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Sep 2026 08:44:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/brighton.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Eighth Day</title>
+      <link>https://justadesignlist.com/studio/eighth-day</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/eighth-day</guid>
+      <pubDate>Mon, 14 Sep 2026 08:44:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Brighton, England. https://eighthday.co.uk/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Studio Tyrell</title>
+      <link>https://justadesignlist.com/studio/studio-tyrell</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-tyrell</guid>
+      <pubDate>Mon, 14 Sep 2026 08:40:00 GMT</pubDate>
+      <description>Branding · Packaging · Graphic Design · Interactive/Digital — Brighton, England. https://www.studiotyrrell.com/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>HighSpirit</title>
+      <link>https://justadesignlist.com/studio/highspirit</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/highspirit</guid>
+      <pubDate>Fri, 08 May 2026 08:49:00 GMT</pubDate>
+      <description>Branding · Packaging — Brighton, England. https://highspirit.agency/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Fable &amp; Co.</title>
+      <link>https://justadesignlist.com/studio/fable-and-co</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/fable-and-co</guid>
+      <pubDate>Thu, 17 Oct 2024 09:59:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Brighton, England. https://fableco.uk/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Aloof Studio</title>
+      <link>https://justadesignlist.com/studio/aloof-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/aloof-studio</guid>
+      <pubDate>Wed, 31 May 2023 06:42:00 GMT</pubDate>
+      <description>Branding — Brighton, England. https://aloof.studio/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

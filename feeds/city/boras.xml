@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Borås · Just a Design List</title>
+    <link>https://justadesignlist.com/city/boras</link>
+    <description>New additions to Just a Design List: design studios in Borås.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Jun 2023 13:42:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/boras.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>superstudio</title>
+      <link>https://justadesignlist.com/studio/superstudio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/superstudio</guid>
+      <pubDate>Mon, 05 Jun 2023 13:42:00 GMT</pubDate>
+      <description>Branding — Borås, Sweden. https://superstudio.com/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

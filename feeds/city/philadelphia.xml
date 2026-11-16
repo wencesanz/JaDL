@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Philadelphia · Just a Design List</title>
+    <link>https://justadesignlist.com/city/philadelphia</link>
+    <description>New additions to Just a Design List: design studios in Philadelphia.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Jun 2026 08:46:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/philadelphia.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Armor</title>
+      <link>https://justadesignlist.com/studio/armor</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/armor</guid>
+      <pubDate>Sat, 06 Jun 2026 08:46:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Philadelphia, USA. https://armor.studio/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Self Aware</title>
+      <link>https://justadesignlist.com/studio/self-aware</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/self-aware</guid>
+      <pubDate>Tue, 13 Jun 2023 07:15:00 GMT</pubDate>
+      <description>Interactive/Digital — Philadelphia, USA. https://selfaware.studio/</description>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

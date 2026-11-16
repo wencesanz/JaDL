@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Jabugo · Just a Design List</title>
+    <link>https://justadesignlist.com/city/jabugo</link>
+    <description>New additions to Just a Design List: design studios in Jabugo.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 May 2026 08:34:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/jabugo.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>miguelcm studio</title>
+      <link>https://justadesignlist.com/studio/miguelcm-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/miguelcm-studio</guid>
+      <pubDate>Sun, 10 May 2026 08:34:00 GMT</pubDate>
+      <description>Graphic Design · Illustration — Jabugo, Spain. https://www.miguelcm.com/</description>
+      <category>Graphic Design</category>
+      <category>Illustration</category>
+    </item>
+  </channel>
+</rss>

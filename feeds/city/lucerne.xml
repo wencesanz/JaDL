@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Lucerne · Just a Design List</title>
+    <link>https://justadesignlist.com/city/lucerne</link>
+    <description>New additions to Just a Design List: design studios in Lucerne.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 May 2023 17:30:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/lucerne.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Studio Feixen</title>
+      <link>https://justadesignlist.com/studio/studio-feixen</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-feixen</guid>
+      <pubDate>Tue, 30 May 2023 17:30:00 GMT</pubDate>
+      <description>Graphic Design · Typography — Lucerne, Switzerland. https://www.studiofeixen.ch/</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+    </item>
+  </channel>
+</rss>

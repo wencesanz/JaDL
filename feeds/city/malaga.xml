@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Malaga · Just a Design List</title>
+    <link>https://justadesignlist.com/city/malaga</link>
+    <description>New additions to Just a Design List: design studios in Malaga.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Oct 2026 16:22:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/malaga.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Estudio Republica</title>
+      <link>https://justadesignlist.com/studio/estudio-republica</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/estudio-republica</guid>
+      <pubDate>Mon, 26 Oct 2026 16:22:00 GMT</pubDate>
+      <description>Graphic Design · Illustration · Packaging — Malaga, Spain. https://republica.work/</description>
+      <category>Graphic Design</category>
+      <category>Illustration</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Javi Medialdea</title>
+      <link>https://justadesignlist.com/studio/javi-medialdea</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/javi-medialdea</guid>
+      <pubDate>Tue, 11 Aug 2026 16:05:00 GMT</pubDate>
+      <description>Graphic Design · Interactive/Digital — Malaga, Spain. https://javimedialdea.es/</description>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>FREE PRACTICE</title>
+      <link>https://justadesignlist.com/studio/free-practice</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/free-practice</guid>
+      <pubDate>Thu, 23 Jul 2026 14:31:00 GMT</pubDate>
+      <description>Graphic Design · Branding — Malaga, Spain. https://free-practice.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>Emele Collab</title>
+      <link>https://justadesignlist.com/studio/emele-collab</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/emele-collab</guid>
+      <pubDate>Mon, 07 Oct 2024 12:10:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Graphic Design — Malaga, Spain. https://emelecollab.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Tiquismiquis</title>
+      <link>https://justadesignlist.com/studio/tiquismiquis</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/tiquismiquis</guid>
+      <pubDate>Sun, 11 Jun 2023 08:31:00 GMT</pubDate>
+      <description>Branding · Graphic Design — Malaga, Spain. https://tiquismiquis.club/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>creanet</title>
+      <link>https://justadesignlist.com/studio/creanet</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/creanet</guid>
+      <pubDate>Fri, 02 Jun 2023 18:06:00 GMT</pubDate>
+      <description>Graphic Design · Branding — Malaga, Spain. https://www.creanet.es/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>bRIDA®</title>
+      <link>https://justadesignlist.com/studio/brida</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/brida</guid>
+      <pubDate>Fri, 02 Jun 2023 18:00:00 GMT</pubDate>
+      <description>Branding — Malaga, Spain. https://brida.es/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

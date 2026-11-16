@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Renens · Just a Design List</title>
+    <link>https://justadesignlist.com/city/renens</link>
+    <description>New additions to Just a Design List: design studios in Renens.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 Nov 2024 10:22:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/renens.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Omnigroup</title>
+      <link>https://justadesignlist.com/studio/omnigroup</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/omnigroup</guid>
+      <pubDate>Thu, 14 Nov 2024 10:22:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Renens, Switzerland. https://omnigroup.ch/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

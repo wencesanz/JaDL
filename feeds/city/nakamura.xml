@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Nakamura · Just a Design List</title>
+    <link>https://justadesignlist.com/city/nakamura</link>
+    <description>New additions to Just a Design List: design studios in Nakamura.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 May 2023 17:53:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/nakamura.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Yuta Takahashi Design Studio Co.</title>
+      <link>https://justadesignlist.com/studio/yuta-takahashi-design-studio-co</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/yuta-takahashi-design-studio-co</guid>
+      <pubDate>Tue, 30 May 2023 17:53:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Packaging — Nakamura, Japan. https://yutatakahashi.jp/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

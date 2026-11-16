@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Murcia · Just a Design List</title>
+    <link>https://justadesignlist.com/city/murcia</link>
+    <description>New additions to Just a Design List: design studios in Murcia.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Oct 2026 07:01:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/murcia.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Omni Design</title>
+      <link>https://justadesignlist.com/studio/omni-design</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/omni-design</guid>
+      <pubDate>Thu, 08 Oct 2026 07:01:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Advertising/Campaigns — Murcia, Spain. https://onmidesign.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>Sergio Abstracts</title>
+      <link>https://justadesignlist.com/studio/sergio-abstracts</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/sergio-abstracts</guid>
+      <pubDate>Thu, 06 Aug 2026 11:14:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Murcia, Spain. https://sergioabstracts.eu/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>seele.studio</title>
+      <link>https://justadesignlist.com/studio/seele-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/seele-studio</guid>
+      <pubDate>Mon, 11 May 2026 13:07:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Motion · Interactive/Digital · Packaging · Typography — Madrid, Spain. https://seele.studio/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Fellas</title>
+      <link>https://justadesignlist.com/studio/fellas</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/fellas</guid>
+      <pubDate>Thu, 15 Jun 2023 10:52:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Murcia, Spain. https://somosfellas.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Rubio &amp; Del Amo</title>
+      <link>https://justadesignlist.com/studio/rubio-and-del-amo</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/rubio-and-del-amo</guid>
+      <pubDate>Tue, 30 May 2023 17:47:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Illustration · Packaging — Murcia, Spain. https://rubioydelamo.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Illustration</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

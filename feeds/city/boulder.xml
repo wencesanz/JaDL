@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Boulder · Just a Design List</title>
+    <link>https://justadesignlist.com/city/boulder</link>
+    <description>New additions to Just a Design List: design studios in Boulder.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Sep 2026 21:06:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/boulder.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Moxie Sozo</title>
+      <link>https://justadesignlist.com/studio/moxie-sozo</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/moxie-sozo</guid>
+      <pubDate>Wed, 23 Sep 2026 21:06:00 GMT</pubDate>
+      <description>Branding · Packaging · Illustration · Interactive/Digital — Boulder, USA. https://moxiesozo.com/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Illustration</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Berger &amp; Föhr</title>
+      <link>https://justadesignlist.com/studio/berger-and-fohr</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/berger-and-fohr</guid>
+      <pubDate>Mon, 05 Jun 2023 13:55:00 GMT</pubDate>
+      <description>Branding — Boulder, USA. https://bergerfohr.com/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

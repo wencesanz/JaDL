@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Zagreb · Just a Design List</title>
+    <link>https://justadesignlist.com/city/zagreb</link>
+    <description>New additions to Just a Design List: design studios in Zagreb.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Sep 2026 14:59:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/zagreb.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Beton</title>
+      <link>https://justadesignlist.com/studio/beton</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/beton</guid>
+      <pubDate>Sun, 13 Sep 2026 14:59:00 GMT</pubDate>
+      <description>Branding · Graphic Design — Zagreb, Croatia. https://www.beton.com.hr/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Studio Size</title>
+      <link>https://justadesignlist.com/studio/studio-size</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-size</guid>
+      <pubDate>Tue, 29 Oct 2024 19:13:00 GMT</pubDate>
+      <description>Graphic Design · Motion · Branding · Packaging · Interactive/Digital — Zagreb, Croatia. https://studio-size.com/</description>
+      <category>Graphic Design</category>
+      <category>Motion</category>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Studio8585</title>
+      <link>https://justadesignlist.com/studio/studio8585</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio8585</guid>
+      <pubDate>Mon, 29 May 2023 15:30:00 GMT</pubDate>
+      <description>Graphic Design · Branding — Zagreb, Croatia. https://www.studio8585.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

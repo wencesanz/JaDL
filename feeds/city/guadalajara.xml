@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Guadalajara · Just a Design List</title>
+    <link>https://justadesignlist.com/city/guadalajara</link>
+    <description>New additions to Just a Design List: design studios in Guadalajara.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 May 2023 23:53:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/guadalajara.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Estudio Cariño</title>
+      <link>https://justadesignlist.com/studio/estudio-carino</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/estudio-carino</guid>
+      <pubDate>Mon, 29 May 2023 23:53:00 GMT</pubDate>
+      <description>Branding — Guadalajara, Mexico. https://estudiocarino.com/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

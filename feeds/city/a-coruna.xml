@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in A Coruña · Just a Design List</title>
+    <link>https://justadesignlist.com/city/a-coruna</link>
+    <description>New additions to Just a Design List: design studios in A Coruña.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 26 May 2026 21:28:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/a-coruna.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Morbo</title>
+      <link>https://justadesignlist.com/studio/morbo</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/morbo</guid>
+      <pubDate>Tue, 26 May 2026 21:28:00 GMT</pubDate>
+      <description>Branding · Advertising/Campaigns — A Coruña, Spain. https://www.wearemorbo.com/</description>
+      <category>Branding</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>Guillotina</title>
+      <link>https://justadesignlist.com/studio/guillotina</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/guillotina</guid>
+      <pubDate>Sat, 09 May 2026 10:33:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Illustration · Packaging — A Coruña, Spain. https://guillotinaestudio.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Illustration</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Costa</title>
+      <link>https://justadesignlist.com/studio/costa</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/costa</guid>
+      <pubDate>Thu, 07 May 2026 06:11:00 GMT</pubDate>
+      <description>Branding · Packaging — A Coruña, Spain. https://costa.io/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

@@ -80,11 +80,50 @@
       if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, function () { window.prompt("Copy this link", url); });
       else window.prompt("Copy this link", url);
     };
-    return h("div", { className: "list-share" },
-      h("button", { type: "button", className: "back-btn", onClick: share },
-        h("span", { className: "arr" }, (window.jadlArrowNE ? window.jadlArrowNE() : "\u2197\uFE0E")), h("span", null, copied ? "Link copied" : "Share this list")),
-      h("span", { className: "list-share-note" }, "Anyone with the link sees these " + slugs.length + " " + (slugs.length === 1 ? "studio" : "studios") + "."));
+    var qs = React.useState(false), showQr = qs[0], setShowQr = qs[1];
+    return h(React.Fragment, null,
+      h("div", { className: "list-share" },
+        h("button", { type: "button", className: "back-btn", onClick: share },
+          h("span", { className: "arr" }, (window.jadlArrowNE ? window.jadlArrowNE() : "\u2197\uFE0E")), h("span", null, copied ? "Link copied" : "Share this list")),
+        h("button", { type: "button", className: "back-btn", "aria-expanded": showQr ? "true" : "false", onClick: function () { setShowQr(!showQr); } },
+          h("span", { className: "arr" }, showQr ? "\u00D7" : "\u2192"), h("span", null, showQr ? "Close" : "Open on another device")),
+        h("span", { className: "list-share-note" }, "Anyone with the link sees these " + slugs.length + " " + (slugs.length === 1 ? "studio" : "studios") + ".")),
+      showQr ? h(ListQr, { url: url, n: slugs.length }) : null);
   };
+
+  // QR of the share link, to carry My List to a phone (or back). The other
+  // device opens it and taps "Save all to My List". No account needed.
+  var qrLoad = null;
+  function loadQr() {
+    if (window.qrcode) return Promise.resolve(window.qrcode);
+    if (!qrLoad) qrLoad = new Promise(function (ok, ko) {
+      var sc = document.createElement("script");
+      sc.src = "/vendor/qrcode-generator-1.4.4.min.js";
+      sc.onload = function () { window.qrcode ? ok(window.qrcode) : ko(); };
+      sc.onerror = ko;
+      document.head.appendChild(sc);
+    });
+    return qrLoad;
+  }
+  function ListQr(props) {
+    var st = React.useState(null), svg = st[0], setSvg = st[1];
+    React.useEffect(function () {
+      var live = true;
+      loadQr().then(function (qrcode) {
+        var q = qrcode(0, "M");
+        q.addData(props.url);
+        q.make();
+        if (live) setSvg(q.createSvgTag({ cellSize: 4, margin: 2, scalable: true }));
+      }).catch(function () { if (live) setSvg(""); });
+      return function () { live = false; };
+    }, [props.url]);
+    return h("div", { className: "list-qr" },
+      svg ? h("div", { className: "list-qr-code", role: "img", "aria-label": "QR code with the link to this list", dangerouslySetInnerHTML: { __html: svg } }) : null,
+      h("div", { className: "list-qr-text" },
+        h("p", null, "Scan this with your phone (or open the link on any device), then tap ", h("strong", null, "Save all to My List"), "."),
+        h("p", { className: "list-qr-note" }, "Lists live in each browser. Nothing is stored on our side, so there is no account to create."),
+        h("a", { href: props.url, className: "list-qr-link" }, props.url)));
+  }
   window.SharedListView = function (props) {
     var go = props.go;
     var all = studios();

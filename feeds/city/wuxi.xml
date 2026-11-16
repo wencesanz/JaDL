@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Wuxi · Just a Design List</title>
+    <link>https://justadesignlist.com/city/wuxi</link>
+    <description>New additions to Just a Design List: design studios in Wuxi.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Nov 2024 09:52:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/wuxi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>HDU²³ Lab</title>
+      <link>https://justadesignlist.com/studio/hdu23-lab</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/hdu23-lab</guid>
+      <pubDate>Wed, 13 Nov 2024 09:52:00 GMT</pubDate>
+      <description>Branding · Packaging — Wuxi, China. https://hdu23lab.com/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Stuttgart · Just a Design List</title>
+    <link>https://justadesignlist.com/city/stuttgart</link>
+    <description>New additions to Just a Design List: design studios in Stuttgart.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Oct 2026 14:37:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/stuttgart.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>burkhardthauke</title>
+      <link>https://justadesignlist.com/studio/burkhardthauke</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/burkhardthauke</guid>
+      <pubDate>Thu, 29 Oct 2026 14:37:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Typography — Stuttgart, Germany. https://www.burkhardthauke.de/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Hochburg Design</title>
+      <link>https://justadesignlist.com/studio/hochburg-design</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/hochburg-design</guid>
+      <pubDate>Mon, 05 Oct 2026 12:41:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Stuttgart, Germany. https://www.hochburg.design/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Ina Bauer Kommunikationsdesign</title>
+      <link>https://justadesignlist.com/studio/ina-bauer-kommunikationsdesign</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/ina-bauer-kommunikationsdesign</guid>
+      <pubDate>Tue, 25 Aug 2026 14:32:00 GMT</pubDate>
+      <description>Branding · Graphic Design — Stuttgart, Germany. https://www.ina-bauer.studio/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Bareis + Nicolaus</title>
+      <link>https://justadesignlist.com/studio/bareis-nicolaus</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/bareis-nicolaus</guid>
+      <pubDate>Mon, 27 Jul 2026 08:16:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Illustration · Typography — Hamburg, Germany. https://www.bareis-nicolaus.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Illustration</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Studio Tillack Knöll</title>
+      <link>https://justadesignlist.com/studio/studio-tillack-knoll</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-tillack-knoll</guid>
+      <pubDate>Fri, 24 Jul 2026 11:05:00 GMT</pubDate>
+      <description>Branding · Graphic Design — Stuttgart, Germany. https://studiotillackknoell.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Matter Of</title>
+      <link>https://justadesignlist.com/studio/matter-of</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/matter-of</guid>
+      <pubDate>Tue, 21 Jul 2026 10:56:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Typography · Interactive/Digital — Stuttgart, Germany. https://matterof.online/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>stapelberg&amp;fritz</title>
+      <link>https://justadesignlist.com/studio/stapelbergandfritz</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/stapelbergandfritz</guid>
+      <pubDate>Wed, 31 May 2023 10:47:00 GMT</pubDate>
+      <description>Branding · Graphic Design — Stuttgart, Germany. https://www.stapelbergundfritz.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Tobias Hönow</title>
+      <link>https://justadesignlist.com/studio/tobias-honow</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/tobias-honow</guid>
+      <pubDate>Tue, 30 May 2023 13:10:00 GMT</pubDate>
+      <description>Graphic Design · Typography — Stuttgart, Germany. https://tobiashoenow.de/</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+    </item>
+  </channel>
+</rss>

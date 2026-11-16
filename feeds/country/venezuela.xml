@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Venezuela · Just a Design List</title>
+    <link>https://justadesignlist.com/country/venezuela</link>
+    <description>New additions to Just a Design List: design studios in Venezuela.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 May 2026 08:28:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/country/venezuela.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Atla</title>
+      <link>https://justadesignlist.com/studio/atla</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/atla</guid>
+      <pubDate>Fri, 15 May 2026 08:28:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Motion — Austin, USA. https://www.atla.design</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+    </item>
+  </channel>
+</rss>

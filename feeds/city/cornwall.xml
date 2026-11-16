@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Cornwall · Just a Design List</title>
+    <link>https://justadesignlist.com/city/cornwall</link>
+    <description>New additions to Just a Design List: design studios in Cornwall.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Aug 2026 14:06:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/cornwall.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Guest Studio</title>
+      <link>https://justadesignlist.com/studio/guest-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/guest-studio</guid>
+      <pubDate>Thu, 13 Aug 2026 14:06:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Packaging · Advertising/Campaigns · Graphic Design — London, England. https://gueststudio.co/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+      <category>Advertising/Campaigns</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Studio Kiln</title>
+      <link>https://justadesignlist.com/studio/studio-kiln</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-kiln</guid>
+      <pubDate>Wed, 22 Jul 2026 11:14:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Motion · Advertising/Campaigns · Interactive/Digital — Cornwall, England. https://www.studio-kiln.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Motion</category>
+      <category>Advertising/Campaigns</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

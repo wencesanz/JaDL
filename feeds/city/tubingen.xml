@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Tübingen · Just a Design List</title>
+    <link>https://justadesignlist.com/city/tubingen</link>
+    <description>New additions to Just a Design List: design studios in Tübingen.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Aug 2026 15:13:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/tubingen.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>YENCE Studio</title>
+      <link>https://justadesignlist.com/studio/yence-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/yence-studio</guid>
+      <pubDate>Wed, 12 Aug 2026 15:13:00 GMT</pubDate>
+      <description>Graphic Design · Motion · Typography — Tübingen, Germany. https://yence-studio.com/</description>
+      <category>Graphic Design</category>
+      <category>Motion</category>
+      <category>Typography</category>
+    </item>
+  </channel>
+</rss>

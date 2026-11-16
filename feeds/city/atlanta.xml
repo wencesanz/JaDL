@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Atlanta · Just a Design List</title>
+    <link>https://justadesignlist.com/city/atlanta</link>
+    <description>New additions to Just a Design List: design studios in Atlanta.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Jun 2026 10:37:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/atlanta.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Matchstic</title>
+      <link>https://justadesignlist.com/studio/matchstic</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/matchstic</guid>
+      <pubDate>Fri, 05 Jun 2026 10:37:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Atlanta, USA. https://matchstic.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Fieldwork</title>
+      <link>https://justadesignlist.com/studio/fieldwork</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/fieldwork</guid>
+      <pubDate>Thu, 07 May 2026 18:50:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Atlanta, USA. https://studiofieldwork.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

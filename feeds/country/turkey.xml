@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Turkey · Just a Design List</title>
+    <link>https://justadesignlist.com/country/turkey</link>
+    <description>New additions to Just a Design List: design studios in Turkey.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 May 2026 11:06:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/country/turkey.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fol</title>
+      <link>https://justadesignlist.com/studio/fol</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/fol</guid>
+      <pubDate>Sat, 23 May 2026 11:06:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Motion — Istanbul, Turkey. https://fol.com.tr/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>William Hall</title>
+      <link>https://justadesignlist.com/studio/william-hall</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/william-hall</guid>
+      <pubDate>Wed, 13 Nov 2024 15:50:00 GMT</pubDate>
+      <description>Branding · Graphic Design — London, England. https://www.williamhall.co.uk/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>W Design Studio</title>
+      <link>https://justadesignlist.com/studio/w-design-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/w-design-studio</guid>
+      <pubDate>Mon, 12 Jun 2023 08:14:00 GMT</pubDate>
+      <description>Branding — Istanbul, Turkey. https://wdesignbureau.com/</description>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>Saffron</title>
+      <link>https://justadesignlist.com/studio/saffron</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/saffron</guid>
+      <pubDate>Sun, 04 Jun 2023 18:11:00 GMT</pubDate>
+      <description>Branding · Packaging — Madrid, Spain. https://saffron-consultants.com/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

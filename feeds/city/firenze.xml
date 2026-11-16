@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Firenze · Just a Design List</title>
+    <link>https://justadesignlist.com/city/firenze</link>
+    <description>New additions to Just a Design List: design studios in Firenze.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Jul 2026 11:12:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/firenze.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Weird Studio</title>
+      <link>https://justadesignlist.com/studio/weird-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/weird-studio</guid>
+      <pubDate>Wed, 22 Jul 2026 11:12:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Firenze, Italy. https://www.weird-studio.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Auge Design</title>
+      <link>https://justadesignlist.com/studio/auge-design</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/auge-design</guid>
+      <pubDate>Wed, 31 Jul 2024 07:50:00 GMT</pubDate>
+      <description>Branding · Packaging · Interactive/Digital — Firenze, Italy. https://auge-design.com/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

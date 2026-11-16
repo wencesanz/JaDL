@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Seattle · Just a Design List</title>
+    <link>https://justadesignlist.com/city/seattle</link>
+    <description>New additions to Just a Design List: design studios in Seattle.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Aug 2026 13:52:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/seattle.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SHORE</title>
+      <link>https://justadesignlist.com/studio/shore</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/shore</guid>
+      <pubDate>Thu, 13 Aug 2026 13:52:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Seattle, USA. https://www.madebyshore.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Civilization</title>
+      <link>https://justadesignlist.com/studio/civilization</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/civilization</guid>
+      <pubDate>Fri, 22 May 2026 16:33:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Seattle, USA. https://builtbycivilization.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Parker Studio</title>
+      <link>https://justadesignlist.com/studio/parker-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/parker-studio</guid>
+      <pubDate>Tue, 12 Nov 2024 17:09:00 GMT</pubDate>
+      <description>Branding · Motion · Interactive/Digital · Packaging · Typography — Seattle, USA. https://parker.studio/</description>
+      <category>Branding</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Big Spaceship</title>
+      <link>https://justadesignlist.com/studio/big-spaceship</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/big-spaceship</guid>
+      <pubDate>Mon, 05 Jun 2023 13:58:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — New York, USA. https://www.bigspaceship.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Rationale</title>
+      <link>https://justadesignlist.com/studio/rationale</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/rationale</guid>
+      <pubDate>Wed, 31 May 2023 11:17:00 GMT</pubDate>
+      <description>Graphic Design — Seattle, USA. https://rationale-design.com/</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Chloe Scheffe</title>
+      <link>https://justadesignlist.com/studio/chloe-scheffe</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/chloe-scheffe</guid>
+      <pubDate>Mon, 29 May 2023 23:59:00 GMT</pubDate>
+      <description>Graphic Design · Branding — Seattle, USA. https://chloescheffe.github.io/index.html</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

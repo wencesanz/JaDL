@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Valladolid · Just a Design List</title>
+    <link>https://justadesignlist.com/city/valladolid</link>
+    <description>New additions to Just a Design List: design studios in Valladolid.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Jun 2026 05:46:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/valladolid.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Raíz Studio</title>
+      <link>https://justadesignlist.com/studio/raiz-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/raiz-studio</guid>
+      <pubDate>Wed, 24 Jun 2026 05:46:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — Palma de Mallorca, Spain. https://raizstudio.es/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Azote Studio</title>
+      <link>https://justadesignlist.com/studio/azote-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/azote-studio</guid>
+      <pubDate>Tue, 26 May 2026 08:28:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Valladolid, Spain. https://azote.es/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

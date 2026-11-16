@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Edinburgh · Just a Design List</title>
+    <link>https://justadesignlist.com/city/edinburgh</link>
+    <description>New additions to Just a Design List: design studios in Edinburgh.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Sep 2026 13:41:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/edinburgh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Covers</title>
+      <link>https://justadesignlist.com/studio/covers</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/covers</guid>
+      <pubDate>Tue, 08 Sep 2026 13:41:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Graphic Design — Edinburgh, Scotland. https://covers-studio.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Touch</title>
+      <link>https://justadesignlist.com/studio/touch</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/touch</guid>
+      <pubDate>Mon, 20 Jul 2026 08:24:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Edinburgh, Scotland. https://www.thetouchagency.co.uk/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Standard Format</title>
+      <link>https://justadesignlist.com/studio/standard-format</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/standard-format</guid>
+      <pubDate>Tue, 19 May 2026 08:13:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — Edinburgh, Scotland. https://standard-format.co.uk/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

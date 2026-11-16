@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Columbus · Just a Design List</title>
+    <link>https://justadesignlist.com/city/columbus</link>
+    <description>New additions to Just a Design List: design studios in Columbus.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Jun 2026 06:28:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/columbus.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Studio Freight</title>
+      <link>https://justadesignlist.com/studio/studio-freight</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-freight</guid>
+      <pubDate>Fri, 05 Jun 2026 06:28:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Advertising/Campaigns — Columbus, USA. https://studiofreight.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>Nihilo</title>
+      <link>https://justadesignlist.com/studio/nihilo</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/nihilo</guid>
+      <pubDate>Wed, 13 Aug 2025 07:32:00 GMT</pubDate>
+      <description>Branding · Packaging · Interactive/Digital — Columbus, USA. https://nihilo.agency/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

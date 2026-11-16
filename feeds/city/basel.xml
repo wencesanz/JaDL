@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Basel · Just a Design List</title>
+    <link>https://justadesignlist.com/city/basel</link>
+    <description>New additions to Just a Design List: design studios in Basel.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Apr 2025 12:57:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/basel.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rio Basel</title>
+      <link>https://justadesignlist.com/studio/rio-basel</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/rio-basel</guid>
+      <pubDate>Wed, 16 Apr 2025 12:57:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Motion — Basel, Switzerland. https://riobasel.ch/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>Studio Banana</title>
+      <link>https://justadesignlist.com/studio/studio-banana</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-banana</guid>
+      <pubDate>Sun, 04 Jun 2023 18:20:00 GMT</pubDate>
+      <description>Branding · Graphic Design — London, England. https://studiobanana.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Claudiabasel</title>
+      <link>https://justadesignlist.com/studio/claudiabasel</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/claudiabasel</guid>
+      <pubDate>Tue, 30 May 2023 13:32:00 GMT</pubDate>
+      <description>Graphic Design — Basel, Switzerland. https://claudiabasel.ch/</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Début Début</title>
+      <link>https://justadesignlist.com/studio/debut-debut</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/debut-debut</guid>
+      <pubDate>Mon, 29 May 2023 23:43:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Typography · Interactive/Digital — Basel, Switzerland. https://www.debutdebut.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Typography</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Ludovic Balland</title>
+      <link>https://justadesignlist.com/studio/ludovic-balland</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/ludovic-balland</guid>
+      <pubDate>Mon, 29 May 2023 11:24:00 GMT</pubDate>
+      <description>Graphic Design · Typography — Basel, Switzerland. https://www.ludovic-balland.com/</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+    </item>
+  </channel>
+</rss>

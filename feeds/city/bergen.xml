@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Bergen · Just a Design List</title>
+    <link>https://justadesignlist.com/city/bergen</link>
+    <description>New additions to Just a Design List: design studios in Bergen.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 May 2026 15:19:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/bergen.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Overhaus</title>
+      <link>https://justadesignlist.com/studio/overhaus</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/overhaus</guid>
+      <pubDate>Thu, 14 May 2026 15:19:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Illustration — Bergen, Norway. https://www.overhaus.no/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Illustration</category>
+    </item>
+    <item>
+      <title>Nonspace</title>
+      <link>https://justadesignlist.com/studio/nonspace</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/nonspace</guid>
+      <pubDate>Thu, 07 May 2026 18:58:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Bergen, Norway. https://www.nonspace.no/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

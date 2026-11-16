@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Bern · Just a Design List</title>
+    <link>https://justadesignlist.com/city/bern</link>
+    <description>New additions to Just a Design List: design studios in Bern.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Aug 2026 08:11:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/bern.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Atelier Pol</title>
+      <link>https://justadesignlist.com/studio/atelier-pol</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/atelier-pol</guid>
+      <pubDate>Thu, 20 Aug 2026 08:11:00 GMT</pubDate>
+      <description>Graphic Design · Packaging · Interactive/Digital — Bern, Switzerland. https://atelierpol.com/</description>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>mutoco</title>
+      <link>https://justadesignlist.com/studio/mutoco</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/mutoco</guid>
+      <pubDate>Thu, 28 May 2026 15:34:00 GMT</pubDate>
+      <description>Interactive/Digital · Branding — Bern, Switzerland. https://mutoco.ch/</description>
+      <category>Interactive/Digital</category>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>Studio Daniel Peter</title>
+      <link>https://justadesignlist.com/studio/studio-daniel-peter</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-daniel-peter</guid>
+      <pubDate>Mon, 29 May 2023 23:37:00 GMT</pubDate>
+      <description>Graphic Design · Motion · Typography — Bern, Switzerland. https://herrpeter.ch/</description>
+      <category>Graphic Design</category>
+      <category>Motion</category>
+      <category>Typography</category>
+    </item>
+  </channel>
+</rss>

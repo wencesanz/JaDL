@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Innsbruck · Just a Design List</title>
+    <link>https://justadesignlist.com/city/innsbruck</link>
+    <description>New additions to Just a Design List: design studios in Innsbruck.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Oct 2026 09:39:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/innsbruck.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meinhard Taxer</title>
+      <link>https://justadesignlist.com/studio/meinhard-taxer</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/meinhard-taxer</guid>
+      <pubDate>Mon, 19 Oct 2026 09:39:00 GMT</pubDate>
+      <description>Graphic Design · Branding — Innsbruck, Austria. https://meinhardtaxer.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>Snøhetta</title>
+      <link>https://justadesignlist.com/studio/sn-hetta</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/sn-hetta</guid>
+      <pubDate>Wed, 31 May 2023 11:01:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Oslo, Norway. https://www.snohetta.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

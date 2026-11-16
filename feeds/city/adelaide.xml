@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Adelaide · Just a Design List</title>
+    <link>https://justadesignlist.com/city/adelaide</link>
+    <description>New additions to Just a Design List: design studios in Adelaide.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Oct 2024 15:41:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/adelaide.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mash Design</title>
+      <link>https://justadesignlist.com/studio/mash-design</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/mash-design</guid>
+      <pubDate>Thu, 10 Oct 2024 15:41:00 GMT</pubDate>
+      <description>Branding · Packaging · Interactive/Digital — Adelaide, Australia. https://www.mashdesign.com.au/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Parallax Design</title>
+      <link>https://justadesignlist.com/studio/parallax-design</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/parallax-design</guid>
+      <pubDate>Thu, 01 Jun 2023 13:37:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Adelaide, Australia. https://www.parallaxdesign.com.au/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>StudioBand</title>
+      <link>https://justadesignlist.com/studio/studioband</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studioband</guid>
+      <pubDate>Thu, 01 Jun 2023 11:37:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Interactive/Digital — Adelaide, Australia. https://studioband.com.au/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Snøhetta</title>
+      <link>https://justadesignlist.com/studio/sn-hetta</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/sn-hetta</guid>
+      <pubDate>Wed, 31 May 2023 11:01:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Oslo, Norway. https://www.snohetta.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

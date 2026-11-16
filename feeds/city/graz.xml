@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Graz · Just a Design List</title>
+    <link>https://justadesignlist.com/city/graz</link>
+    <description>New additions to Just a Design List: design studios in Graz.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Aug 2026 05:59:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/graz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Diemling</title>
+      <link>https://justadesignlist.com/studio/diemling</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/diemling</guid>
+      <pubDate>Wed, 26 Aug 2026 05:59:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital · Typography — Graz, Austria. https://diemling.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Studio Furore</title>
+      <link>https://justadesignlist.com/studio/studio-furore</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-furore</guid>
+      <pubDate>Tue, 11 Aug 2026 16:27:00 GMT</pubDate>
+      <description>Graphic Design · Interactive/Digital · Branding — Graz, Austria. https://studiofurore.at/</description>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>Tusaro Studio</title>
+      <link>https://justadesignlist.com/studio/tusaro-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/tusaro-studio</guid>
+      <pubDate>Sat, 25 Jul 2026 20:32:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Graphic Design — Graz, Austria. https://www.tusaro.studio/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>RAWTY</title>
+      <link>https://justadesignlist.com/studio/rawty</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/rawty</guid>
+      <pubDate>Tue, 15 Apr 2025 15:53:00 GMT</pubDate>
+      <description>Branding · Motion · Interactive/Digital · Packaging — Graz, Austria. https://www.rawty.co/</description>
+      <category>Branding</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Studio TipTop</title>
+      <link>https://justadesignlist.com/studio/studio-tiptop</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-tiptop</guid>
+      <pubDate>Tue, 27 Jun 2023 18:24:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Graz, Austria. https://www.studiotiptop.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Studio Bruch</title>
+      <link>https://justadesignlist.com/studio/studio-bruch</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-bruch</guid>
+      <pubDate>Mon, 29 May 2023 16:48:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Packaging — Graz, Austria. https://studiobruch.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

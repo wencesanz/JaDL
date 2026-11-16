@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Queenstown · Just a Design List</title>
+    <link>https://justadesignlist.com/city/queenstown</link>
+    <description>New additions to Just a Design List: design studios in Queenstown.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 May 2023 11:50:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/queenstown.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MAKEBARDO</title>
+      <link>https://justadesignlist.com/studio/makebardo</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/makebardo</guid>
+      <pubDate>Wed, 31 May 2023 11:50:00 GMT</pubDate>
+      <description>Branding · Packaging — Queenstown, New Zealand. https://www.makebardo.com/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>For The People</title>
+      <link>https://justadesignlist.com/studio/for-the-people</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/for-the-people</guid>
+      <pubDate>Tue, 30 May 2023 13:50:00 GMT</pubDate>
+      <description>Branding — Sydney, Australia. https://www.forthepeople.agency/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

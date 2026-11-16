@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Gorllewin Cymru · Just a Design List</title>
+    <link>https://justadesignlist.com/city/gorllewin-cymru</link>
+    <description>New additions to Just a Design List: design studios in Gorllewin Cymru.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jun 2023 11:25:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/gorllewin-cymru.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Smörgåsbord</title>
+      <link>https://justadesignlist.com/studio/smorgasbord</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/smorgasbord</guid>
+      <pubDate>Thu, 01 Jun 2023 11:25:00 GMT</pubDate>
+      <description>Branding · Packaging — Amsterdam, The Netherlands. https://smorgasbord.studio</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

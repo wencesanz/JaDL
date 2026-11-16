@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Pamplona · Just a Design List</title>
+    <link>https://justadesignlist.com/city/pamplona</link>
+    <description>New additions to Just a Design List: design studios in Pamplona.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Aug 2026 14:27:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/pamplona.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bonita</title>
+      <link>https://justadesignlist.com/studio/bonita</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/bonita</guid>
+      <pubDate>Fri, 28 Aug 2026 14:27:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Pamplona, Spain. https://www.bonitaestudio.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Silencio</title>
+      <link>https://justadesignlist.com/studio/silencio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/silencio</guid>
+      <pubDate>Tue, 07 Jul 2026 07:53:00 GMT</pubDate>
+      <description>Interactive/Digital — Pamplona, Spain. https://silencio.es/</description>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Flat</title>
+      <link>https://justadesignlist.com/studio/flat</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/flat</guid>
+      <pubDate>Sat, 03 Jun 2023 17:42:00 GMT</pubDate>
+      <description>Branding · Packaging — Pamplona, Spain. https://www.flatbrands.com/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Errea</title>
+      <link>https://justadesignlist.com/studio/errea</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/errea</guid>
+      <pubDate>Wed, 31 May 2023 11:08:00 GMT</pubDate>
+      <description>Graphic Design · Typography — Pamplona, Spain. https://www.somoserrea.es/</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+    </item>
+  </channel>
+</rss>

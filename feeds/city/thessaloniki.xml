@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Thessaloniki · Just a Design List</title>
+    <link>https://justadesignlist.com/city/thessaloniki</link>
+    <description>New additions to Just a Design List: design studios in Thessaloniki.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Aug 2026 11:08:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/thessaloniki.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>R255</title>
+      <link>https://justadesignlist.com/studio/r255</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/r255</guid>
+      <pubDate>Thu, 06 Aug 2026 11:08:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Illustration · Packaging · Motion · Interactive/Digital — Thessaloniki, Greece. https://r255.gr</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Illustration</category>
+      <category>Packaging</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Semiotik Design Agency SDA</title>
+      <link>https://justadesignlist.com/studio/semiotik-design-agency-sda</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/semiotik-design-agency-sda</guid>
+      <pubDate>Tue, 30 May 2023 13:02:00 GMT</pubDate>
+      <description>Interactive/Digital · Branding · Graphic Design — Thessaloniki, Greece. https://www.semiotikdesign.com/</description>
+      <category>Interactive/Digital</category>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Post-Spectacular Office</title>
+      <link>https://justadesignlist.com/studio/post-spectacular-office</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/post-spectacular-office</guid>
+      <pubDate>Mon, 29 May 2023 11:35:00 GMT</pubDate>
+      <description>Graphic Design · Branding — Thessaloniki, Greece. https://p-so.gr/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

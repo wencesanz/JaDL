@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Bali · Just a Design List</title>
+    <link>https://justadesignlist.com/city/bali</link>
+    <description>New additions to Just a Design List: design studios in Bali.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Jun 2026 08:51:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/bali.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bersus</title>
+      <link>https://justadesignlist.com/studio/bersus</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/bersus</guid>
+      <pubDate>Sat, 06 Jun 2026 08:51:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Bali, Indonesia. https://bersus.io/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

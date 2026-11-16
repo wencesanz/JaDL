@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Liege · Just a Design List</title>
+    <link>https://justadesignlist.com/city/liege</link>
+    <description>New additions to Just a Design List: design studios in Liege.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Oct 2026 09:46:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/liege.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>F/SPEE</title>
+      <link>https://justadesignlist.com/studio/f-spee</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/f-spee</guid>
+      <pubDate>Tue, 27 Oct 2026 09:46:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Liege, Belgium. https://fspee.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

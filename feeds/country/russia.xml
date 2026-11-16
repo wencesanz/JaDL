@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Russia · Just a Design List</title>
+    <link>https://justadesignlist.com/country/russia</link>
+    <description>New additions to Just a Design List: design studios in Russia.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Sep 2026 11:28:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/country/russia.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comence</title>
+      <link>https://justadesignlist.com/studio/comence</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/comence</guid>
+      <pubDate>Tue, 01 Sep 2026 11:28:00 GMT</pubDate>
+      <description>Branding · Packaging · Interactive/Digital · Graphic Design — St. Petersburg, Russia. https://comence.ru/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Facultative Works</title>
+      <link>https://justadesignlist.com/studio/facultative-works</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/facultative-works</guid>
+      <pubDate>Mon, 29 May 2023 15:55:00 GMT</pubDate>
+      <description>Graphic Design — St. Petersburg, Russia. https://facultative.works/</description>
+      <category>Graphic Design</category>
+    </item>
+  </channel>
+</rss>

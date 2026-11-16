@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Aarhus · Just a Design List</title>
+    <link>https://justadesignlist.com/city/aarhus</link>
+    <description>New additions to Just a Design List: design studios in Aarhus.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Apr 2025 08:57:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/aarhus.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Overtone ®</title>
+      <link>https://justadesignlist.com/studio/overtone</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/overtone</guid>
+      <pubDate>Wed, 16 Apr 2025 08:57:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Typography · Motion — Aarhus, Denmark. https://overtone.dk/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>Norgram</title>
+      <link>https://justadesignlist.com/studio/norgram</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/norgram</guid>
+      <pubDate>Fri, 23 Jun 2023 10:34:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Copenhagen, Denmark. https://www.norgram.co/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Make</title>
+      <link>https://justadesignlist.com/studio/make</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/make</guid>
+      <pubDate>Fri, 02 Jun 2023 10:38:00 GMT</pubDate>
+      <description>Branding — Aarhus, Denmark. https://make.dk/</description>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>Hello Monday</title>
+      <link>https://justadesignlist.com/studio/hello-monday</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/hello-monday</guid>
+      <pubDate>Thu, 01 Jun 2023 15:18:00 GMT</pubDate>
+      <description>Branding — New York, USA. https://www.hellomonday.com/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

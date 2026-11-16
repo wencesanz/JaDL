@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Hannover · Just a Design List</title>
+    <link>https://justadesignlist.com/city/hannover</link>
+    <description>New additions to Just a Design List: design studios in Hannover.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jun 2023 13:59:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/hannover.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bureau Hardy Seiler</title>
+      <link>https://justadesignlist.com/studio/bureau-hardy-seiler</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/bureau-hardy-seiler</guid>
+      <pubDate>Thu, 01 Jun 2023 13:59:00 GMT</pubDate>
+      <description>Graphic Design — Hannover, Germany. https://hardyseiler.de/</description>
+      <category>Graphic Design</category>
+    </item>
+  </channel>
+</rss>

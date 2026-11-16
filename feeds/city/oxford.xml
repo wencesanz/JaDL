@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Oxford · Just a Design List</title>
+    <link>https://justadesignlist.com/city/oxford</link>
+    <description>New additions to Just a Design List: design studios in Oxford.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 May 2023 08:04:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/oxford.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Berliner Benson</title>
+      <link>https://justadesignlist.com/studio/berliner-benson</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/berliner-benson</guid>
+      <pubDate>Wed, 31 May 2023 08:04:00 GMT</pubDate>
+      <description>Branding — New York, USA. https://www.berlinerbenson.com/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

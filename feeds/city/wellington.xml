@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Wellington · Just a Design List</title>
+    <link>https://justadesignlist.com/city/wellington</link>
+    <description>New additions to Just a Design List: design studios in Wellington.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Jul 2026 08:07:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/wellington.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Semper Semper™</title>
+      <link>https://justadesignlist.com/studio/semper-semper</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/semper-semper</guid>
+      <pubDate>Tue, 21 Jul 2026 08:07:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Wellington, New Zealand. https://www.sempersemper.studio/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Grafik</title>
+      <link>https://justadesignlist.com/studio/grafik</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/grafik</guid>
+      <pubDate>Mon, 29 May 2023 15:50:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Wellington, New Zealand. https://grafik.co.nz/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

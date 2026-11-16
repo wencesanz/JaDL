@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Randstad · Just a Design List</title>
+    <link>https://justadesignlist.com/city/randstad</link>
+    <description>New additions to Just a Design List: design studios in Randstad.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 May 2023 12:46:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/randstad.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Studio Paul Bergman</title>
+      <link>https://justadesignlist.com/studio/studio-paul-bergman</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-paul-bergman</guid>
+      <pubDate>Tue, 30 May 2023 12:46:00 GMT</pubDate>
+      <description>Branding — Randstad, The Netherlands. https://www.paulbergman.nl/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

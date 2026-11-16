@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Mar del Plata · Just a Design List</title>
+    <link>https://justadesignlist.com/city/mar-del-plata</link>
+    <description>New additions to Just a Design List: design studios in Mar del Plata.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Oct 2026 08:42:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/mar-del-plata.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Boostep</title>
+      <link>https://justadesignlist.com/studio/boostep</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/boostep</guid>
+      <pubDate>Mon, 26 Oct 2026 08:42:00 GMT</pubDate>
+      <description>Industrial Design — Mar del Plata, Argentina. https://boostep.co/</description>
+      <category>Industrial Design</category>
+    </item>
+  </channel>
+</rss>

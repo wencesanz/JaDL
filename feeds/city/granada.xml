@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Granada · Just a Design List</title>
+    <link>https://justadesignlist.com/city/granada</link>
+    <description>New additions to Just a Design List: design studios in Granada.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jun 2026 13:23:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/granada.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Squembri</title>
+      <link>https://justadesignlist.com/studio/squembri</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/squembri</guid>
+      <pubDate>Mon, 01 Jun 2026 13:23:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Illustration · Packaging — Málaga, Spain. https://www.squembri.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Illustration</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

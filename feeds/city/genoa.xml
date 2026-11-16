@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Genoa · Just a Design List</title>
+    <link>https://justadesignlist.com/city/genoa</link>
+    <description>New additions to Just a Design List: design studios in Genoa.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Jun 2023 17:01:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/genoa.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Artiva Design</title>
+      <link>https://justadesignlist.com/studio/artiva-design</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/artiva-design</guid>
+      <pubDate>Fri, 02 Jun 2023 17:01:00 GMT</pubDate>
+      <description>Graphic Design · Branding — Genoa, Italy. https://www.artiva.it/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

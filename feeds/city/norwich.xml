@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Norwich · Just a Design List</title>
+    <link>https://justadesignlist.com/city/norwich</link>
+    <description>New additions to Just a Design List: design studios in Norwich.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Jun 2026 09:52:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/norwich.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Brad Mead</title>
+      <link>https://justadesignlist.com/studio/brad-mead</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/brad-mead</guid>
+      <pubDate>Fri, 05 Jun 2026 09:52:00 GMT</pubDate>
+      <description>Graphic Design · Typography — Norwich, England. https://bradmead.com/</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Studio Miko</title>
+      <link>https://justadesignlist.com/studio/studio-miko</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-miko</guid>
+      <pubDate>Mon, 11 May 2026 12:52:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Motion — Norwich, England. https://studiomiko.co.uk/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>Maddison Graphic</title>
+      <link>https://justadesignlist.com/studio/maddison-graphic</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/maddison-graphic</guid>
+      <pubDate>Fri, 02 Jun 2023 17:17:00 GMT</pubDate>
+      <description>Graphic Design — Norwich, England. https://www.maddisongraphic.com/</description>
+      <category>Graphic Design</category>
+    </item>
+  </channel>
+</rss>

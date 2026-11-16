@@ -165,7 +165,48 @@ function hubSnapshot(kind, rows) {
   return `<div class="page" data-screen-label="collectionHub"><main class="view wrap"><header><p>Browse</p><h1>${htmlEsc(cfg.labelPlural)}</h1><p>${rows.length} ${cfg.labelPlural.toLowerCase()} represented across the index.</p></header><ul>${items}</ul></main></div>`;
 }
 
-function renderPage(template, { title, desc, url, robots, jsonld, snapshot, image }) {
+// RSS per collection: the latest additions in that city/country/region/
+// discipline, linking to each studio's page on the list. Dates come from the
+// data only, so a feed changes only when its studios do.
+const FEED_SIZE = 30;
+const xmlEsc = (v) => String(v || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+function feedFor(kind, value, slug, group) {
+  const cfg = KINDS[kind];
+  const time = (s) => new Date(s.created || s.edited || 0).getTime() || 0;
+  const recent = [...group].sort((a, b) => time(b) - time(a) || String(a.name).localeCompare(String(b.name))).slice(0, FEED_SIZE);
+  const page = `${SITE_BASE}/${cfg.singular}/${slug}`;
+  const self = `${SITE_BASE}/feeds/${cfg.singular}/${slug}.xml`;
+  const newest = recent.length ? new Date(time(recent[0])).toUTCString() : new Date(0).toUTCString();
+  const where = kind === 'discipline' ? `${value} studios` : `Design studios in ${value}`;
+  const items = recent.map((s) => {
+    const url = `${SITE_BASE}/studio/${studioSlug(s, ALL)}`;
+    const cats = String(s.category || '').split(',').map((x) => x.trim()).filter(Boolean);
+    const loc = [String(s.city || '').split(',')[0].trim(), String(s.country || '').split(',')[0].trim()].filter(Boolean).join(', ');
+    return `    <item>
+      <title>${xmlEsc(s.name)}</title>
+      <link>${xmlEsc(url)}</link>
+      <guid isPermaLink="true">${xmlEsc(url)}</guid>
+      <pubDate>${new Date(time(s)).toUTCString()}</pubDate>
+      <description>${xmlEsc(`${cats.join(' · ')}${loc ? ' — ' + loc : ''}.${s.url ? ' ' + s.url : ''}`)}</description>
+${cats.map((c) => `      <category>${xmlEsc(c)}</category>`).join('\n')}
+    </item>`;
+  }).join('\n');
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>${xmlEsc(where)} · Just a Design List</title>
+    <link>${xmlEsc(page)}</link>
+    <description>${xmlEsc(`New additions to Just a Design List: ${where.toLowerCase().startsWith('design') ? where.charAt(0).toLowerCase() + where.slice(1) : where}.`)}</description>
+    <language>en</language>
+    <lastBuildDate>${newest}</lastBuildDate>
+    <atom:link href="${xmlEsc(self)}" rel="self" type="application/rss+xml"/>
+${items}
+  </channel>
+</rss>
+`;
+}
+
+function renderPage(template, { title, desc, url, robots, jsonld, snapshot, image, feed }) {
   let html = template;
   const repl = (re, out) => { html = html.replace(re, out); };
   repl(/<title>[\s\S]*?<\/title>/, `<title>${htmlEsc(title)}</title>`);
@@ -182,7 +223,7 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot, imag
     repl(/(<meta name="twitter:image" content=")[^"]*(">)/, `$1${attrEsc(image)}$2`);
   }
   // Inject robots (thin pages) + JSON-LD before </head>.
-  const head = `${robots ? `<meta name="robots" content="${robots}">\n` : ''}${ldScripts(jsonld)}\n</head>`;
+  const head = `${robots ? `<meta name="robots" content="${robots}">\n` : ''}${feed ? `<link rel="alternate" type="application/rss+xml" title="${attrEsc(feed.title)}" href="${attrEsc(feed.href)}">\n` : ''}${ldScripts(jsonld)}\n</head>`;
   html = html.replace(/<\/head>/, head);
   // Swap the template's #root snapshot for this page's snapshot.
   html = html.replace(
@@ -221,6 +262,8 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot, imag
     // ---- leaf pages ----
     await rm(cfg.singular, { recursive: true, force: true });
     await mkdir(cfg.singular, { recursive: true });
+    await rm(`feeds/${cfg.singular}`, { recursive: true, force: true });
+    await mkdir(`feeds/${cfg.singular}`, { recursive: true });
     const seen = new Set();
     for (const [value, group] of rows) {
       const slug = slugify(value);
@@ -239,7 +282,9 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot, imag
           breadcrumbLd([['Home', SITE_BASE + '/'], [cfg.labelPlural, `${SITE_BASE}/${cfg.plural}`], [value, url]]),
         ],
         snapshot: leafSnapshot(kind, value, sorted, copy),
+        feed: { title: `${copy.h1} · Just a Design List`, href: `/feeds/${cfg.singular}/${slug}.xml` },
       }), 'utf8');
+      await writeFile(`feeds/${cfg.singular}/${slug}.xml`, feedFor(kind, value, slug, group), 'utf8');
       leaves++;
       if (indexable) sitemapUrls.push({ path: `${cfg.singular}/${slug}`, priority: '0.6', lastmod: lastEdited(group) });
       else thin++;

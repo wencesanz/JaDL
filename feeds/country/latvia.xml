@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Latvia · Just a Design List</title>
+    <link>https://justadesignlist.com/country/latvia</link>
+    <description>New additions to Just a Design List: design studios in Latvia.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Oct 2026 15:49:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/country/latvia.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Asketic</title>
+      <link>https://justadesignlist.com/studio/asketic</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/asketic</guid>
+      <pubDate>Mon, 19 Oct 2026 15:49:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Motion · Interactive/Digital — Riga, Latvia. https://asketic.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>KID Design</title>
+      <link>https://justadesignlist.com/studio/kid-design</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/kid-design</guid>
+      <pubDate>Mon, 10 Aug 2026 14:41:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Illustration · Interactive/Digital — Riga, Latvia. https://www.kiddesign.lv/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Illustration</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Gramática</title>
+      <link>https://justadesignlist.com/studio/gramatica</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/gramatica</guid>
+      <pubDate>Fri, 22 Nov 2024 09:28:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Advertising/Campaigns · Interactive/Digital — London, England. https://www.gramatica.studio/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Advertising/Campaigns</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

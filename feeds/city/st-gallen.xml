@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in St.Gallen · Just a Design List</title>
+    <link>https://justadesignlist.com/city/st-gallen</link>
+    <description>New additions to Just a Design List: design studios in St.Gallen.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Aug 2026 14:37:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/st-gallen.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Die Gestalter</title>
+      <link>https://justadesignlist.com/studio/die-gestalter</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/die-gestalter</guid>
+      <pubDate>Fri, 21 Aug 2026 14:37:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — St.Gallen, Switzerland. https://gestalter.ch/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Bureau Collective</title>
+      <link>https://justadesignlist.com/studio/bureau-collective</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/bureau-collective</guid>
+      <pubDate>Thu, 01 Jun 2023 12:19:00 GMT</pubDate>
+      <description>Graphic Design — St.Gallen, Switzerland. https://www.bureaucollective.ch/</description>
+      <category>Graphic Design</category>
+    </item>
+  </channel>
+</rss>

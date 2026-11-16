@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Antwerp · Just a Design List</title>
+    <link>https://justadesignlist.com/city/antwerp</link>
+    <description>New additions to Just a Design List: design studios in Antwerp.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Sep 2026 13:29:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/antwerp.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ssnn</title>
+      <link>https://justadesignlist.com/studio/ssnn</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/ssnn</guid>
+      <pubDate>Tue, 22 Sep 2026 13:29:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital · Typography — Antwerp, Belgium. https://ssnn.be/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>SKINN</title>
+      <link>https://justadesignlist.com/studio/skinn</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/skinn</guid>
+      <pubDate>Thu, 30 Jul 2026 10:18:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Packaging — Antwerp, Belgium. https://www.skinn.agency/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>WeWantMore</title>
+      <link>https://justadesignlist.com/studio/wewantmore</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/wewantmore</guid>
+      <pubDate>Wed, 15 Jul 2026 06:41:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Motion · Packaging — Antwerp, Belgium. https://wewantmore.studio/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Motion</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Celta</title>
+      <link>https://justadesignlist.com/studio/celta</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/celta</guid>
+      <pubDate>Mon, 11 May 2026 09:03:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging · Motion — Antwerp, Belgium. https://celta.be/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>FCKLCK STUDIO</title>
+      <link>https://justadesignlist.com/studio/fcklck-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/fcklck-studio</guid>
+      <pubDate>Sat, 10 Jun 2023 08:41:00 GMT</pubDate>
+      <description>Branding · Packaging — Amsterdam, The Netherlands. https://fcklck.studio/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Vrints-Kolsteren</title>
+      <link>https://justadesignlist.com/studio/vrints-kolsteren</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/vrints-kolsteren</guid>
+      <pubDate>Tue, 30 May 2023 13:37:00 GMT</pubDate>
+      <description>Branding · Packaging — Antwerp, Belgium. https://www.vrints-kolsteren.com/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Specht Studio</title>
+      <link>https://justadesignlist.com/studio/specht-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/specht-studio</guid>
+      <pubDate>Mon, 29 May 2023 15:26:00 GMT</pubDate>
+      <description>Graphic Design — Antwerp, Belgium. https://stephaniespecht.com/</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Ward Heirwegh</title>
+      <link>https://justadesignlist.com/studio/ward-heirwegh</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/ward-heirwegh</guid>
+      <pubDate>Mon, 29 May 2023 15:16:00 GMT</pubDate>
+      <description>Graphic Design — Antwerp, Belgium. https://www.wardheirwegh.com/</description>
+      <category>Graphic Design</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Winchester · Just a Design List</title>
+    <link>https://justadesignlist.com/city/winchester</link>
+    <description>New additions to Just a Design List: design studios in Winchester.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Jun 2023 10:42:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/winchester.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Olly Moss</title>
+      <link>https://justadesignlist.com/studio/olly-moss</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/olly-moss</guid>
+      <pubDate>Fri, 02 Jun 2023 10:42:00 GMT</pubDate>
+      <description>Graphic Design · Illustration — Winchester, England. https://ollymoss.com/</description>
+      <category>Graphic Design</category>
+      <category>Illustration</category>
+    </item>
+  </channel>
+</rss>

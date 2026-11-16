@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Bournemouth · Just a Design List</title>
+    <link>https://justadesignlist.com/city/bournemouth</link>
+    <description>New additions to Just a Design List: design studios in Bournemouth.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Aug 2026 14:15:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/bournemouth.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MEGA</title>
+      <link>https://justadesignlist.com/studio/mega</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/mega</guid>
+      <pubDate>Thu, 13 Aug 2026 14:15:00 GMT</pubDate>
+      <description>Branding — Bournemouth, England. https://mega.agency/</description>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>Parent</title>
+      <link>https://justadesignlist.com/studio/parent</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/parent</guid>
+      <pubDate>Thu, 01 Jun 2023 11:28:00 GMT</pubDate>
+      <description>Branding — Bournemouth, England. https://www.madebyparent.com/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

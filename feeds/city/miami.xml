@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Miami · Just a Design List</title>
+    <link>https://justadesignlist.com/city/miami</link>
+    <description>New additions to Just a Design List: design studios in Miami.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Sep 2026 12:51:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/miami.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Future Forward</title>
+      <link>https://justadesignlist.com/studio/the-future-forward</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/the-future-forward</guid>
+      <pubDate>Wed, 23 Sep 2026 12:51:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — New York, USA. https://thefutureforward.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>New Studio</title>
+      <link>https://justadesignlist.com/studio/new-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/new-studio</guid>
+      <pubDate>Sun, 26 Jul 2026 10:50:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — New York, USA. https://newstudio.studio</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>CO OP</title>
+      <link>https://justadesignlist.com/studio/co-op</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/co-op</guid>
+      <pubDate>Tue, 15 Oct 2024 10:49:00 GMT</pubDate>
+      <description>Branding — New York, USA. https://coopbrand.co/</description>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>firma</title>
+      <link>https://justadesignlist.com/studio/firma</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/firma</guid>
+      <pubDate>Sat, 03 Jun 2023 17:44:00 GMT</pubDate>
+      <description>Branding — Barcelona, Spain. https://www.wearefirma.com/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

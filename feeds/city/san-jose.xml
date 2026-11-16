@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in San Jose · Just a Design List</title>
+    <link>https://justadesignlist.com/city/san-jose</link>
+    <description>New additions to Just a Design List: design studios in San Jose.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Aug 2026 06:31:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/san-jose.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LDLR</title>
+      <link>https://justadesignlist.com/studio/ldlr</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/ldlr</guid>
+      <pubDate>Sat, 01 Aug 2026 06:31:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Illustration · Typography — San Jose, USA. https://ldlr.design/portfolio</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Illustration</category>
+      <category>Typography</category>
+    </item>
+  </channel>
+</rss>

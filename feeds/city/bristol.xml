@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Bristol · Just a Design List</title>
+    <link>https://justadesignlist.com/city/bristol</link>
+    <description>New additions to Just a Design List: design studios in Bristol.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Jul 2026 14:17:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/bristol.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jamie Quantrill</title>
+      <link>https://justadesignlist.com/studio/jamie-quantrill</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/jamie-quantrill</guid>
+      <pubDate>Sun, 12 Jul 2026 14:17:00 GMT</pubDate>
+      <description>Branding · Motion · Interactive/Digital — Bristol, England. https://www.jamiequantrill.co.uk/</description>
+      <category>Branding</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Monday Nights</title>
+      <link>https://justadesignlist.com/studio/monday-nights</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/monday-nights</guid>
+      <pubDate>Thu, 21 May 2026 10:43:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Motion · Interactive/Digital · Typography — London, England. https://mondaynights.co/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+    </item>
+  </channel>
+</rss>

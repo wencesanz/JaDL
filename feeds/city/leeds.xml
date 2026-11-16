@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Leeds · Just a Design List</title>
+    <link>https://justadesignlist.com/city/leeds</link>
+    <description>New additions to Just a Design List: design studios in Leeds.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Oct 2026 07:05:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/leeds.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OTTO Creative Studio</title>
+      <link>https://justadesignlist.com/studio/otto-creative-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/otto-creative-studio</guid>
+      <pubDate>Thu, 08 Oct 2026 07:05:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Advertising/Campaigns · Packaging · Motion · Interactive/Digital — Leeds, England. https://www.ottostudio.co.uk/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Advertising/Campaigns</category>
+      <category>Packaging</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Rabbithole</title>
+      <link>https://justadesignlist.com/studio/rabbithole</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/rabbithole</guid>
+      <pubDate>Thu, 13 Aug 2026 14:12:00 GMT</pubDate>
+      <description>Branding · Graphic Design — Leeds, England. https://rabbithole.co.uk/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>GIRL</title>
+      <link>https://justadesignlist.com/studio/girl</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/girl</guid>
+      <pubDate>Fri, 21 Feb 2025 11:44:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Leeds, England. https://www.girl.studio/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Studio.Build</title>
+      <link>https://justadesignlist.com/studio/studio-build</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-build</guid>
+      <pubDate>Thu, 01 Jun 2023 15:28:00 GMT</pubDate>
+      <description>Graphic Design · Branding — Leeds, England. https://www.studio.build/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

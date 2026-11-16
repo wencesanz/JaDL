@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in St. Louis · Just a Design List</title>
+    <link>https://justadesignlist.com/city/st-louis</link>
+    <description>New additions to Just a Design List: design studios in St. Louis.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Aug 2026 05:54:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/st-louis.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kiku Obata &amp; Company</title>
+      <link>https://justadesignlist.com/studio/kiku-obata-and-company</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/kiku-obata-and-company</guid>
+      <pubDate>Wed, 26 Aug 2026 05:54:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging · Advertising/Campaigns — St. Louis, USA. https://kikuobata.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Anaheim · Just a Design List</title>
+    <link>https://justadesignlist.com/city/anaheim</link>
+    <description>New additions to Just a Design List: design studios in Anaheim.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Oct 2024 16:54:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/anaheim.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hoodzpah</title>
+      <link>https://justadesignlist.com/studio/hoodzpah</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/hoodzpah</guid>
+      <pubDate>Mon, 28 Oct 2024 16:54:00 GMT</pubDate>
+      <description>Branding · Typography — Anaheim, USA. https://hoodzpahdesign.com/</description>
+      <category>Branding</category>
+      <category>Typography</category>
+    </item>
+  </channel>
+</rss>

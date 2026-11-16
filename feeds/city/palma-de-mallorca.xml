@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Palma de Mallorca · Just a Design List</title>
+    <link>https://justadesignlist.com/city/palma-de-mallorca</link>
+    <description>New additions to Just a Design List: design studios in Palma de Mallorca.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Sep 2026 12:38:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/palma-de-mallorca.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Prado</title>
+      <link>https://justadesignlist.com/studio/prado</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/prado</guid>
+      <pubDate>Wed, 02 Sep 2026 12:38:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Interactive/Digital — Palma de Mallorca, Spain. https://www.antonio-prado.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Atlas</title>
+      <link>https://justadesignlist.com/studio/atlas</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/atlas</guid>
+      <pubDate>Thu, 20 Aug 2026 08:14:00 GMT</pubDate>
+      <description>Branding · Graphic Design — Palma de Mallorca, Spain. https://designbyatlas.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Positive Studio</title>
+      <link>https://justadesignlist.com/studio/positive-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/positive-studio</guid>
+      <pubDate>Thu, 16 Jul 2026 08:26:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Motion — Palma de Mallorca, Spain. https://bypositive.es/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>Raíz Studio</title>
+      <link>https://justadesignlist.com/studio/raiz-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/raiz-studio</guid>
+      <pubDate>Wed, 24 Jun 2026 05:46:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — Palma de Mallorca, Spain. https://raizstudio.es/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

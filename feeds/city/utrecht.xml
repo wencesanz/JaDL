@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Utrecht · Just a Design List</title>
+    <link>https://justadesignlist.com/city/utrecht</link>
+    <description>New additions to Just a Design List: design studios in Utrecht.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Jul 2026 07:20:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/utrecht.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>RapZoomers</title>
+      <link>https://justadesignlist.com/studio/rapzoomers</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/rapzoomers</guid>
+      <pubDate>Wed, 29 Jul 2026 07:20:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Motion · Interactive/Digital — Utrecht, The Netherlands. https://www.rapzoomers.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Paseo</title>
+      <link>https://justadesignlist.com/studio/paseo</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/paseo</guid>
+      <pubDate>Thu, 15 Jun 2023 10:26:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Madrid, Spain. https://paseo.studio/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Nica Nel</title>
+      <link>https://justadesignlist.com/studio/nica-nel</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/nica-nel</guid>
+      <pubDate>Tue, 30 May 2023 13:08:00 GMT</pubDate>
+      <description>Graphic Design — Utrecht, The Netherlands. https://nicanel.tumblr.com/</description>
+      <category>Graphic Design</category>
+    </item>
+  </channel>
+</rss>

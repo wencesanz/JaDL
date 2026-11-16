@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Bonn · Just a Design List</title>
+    <link>https://justadesignlist.com/city/bonn</link>
+    <description>New additions to Just a Design List: design studios in Bonn.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Dec 2024 08:40:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/bonn.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bakken &amp; Baeck</title>
+      <link>https://justadesignlist.com/studio/bakken-and-baeck</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/bakken-and-baeck</guid>
+      <pubDate>Wed, 18 Dec 2024 08:40:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Oslo, Norway. https://bakkenbaeck.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

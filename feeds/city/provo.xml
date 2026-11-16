@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Provo · Just a Design List</title>
+    <link>https://justadesignlist.com/city/provo</link>
+    <description>New additions to Just a Design List: design studios in Provo.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 May 2023 09:09:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/provo.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Actual Source</title>
+      <link>https://justadesignlist.com/studio/actual-source</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/actual-source</guid>
+      <pubDate>Tue, 30 May 2023 09:09:00 GMT</pubDate>
+      <description>Graphic Design — Provo, USA. https://actualsource.work/</description>
+      <category>Graphic Design</category>
+    </item>
+  </channel>
+</rss>

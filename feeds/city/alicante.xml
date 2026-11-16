@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Alicante · Just a Design List</title>
+    <link>https://justadesignlist.com/city/alicante</link>
+    <description>New additions to Just a Design List: design studios in Alicante.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Jun 2026 09:33:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/alicante.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Utopicum</title>
+      <link>https://justadesignlist.com/studio/utopicum</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/utopicum</guid>
+      <pubDate>Fri, 26 Jun 2026 09:33:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Advertising/Campaigns — Alicante, Spain. https://utopicum.es/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>FLOC*</title>
+      <link>https://justadesignlist.com/studio/floc</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/floc</guid>
+      <pubDate>Fri, 18 Oct 2024 06:56:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Alicante, Spain. https://wearefloc.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Small</title>
+      <link>https://justadesignlist.com/studio/small</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/small</guid>
+      <pubDate>Sun, 04 Jun 2023 18:15:00 GMT</pubDate>
+      <description>Branding — Alicante, Spain. https://www.wearesmall.es/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

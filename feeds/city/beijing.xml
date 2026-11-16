@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Beijing · Just a Design List</title>
+    <link>https://justadesignlist.com/city/beijing</link>
+    <description>New additions to Just a Design List: design studios in Beijing.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Oct 2026 08:38:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/beijing.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ori studio</title>
+      <link>https://justadesignlist.com/studio/ori-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/ori-studio</guid>
+      <pubDate>Fri, 23 Oct 2026 08:38:00 GMT</pubDate>
+      <description>Graphic Design — Beijing, China. https://ori.studio/</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Meat</title>
+      <link>https://justadesignlist.com/studio/meat</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/meat</guid>
+      <pubDate>Tue, 20 Jun 2023 15:07:00 GMT</pubDate>
+      <description>Branding · Packaging · Graphic Design — Toronto, Canada. https://meat.studio/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>2 x 4</title>
+      <link>https://justadesignlist.com/studio/2-x-4</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/2-x-4</guid>
+      <pubDate>Mon, 05 Jun 2023 13:46:00 GMT</pubDate>
+      <description>Branding — New York, USA. https://2x4.org/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

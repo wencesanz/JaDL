@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Monterrey · Just a Design List</title>
+    <link>https://justadesignlist.com/city/monterrey</link>
+    <description>New additions to Just a Design List: design studios in Monterrey.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Aug 2026 14:09:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/monterrey.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Monumento</title>
+      <link>https://justadesignlist.com/studio/monumento</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/monumento</guid>
+      <pubDate>Tue, 18 Aug 2026 14:09:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Packaging · Graphic Design — Monterrey, Mexico. https://monumento.co/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Anagrama</title>
+      <link>https://justadesignlist.com/studio/anagrama</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/anagrama</guid>
+      <pubDate>Fri, 02 Jun 2023 17:12:00 GMT</pubDate>
+      <description>Branding · Packaging — Mexico City, USA. https://www.anagrama.com/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Firmalt</title>
+      <link>https://justadesignlist.com/studio/firmalt</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/firmalt</guid>
+      <pubDate>Fri, 02 Jun 2023 10:39:00 GMT</pubDate>
+      <description>Branding · Packaging — Monterrey, Mexico. https://www.firmalt.com/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Parámetro Studio</title>
+      <link>https://justadesignlist.com/studio/parametro-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/parametro-studio</guid>
+      <pubDate>Tue, 30 May 2023 14:00:00 GMT</pubDate>
+      <description>Graphic Design — Monterrey, Mexico. https://parametro.studio</description>
+      <category>Graphic Design</category>
+    </item>
+  </channel>
+</rss>

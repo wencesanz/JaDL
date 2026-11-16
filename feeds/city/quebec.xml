@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Québec · Just a Design List</title>
+    <link>https://justadesignlist.com/city/quebec</link>
+    <description>New additions to Just a Design List: design studios in Québec.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Aug 2026 05:20:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/quebec.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cossette</title>
+      <link>https://justadesignlist.com/studio/cossette</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/cossette</guid>
+      <pubDate>Wed, 19 Aug 2026 05:20:00 GMT</pubDate>
+      <description>Advertising/Campaigns · Branding · Graphic Design · Interactive/Digital — Montreal, Canada. https://www.cossette.com/</description>
+      <category>Advertising/Campaigns</category>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Figure</title>
+      <link>https://justadesignlist.com/studio/figure</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/figure</guid>
+      <pubDate>Tue, 30 May 2023 13:05:00 GMT</pubDate>
+      <description>Graphic Design · Branding — Québec, Canada. https://www.figure-studio.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Genève · Just a Design List</title>
+    <link>https://justadesignlist.com/city/geneve</link>
+    <description>New additions to Just a Design List: design studios in Genève.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Sep 2026 14:33:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/geneve.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Extraset</title>
+      <link>https://justadesignlist.com/studio/extraset</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/extraset</guid>
+      <pubDate>Tue, 08 Sep 2026 14:33:00 GMT</pubDate>
+      <description>Typography — Genève, Switzerland. https://extraset.ch/</description>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Nask</title>
+      <link>https://justadesignlist.com/studio/nask</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/nask</guid>
+      <pubDate>Mon, 12 May 2025 15:53:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Typography · Interactive/Digital — Genève, Switzerland. https://www.nask.cc/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>TM</title>
+      <link>https://justadesignlist.com/studio/tm</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/tm</guid>
+      <pubDate>Fri, 11 Oct 2024 07:32:00 GMT</pubDate>
+      <description>Graphic Design — Genève, Switzerland. http://www.todeschini-mamie.ch/</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Schaffter Sahli</title>
+      <link>https://justadesignlist.com/studio/schaffter-sahli</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/schaffter-sahli</guid>
+      <pubDate>Fri, 11 Oct 2024 07:14:00 GMT</pubDate>
+      <description>Graphic Design — Genève, Switzerland. http://www.schafftersahli.com/</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Base</title>
+      <link>https://justadesignlist.com/studio/base</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/base</guid>
+      <pubDate>Mon, 05 Jun 2023 14:00:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Graphic Design · Packaging · Motion · Typography — New York, USA. https://www.basedesign.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Motion</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Marks</title>
+      <link>https://justadesignlist.com/studio/marks</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/marks</guid>
+      <pubDate>Fri, 02 Jun 2023 11:41:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Genève, Switzerland. https://marks.gr/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>For brands</title>
+      <link>https://justadesignlist.com/studio/for-brands</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/for-brands</guid>
+      <pubDate>Thu, 01 Jun 2023 13:43:00 GMT</pubDate>
+      <description>Branding — Poznan, Poland. http://forbrands.pl/</description>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>DIA</title>
+      <link>https://justadesignlist.com/studio/dia</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/dia</guid>
+      <pubDate>Thu, 01 Jun 2023 11:30:00 GMT</pubDate>
+      <description>Graphic Design · Branding — New York, USA. https://dia.tv/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>Gavillet &amp; Cie</title>
+      <link>https://justadesignlist.com/studio/gavillet-and-cie</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/gavillet-and-cie</guid>
+      <pubDate>Tue, 30 May 2023 13:46:00 GMT</pubDate>
+      <description>Graphic Design — Genève, Switzerland. https://www.gavillet-cie.com/</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Futur Neue</title>
+      <link>https://justadesignlist.com/studio/futur-neue</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/futur-neue</guid>
+      <pubDate>Tue, 30 May 2023 00:12:00 GMT</pubDate>
+      <description>Graphic Design · Typography — Genève, Switzerland. https://www.futurneue.cc/</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Cécile + Roger</title>
+      <link>https://justadesignlist.com/studio/cecile-roger</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/cecile-roger</guid>
+      <pubDate>Mon, 29 May 2023 23:50:00 GMT</pubDate>
+      <description>Graphic Design — Genève, Switzerland. https://cecile-roger.com/</description>
+      <category>Graphic Design</category>
+    </item>
+  </channel>
+</rss>

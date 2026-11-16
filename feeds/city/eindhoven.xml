@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Eindhoven · Just a Design List</title>
+    <link>https://justadesignlist.com/city/eindhoven</link>
+    <description>New additions to Just a Design List: design studios in Eindhoven.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Jul 2026 11:18:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/eindhoven.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Stuurmen</title>
+      <link>https://justadesignlist.com/studio/stuurmen</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/stuurmen</guid>
+      <pubDate>Mon, 13 Jul 2026 11:18:00 GMT</pubDate>
+      <description>Branding · Packaging · Interactive/Digital · Motion — Eindhoven, The Netherlands. https://stuur.men/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>Creneau</title>
+      <link>https://justadesignlist.com/studio/creneau</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/creneau</guid>
+      <pubDate>Sun, 10 May 2026 10:51:00 GMT</pubDate>
+      <description>Branding — Hasselt, Belgium. https://www.creneau.com/</description>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>George&amp;Harrison</title>
+      <link>https://justadesignlist.com/studio/georgeandharrison</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/georgeandharrison</guid>
+      <pubDate>Tue, 30 May 2023 00:07:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Eindhoven, The Netherlands. https://www.georgeandharrison.nl/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

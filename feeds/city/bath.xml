@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Bath · Just a Design List</title>
+    <link>https://justadesignlist.com/city/bath</link>
+    <description>New additions to Just a Design List: design studios in Bath.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Sep 2026 08:43:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/bath.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Construct London</title>
+      <link>https://justadesignlist.com/studio/construct-london</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/construct-london</guid>
+      <pubDate>Mon, 07 Sep 2026 08:43:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — London, England. https://constructlondon.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>International Magic</title>
+      <link>https://justadesignlist.com/studio/international-magic</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/international-magic</guid>
+      <pubDate>Wed, 07 Jun 2023 15:53:00 GMT</pubDate>
+      <description>Interactive/Digital — Bath, England. https://intmagic.com/</description>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

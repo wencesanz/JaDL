@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Kyiv · Just a Design List</title>
+    <link>https://justadesignlist.com/city/kyiv</link>
+    <description>New additions to Just a Design List: design studios in Kyiv.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Sep 2026 13:21:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/kyiv.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SOLV</title>
+      <link>https://justadesignlist.com/studio/solv</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/solv</guid>
+      <pubDate>Tue, 22 Sep 2026 13:21:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Advertising/Campaigns — Kyiv, Ukraine. https://www.solv.team/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>Molto Bureau</title>
+      <link>https://justadesignlist.com/studio/molto-bureau</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/molto-bureau</guid>
+      <pubDate>Tue, 11 Aug 2026 16:11:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Kyiv, Ukraine. https://moltobureau.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Daria Stetsenko</title>
+      <link>https://justadesignlist.com/studio/daria-stetsenko</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/daria-stetsenko</guid>
+      <pubDate>Tue, 14 Jul 2026 08:01:00 GMT</pubDate>
+      <description>Graphic Design — Kyiv, Ukraine. https://dariastetsenko.com/</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Reynolds &amp; Reyner</title>
+      <link>https://justadesignlist.com/studio/reynolds-and-reyner</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/reynolds-and-reyner</guid>
+      <pubDate>Tue, 30 May 2023 18:31:00 GMT</pubDate>
+      <description>Branding · Packaging — Kyiv, Ukraine. https://reynoldsandreyner.com/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

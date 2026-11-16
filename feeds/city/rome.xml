@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Rome · Just a Design List</title>
+    <link>https://justadesignlist.com/city/rome</link>
+    <description>New additions to Just a Design List: design studios in Rome.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 May 2026 07:39:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/rome.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sublimio</title>
+      <link>https://justadesignlist.com/studio/sublimio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/sublimio</guid>
+      <pubDate>Thu, 07 May 2026 07:39:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Packaging — Rome, Italy. https://www.sublimio.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Brando Corradini</title>
+      <link>https://justadesignlist.com/studio/brando-corradini</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/brando-corradini</guid>
+      <pubDate>Tue, 30 May 2023 01:15:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Typography — Rome, Italy. https://brandocorradini.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Typography</category>
+    </item>
+  </channel>
+</rss>

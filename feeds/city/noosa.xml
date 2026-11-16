@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Noosa · Just a Design List</title>
+    <link>https://justadesignlist.com/city/noosa</link>
+    <description>New additions to Just a Design List: design studios in Noosa.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Oct 2024 16:01:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/noosa.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SouthSouthWest</title>
+      <link>https://justadesignlist.com/studio/southsouthwest</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/southsouthwest</guid>
+      <pubDate>Thu, 10 Oct 2024 16:01:00 GMT</pubDate>
+      <description>Branding · Motion · Interactive/Digital — Melbourne, Australia. https://ssw.studio/</description>
+      <category>Branding</category>
+      <category>Motion</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

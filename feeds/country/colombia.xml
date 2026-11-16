@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Colombia · Just a Design List</title>
+    <link>https://justadesignlist.com/country/colombia</link>
+    <description>New additions to Just a Design List: design studios in Colombia.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 26 May 2026 06:04:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/country/colombia.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Siegenthaler &amp; Co.</title>
+      <link>https://justadesignlist.com/studio/siegenthaler-and-co</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/siegenthaler-and-co</guid>
+      <pubDate>Tue, 26 May 2026 06:04:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — Bogotá, Colombia. https://www.siegenco.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>781studio</title>
+      <link>https://justadesignlist.com/studio/781studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/781studio</guid>
+      <pubDate>Wed, 27 Nov 2024 19:44:00 GMT</pubDate>
+      <description>Branding · Packaging — Medellin, Colombia. https://www.781studio.com/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

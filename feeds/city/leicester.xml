@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Leicester · Just a Design List</title>
+    <link>https://justadesignlist.com/city/leicester</link>
+    <description>New additions to Just a Design List: design studios in Leicester.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jun 2023 14:13:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/leicester.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Six</title>
+      <link>https://justadesignlist.com/studio/six</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/six</guid>
+      <pubDate>Thu, 01 Jun 2023 14:13:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Interactive/Digital — Leicester, England. https://www.madebysix.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Moving</title>
+      <link>https://justadesignlist.com/studio/moving</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/moving</guid>
+      <pubDate>Tue, 30 May 2023 13:45:00 GMT</pubDate>
+      <description>Branding — Leicester, England. https://www.movingstudio.co.uk/</description>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

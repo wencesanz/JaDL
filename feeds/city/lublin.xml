@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Lublin · Just a Design List</title>
+    <link>https://justadesignlist.com/city/lublin</link>
+    <description>New additions to Just a Design List: design studios in Lublin.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Aug 2026 13:59:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/lublin.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dmowski&amp;Co.</title>
+      <link>https://justadesignlist.com/studio/dmowskiandco</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/dmowskiandco</guid>
+      <pubDate>Thu, 13 Aug 2026 13:59:00 GMT</pubDate>
+      <description>Branding · Packaging · Interactive/Digital — Warsaw, Poland. https://www.dmowski.co/</description>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
+  </channel>
+</rss>

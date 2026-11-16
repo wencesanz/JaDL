@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Little Rock · Just a Design List</title>
+    <link>https://justadesignlist.com/city/little-rock</link>
+    <description>New additions to Just a Design List: design studios in Little Rock.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 May 2026 11:15:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/little-rock.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Few — Digital Product Agency</title>
+      <link>https://justadesignlist.com/studio/few-digital-product-agency</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/few-digital-product-agency</guid>
+      <pubDate>Sat, 23 May 2026 11:15:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Motion · Illustration · Typography · Packaging — Little Rock, USA. https://few.io/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+      <category>Illustration</category>
+      <category>Typography</category>
+      <category>Packaging</category>
+    </item>
+  </channel>
+</rss>

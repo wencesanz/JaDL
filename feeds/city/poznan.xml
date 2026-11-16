@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Poznan · Just a Design List</title>
+    <link>https://justadesignlist.com/city/poznan</link>
+    <description>New additions to Just a Design List: design studios in Poznan.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Sep 2026 13:55:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/poznan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Turbo™</title>
+      <link>https://justadesignlist.com/studio/turbo</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/turbo</guid>
+      <pubDate>Thu, 03 Sep 2026 13:55:00 GMT</pubDate>
+      <description>Branding · Typography · Advertising/Campaigns · Graphic Design — Poznan, Poland. https://www.turbo.design/</description>
+      <category>Branding</category>
+      <category>Typography</category>
+      <category>Advertising/Campaigns</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Uniforma Studio</title>
+      <link>https://justadesignlist.com/studio/uniforma-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/uniforma-studio</guid>
+      <pubDate>Thu, 07 May 2026 10:20:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Poznan, Poland. https://uniforma.pl/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>tonik</title>
+      <link>https://justadesignlist.com/studio/tonik</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/tonik</guid>
+      <pubDate>Mon, 14 Oct 2024 08:12:00 GMT</pubDate>
+      <description>Interactive/Digital · Branding — Poznan, Poland. https://www.tonik.com/</description>
+      <category>Interactive/Digital</category>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>For brands</title>
+      <link>https://justadesignlist.com/studio/for-brands</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/for-brands</guid>
+      <pubDate>Thu, 01 Jun 2023 13:43:00 GMT</pubDate>
+      <description>Branding — Poznan, Poland. http://forbrands.pl/</description>
+      <category>Branding</category>
+    </item>
+    <item>
+      <title>Krzysztof Domaradzki</title>
+      <link>https://justadesignlist.com/studio/krzysztof-domaradzki</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/krzysztof-domaradzki</guid>
+      <pubDate>Thu, 01 Jun 2023 11:58:00 GMT</pubDate>
+      <description>Illustration · Graphic Design — Poznan, Poland. https://studiokxx.com/</description>
+      <category>Illustration</category>
+      <category>Graphic Design</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Cambridge · Just a Design List</title>
+    <link>https://justadesignlist.com/city/cambridge</link>
+    <description>New additions to Just a Design List: design studios in Cambridge.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Aug 2026 14:18:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/cambridge.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The District</title>
+      <link>https://justadesignlist.com/studio/the-district</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/the-district</guid>
+      <pubDate>Wed, 12 Aug 2026 14:18:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Typography · Interactive/Digital · Advertising/Campaigns — Cambridge, England. https://thedistrict.co.uk/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Typography</category>
+      <category>Interactive/Digital</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>Canefantasma</title>
+      <link>https://justadesignlist.com/studio/canefantasma</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/canefantasma</guid>
+      <pubDate>Fri, 02 Jun 2023 11:24:00 GMT</pubDate>
+      <description>Graphic Design · Branding — Cambridge, England. https://www.canefantasma.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+    </item>
+  </channel>
+</rss>

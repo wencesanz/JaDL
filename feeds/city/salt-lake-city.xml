@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design studios in Salt Lake City · Just a Design List</title>
+    <link>https://justadesignlist.com/city/salt-lake-city</link>
+    <description>New additions to Just a Design List: design studios in Salt Lake City.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Jun 2023 13:51:00 GMT</lastBuildDate>
+    <atom:link href="https://justadesignlist.com/feeds/city/salt-lake-city.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7D8</title>
+      <link>https://justadesignlist.com/studio/7d8</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/7d8</guid>
+      <pubDate>Mon, 05 Jun 2023 13:51:00 GMT</pubDate>
+      <description>Graphic Design — Salt Lake City, USA. https://7d8.co/</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Connary Fagen, Inc.</title>
+      <link>https://justadesignlist.com/studio/connary-fagen-inc</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/connary-fagen-inc</guid>
+      <pubDate>Tue, 30 May 2023 13:52:00 GMT</pubDate>
+      <description>Typography — Salt Lake City, USA. https://connary.com/</description>
+      <category>Typography</category>
+    </item>
+  </channel>
+</rss>
