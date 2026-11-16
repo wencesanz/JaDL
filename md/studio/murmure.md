@@ -1,12 +1,12 @@
 ---
 title: "Murmure — Branding, Caen, France · Just a Design List"
-description: "Murmure: branding practice based in Caen, France. The only studio from Caen, one of 83 from France on Just a Design List, added in May 2023."
+description: "Murmure: branding practice based in Caen, France. The only studio from Caen, one of 84 from France on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/murmure"
 ---
 
 # Murmure
 
-Murmure: branding practice based in Caen, France. The only studio from Caen, one of 83 from France on Just a Design List, added in May 2023.
+Murmure: branding practice based in Caen, France. The only studio from Caen, one of 84 from France on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** Caen, Paris

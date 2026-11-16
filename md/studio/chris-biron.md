@@ -1,12 +1,12 @@
 ---
 title: "Chris Biron — Interactive/Digital, Bordeaux, France · Just a Design List"
-description: "Chris Biron: interactive/digital practice based in Bordeaux, France. One of 2 studios from Bordeaux on Just a Design List, added in July 2026."
+description: "Chris Biron: interactive/digital practice based in Bordeaux, France. One of 3 studios from Bordeaux on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/chris-biron"
 ---
 
 # Chris Biron
 
-Chris Biron: interactive/digital practice based in Bordeaux, France. One of 2 studios from Bordeaux on Just a Design List, added in July 2026.
+Chris Biron: interactive/digital practice based in Bordeaux, France. One of 3 studios from Bordeaux on Just a Design List, added in July 2026.
 
 - **Discipline:** Interactive/Digital
 - **City:** Bordeaux
@@ -21,6 +21,7 @@ Chris Biron: interactive/digital practice based in Bordeaux, France. One of 2 st
 
 ## More from Bordeaux
 
+- [adaaap](https://justadesignlist.com/studio/adaaap)
 - [Plus Mûrs](https://justadesignlist.com/studio/plus-murs)
 
 ---

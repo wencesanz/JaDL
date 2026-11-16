@@ -5,8 +5,28 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 05:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:11:54 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Oleg Vishnevsky</title>
+      <link>https://lovelyfriendly.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/oleg-vishnevsky</guid>
+      <pubDate>Mon, 16 Nov 2026 11:56:00 GMT</pubDate>
+      <description>Interactive/Digital · Branding · Graphic Design — Tbilisi, Georgia.</description>
+      <category>Interactive/Digital</category>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>adaaap</title>
+      <link>https://adaaap.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/adaaap</guid>
+      <pubDate>Mon, 16 Nov 2026 09:28:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Bordeaux, France.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Michael Verze</title>
       <link>https://www.micheleverze.com/</link>
@@ -310,25 +330,6 @@
       <category>Illustration</category>
       <category>Typography</category>
       <category>Packaging</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Big Active</title>
-      <link>https://bigactive.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/big-active</guid>
-      <pubDate>Fri, 30 Oct 2026 09:49:00 GMT</pubDate>
-      <description>Graphic Design · Interactive/Digital — London, England.</description>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Kevin Hipke</title>
-      <link>https://kevinhipke.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/kevin-hipke</guid>
-      <pubDate>Thu, 29 Oct 2026 15:49:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital — London, England.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>

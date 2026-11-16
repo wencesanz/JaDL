@@ -1,12 +1,12 @@
 ---
 title: "All studios · Just a Design List"
-description: "Browse the full index of 1461 design studios and independent designers, A to Z."
+description: "Browse the full index of 1463 design studios and independent designers, A to Z."
 url: "https://justadesignlist.com/studios"
 ---
 
 The List
 
-# All 1461 studios and designers
+# All 1463 studios and designers
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China · Branding, Motion, Interactive/Digital, Typography, Packaging
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Slovenia · Paris, France · Branding, Interactive/Digital, Packaging, Motion
@@ -40,6 +40,7 @@ The List
 - [Actual Source](https://justadesignlist.com/studio/actual-source) — Provo, USA · Graphic Design
 - [Acute](https://justadesignlist.com/studio/acute) — Vienna, Austria · Branding, Graphic Design, Packaging, Interactive/Digital, Illustration, Typography
 - [AD&D](https://justadesignlist.com/studio/adandd) — Tokyo, Japan · Branding, Graphic Design, Interactive/Digital
+- [adaaap](https://justadesignlist.com/studio/adaaap) — Bordeaux, France · Branding, Graphic Design, Interactive/Digital
 - [Adam Ho, I.S.P.](https://justadesignlist.com/studio/adam-ho-i-s-p) — New York, USA · Branding, Graphic Design, Interactive/Digital
 - [Add Studio](https://justadesignlist.com/studio/add-studio) — Stockholm, Sweden · Branding
 - [Adoratorio Studio](https://justadesignlist.com/studio/adoratorio-studio) — Brescia, Italy · Amsterdam, The Netherlands · Interactive/Digital, Branding, Advertising/Campaigns
@@ -925,6 +926,7 @@ The List
 - [OK-RM](https://justadesignlist.com/studio/ok-rm) — London, England · Graphic Design
 - [OKOK Services](https://justadesignlist.com/studio/okok-services) — Amsterdam, The Netherlands · Singapore · Branding, Graphic Design, Interactive/Digital
 - [Old Friend](https://justadesignlist.com/studio/old-friend) — Portland, USA · Branding, Graphic Design
+- [Oleg Vishnevsky](https://justadesignlist.com/studio/oleg-vishnevsky) — Tbilisi, Georgia · Interactive/Digital, Branding, Graphic Design
 - [Ollo Studio](https://justadesignlist.com/studio/ollo-studio) — Madrid, Spain · Graphic Design
 - [Olly Moss](https://justadesignlist.com/studio/olly-moss) — Winchester, England · Graphic Design, Illustration
 - [OlssønBarbieri](https://justadesignlist.com/studio/olss-nbarbieri) — Oslo, Norway · Branding, Packaging

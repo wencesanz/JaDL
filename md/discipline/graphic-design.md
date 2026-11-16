@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design design studios · Just a Design List"
-description: "895 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city."
+description: "897 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Graphic Design
 
-895 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city.
+897 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city.
 
 - [(Studio) Lotta Nieminen](https://justadesignlist.com/studio/studio-lotta-nieminen) — Helsinki, Finland
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
@@ -30,6 +30,7 @@ Discipline
 - [Actual Source](https://justadesignlist.com/studio/actual-source) — Provo, USA
 - [Acute](https://justadesignlist.com/studio/acute) — Vienna, Austria
 - [AD&D](https://justadesignlist.com/studio/adandd) — Tokyo, Japan
+- [adaaap](https://justadesignlist.com/studio/adaaap) — Bordeaux, France
 - [Adam Ho, I.S.P.](https://justadesignlist.com/studio/adam-ho-i-s-p) — New York, USA
 - [Afloat](https://justadesignlist.com/studio/afloat) — Vienna, Austria
 - [AHOY](https://justadesignlist.com/studio/ahoy) — New York, Zurich, USA, Switzerland
@@ -211,7 +212,6 @@ Discipline
 - [D. Kim](https://justadesignlist.com/studio/d-kim) — San Francisco, USA
 - [Dada Projects](https://justadesignlist.com/studio/dada-projects) — London, England
 - [Daikoku Design Institute](https://justadesignlist.com/studio/daikoku-design-institute) — Los Angeles, Tokyo, USA, Japan
-- [Dan Cottrell](https://justadesignlist.com/studio/dan-cottrell) — London, Barcelona, England, Spain
 
 ---
 

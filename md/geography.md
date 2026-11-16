@@ -1,12 +1,12 @@
 ---
 title: "Geography · Just a Design List"
-description: "Where the studios are: 175 countries and 315 cities, on a world map and by region."
+description: "Where the studios are: 176 countries and 316 cities, on a world map and by region."
 url: "https://justadesignlist.com/geography"
 ---
 
 Geography
 
-# Studios across 63 countries and 315 cities
+# Studios across 64 countries and 316 cities
 
 ## Regions
 
@@ -15,8 +15,8 @@ Geography
 - [North America](https://justadesignlist.com/region/north-america) (344)
 - [Nordics](https://justadesignlist.com/region/nordics) (109)
 - [Oceania](https://justadesignlist.com/region/oceania) (93)
-- [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (383)
-- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (91)
+- [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (384)
+- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (92)
 
 ## Countries
 
@@ -25,7 +25,7 @@ Geography
 - [Spain](https://justadesignlist.com/country/spain) (199)
 - [Germany](https://justadesignlist.com/country/germany) (99)
 - [Australia](https://justadesignlist.com/country/australia) (91)
-- [France](https://justadesignlist.com/country/france) (83)
+- [France](https://justadesignlist.com/country/france) (84)
 - [The Netherlands](https://justadesignlist.com/country/the-netherlands) (62)
 - [Canada](https://justadesignlist.com/country/canada) (58)
 - [Switzerland](https://justadesignlist.com/country/switzerland) (58)
@@ -71,6 +71,7 @@ Geography
 - [Slovenia](https://justadesignlist.com/country/slovenia) (2)
 - [Uruguay](https://justadesignlist.com/country/uruguay) (2)
 - [French Polynesia](https://justadesignlist.com/country/french-polynesia) (1)
+- [Georgia](https://justadesignlist.com/country/georgia) (1)
 - [Guatemala](https://justadesignlist.com/country/guatemala) (1)
 - [Israel](https://justadesignlist.com/country/israel) (1)
 - [Kazakhstan](https://justadesignlist.com/country/kazakhstan) (1)

@@ -1,6 +1,6 @@
 ---
 title: "Design studios in the rest of the world · Just a Design List"
-description: "91 independent design studios and designers based in the rest of the world, from the Just a Design List index. Browse by country, city and discipline."
+description: "92 independent design studios and designers based in the rest of the world, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/rest-of-the-world"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # Rest of the world
 
-91 independent design studios and designers based in the rest of the world, from the Just a Design List index. Browse by country, city and discipline.
+92 independent design studios and designers based in the rest of the world, from the Just a Design List index. Browse by country, city and discipline.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [++hellohello](https://justadesignlist.com/studio/hellohello) — Montevideo, Uruguay
@@ -69,6 +69,7 @@ Region
 - [Monumento](https://justadesignlist.com/studio/monumento) — Monterrey, Mexico
 - [Non-Objective](https://justadesignlist.com/studio/non-objective) — Seoul, New York, South Korea, USA
 - [NSSG](https://justadesignlist.com/studio/nssg) — Tokyo, Japan
+- [Oleg Vishnevsky](https://justadesignlist.com/studio/oleg-vishnevsky) — Tbilisi, Georgia
 - [Ordinary People](https://justadesignlist.com/studio/ordinary-people) — Seoul, New York, South Korea, USA
 - [ori studio](https://justadesignlist.com/studio/ori-studio) — Beijing, China
 - [Parámetro Studio](https://justadesignlist.com/studio/parametro-studio) — Monterrey, New York, Paris, Madrid, Mexico, USA, France, Spain

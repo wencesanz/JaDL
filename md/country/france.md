@@ -1,6 +1,6 @@
 ---
 title: "Design studios in France · Just a Design List"
-description: "83 independent design studios and practices based in France. A curated index — browse by city and discipline."
+description: "84 independent design studios and practices based in France. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/france"
 ---
 
@@ -10,9 +10,10 @@ Country
 
 # France
 
-83 independent design studios and practices based in France. A curated index — browse by city and discipline.
+84 independent design studios and practices based in France. A curated index — browse by city and discipline.
 
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
+- [adaaap](https://justadesignlist.com/studio/adaaap) — Bordeaux, France
 - [Akatre](https://justadesignlist.com/studio/akatre) — Paris, France
 - [Alexis Cros](https://justadesignlist.com/studio/alexis-cros) — Lyon, France
 - [Antoine Peltier](https://justadesignlist.com/studio/antoine-peltier) — Paris, France

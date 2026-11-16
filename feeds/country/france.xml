@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/country/france</link>
     <description>New additions to Just a Design List: design studios in France.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 07:39:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:28:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/country/france.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>adaaap</title>
+      <link>https://justadesignlist.com/studio/adaaap</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/adaaap</guid>
+      <pubDate>Mon, 16 Nov 2026 09:28:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Bordeaux, France. https://adaaap.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Lome Studio</title>
       <link>https://justadesignlist.com/studio/lome-studio</link>
@@ -299,15 +309,6 @@
       <category>Interactive/Digital</category>
       <category>Packaging</category>
       <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>Bruno</title>
-      <link>https://justadesignlist.com/studio/bruno</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/bruno</guid>
-      <pubDate>Mon, 13 Jul 2026 06:25:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital — Paris, France. https://www.bruno.co/</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>

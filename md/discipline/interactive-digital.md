@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios · Just a Design List"
-description: "717 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city."
+description: "719 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Interactive/Digital
 
-717 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city.
+719 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
@@ -29,6 +29,7 @@ Discipline
 - [ACRE](https://justadesignlist.com/studio/acre) — London, England
 - [Acute](https://justadesignlist.com/studio/acute) — Vienna, Austria
 - [AD&D](https://justadesignlist.com/studio/adandd) — Tokyo, Japan
+- [adaaap](https://justadesignlist.com/studio/adaaap) — Bordeaux, France
 - [Adam Ho, I.S.P.](https://justadesignlist.com/studio/adam-ho-i-s-p) — New York, USA
 - [Adoratorio Studio](https://justadesignlist.com/studio/adoratorio-studio) — Brescia, Amsterdam, Italy, The Netherlands
 - [Adrian Van Cooten](https://justadesignlist.com/studio/adrian-van-cooten) — London, England
@@ -211,7 +212,6 @@ Discipline
 - [ESTABLISHED.](https://justadesignlist.com/studio/established) — New York, Barcelona, USA, Spain
 - [ESTUDIO CRU](https://justadesignlist.com/studio/estudio-cru) — Rio de Janeiro, Brazil
 - [Estúdio Gole](https://justadesignlist.com/studio/estudio-gole) — Sao Paulo, Brazil
-- [Estudio Mendue](https://justadesignlist.com/studio/estudio-mendue) — Madrid, Spain
 
 ---
 

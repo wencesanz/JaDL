@@ -8,7 +8,7 @@ Browse
 
 # Cities
 
-315 cities represented across the index.
+316 cities represented across the index.
 
 - [London](https://justadesignlist.com/city/london) (194)
 - [New York](https://justadesignlist.com/city/new-york) (171)
@@ -87,6 +87,7 @@ Browse
 - [Beijing](https://justadesignlist.com/city/beijing) (3)
 - [Belfast](https://justadesignlist.com/city/belfast) (3)
 - [Bern](https://justadesignlist.com/city/bern) (3)
+- [Bordeaux](https://justadesignlist.com/city/bordeaux) (3)
 - [Brescia](https://justadesignlist.com/city/brescia) (3)
 - [Brisbane](https://justadesignlist.com/city/brisbane) (3)
 - [Denver](https://justadesignlist.com/city/denver) (3)
@@ -108,7 +109,6 @@ Browse
 - [Bath](https://justadesignlist.com/city/bath) (2)
 - [Bergen](https://justadesignlist.com/city/bergen) (2)
 - [Bilbao](https://justadesignlist.com/city/bilbao) (2)
-- [Bordeaux](https://justadesignlist.com/city/bordeaux) (2)
 - [Boston](https://justadesignlist.com/city/boston) (2)
 - [Boulder](https://justadesignlist.com/city/boulder) (2)
 - [Bournemouth](https://justadesignlist.com/city/bournemouth) (2)
@@ -305,6 +305,7 @@ Browse
 - [Taipei](https://justadesignlist.com/city/taipei) (1)
 - [Tampa](https://justadesignlist.com/city/tampa) (1)
 - [Tampere](https://justadesignlist.com/city/tampere) (1)
+- [Tbilisi](https://justadesignlist.com/city/tbilisi) (1)
 - [Tel Aviv](https://justadesignlist.com/city/tel-aviv) (1)
 - [Terrassa](https://justadesignlist.com/city/terrassa) (1)
 - [Tijuana](https://justadesignlist.com/city/tijuana) (1)

@@ -1,6 +1,6 @@
 ---
 title: "Design studios in the rest of Europe · Just a Design List"
-description: "383 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline."
+description: "384 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/rest-of-europe"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # Rest of Europe
 
-383 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline.
+384 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline.
 
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
 - [1042](https://justadesignlist.com/studio/1042) — Düsseldorf, Germany
@@ -18,6 +18,7 @@ Region
 - [2VSN Studio](https://justadesignlist.com/studio/2vsn-studio) — Brescia, Italy
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
 - [Acute](https://justadesignlist.com/studio/acute) — Vienna, Austria
+- [adaaap](https://justadesignlist.com/studio/adaaap) — Bordeaux, France
 - [Adoratorio Studio](https://justadesignlist.com/studio/adoratorio-studio) — Brescia, Amsterdam, Italy, The Netherlands
 - [Afloat](https://justadesignlist.com/studio/afloat) — Vienna, Austria
 - [AG Design Agency](https://justadesignlist.com/studio/ag-design-agency) — Athens, Greece
@@ -211,7 +212,6 @@ Region
 - [Miklós Kiss](https://justadesignlist.com/studio/miklos-kiss) — Budapest, Hungary
 - [Miles Sale](https://justadesignlist.com/studio/miles-sale) — Amsterdam, The Netherlands
 - [Moby Digg](https://justadesignlist.com/studio/moby-digg) — Munich, Germany
-- [MOIN MOTION](https://justadesignlist.com/studio/moin-motion) — Hamburg, Germany
 
 ---
 

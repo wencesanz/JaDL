@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/region/rest-of-the-world</link>
     <description>New additions to Just a Design List: design studios in Rest of the world.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:07:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:56:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/region/rest-of-the-world.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Oleg Vishnevsky</title>
+      <link>https://justadesignlist.com/studio/oleg-vishnevsky</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/oleg-vishnevsky</guid>
+      <pubDate>Mon, 16 Nov 2026 11:56:00 GMT</pubDate>
+      <description>Interactive/Digital · Branding · Graphic Design — Tbilisi, Georgia. https://lovelyfriendly.com/</description>
+      <category>Interactive/Digital</category>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
     <item>
       <title>Hispánica</title>
       <link>https://justadesignlist.com/studio/hispanica</link>
@@ -313,16 +323,6 @@
       <description>Branding · Packaging — Mexico City, Mexico. https://faena-studio.org/</description>
       <category>Branding</category>
       <category>Packaging</category>
-    </item>
-    <item>
-      <title>Indego design</title>
-      <link>https://justadesignlist.com/studio/indego-design</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/indego-design</guid>
-      <pubDate>Fri, 17 Jul 2026 07:24:00 GMT</pubDate>
-      <description>Branding · Packaging · Graphic Design — Macau, China. https://indegodesign.com/</description>
-      <category>Branding</category>
-      <category>Packaging</category>
-      <category>Graphic Design</category>
     </item>
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 ---
 title: "bleucoeur studio — Branding, Annency, France · Just a Design List"
-description: "bleucoeur studio: branding and packaging practice based in Annency, France. The only studio from Annency, one of 83 from France on Just a Design List, added in May 2026."
+description: "bleucoeur studio: branding and packaging practice based in Annency, France. The only studio from Annency, one of 84 from France on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/bleucoeur-studio"
 ---
 
 # bleucoeur studio
 
-bleucoeur studio: branding and packaging practice based in Annency, France. The only studio from Annency, one of 83 from France on Just a Design List, added in May 2026.
+bleucoeur studio: branding and packaging practice based in Annency, France. The only studio from Annency, one of 84 from France on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Packaging
 - **City:** Annency

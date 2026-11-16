@@ -1,12 +1,12 @@
 ---
 title: "Format — Branding, Vincennes, France · Just a Design List"
-description: "Format: branding, graphic design and interactive/digital practice based in Vincennes, France. The only studio from Vincennes, one of 83 from France on Just a Design List, added in July 2026."
+description: "Format: branding, graphic design and interactive/digital practice based in Vincennes, France. The only studio from Vincennes, one of 84 from France on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/format"
 ---
 
 # Format
 
-Format: branding, graphic design and interactive/digital practice based in Vincennes, France. The only studio from Vincennes, one of 83 from France on Just a Design List, added in July 2026.
+Format: branding, graphic design and interactive/digital practice based in Vincennes, France. The only studio from Vincennes, one of 84 from France on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging
 - **City:** Vincennes

@@ -1,10 +1,10 @@
 ---
 title: "Just a Design List — A curated directory of design practices"
-description: "A slow, curated index of design studios and independent designers. 1461 entries across 175 countries."
+description: "A slow, curated index of design studios and independent designers. 1463 entries across 176 countries."
 url: "https://justadesignlist.com/"
 ---
 
-# 1461 design studios and independent designers, collected without ranking.
+# 1463 design studios and independent designers, collected without ranking.
 
 A working index of studios and independent designers whose practice the editor finds worth returning to. Entries are collected slowly, without ranking, and each is kept short on purpose — a pointer, not a review. Navigate by discipline, geography, or simply read it as a list.
 
@@ -12,6 +12,8 @@ A working index of studios and independent designers whose practice the editor f
 
 ## Recent additions
 
+- [Oleg Vishnevsky](https://justadesignlist.com/studio/oleg-vishnevsky) — Tbilisi, Georgia
+- [adaaap](https://justadesignlist.com/studio/adaaap) — Bordeaux, France
 - [Michael Verze](https://justadesignlist.com/studio/michael-verze) — Sydney, Australia
 - [STUDIO WAN](https://justadesignlist.com/studio/studio-wan) — London, England
 - [Hispánica](https://justadesignlist.com/studio/hispanica) — Mexico City, Mexico
@@ -30,14 +32,12 @@ A working index of studios and independent designers whose practice the editor f
 - [Figur](https://justadesignlist.com/studio/figur) — Stockholm, Sweden
 - [Democràcia Studio](https://justadesignlist.com/studio/democracia-studio) — Valencia, Spain
 - [SYNGG](https://justadesignlist.com/studio/syngg) — Melbourne, Australia
-- [Studio Matter](https://justadesignlist.com/studio/studio-matter) — London, England
-- [From Form](https://justadesignlist.com/studio/from-form) — Rotterdam, The Netherlands
 
 ## By discipline
 
-- [Branding](https://justadesignlist.com/discipline/branding) (1164)
-- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (895)
-- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (717)
+- [Branding](https://justadesignlist.com/discipline/branding) (1166)
+- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (897)
+- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (719)
 - [Packaging](https://justadesignlist.com/discipline/packaging) (463)
 - [Motion](https://justadesignlist.com/discipline/motion) (228)
 - [Typography](https://justadesignlist.com/discipline/typography) (190)
@@ -52,8 +52,8 @@ A working index of studios and independent designers whose practice the editor f
 - [North America](https://justadesignlist.com/region/north-america) (344)
 - [Nordics](https://justadesignlist.com/region/nordics) (109)
 - [Oceania](https://justadesignlist.com/region/oceania) (93)
-- [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (383)
-- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (91)
+- [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (384)
+- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (92)
 
 ## Most represented countries
 
@@ -62,7 +62,7 @@ A working index of studios and independent designers whose practice the editor f
 - [Spain](https://justadesignlist.com/country/spain) (199)
 - [Germany](https://justadesignlist.com/country/germany) (99)
 - [Australia](https://justadesignlist.com/country/australia) (91)
-- [France](https://justadesignlist.com/country/france) (83)
+- [France](https://justadesignlist.com/country/france) (84)
 - [The Netherlands](https://justadesignlist.com/country/the-netherlands) (62)
 - [Canada](https://justadesignlist.com/country/canada) (58)
 - [Switzerland](https://justadesignlist.com/country/switzerland) (58)

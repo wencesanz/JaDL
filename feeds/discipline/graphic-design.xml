@@ -5,8 +5,28 @@
     <link>https://justadesignlist.com/discipline/graphic-design</link>
     <description>New additions to Just a Design List: Graphic Design studios.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:56:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/graphic-design.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Oleg Vishnevsky</title>
+      <link>https://justadesignlist.com/studio/oleg-vishnevsky</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/oleg-vishnevsky</guid>
+      <pubDate>Mon, 16 Nov 2026 11:56:00 GMT</pubDate>
+      <description>Interactive/Digital · Branding · Graphic Design — Tbilisi, Georgia. https://lovelyfriendly.com/</description>
+      <category>Interactive/Digital</category>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>adaaap</title>
+      <link>https://justadesignlist.com/studio/adaaap</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/adaaap</guid>
+      <pubDate>Mon, 16 Nov 2026 09:28:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — Bordeaux, France. https://adaaap.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Michael Verze</title>
       <link>https://justadesignlist.com/studio/michael-verze</link>
@@ -313,26 +333,6 @@
       <category>Graphic Design</category>
       <category>Packaging</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>House of Adjaycent</title>
-      <link>https://justadesignlist.com/studio/house-of-adjaycent</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/house-of-adjaycent</guid>
-      <pubDate>Thu, 29 Oct 2026 15:37:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Advertising/Campaigns — Singapore, Singapore. https://www.adjaycent.work/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>burkhardthauke</title>
-      <link>https://justadesignlist.com/studio/burkhardthauke</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/burkhardthauke</guid>
-      <pubDate>Thu, 29 Oct 2026 14:37:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Typography — Stuttgart, Germany. https://www.burkhardthauke.de/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Typography</category>
     </item>
   </channel>
 </rss>
