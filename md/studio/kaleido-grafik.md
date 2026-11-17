@@ -1,12 +1,12 @@
 ---
 title: "Kaleido Grafik — Interactive/Digital, London, England · Just a Design List"
-description: "Kaleido Grafik: interactive/digital, graphic design and illustration practice based in London, England. One of 194 studios from London on Just a Design List, added in November 2024."
+description: "Kaleido Grafik: interactive/digital, graphic design and illustration practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/kaleido-grafik"
 ---
 
 # Kaleido Grafik
 
-Kaleido Grafik: interactive/digital, graphic design and illustration practice based in London, England. One of 194 studios from London on Just a Design List, added in November 2024.
+Kaleido Grafik: interactive/digital, graphic design and illustration practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024.
 
 - **Discipline:** Interactive/Digital, Graphic Design, Illustration
 - **City:** London

@@ -1,12 +1,12 @@
 ---
 title: "OneLeft — Motion, London, England · Just a Design List"
-description: "OneLeft: motion practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2026."
+description: "OneLeft: motion practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/oneleft"
 ---
 
 # OneLeft
 
-OneLeft: motion practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2026.
+OneLeft: motion practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2026.
 
 - **Discipline:** Motion
 - **City:** London

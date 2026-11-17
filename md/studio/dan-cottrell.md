@@ -1,12 +1,12 @@
 ---
 title: "Dan Cottrell — Branding, London, England · Just a Design List"
-description: "Dan Cottrell: branding, graphic design and packaging practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2026."
+description: "Dan Cottrell: branding, graphic design and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/dan-cottrell"
 ---
 
 # Dan Cottrell
 
-Dan Cottrell: branding, graphic design and packaging practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2026.
+Dan Cottrell: branding, graphic design and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging
 - **City:** London, Barcelona

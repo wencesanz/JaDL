@@ -1,6 +1,6 @@
 ---
 title: "Packaging design studios · Just a Design List"
-description: "463 independent studios and designers working in packaging, collected in the Just a Design List index. Browse by country and city."
+description: "464 independent studios and designers working in packaging, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/packaging"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Packaging
 
-463 independent studios and designers working in packaging, collected in the Just a Design List index. Browse by country and city.
+464 independent studios and designers working in packaging, collected in the Just a Design List index. Browse by country and city.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
@@ -131,6 +131,7 @@ Discipline
 - [Domo-A](https://justadesignlist.com/studio/domo-a) — Barcelona, Spain
 - [DoThings](https://justadesignlist.com/studio/dothings) — New York, Los Angeles, Paris, USA, France
 - [Duane Dalton Design](https://justadesignlist.com/studio/duane-dalton-design) — London, England
+- [Dum Dum Studio ®](https://justadesignlist.com/studio/dum-dum-studio) — Monterrey, Mexico
 - [Duzi Studio](https://justadesignlist.com/studio/duzi-studio) — London, England
 - [Egg Agency](https://justadesignlist.com/studio/egg-agency) — London, England
 - [EIGA](https://justadesignlist.com/studio/eiga) — Hamburg, Germany
@@ -211,7 +212,6 @@ Discipline
 - [Ingrid Picanyol Studio](https://justadesignlist.com/studio/ingrid-picanyol-studio) — Barcelona, Spain
 - [Inhouse](https://justadesignlist.com/studio/inhouse) — Auckland, New Zealand
 - [Irradié](https://justadesignlist.com/studio/irradie) — Paris, France
-- [IRRREAL](https://justadesignlist.com/studio/irrreal) — Sao Paulo, Brazil
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "Parámetro Studio — Graphic Design, Monterrey, Mexico · Just a Design List"
-description: "Parámetro Studio: graphic design practice based in Monterrey, Mexico. One of 4 studios from Monterrey on Just a Design List, added in May 2023."
+description: "Parámetro Studio: graphic design practice based in Monterrey, Mexico. One of 5 studios from Monterrey on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/parametro-studio"
 ---
 
 # Parámetro Studio
 
-Parámetro Studio: graphic design practice based in Monterrey, Mexico. One of 4 studios from Monterrey on Just a Design List, added in May 2023.
+Parámetro Studio: graphic design practice based in Monterrey, Mexico. One of 5 studios from Monterrey on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Monterrey, New York, Paris, Madrid
@@ -22,6 +22,7 @@ Parámetro Studio: graphic design practice based in Monterrey, Mexico. One of 4 
 ## More from Monterrey
 
 - [Anagrama](https://justadesignlist.com/studio/anagrama)
+- [Dum Dum Studio ®](https://justadesignlist.com/studio/dum-dum-studio)
 - [Firmalt](https://justadesignlist.com/studio/firmalt)
 - [Monumento](https://justadesignlist.com/studio/monumento)
 

@@ -1,12 +1,12 @@
 ---
 title: "Hingston Studio — Graphic Design, London, England · Just a Design List"
-description: "Hingston Studio: graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023."
+description: "Hingston Studio: graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/hingston-studio"
 ---
 
 # Hingston Studio
 
-Hingston Studio: graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023.
+Hingston Studio: graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design
 - **City:** London

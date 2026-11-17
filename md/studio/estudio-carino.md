@@ -1,12 +1,12 @@
 ---
 title: "Estudio Cariño — Branding, Guadalajara, Mexico · Just a Design List"
-description: "Estudio Cariño: branding practice based in Guadalajara, Mexico. The only studio from Guadalajara, one of 14 from Mexico on Just a Design List, added in May 2023."
+description: "Estudio Cariño: branding practice based in Guadalajara, Mexico. The only studio from Guadalajara, one of 15 from Mexico on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/estudio-carino"
 ---
 
 # Estudio Cariño
 
-Estudio Cariño: branding practice based in Guadalajara, Mexico. The only studio from Guadalajara, one of 14 from Mexico on Just a Design List, added in May 2023.
+Estudio Cariño: branding practice based in Guadalajara, Mexico. The only studio from Guadalajara, one of 15 from Mexico on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** Guadalajara

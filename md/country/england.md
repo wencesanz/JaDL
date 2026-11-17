@@ -1,6 +1,6 @@
 ---
 title: "Design studios in England · Just a Design List"
-description: "241 independent design studios and practices based in England. A curated index — browse by city and discipline."
+description: "242 independent design studios and practices based in England. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/england"
 ---
 
@@ -10,7 +10,7 @@ Country
 
 # England
 
-241 independent design studios and practices based in England. A curated index — browse by city and discipline.
+242 independent design studios and practices based in England. A curated index — browse by city and discipline.
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England

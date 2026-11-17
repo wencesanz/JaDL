@@ -1,12 +1,12 @@
 ---
 title: "Voodoo Voodoo — Branding, London, England · Just a Design List"
-description: "Voodoo Voodoo: branding, graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2026."
+description: "Voodoo Voodoo: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/voodoo-voodoo"
 ---
 
 # Voodoo Voodoo
 
-Voodoo Voodoo: branding, graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2026.
+Voodoo Voodoo: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging, Advertising/Campaigns
 - **City:** London

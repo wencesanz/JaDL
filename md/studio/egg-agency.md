@@ -1,12 +1,12 @@
 ---
 title: "Egg Agency — Branding, London, England · Just a Design List"
-description: "Egg Agency: branding, interactive/digital and packaging practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2024."
+description: "Egg Agency: branding, interactive/digital and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/egg-agency"
 ---
 
 # Egg Agency
 
-Egg Agency: branding, interactive/digital and packaging practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2024.
+Egg Agency: branding, interactive/digital and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging
 - **City:** London

@@ -1,12 +1,12 @@
 ---
 title: "Barkas — Branding, Stockholm, Sweden · Just a Design List"
-description: "Barkas: branding practice based in Stockholm, Sweden. One of 32 studios from Copenhagen on Just a Design List, added in May 2023."
+description: "Barkas: branding practice based in Stockholm, Sweden. One of 33 studios from Copenhagen on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/barkas"
 ---
 
 # Barkas
 
-Barkas: branding practice based in Stockholm, Sweden. One of 32 studios from Copenhagen on Just a Design List, added in May 2023.
+Barkas: branding practice based in Stockholm, Sweden. One of 33 studios from Copenhagen on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** Copenhagen, Stockholm

@@ -1,12 +1,12 @@
 ---
 title: "Patrick Fry Studio — Graphic Design, London, England · Just a Design List"
-description: "Patrick Fry Studio: graphic design and branding practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2023."
+description: "Patrick Fry Studio: graphic design and branding practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/patrick-fry-studio"
 ---
 
 # Patrick Fry Studio
 
-Patrick Fry Studio: graphic design and branding practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2023.
+Patrick Fry Studio: graphic design and branding practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** London

@@ -5,8 +5,20 @@
     <link>https://justadesignlist.com/region/rest-of-the-world</link>
     <description>New additions to Just a Design List: design studios in Rest of the world.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 11:56:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 18:55:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/region/rest-of-the-world.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dum Dum Studio ®</title>
+      <link>https://justadesignlist.com/studio/dum-dum-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/dum-dum-studio</guid>
+      <pubDate>Mon, 16 Nov 2026 18:55:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Typography · Packaging · Interactive/Digital — Monterrey, Mexico. https://dumdum.studio</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Oleg Vishnevsky</title>
       <link>https://justadesignlist.com/studio/oleg-vishnevsky</link>
@@ -314,15 +326,6 @@
       <category>Interactive/Digital</category>
       <category>Motion</category>
       <category>Typography</category>
-    </item>
-    <item>
-      <title>Faena Studio</title>
-      <link>https://justadesignlist.com/studio/faena-studio</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/faena-studio</guid>
-      <pubDate>Mon, 20 Jul 2026 08:18:00 GMT</pubDate>
-      <description>Branding · Packaging — Mexico City, Mexico. https://faena-studio.org/</description>
-      <category>Branding</category>
-      <category>Packaging</category>
     </item>
   </channel>
 </rss>

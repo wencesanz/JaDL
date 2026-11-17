@@ -1,12 +1,12 @@
 ---
 title: "MB Studio — Branding, London, England · Just a Design List"
-description: "MB Studio: branding, graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2026."
+description: "MB Studio: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/mb-studio"
 ---
 
 # MB Studio
 
-MB Studio: branding, graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2026.
+MB Studio: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** London

@@ -1,12 +1,12 @@
 ---
 title: "Commission — Branding, London, England · Just a Design List"
-description: "Commission: branding, graphic design and packaging practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023."
+description: "Commission: branding, graphic design and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/commission"
 ---
 
 # Commission
 
-Commission: branding, graphic design and packaging practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023.
+Commission: branding, graphic design and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Graphic Design, Packaging
 - **City:** London

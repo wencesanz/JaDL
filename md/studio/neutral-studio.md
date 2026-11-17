@@ -1,12 +1,12 @@
 ---
 title: "Neutral Studio — Branding, London, England · Just a Design List"
-description: "Neutral Studio: branding, interactive/digital and motion practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2026."
+description: "Neutral Studio: branding, interactive/digital and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/neutral-studio"
 ---
 
 # Neutral Studio
 
-Neutral Studio: branding, interactive/digital and motion practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2026.
+Neutral Studio: branding, interactive/digital and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Motion
 - **City:** London, Manchester

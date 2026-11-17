@@ -1,6 +1,6 @@
 ---
 title: "Motion design studios · Just a Design List"
-description: "228 independent studios and designers working in motion, collected in the Just a Design List index. Browse by country and city."
+description: "229 independent studios and designers working in motion, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/motion"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Motion
 
-228 independent studios and designers working in motion, collected in the Just a Design List index. Browse by country and city.
+229 independent studios and designers working in motion, collected in the Just a Design List index. Browse by country and city.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France

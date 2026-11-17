@@ -5,8 +5,19 @@
     <link>https://justadesignlist.com/region/nordics</link>
     <description>New additions to Just a Design List: design studios in Nordics.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 07:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 18:57:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/region/nordics.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>eTypes</title>
+      <link>https://justadesignlist.com/studio/etypes</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/etypes</guid>
+      <pubDate>Mon, 16 Nov 2026 18:57:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Advertising/Campaigns · Typography — Copenhagen, Denmark. https://e-types.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Advertising/Campaigns</category>
+      <category>Typography</category>
+    </item>
     <item>
       <title>Figur</title>
       <link>https://justadesignlist.com/studio/figur</link>
@@ -303,16 +314,6 @@
       <pubDate>Mon, 11 May 2026 19:43:00 GMT</pubDate>
       <description>Typography — Stockholm, Sweden. https://nmtype.com/</description>
       <category>Typography</category>
-    </item>
-    <item>
-      <title>Commplicated.Design</title>
-      <link>https://justadesignlist.com/studio/commplicated-design</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/commplicated-design</guid>
-      <pubDate>Mon, 11 May 2026 18:21:00 GMT</pubDate>
-      <description>Interactive/Digital · Branding · Motion — Copenhagen, Denmark. https://commplicated.design/</description>
-      <category>Interactive/Digital</category>
-      <category>Branding</category>
-      <category>Motion</category>
     </item>
   </channel>
 </rss>

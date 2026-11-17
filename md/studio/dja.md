@@ -1,12 +1,12 @@
 ---
 title: "DJA — Branding, London, England · Just a Design List"
-description: "DJA: branding practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2023."
+description: "DJA: branding practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/dja"
 ---
 
 # DJA
 
-DJA: branding practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2023.
+DJA: branding practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** London

@@ -1,12 +1,12 @@
 ---
 title: "Studio C — Graphic Design, Copenhagen, Denmark · Just a Design List"
-description: "Studio C: graphic design and branding practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in May 2023."
+description: "Studio C: graphic design and branding practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/studio-c"
 ---
 
 # Studio C
 
-Studio C: graphic design and branding practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in May 2023.
+Studio C: graphic design and branding practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Copenhagen

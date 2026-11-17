@@ -1,12 +1,12 @@
 ---
 title: "Studio Banana — Branding, London, England · Just a Design List"
-description: "Studio Banana: branding and graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023."
+description: "Studio Banana: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/studio-banana"
 ---
 
 # Studio Banana
 
-Studio Banana: branding and graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023.
+Studio Banana: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** London, Lausanne, Basel, Madrid

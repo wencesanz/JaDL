@@ -1,12 +1,12 @@
 ---
 title: "Companion — Branding, London, England · Just a Design List"
-description: "Companion: branding and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2024."
+description: "Companion: branding and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/companion"
 ---
 
 # Companion
 
-Companion: branding and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2024.
+Companion: branding and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** London

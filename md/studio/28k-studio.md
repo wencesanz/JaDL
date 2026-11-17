@@ -1,12 +1,12 @@
 ---
 title: "28K Studio — Interactive/Digital, Copenhagen, Denmark · Just a Design List"
-description: "28K Studio: interactive/digital practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in June 2023."
+description: "28K Studio: interactive/digital practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/28k-studio"
 ---
 
 # 28K Studio
 
-28K Studio: interactive/digital practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in June 2023.
+28K Studio: interactive/digital practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in June 2023.
 
 - **Discipline:** Interactive/Digital
 - **City:** Copenhagen

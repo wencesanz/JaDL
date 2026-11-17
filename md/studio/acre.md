@@ -1,12 +1,12 @@
 ---
 title: "ACRE — Branding, London, England · Just a Design List"
-description: "ACRE: branding, motion and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2025."
+description: "ACRE: branding, motion and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2025."
 url: "https://justadesignlist.com/studio/acre"
 ---
 
 # ACRE
 
-ACRE: branding, motion and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2025.
+ACRE: branding, motion and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2025.
 
 - **Discipline:** Branding, Motion, Interactive/Digital
 - **City:** London

@@ -1,12 +1,12 @@
 ---
 title: "Commplicated.Design — Interactive/Digital, Copenhagen, Denmark · Just a Design List"
-description: "Commplicated.Design: interactive/digital, branding and motion practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in May 2026."
+description: "Commplicated.Design: interactive/digital, branding and motion practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/commplicated-design"
 ---
 
 # Commplicated.Design
 
-Commplicated.Design: interactive/digital, branding and motion practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in May 2026.
+Commplicated.Design: interactive/digital, branding and motion practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in May 2026.
 
 - **Discipline:** Interactive/Digital, Branding, Motion
 - **City:** Copenhagen, London

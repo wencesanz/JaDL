@@ -1,12 +1,12 @@
 ---
 title: "Office of Overview — Branding, London, England · Just a Design List"
-description: "Office of Overview: branding and graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2023."
+description: "Office of Overview: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2023."
 url: "https://justadesignlist.com/studio/office-of-overview"
 ---
 
 # Office of Overview
 
-Office of Overview: branding and graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2023.
+Office of Overview: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2023.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** London

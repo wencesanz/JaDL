@@ -1,12 +1,12 @@
 ---
 title: "PostNew — Graphic Design, London, England · Just a Design List"
-description: "PostNew: graphic design and motion practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2026."
+description: "PostNew: graphic design and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/postnew"
 ---
 
 # PostNew
 
-PostNew: graphic design and motion practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2026.
+PostNew: graphic design and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026.
 
 - **Discipline:** Graphic Design, Motion
 - **City:** London

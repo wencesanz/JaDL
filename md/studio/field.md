@@ -1,12 +1,12 @@
 ---
 title: "FIELD — Branding, London, England · Just a Design List"
-description: "FIELD: branding, interactive/digital and motion practice based in London, England. One of 194 studios from London on Just a Design List, added in September 2026."
+description: "FIELD: branding, interactive/digital and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/field"
 ---
 
 # FIELD
 
-FIELD: branding, interactive/digital and motion practice based in London, England. One of 194 studios from London on Just a Design List, added in September 2026.
+FIELD: branding, interactive/digital and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Motion
 - **City:** London, Berlin

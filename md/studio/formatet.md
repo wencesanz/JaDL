@@ -1,12 +1,12 @@
 ---
 title: "Formatet — Branding, Copenhagen, Denmark · Just a Design List"
-description: "Formatet: branding, graphic design and advertising/campaigns practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in September 2026."
+description: "Formatet: branding, graphic design and advertising/campaigns practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/formatet"
 ---
 
 # Formatet
 
-Formatet: branding, graphic design and advertising/campaigns practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in September 2026.
+Formatet: branding, graphic design and advertising/campaigns practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Advertising/Campaigns, Interactive/Digital
 - **City:** Copenhagen

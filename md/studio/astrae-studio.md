@@ -1,12 +1,12 @@
 ---
 title: "Astrae Studio — Graphic Design, Copenhagen, Denmark · Just a Design List"
-description: "Astrae Studio: graphic design, motion and interactive/digital practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in August 2026."
+description: "Astrae Studio: graphic design, motion and interactive/digital practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/astrae-studio"
 ---
 
 # Astrae Studio
 
-Astrae Studio: graphic design, motion and interactive/digital practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in August 2026.
+Astrae Studio: graphic design, motion and interactive/digital practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in August 2026.
 
 - **Discipline:** Graphic Design, Motion, Interactive/Digital, Branding
 - **City:** Copenhagen

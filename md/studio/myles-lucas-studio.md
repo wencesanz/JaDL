@@ -1,12 +1,12 @@
 ---
 title: "Myles Lucas Studio — Branding, Ramsgate, England · Just a Design List"
-description: "Myles Lucas Studio: branding, graphic design and interactive/digital practice based in Ramsgate, England. The only studio from Ramsgate, one of 241 from England on Just a Design List, added in August 2026."
+description: "Myles Lucas Studio: branding, graphic design and interactive/digital practice based in Ramsgate, England. The only studio from Ramsgate, one of 242 from England on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/myles-lucas-studio"
 ---
 
 # Myles Lucas Studio
 
-Myles Lucas Studio: branding, graphic design and interactive/digital practice based in Ramsgate, England. The only studio from Ramsgate, one of 241 from England on Just a Design List, added in August 2026.
+Myles Lucas Studio: branding, graphic design and interactive/digital practice based in Ramsgate, England. The only studio from Ramsgate, one of 242 from England on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** Ramsgate

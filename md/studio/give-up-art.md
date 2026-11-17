@@ -1,12 +1,12 @@
 ---
 title: "Give Up Art — Graphic Design, London, England · Just a Design List"
-description: "Give Up Art: graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2023."
+description: "Give Up Art: graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/give-up-art"
 ---
 
 # Give Up Art
 
-Give Up Art: graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2023.
+Give Up Art: graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** London

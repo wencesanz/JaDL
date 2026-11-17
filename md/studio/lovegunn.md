@@ -1,12 +1,12 @@
 ---
 title: "LoveGunn — Interactive/Digital, London, England · Just a Design List"
-description: "LoveGunn: interactive/digital and branding practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2023."
+description: "LoveGunn: interactive/digital and branding practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2023."
 url: "https://justadesignlist.com/studio/lovegunn"
 ---
 
 # LoveGunn
 
-LoveGunn: interactive/digital and branding practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2023.
+LoveGunn: interactive/digital and branding practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2023.
 
 - **Discipline:** Interactive/Digital, Branding
 - **City:** London

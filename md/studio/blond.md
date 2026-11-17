@@ -1,12 +1,12 @@
 ---
 title: "BLOND — Industrial Design, London, England · Just a Design List"
-description: "BLOND: industrial design, branding and packaging practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2026."
+description: "BLOND: industrial design, branding and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/blond"
 ---
 
 # BLOND
 
-BLOND: industrial design, branding and packaging practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2026.
+BLOND: industrial design, branding and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2026.
 
 - **Discipline:** Industrial Design, Branding, Packaging, Interactive/Digital
 - **City:** London

@@ -1,12 +1,12 @@
 ---
 title: "Studio Nari — Branding, London, England · Just a Design List"
-description: "Studio Nari: branding and graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2023."
+description: "Studio Nari: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/studio-nari"
 ---
 
 # Studio Nari
 
-Studio Nari: branding and graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2023.
+Studio Nari: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** London

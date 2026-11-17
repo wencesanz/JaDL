@@ -1,12 +1,12 @@
 ---
 title: "Polytechnic — Graphic Design, London, England · Just a Design List"
-description: "Polytechnic: graphic design, interactive/digital and typography practice based in London, England. One of 194 studios from London on Just a Design List, added in August 2026."
+description: "Polytechnic: graphic design, interactive/digital and typography practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/polytechnic"
 ---
 
 # Polytechnic
 
-Polytechnic: graphic design, interactive/digital and typography practice based in London, England. One of 194 studios from London on Just a Design List, added in August 2026.
+Polytechnic: graphic design, interactive/digital and typography practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Graphic Design, Interactive/Digital, Typography
 - **City:** London

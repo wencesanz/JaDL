@@ -1,6 +1,6 @@
 ---
 title: "Design studios in the Nordic countries · Just a Design List"
-description: "109 independent design studios and designers based in the Nordic countries, from the Just a Design List index. Browse by country, city and discipline."
+description: "110 independent design studios and designers based in the Nordic countries, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/nordics"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # Nordics
 
-109 independent design studios and designers based in the Nordic countries, from the Just a Design List index. Browse by country, city and discipline.
+110 independent design studios and designers based in the Nordic countries, from the Just a Design List index. Browse by country, city and discipline.
 
 - [(Studio) Lotta Nieminen](https://justadesignlist.com/studio/studio-lotta-nieminen) — Helsinki, Finland
 - [20/20](https://justadesignlist.com/studio/20-20) — Helsinki, Finland
@@ -45,6 +45,7 @@ Region
 - [Daniel Siim](https://justadesignlist.com/studio/daniel-siim) — Copenhagen, Denmark
 - [Duties Design Studio](https://justadesignlist.com/studio/duties-design-studio) — Oslo, Norway
 - [E&W Design Studio](https://justadesignlist.com/studio/eandw-design-studio) — Stockholm, Sweden
+- [eTypes](https://justadesignlist.com/studio/etypes) — Copenhagen, Denmark
 - [Everland](https://justadesignlist.com/studio/everland) — Copenhagen, Oslo, Denmark, Norway
 - [F&B Happy](https://justadesignlist.com/studio/fandb-happy) — Gothenburg, Sweden
 - [Figur](https://justadesignlist.com/studio/figur) — Stockholm, Sweden

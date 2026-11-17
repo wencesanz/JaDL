@@ -1,12 +1,12 @@
 ---
 title: "Nomis Creative — Branding, London, England · Just a Design List"
-description: "Nomis Creative: branding, graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in September 2026."
+description: "Nomis Creative: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/nomis-creative"
 ---
 
 # Nomis Creative
 
-Nomis Creative: branding, graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in September 2026.
+Nomis Creative: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** London

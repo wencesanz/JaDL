@@ -1,12 +1,12 @@
 ---
 title: "Alphabetical — Branding, London, England · Just a Design List"
-description: "Alphabetical: branding, interactive/digital and motion practice based in London, England. One of 194 studios from London on Just a Design List, added in December 2024."
+description: "Alphabetical: branding, interactive/digital and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in December 2024."
 url: "https://justadesignlist.com/studio/alphabetical"
 ---
 
 # Alphabetical
 
-Alphabetical: branding, interactive/digital and motion practice based in London, England. One of 194 studios from London on Just a Design List, added in December 2024.
+Alphabetical: branding, interactive/digital and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in December 2024.
 
 - **Discipline:** Branding, Interactive/Digital, Motion, Typography
 - **City:** London

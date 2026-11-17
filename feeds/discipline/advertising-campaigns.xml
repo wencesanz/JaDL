@@ -5,8 +5,19 @@
     <link>https://justadesignlist.com/discipline/advertising-campaigns</link>
     <description>New additions to Just a Design List: Advertising/Campaigns studios.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:07:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 18:57:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/advertising-campaigns.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>eTypes</title>
+      <link>https://justadesignlist.com/studio/etypes</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/etypes</guid>
+      <pubDate>Mon, 16 Nov 2026 18:57:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Advertising/Campaigns · Typography — Copenhagen, Denmark. https://e-types.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Advertising/Campaigns</category>
+      <category>Typography</category>
+    </item>
     <item>
       <title>Hispánica</title>
       <link>https://justadesignlist.com/studio/hispanica</link>
@@ -345,21 +356,6 @@
       <category>Graphic Design</category>
       <category>Packaging</category>
       <category>Interactive/Digital</category>
-      <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>LIT Create</title>
-      <link>https://justadesignlist.com/studio/lit-create</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/lit-create</guid>
-      <pubDate>Fri, 11 Sep 2026 10:26:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Typography · Illustration · Motion · Interactive/Digital · Packaging · Advertising/Campaigns — Berlin, Germany. https://www.litcreate.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Typography</category>
-      <category>Illustration</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
       <category>Advertising/Campaigns</category>
     </item>
   </channel>

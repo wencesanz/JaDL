@@ -5,8 +5,19 @@
     <link>https://justadesignlist.com/city/copenhagen</link>
     <description>New additions to Just a Design List: design studios in Copenhagen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 18:57:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/city/copenhagen.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>eTypes</title>
+      <link>https://justadesignlist.com/studio/etypes</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/etypes</guid>
+      <pubDate>Mon, 16 Nov 2026 18:57:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Advertising/Campaigns · Typography — Copenhagen, Denmark. https://e-types.com/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Advertising/Campaigns</category>
+      <category>Typography</category>
+    </item>
     <item>
       <title>Everland</title>
       <link>https://justadesignlist.com/studio/everland</link>
@@ -280,18 +291,6 @@
       <pubDate>Tue, 30 May 2023 00:51:00 GMT</pubDate>
       <description>Branding — New York, USA. https://www.poulsenprojects.com/</description>
       <category>Branding</category>
-    </item>
-    <item>
-      <title>Hugmun</title>
-      <link>https://justadesignlist.com/studio/hugmun</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/hugmun</guid>
-      <pubDate>Mon, 29 May 2023 15:59:00 GMT</pubDate>
-      <description>Graphic Design · Branding · Interactive/Digital · Illustration · Packaging — Copenhagen, Denmark. https://hugmun.studio/</description>
-      <category>Graphic Design</category>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-      <category>Illustration</category>
-      <category>Packaging</category>
     </item>
   </channel>
 </rss>

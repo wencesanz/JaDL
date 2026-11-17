@@ -1,12 +1,12 @@
 ---
 title: "Studio Claus Due — Graphic Design, Copenhagen, Denmark · Just a Design List"
-description: "Studio Claus Due: graphic design practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in May 2023."
+description: "Studio Claus Due: graphic design practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/studio-claus-due"
 ---
 
 # Studio Claus Due
 
-Studio Claus Due: graphic design practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in May 2023.
+Studio Claus Due: graphic design practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Copenhagen

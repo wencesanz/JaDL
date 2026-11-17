@@ -1,12 +1,12 @@
 ---
 title: "stupid studio — Interactive/Digital, Copenhagen, Denmark · Just a Design List"
-description: "stupid studio: interactive/digital and branding practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in May 2023."
+description: "stupid studio: interactive/digital and branding practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/stupid-studio"
 ---
 
 # stupid studio
 
-stupid studio: interactive/digital and branding practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in May 2023.
+stupid studio: interactive/digital and branding practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in May 2023.
 
 - **Discipline:** Interactive/Digital, Branding
 - **City:** Copenhagen, Odense

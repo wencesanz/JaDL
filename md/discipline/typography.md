@@ -1,6 +1,6 @@
 ---
 title: "Typography design studios · Just a Design List"
-description: "190 independent studios and designers working in typography, collected in the Just a Design List index. Browse by country and city."
+description: "192 independent studios and designers working in typography, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/typography"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Typography
 
-190 independent studios and designers working in typography, collected in the Just a Design List index. Browse by country and city.
+192 independent studios and designers working in typography, collected in the Just a Design List index. Browse by country and city.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -58,11 +58,13 @@ Discipline
 - [Diemling](https://justadesignlist.com/studio/diemling) — Graz, Austria
 - [Domino New York](https://justadesignlist.com/studio/domino-new-york) — New York, USA
 - [Due Studio](https://justadesignlist.com/studio/due-studio) — Perugia, Italy
+- [Dum Dum Studio ®](https://justadesignlist.com/studio/dum-dum-studio) — Monterrey, Mexico
 - [edition.studio](https://justadesignlist.com/studio/edition-studio) — New York, USA
 - [Emi Takahashi](https://justadesignlist.com/studio/emi-takahashi) — Montreal, Canada
 - [Emily Klaebe](https://justadesignlist.com/studio/emily-klaebe) — Portland, USA
 - [Eric Hu studio](https://justadesignlist.com/studio/eric-hu-studio) — New York, USA
 - [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cadiz, Madrid, Spain
+- [eTypes](https://justadesignlist.com/studio/etypes) — Copenhagen, Denmark
 - [Extraset](https://justadesignlist.com/studio/extraset) — Genève, Switzerland
 - [Extreme Present](https://justadesignlist.com/studio/extreme-present) — Amsterdam, The Netherlands
 - [FAAADE](https://justadesignlist.com/studio/faaade) — Madrid, Spain

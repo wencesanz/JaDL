@@ -11,17 +11,17 @@ Geography
 ## Regions
 
 - [Iberia](https://justadesignlist.com/region/iberia) (202)
-- [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (238)
+- [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (239)
 - [North America](https://justadesignlist.com/region/north-america) (344)
-- [Nordics](https://justadesignlist.com/region/nordics) (109)
+- [Nordics](https://justadesignlist.com/region/nordics) (110)
 - [Oceania](https://justadesignlist.com/region/oceania) (93)
 - [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (384)
-- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (92)
+- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (93)
 
 ## Countries
 
 - [USA](https://justadesignlist.com/country/usa) (332)
-- [England](https://justadesignlist.com/country/england) (241)
+- [England](https://justadesignlist.com/country/england) (242)
 - [Spain](https://justadesignlist.com/country/spain) (199)
 - [Germany](https://justadesignlist.com/country/germany) (99)
 - [Australia](https://justadesignlist.com/country/australia) (91)
@@ -30,7 +30,7 @@ Geography
 - [Canada](https://justadesignlist.com/country/canada) (58)
 - [Switzerland](https://justadesignlist.com/country/switzerland) (58)
 - [Sweden](https://justadesignlist.com/country/sweden) (48)
-- [Denmark](https://justadesignlist.com/country/denmark) (32)
+- [Denmark](https://justadesignlist.com/country/denmark) (33)
 - [Italy](https://justadesignlist.com/country/italy) (32)
 - [Norway](https://justadesignlist.com/country/norway) (26)
 - [Portugal](https://justadesignlist.com/country/portugal) (23)
@@ -40,9 +40,9 @@ Geography
 - [China](https://justadesignlist.com/country/china) (18)
 - [New Zealand](https://justadesignlist.com/country/new-zealand) (18)
 - [Greece](https://justadesignlist.com/country/greece) (16)
+- [Mexico](https://justadesignlist.com/country/mexico) (15)
 - [Poland](https://justadesignlist.com/country/poland) (15)
 - [Scotland](https://justadesignlist.com/country/scotland) (15)
-- [Mexico](https://justadesignlist.com/country/mexico) (14)
 - [Argentina](https://justadesignlist.com/country/argentina) (13)
 - [Brazil](https://justadesignlist.com/country/brazil) (13)
 - [Japan](https://justadesignlist.com/country/japan) (12)
@@ -87,7 +87,7 @@ Geography
 
 ## Cities
 
-- [London](https://justadesignlist.com/city/london) (194)
+- [London](https://justadesignlist.com/city/london) (195)
 - [New York](https://justadesignlist.com/city/new-york) (171)
 - [Barcelona](https://justadesignlist.com/city/barcelona) (94)
 - [Paris](https://justadesignlist.com/city/paris) (73)
@@ -98,7 +98,7 @@ Geography
 - [Amsterdam](https://justadesignlist.com/city/amsterdam) (45)
 - [Stockholm](https://justadesignlist.com/city/stockholm) (41)
 - [San Francisco](https://justadesignlist.com/city/san-francisco) (35)
-- [Copenhagen](https://justadesignlist.com/city/copenhagen) (32)
+- [Copenhagen](https://justadesignlist.com/city/copenhagen) (33)
 - [Sydney](https://justadesignlist.com/city/sydney) (31)
 - [Montreal](https://justadesignlist.com/city/montreal) (28)
 - [Oslo](https://justadesignlist.com/city/oslo) (21)
@@ -142,11 +142,11 @@ Geography
 - [Basel](https://justadesignlist.com/city/basel) (5)
 - [Brighton](https://justadesignlist.com/city/brighton) (5)
 - [Budapest](https://justadesignlist.com/city/budapest) (5)
+- [Monterrey](https://justadesignlist.com/city/monterrey) (5)
 - [Murcia](https://justadesignlist.com/city/murcia) (5)
 - [Poznan](https://justadesignlist.com/city/poznan) (5)
 - [Rotterdam](https://justadesignlist.com/city/rotterdam) (5)
 - [Aarhus](https://justadesignlist.com/city/aarhus) (4)
-- [Adelaide](https://justadesignlist.com/city/adelaide) (4)
 
 [All cities](https://justadesignlist.com/cities)
 

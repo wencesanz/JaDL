@@ -1,12 +1,12 @@
 ---
 title: "Alex Hunting Studio — Graphic Design, London, England · Just a Design List"
-description: "Alex Hunting Studio: graphic design and branding practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2023."
+description: "Alex Hunting Studio: graphic design and branding practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/alex-hunting-studio"
 ---
 
 # Alex Hunting Studio
 
-Alex Hunting Studio: graphic design and branding practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2023.
+Alex Hunting Studio: graphic design and branding practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** London

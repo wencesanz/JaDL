@@ -10,7 +10,7 @@ Browse
 
 316 cities represented across the index.
 
-- [London](https://justadesignlist.com/city/london) (194)
+- [London](https://justadesignlist.com/city/london) (195)
 - [New York](https://justadesignlist.com/city/new-york) (171)
 - [Barcelona](https://justadesignlist.com/city/barcelona) (94)
 - [Paris](https://justadesignlist.com/city/paris) (73)
@@ -21,7 +21,7 @@ Browse
 - [Amsterdam](https://justadesignlist.com/city/amsterdam) (45)
 - [Stockholm](https://justadesignlist.com/city/stockholm) (41)
 - [San Francisco](https://justadesignlist.com/city/san-francisco) (35)
-- [Copenhagen](https://justadesignlist.com/city/copenhagen) (32)
+- [Copenhagen](https://justadesignlist.com/city/copenhagen) (33)
 - [Sydney](https://justadesignlist.com/city/sydney) (31)
 - [Montreal](https://justadesignlist.com/city/montreal) (28)
 - [Oslo](https://justadesignlist.com/city/oslo) (21)
@@ -65,6 +65,7 @@ Browse
 - [Basel](https://justadesignlist.com/city/basel) (5)
 - [Brighton](https://justadesignlist.com/city/brighton) (5)
 - [Budapest](https://justadesignlist.com/city/budapest) (5)
+- [Monterrey](https://justadesignlist.com/city/monterrey) (5)
 - [Murcia](https://justadesignlist.com/city/murcia) (5)
 - [Poznan](https://justadesignlist.com/city/poznan) (5)
 - [Rotterdam](https://justadesignlist.com/city/rotterdam) (5)
@@ -77,7 +78,6 @@ Browse
 - [Leeds](https://justadesignlist.com/city/leeds) (4)
 - [Miami](https://justadesignlist.com/city/miami) (4)
 - [Minneapolis](https://justadesignlist.com/city/minneapolis) (4)
-- [Monterrey](https://justadesignlist.com/city/monterrey) (4)
 - [Oakland](https://justadesignlist.com/city/oakland) (4)
 - [Palma de Mallorca](https://justadesignlist.com/city/palma-de-mallorca) (4)
 - [Pamplona](https://justadesignlist.com/city/pamplona) (4)

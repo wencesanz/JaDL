@@ -1,12 +1,12 @@
 ---
 title: "Extract — Graphic Design, London, England · Just a Design List"
-description: "Extract: graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023."
+description: "Extract: graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/extract"
 ---
 
 # Extract
 
-Extract: graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023.
+Extract: graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Interactive/Digital
 - **City:** London

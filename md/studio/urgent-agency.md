@@ -1,12 +1,12 @@
 ---
 title: "Urgent.Agency — Branding, Copenhagen, Denmark · Just a Design List"
-description: "Urgent.Agency: branding, motion and interactive/digital practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in July 2026."
+description: "Urgent.Agency: branding, motion and interactive/digital practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/urgent-agency"
 ---
 
 # Urgent.Agency
 
-Urgent.Agency: branding, motion and interactive/digital practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in July 2026.
+Urgent.Agency: branding, motion and interactive/digital practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Motion, Interactive/Digital, Advertising/Campaigns
 - **City:** Copenhagen

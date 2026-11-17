@@ -1,12 +1,12 @@
 ---
 title: "Here Design — Branding, London, England · Just a Design List"
-description: "Here Design: branding, interactive/digital and motion practice based in London, England. One of 194 studios from London on Just a Design List, added in August 2026."
+description: "Here Design: branding, interactive/digital and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/here-design"
 ---
 
 # Here Design
 
-Here Design: branding, interactive/digital and motion practice based in London, England. One of 194 studios from London on Just a Design List, added in August 2026.
+Here Design: branding, interactive/digital and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Motion, Graphic Design
 - **City:** London

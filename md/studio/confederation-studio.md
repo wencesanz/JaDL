@@ -1,12 +1,12 @@
 ---
 title: "Confederation Studio — Branding, London, England · Just a Design List"
-description: "Confederation Studio: branding and motion practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023."
+description: "Confederation Studio: branding and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/confederation-studio"
 ---
 
 # Confederation Studio
 
-Confederation Studio: branding and motion practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023.
+Confederation Studio: branding and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Motion
 - **City:** London

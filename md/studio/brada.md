@@ -1,12 +1,12 @@
 ---
 title: "Brada — Graphic Design, Queretaro, Mexico · Just a Design List"
-description: "Brada: graphic design, branding and packaging practice based in Queretaro, Mexico. The only studio from Queretaro, one of 14 from Mexico on Just a Design List, added in May 2023."
+description: "Brada: graphic design, branding and packaging practice based in Queretaro, Mexico. The only studio from Queretaro, one of 15 from Mexico on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/brada"
 ---
 
 # Brada
 
-Brada: graphic design, branding and packaging practice based in Queretaro, Mexico. The only studio from Queretaro, one of 14 from Mexico on Just a Design List, added in May 2023.
+Brada: graphic design, branding and packaging practice based in Queretaro, Mexico. The only studio from Queretaro, one of 15 from Mexico on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding, Packaging
 - **City:** Queretaro

@@ -1,12 +1,12 @@
 ---
 title: "Isaac Powell — Branding, Nottingham, England · Just a Design List"
-description: "Isaac Powell: branding, graphic design and interactive/digital practice based in Nottingham, England. The only studio from Nottingham, one of 241 from England on Just a Design List, added in June 2024."
+description: "Isaac Powell: branding, graphic design and interactive/digital practice based in Nottingham, England. The only studio from Nottingham, one of 242 from England on Just a Design List, added in June 2024."
 url: "https://justadesignlist.com/studio/isaac-powell"
 ---
 
 # Isaac Powell
 
-Isaac Powell: branding, graphic design and interactive/digital practice based in Nottingham, England. The only studio from Nottingham, one of 241 from England on Just a Design List, added in June 2024.
+Isaac Powell: branding, graphic design and interactive/digital practice based in Nottingham, England. The only studio from Nottingham, one of 242 from England on Just a Design List, added in June 2024.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** Nottingham

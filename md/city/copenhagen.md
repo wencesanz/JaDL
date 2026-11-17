@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Copenhagen · Just a Design List"
-description: "32 independent design studios based in Copenhagen, from the Just a Design List index. Browse by discipline."
+description: "33 independent design studios based in Copenhagen, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/copenhagen"
 ---
 
@@ -10,7 +10,7 @@ City
 
 # Copenhagen
 
-32 independent design studios based in Copenhagen, from the Just a Design List index. Browse by discipline.
+33 independent design studios based in Copenhagen, from the Just a Design List index. Browse by discipline.
 
 - [28K Studio](https://justadesignlist.com/studio/28k-studio) — Copenhagen, Denmark
 - [All the Way to Paris](https://justadesignlist.com/studio/all-the-way-to-paris) — Copenhagen, Denmark
@@ -21,6 +21,7 @@ City
 - [Brunswicker Studio](https://justadesignlist.com/studio/brunswicker-studio) — Copenhagen, Denmark
 - [Commplicated.Design](https://justadesignlist.com/studio/commplicated-design) — Copenhagen, London, Denmark, England
 - [Daniel Siim](https://justadesignlist.com/studio/daniel-siim) — Copenhagen, Denmark
+- [eTypes](https://justadesignlist.com/studio/etypes) — Copenhagen, Denmark
 - [Everland](https://justadesignlist.com/studio/everland) — Copenhagen, Oslo, Denmark, Norway
 - [Formatet](https://justadesignlist.com/studio/formatet) — Copenhagen, Denmark
 - [Grebban](https://justadesignlist.com/studio/grebban) — Stockholm, Copenhagen, Oslo, London, Gothenburg, Sweden, Denmark, Norway, England

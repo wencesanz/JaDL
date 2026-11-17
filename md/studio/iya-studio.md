@@ -1,12 +1,12 @@
 ---
 title: "IYA Studio — Branding, London, England · Just a Design List"
-description: "IYA Studio: branding, graphic design and packaging practice based in London, England. One of 194 studios from London on Just a Design List, added in November 2024."
+description: "IYA Studio: branding, graphic design and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/iya-studio"
 ---
 
 # IYA Studio
 
-IYA Studio: branding, graphic design and packaging practice based in London, England. One of 194 studios from London on Just a Design List, added in November 2024.
+IYA Studio: branding, graphic design and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024.
 
 - **Discipline:** Branding, Graphic Design, Packaging
 - **City:** London

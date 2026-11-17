@@ -1,12 +1,12 @@
 ---
 title: "Smile Studio — Branding, Copenhagen, Denmark · Just a Design List"
-description: "Smile Studio: branding and interactive/digital practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in October 2024."
+description: "Smile Studio: branding and interactive/digital practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/smile-studio"
 ---
 
 # Smile Studio
 
-Smile Studio: branding and interactive/digital practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in October 2024.
+Smile Studio: branding and interactive/digital practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** Copenhagen

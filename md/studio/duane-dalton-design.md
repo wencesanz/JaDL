@@ -1,12 +1,12 @@
 ---
 title: "Duane Dalton Design — Branding, London, England · Just a Design List"
-description: "Duane Dalton Design: branding, graphic design and packaging practice based in London, England. One of 194 studios from London on Just a Design List, added in August 2026."
+description: "Duane Dalton Design: branding, graphic design and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/duane-dalton-design"
 ---
 
 # Duane Dalton Design
 
-Duane Dalton Design: branding, graphic design and packaging practice based in London, England. One of 194 studios from London on Just a Design List, added in August 2026.
+Duane Dalton Design: branding, graphic design and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging
 - **City:** London

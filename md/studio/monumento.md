@@ -1,12 +1,12 @@
 ---
 title: "Monumento — Branding, Monterrey, Mexico · Just a Design List"
-description: "Monumento: branding, interactive/digital and packaging practice based in Monterrey, Mexico. One of 4 studios from Monterrey on Just a Design List, added in August 2026."
+description: "Monumento: branding, interactive/digital and packaging practice based in Monterrey, Mexico. One of 5 studios from Monterrey on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/monumento"
 ---
 
 # Monumento
 
-Monumento: branding, interactive/digital and packaging practice based in Monterrey, Mexico. One of 4 studios from Monterrey on Just a Design List, added in August 2026.
+Monumento: branding, interactive/digital and packaging practice based in Monterrey, Mexico. One of 5 studios from Monterrey on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging, Graphic Design
 - **City:** Monterrey
@@ -22,6 +22,7 @@ Monumento: branding, interactive/digital and packaging practice based in Monterr
 ## More from Monterrey
 
 - [Anagrama](https://justadesignlist.com/studio/anagrama)
+- [Dum Dum Studio ®](https://justadesignlist.com/studio/dum-dum-studio)
 - [Firmalt](https://justadesignlist.com/studio/firmalt)
 - [Parámetro Studio](https://justadesignlist.com/studio/parametro-studio)
 

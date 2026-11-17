@@ -1,6 +1,6 @@
 ---
 title: "Design studios in London · Just a Design List"
-description: "194 independent design studios based in London, from the Just a Design List index. Browse by discipline."
+description: "195 independent design studios based in London, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/london"
 ---
 
@@ -10,7 +10,7 @@ City
 
 # London
 
-194 independent design studios based in London, from the Just a Design List index. Browse by discipline.
+195 independent design studios based in London, from the Just a Design List index. Browse by discipline.
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -193,6 +193,7 @@ City
 - [Systems Studio](https://justadesignlist.com/studio/systems-studio) — London, England
 - [Takram](https://justadesignlist.com/studio/takram) — Tokyo, New York, London, ShangHai, Japan, USA, England, China
 - [TEMPLO](https://justadesignlist.com/studio/templo) — London, England
+- [THIRD HORIZON Studios®](https://justadesignlist.com/studio/third-horizon-studios) — London, England
 - [TM — TsevdosMcNeil](https://justadesignlist.com/studio/tm-tsevdosmcneil) — London, England
 - [Together](https://justadesignlist.com/studio/together) — London, England
 - [Turner Duckworth](https://justadesignlist.com/studio/turner-duckworth) — London, New York, San Francisco, England, USA

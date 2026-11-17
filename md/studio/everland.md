@@ -1,12 +1,12 @@
 ---
 title: "Everland — Branding, Copenhagen, Denmark · Just a Design List"
-description: "Everland: branding and packaging practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in October 2026."
+description: "Everland: branding and packaging practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/everland"
 ---
 
 # Everland
 
-Everland: branding and packaging practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in October 2026.
+Everland: branding and packaging practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Packaging
 - **City:** Copenhagen, Oslo

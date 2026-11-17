@@ -1,12 +1,12 @@
 ---
 title: "Ric Bell — Graphic Design, London, England · Just a Design List"
-description: "Ric Bell: graphic design and branding practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023."
+description: "Ric Bell: graphic design and branding practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/ric-bell"
 ---
 
 # Ric Bell
 
-Ric Bell: graphic design and branding practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023.
+Ric Bell: graphic design and branding practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** London

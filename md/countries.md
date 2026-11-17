@@ -11,7 +11,7 @@ Browse
 64 countries represented across the index.
 
 - [USA](https://justadesignlist.com/country/usa) (332)
-- [England](https://justadesignlist.com/country/england) (241)
+- [England](https://justadesignlist.com/country/england) (242)
 - [Spain](https://justadesignlist.com/country/spain) (199)
 - [Germany](https://justadesignlist.com/country/germany) (99)
 - [Australia](https://justadesignlist.com/country/australia) (91)
@@ -20,7 +20,7 @@ Browse
 - [Canada](https://justadesignlist.com/country/canada) (58)
 - [Switzerland](https://justadesignlist.com/country/switzerland) (58)
 - [Sweden](https://justadesignlist.com/country/sweden) (48)
-- [Denmark](https://justadesignlist.com/country/denmark) (32)
+- [Denmark](https://justadesignlist.com/country/denmark) (33)
 - [Italy](https://justadesignlist.com/country/italy) (32)
 - [Norway](https://justadesignlist.com/country/norway) (26)
 - [Portugal](https://justadesignlist.com/country/portugal) (23)
@@ -30,9 +30,9 @@ Browse
 - [China](https://justadesignlist.com/country/china) (18)
 - [New Zealand](https://justadesignlist.com/country/new-zealand) (18)
 - [Greece](https://justadesignlist.com/country/greece) (16)
+- [Mexico](https://justadesignlist.com/country/mexico) (15)
 - [Poland](https://justadesignlist.com/country/poland) (15)
 - [Scotland](https://justadesignlist.com/country/scotland) (15)
-- [Mexico](https://justadesignlist.com/country/mexico) (14)
 - [Argentina](https://justadesignlist.com/country/argentina) (13)
 - [Brazil](https://justadesignlist.com/country/brazil) (13)
 - [Japan](https://justadesignlist.com/country/japan) (12)

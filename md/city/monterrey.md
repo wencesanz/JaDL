@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Monterrey · Just a Design List"
-description: "4 independent design studios based in Monterrey, from the Just a Design List index. Browse by discipline."
+description: "5 independent design studios based in Monterrey, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/monterrey"
 ---
 
@@ -10,9 +10,10 @@ City
 
 # Monterrey
 
-4 independent design studios based in Monterrey, from the Just a Design List index. Browse by discipline.
+5 independent design studios based in Monterrey, from the Just a Design List index. Browse by discipline.
 
 - [Anagrama](https://justadesignlist.com/studio/anagrama) — Mexico City, Monterrey, Tokyo, USA, Mexico, Japan
+- [Dum Dum Studio ®](https://justadesignlist.com/studio/dum-dum-studio) — Monterrey, Mexico
 - [Firmalt](https://justadesignlist.com/studio/firmalt) — Monterrey, Mexico
 - [Monumento](https://justadesignlist.com/studio/monumento) — Monterrey, Mexico
 - [Parámetro Studio](https://justadesignlist.com/studio/parametro-studio) — Monterrey, New York, Paris, Madrid, Mexico, USA, France, Spain

@@ -1,12 +1,12 @@
 ---
 title: "PONDER — Branding, Copenhagen, Denmark · Just a Design List"
-description: "PONDER: branding, graphic design and interactive/digital practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in April 2025."
+description: "PONDER: branding, graphic design and interactive/digital practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in April 2025."
 url: "https://justadesignlist.com/studio/ponder"
 ---
 
 # PONDER
 
-PONDER: branding, graphic design and interactive/digital practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in April 2025.
+PONDER: branding, graphic design and interactive/digital practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in April 2025.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** Copenhagen

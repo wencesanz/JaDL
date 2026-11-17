@@ -1,12 +1,12 @@
 ---
 title: "Firmalt — Branding, Monterrey, Mexico · Just a Design List"
-description: "Firmalt: branding and packaging practice based in Monterrey, Mexico. One of 4 studios from Monterrey on Just a Design List, added in June 2023."
+description: "Firmalt: branding and packaging practice based in Monterrey, Mexico. One of 5 studios from Monterrey on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/firmalt"
 ---
 
 # Firmalt
 
-Firmalt: branding and packaging practice based in Monterrey, Mexico. One of 4 studios from Monterrey on Just a Design List, added in June 2023.
+Firmalt: branding and packaging practice based in Monterrey, Mexico. One of 5 studios from Monterrey on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Packaging
 - **City:** Monterrey
@@ -22,6 +22,7 @@ Firmalt: branding and packaging practice based in Monterrey, Mexico. One of 4 st
 ## More from Monterrey
 
 - [Anagrama](https://justadesignlist.com/studio/anagrama)
+- [Dum Dum Studio ®](https://justadesignlist.com/studio/dum-dum-studio)
 - [Monumento](https://justadesignlist.com/studio/monumento)
 - [Parámetro Studio](https://justadesignlist.com/studio/parametro-studio)
 

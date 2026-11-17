@@ -1,12 +1,12 @@
 ---
 title: "Bulletproof — Branding, London, England · Just a Design List"
-description: "Bulletproof: branding practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2024."
+description: "Bulletproof: branding practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/bulletproof"
 ---
 
 # Bulletproof
 
-Bulletproof: branding practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2024.
+Bulletproof: branding practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding
 - **City:** London

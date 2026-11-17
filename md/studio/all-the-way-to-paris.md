@@ -1,12 +1,12 @@
 ---
 title: "All the Way to Paris — Graphic Design, Copenhagen, Denmark · Just a Design List"
-description: "All the Way to Paris: graphic design and packaging practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in June 2023."
+description: "All the Way to Paris: graphic design and packaging practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/all-the-way-to-paris"
 ---
 
 # All the Way to Paris
 
-All the Way to Paris: graphic design and packaging practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in June 2023.
+All the Way to Paris: graphic design and packaging practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Packaging
 - **City:** Copenhagen

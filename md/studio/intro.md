@@ -1,12 +1,12 @@
 ---
 title: "Intro — Graphic Design, London, England · Just a Design List"
-description: "Intro: graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023."
+description: "Intro: graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/intro"
 ---
 
 # Intro
 
-Intro: graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023.
+Intro: graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design
 - **City:** London

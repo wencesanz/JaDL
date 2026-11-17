@@ -1,12 +1,12 @@
 ---
 title: "SOUP — Branding, London, England · Just a Design List"
-description: "SOUP: branding, graphic design and advertising/campaigns practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2026."
+description: "SOUP: branding, graphic design and advertising/campaigns practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/soup"
 ---
 
 # SOUP
 
-SOUP: branding, graphic design and advertising/campaigns practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2026.
+SOUP: branding, graphic design and advertising/campaigns practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Advertising/Campaigns, Interactive/Digital
 - **City:** London

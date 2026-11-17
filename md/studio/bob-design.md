@@ -1,12 +1,12 @@
 ---
 title: "BOB Design — Branding, London, England · Just a Design List"
-description: "BOB Design: branding, graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2026."
+description: "BOB Design: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/bob-design"
 ---
 
 # BOB Design
 
-BOB Design: branding, graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2026.
+BOB Design: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging
 - **City:** London, Zurich

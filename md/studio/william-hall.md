@@ -1,12 +1,12 @@
 ---
 title: "William Hall — Branding, London, England · Just a Design List"
-description: "William Hall: branding and graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in November 2024."
+description: "William Hall: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/william-hall"
 ---
 
 # William Hall
 
-William Hall: branding and graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in November 2024.
+William Hall: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** London, Los Angeles, New York, Istanbul

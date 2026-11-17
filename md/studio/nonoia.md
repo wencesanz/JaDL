@@ -1,12 +1,12 @@
 ---
 title: "Nonoia — Branding, London, England · Just a Design List"
-description: "Nonoia: branding, graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2026."
+description: "Nonoia: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/nonoia"
 ---
 
 # Nonoia
 
-Nonoia: branding, graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2026.
+Nonoia: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Motion
 - **City:** London

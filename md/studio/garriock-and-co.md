@@ -1,12 +1,12 @@
 ---
 title: "Garriock & Co. — Branding, England · Just a Design List"
-description: "Garriock & Co.: branding, interactive/digital and motion practice based in England. One of 241 from England on Just a Design List, added in December 2025."
+description: "Garriock & Co.: branding, interactive/digital and motion practice based in England. One of 242 from England on Just a Design List, added in December 2025."
 url: "https://justadesignlist.com/studio/garriock-and-co"
 ---
 
 # Garriock & Co.
 
-Garriock & Co.: branding, interactive/digital and motion practice based in England. One of 241 from England on Just a Design List, added in December 2025.
+Garriock & Co.: branding, interactive/digital and motion practice based in England. One of 242 from England on Just a Design List, added in December 2025.
 
 - **Discipline:** Branding, Interactive/Digital, Motion, Advertising/Campaigns
 - **Country:** England, Germany

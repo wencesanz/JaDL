@@ -1,12 +1,12 @@
 ---
 title: "Significant — Branding, London, England · Just a Design List"
-description: "Significant: branding, graphic design and advertising/campaigns practice based in London, England. One of 194 studios from London on Just a Design List, added in August 2026."
+description: "Significant: branding, graphic design and advertising/campaigns practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/significant"
 ---
 
 # Significant
 
-Significant: branding, graphic design and advertising/campaigns practice based in London, England. One of 194 studios from London on Just a Design List, added in August 2026.
+Significant: branding, graphic design and advertising/campaigns practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Advertising/Campaigns, Interactive/Digital, Motion
 - **City:** London

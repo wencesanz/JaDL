@@ -1,12 +1,12 @@
 ---
 title: "Ben Longden — Graphic Design, London, England · Just a Design List"
-description: "Ben Longden: graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2023."
+description: "Ben Longden: graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/ben-longden"
 ---
 
 # Ben Longden
 
-Ben Longden: graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in May 2023.
+Ben Longden: graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Interactive/Digital
 - **City:** London

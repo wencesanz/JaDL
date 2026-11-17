@@ -1,12 +1,12 @@
 ---
 title: "Planning Unit — Branding, London, England · Just a Design List"
-description: "Planning Unit: branding and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in November 2024."
+description: "Planning Unit: branding and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/planning-unit"
 ---
 
 # Planning Unit
 
-Planning Unit: branding and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in November 2024.
+Planning Unit: branding and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** London

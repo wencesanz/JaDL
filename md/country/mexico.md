@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Mexico · Just a Design List"
-description: "14 independent design studios and practices based in Mexico. A curated index — browse by city and discipline."
+description: "15 independent design studios and practices based in Mexico. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/mexico"
 ---
 
@@ -10,12 +10,13 @@ Country
 
 # Mexico
 
-14 independent design studios and practices based in Mexico. A curated index — browse by city and discipline.
+15 independent design studios and practices based in Mexico. A curated index — browse by city and discipline.
 
 - [Anagrama](https://justadesignlist.com/studio/anagrama) — Mexico City, Monterrey, Tokyo, USA, Mexico, Japan
 - [Atla](https://justadesignlist.com/studio/atla) — Austin, Mexico City, Caracas, Lima, Tijuana, USA, Mexico, Venezuela, Peru
 - [BonTemps](https://justadesignlist.com/studio/bontemps) — Mexico City, Mexico
 - [Brada](https://justadesignlist.com/studio/brada) — Queretaro, Mexico
+- [Dum Dum Studio ®](https://justadesignlist.com/studio/dum-dum-studio) — Monterrey, Mexico
 - [Estudio Cariño](https://justadesignlist.com/studio/estudio-carino) — Guadalajara, Mexico
 - [Faena Studio](https://justadesignlist.com/studio/faena-studio) — Mexico City, Mexico
 - [Firmalt](https://justadesignlist.com/studio/firmalt) — Monterrey, Mexico

@@ -1,12 +1,12 @@
 ---
 title: "Matinée Studio — Branding, London, England · Just a Design List"
-description: "Matinée Studio: branding, graphic design and typography practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2026."
+description: "Matinée Studio: branding, graphic design and typography practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/matinee-studio"
 ---
 
 # Matinée Studio
 
-Matinée Studio: branding, graphic design and typography practice based in London, England. One of 194 studios from London on Just a Design List, added in July 2026.
+Matinée Studio: branding, graphic design and typography practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Typography, Interactive/Digital
 - **City:** London

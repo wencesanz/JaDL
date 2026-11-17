@@ -1,12 +1,12 @@
 ---
 title: "Re-public — Graphic Design, Copenhagen, Sweden · Just a Design List"
-description: "Re-public: graphic design, branding and interactive/digital practice based in Copenhagen, Sweden. One of 32 studios from Copenhagen on Just a Design List, added in June 2023."
+description: "Re-public: graphic design, branding and interactive/digital practice based in Copenhagen, Sweden. One of 33 studios from Copenhagen on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/re-public"
 ---
 
 # Re-public
 
-Re-public: graphic design, branding and interactive/digital practice based in Copenhagen, Sweden. One of 32 studios from Copenhagen on Just a Design List, added in June 2023.
+Re-public: graphic design, branding and interactive/digital practice based in Copenhagen, Sweden. One of 33 studios from Copenhagen on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding, Interactive/Digital
 - **City:** Copenhagen

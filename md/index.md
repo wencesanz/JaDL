@@ -1,10 +1,10 @@
 ---
 title: "Just a Design List — A curated directory of design practices"
-description: "A slow, curated index of design studios and independent designers. 1463 entries across 176 countries."
+description: "A slow, curated index of design studios and independent designers. 1466 entries across 176 countries."
 url: "https://justadesignlist.com/"
 ---
 
-# 1463 design studios and independent designers, collected without ranking.
+# 1466 design studios and independent designers, collected without ranking.
 
 A working index of studios and independent designers whose practice the editor finds worth returning to. Entries are collected slowly, without ranking, and each is kept short on purpose — a pointer, not a review. Navigate by discipline, geography, or simply read it as a list.
 
@@ -12,6 +12,9 @@ A working index of studios and independent designers whose practice the editor f
 
 ## Recent additions
 
+- [THIRD HORIZON Studios®](https://justadesignlist.com/studio/third-horizon-studios) — London, England
+- [eTypes](https://justadesignlist.com/studio/etypes) — Copenhagen, Denmark
+- [Dum Dum Studio ®](https://justadesignlist.com/studio/dum-dum-studio) — Monterrey, Mexico
 - [Oleg Vishnevsky](https://justadesignlist.com/studio/oleg-vishnevsky) — Tbilisi, Georgia
 - [adaaap](https://justadesignlist.com/studio/adaaap) — Bordeaux, France
 - [Michael Verze](https://justadesignlist.com/studio/michael-verze) — Sydney, Australia
@@ -29,36 +32,33 @@ A working index of studios and independent designers whose practice the editor f
 - [AKLR](https://justadesignlist.com/studio/aklr) — Melbourne, Australia
 - [Adam Ho, I.S.P.](https://justadesignlist.com/studio/adam-ho-i-s-p) — New York, USA
 - [Applied Archive Atelier](https://justadesignlist.com/studio/applied-archive-atelier) — Montreal, Canada
-- [Figur](https://justadesignlist.com/studio/figur) — Stockholm, Sweden
-- [Democràcia Studio](https://justadesignlist.com/studio/democracia-studio) — Valencia, Spain
-- [SYNGG](https://justadesignlist.com/studio/syngg) — Melbourne, Australia
 
 ## By discipline
 
-- [Branding](https://justadesignlist.com/discipline/branding) (1166)
-- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (897)
-- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (719)
-- [Packaging](https://justadesignlist.com/discipline/packaging) (463)
-- [Motion](https://justadesignlist.com/discipline/motion) (228)
-- [Typography](https://justadesignlist.com/discipline/typography) (190)
-- [Advertising/Campaigns](https://justadesignlist.com/discipline/advertising-campaigns) (139)
+- [Branding](https://justadesignlist.com/discipline/branding) (1169)
+- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (899)
+- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (722)
+- [Packaging](https://justadesignlist.com/discipline/packaging) (464)
+- [Motion](https://justadesignlist.com/discipline/motion) (229)
+- [Typography](https://justadesignlist.com/discipline/typography) (192)
+- [Advertising/Campaigns](https://justadesignlist.com/discipline/advertising-campaigns) (140)
 - [Illustration](https://justadesignlist.com/discipline/illustration) (114)
 - [Industrial Design](https://justadesignlist.com/discipline/industrial-design) (11)
 
 ## By region
 
 - [Iberia](https://justadesignlist.com/region/iberia) (202)
-- [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (238)
+- [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (239)
 - [North America](https://justadesignlist.com/region/north-america) (344)
-- [Nordics](https://justadesignlist.com/region/nordics) (109)
+- [Nordics](https://justadesignlist.com/region/nordics) (110)
 - [Oceania](https://justadesignlist.com/region/oceania) (93)
 - [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (384)
-- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (92)
+- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (93)
 
 ## Most represented countries
 
 - [USA](https://justadesignlist.com/country/usa) (332)
-- [England](https://justadesignlist.com/country/england) (241)
+- [England](https://justadesignlist.com/country/england) (242)
 - [Spain](https://justadesignlist.com/country/spain) (199)
 - [Germany](https://justadesignlist.com/country/germany) (99)
 - [Australia](https://justadesignlist.com/country/australia) (91)
@@ -67,7 +67,7 @@ A working index of studios and independent designers whose practice the editor f
 - [Canada](https://justadesignlist.com/country/canada) (58)
 - [Switzerland](https://justadesignlist.com/country/switzerland) (58)
 - [Sweden](https://justadesignlist.com/country/sweden) (48)
-- [Denmark](https://justadesignlist.com/country/denmark) (32)
+- [Denmark](https://justadesignlist.com/country/denmark) (33)
 - [Italy](https://justadesignlist.com/country/italy) (32)
 
 ## Note

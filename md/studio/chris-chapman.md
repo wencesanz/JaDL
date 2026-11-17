@@ -1,12 +1,12 @@
 ---
 title: "Chris Chapman — Branding, London, England · Just a Design List"
-description: "Chris Chapman: branding, packaging and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in August 2026."
+description: "Chris Chapman: branding, packaging and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/chris-chapman"
 ---
 
 # Chris Chapman
 
-Chris Chapman: branding, packaging and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in August 2026.
+Chris Chapman: branding, packaging and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Packaging, Interactive/Digital, Graphic Design
 - **City:** London

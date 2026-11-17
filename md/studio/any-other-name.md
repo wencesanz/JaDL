@@ -1,12 +1,12 @@
 ---
 title: "ANY OTHER NAME — Graphic Design, London, England · Just a Design List"
-description: "ANY OTHER NAME: graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023."
+description: "ANY OTHER NAME: graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/any-other-name"
 ---
 
 # ANY OTHER NAME
 
-ANY OTHER NAME: graphic design practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023.
+ANY OTHER NAME: graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design
 - **City:** London

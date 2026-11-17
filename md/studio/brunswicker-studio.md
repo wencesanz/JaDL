@@ -1,12 +1,12 @@
 ---
 title: "Brunswicker Studio — Graphic Design, Copenhagen, Denmark · Just a Design List"
-description: "Brunswicker Studio: graphic design and branding practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in June 2023."
+description: "Brunswicker Studio: graphic design and branding practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/brunswicker-studio"
 ---
 
 # Brunswicker Studio
 
-Brunswicker Studio: graphic design and branding practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in June 2023.
+Brunswicker Studio: graphic design and branding practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Copenhagen

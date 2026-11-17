@@ -1,12 +1,12 @@
 ---
 title: "WAAITT — Branding, Copenhagen, Denmark · Just a Design List"
-description: "WAAITT: branding, graphic design and interactive/digital practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in June 2023."
+description: "WAAITT: branding, graphic design and interactive/digital practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/waaitt"
 ---
 
 # WAAITT
 
-WAAITT: branding, graphic design and interactive/digital practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in June 2023.
+WAAITT: branding, graphic design and interactive/digital practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Motion
 - **City:** Copenhagen

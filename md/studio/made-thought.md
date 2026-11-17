@@ -1,12 +1,12 @@
 ---
 title: "Made Thought — Branding, New York, USA · Just a Design List"
-description: "Made Thought: branding practice based in New York, USA. One of 194 studios from London on Just a Design List, added in June 2023."
+description: "Made Thought: branding practice based in New York, USA. One of 195 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/made-thought"
 ---
 
 # Made Thought
 
-Made Thought: branding practice based in New York, USA. One of 194 studios from London on Just a Design List, added in June 2023.
+Made Thought: branding practice based in New York, USA. One of 195 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding
 - **City:** London, New York

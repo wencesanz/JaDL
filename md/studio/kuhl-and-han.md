@@ -1,12 +1,12 @@
 ---
 title: "Kühl & Han® — Branding, Copenhagen, Denmark · Just a Design List"
-description: "Kühl & Han®: branding and graphic design practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in April 2025."
+description: "Kühl & Han®: branding and graphic design practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in April 2025."
 url: "https://justadesignlist.com/studio/kuhl-and-han"
 ---
 
 # Kühl & Han®
 
-Kühl & Han®: branding and graphic design practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in April 2025.
+Kühl & Han®: branding and graphic design practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in April 2025.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** Copenhagen

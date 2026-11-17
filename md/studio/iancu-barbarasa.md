@@ -1,12 +1,12 @@
 ---
 title: "Iancu Barbărasă — Branding, London, England · Just a Design List"
-description: "Iancu Barbărasă: branding, graphic design and illustration practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2024."
+description: "Iancu Barbărasă: branding, graphic design and illustration practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/iancu-barbarasa"
 ---
 
 # Iancu Barbărasă
 
-Iancu Barbărasă: branding, graphic design and illustration practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2024.
+Iancu Barbărasă: branding, graphic design and illustration practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Graphic Design, Illustration, Packaging
 - **City:** London

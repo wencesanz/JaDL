@@ -1,12 +1,12 @@
 ---
 title: "All studios · Just a Design List"
-description: "Browse the full index of 1463 design studios and independent designers, A to Z."
+description: "Browse the full index of 1466 design studios and independent designers, A to Z."
 url: "https://justadesignlist.com/studios"
 ---
 
 The List
 
-# All 1463 studios and designers
+# All 1466 studios and designers
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China · Branding, Motion, Interactive/Digital, Typography, Packaging
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Slovenia · Paris, France · Branding, Interactive/Digital, Packaging, Motion
@@ -387,6 +387,7 @@ The List
 - [Driftime](https://justadesignlist.com/studio/driftime) — London, England · Interactive/Digital, Branding
 - [Duane Dalton Design](https://justadesignlist.com/studio/duane-dalton-design) — London, England · Branding, Graphic Design, Packaging
 - [Due Studio](https://justadesignlist.com/studio/due-studio) — Perugia, Italy · Graphic Design, Typography
+- [Dum Dum Studio ®](https://justadesignlist.com/studio/dum-dum-studio) — Monterrey, Mexico · Branding, Graphic Design, Typography, Packaging, Interactive/Digital
 - [DutchScot](https://justadesignlist.com/studio/dutchscot) — London, England · Graphic Design, Branding
 - [Duties Design Studio](https://justadesignlist.com/studio/duties-design-studio) — Oslo, Norway · Branding, Interactive/Digital
 - [Duzi Studio](https://justadesignlist.com/studio/duzi-studio) — London, England · Branding, Packaging, Illustration, Interactive/Digital
@@ -430,6 +431,7 @@ The List
 - [Estúdio Gole](https://justadesignlist.com/studio/estudio-gole) — Sao Paulo, Brazil · Branding, Packaging, Interactive/Digital
 - [Estudio Mendue](https://justadesignlist.com/studio/estudio-mendue) — Madrid, Spain · Branding, Graphic Design, Interactive/Digital
 - [Estudio Republica](https://justadesignlist.com/studio/estudio-republica) — Malaga, Spain · Graphic Design, Illustration, Packaging
+- [eTypes](https://justadesignlist.com/studio/etypes) — Copenhagen, Denmark · Branding, Interactive/Digital, Advertising/Campaigns, Typography
 - [Everland](https://justadesignlist.com/studio/everland) — Copenhagen, Denmark · Oslo, Norway · Branding, Packaging
 - [Evers + de Gier](https://justadesignlist.com/studio/evers-de-gier) — Rotterdam, The Netherlands · Branding, Interactive/Digital
 - [Everything Studio](https://justadesignlist.com/studio/everything-studio) — New York, USA · Graphic Design, Interactive/Digital
@@ -1346,6 +1348,7 @@ The List
 - [The Office of Ordinary Things](https://justadesignlist.com/studio/the-office-of-ordinary-things) — San Francisco, USA · Branding, Graphic Design, Interactive/Digital, Packaging, Motion
 - [The Royal Studio](https://justadesignlist.com/studio/the-royal-studio) — Berlin, Germany · Porto, Portugal · Graphic Design
 - [The Studio](https://justadesignlist.com/studio/the-studio) — Stockholm, Spain · Branding, Interactive/Digital, Packaging
+- [THIRD HORIZON Studios®](https://justadesignlist.com/studio/third-horizon-studios) — London, England · Branding, Graphic Design, Motion, Interactive/Digital
 - [This Design](https://justadesignlist.com/studio/this-design) — Portland, USA · Branding, Graphic Design, Interactive/Digital, Packaging, Advertising/Campaigns
 - [This is Pacifica](https://justadesignlist.com/studio/this-is-pacifica) — Porto, Portugal · Branding, Interactive/Digital, Packaging, Motion, Typography
 - [Thought & Found](https://justadesignlist.com/studio/thought-and-found) — Melbourne, Australia · Branding, Interactive/Digital, Illustration, Packaging

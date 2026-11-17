@@ -1,12 +1,12 @@
 ---
 title: "Something — Branding, London, England · Just a Design List"
-description: "Something: branding, graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2024."
+description: "Something: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/something"
 ---
 
 # Something
 
-Something: branding, graphic design and interactive/digital practice based in London, England. One of 194 studios from London on Just a Design List, added in October 2024.
+Something: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** London, New South Wales

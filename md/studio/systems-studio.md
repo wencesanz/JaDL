@@ -1,12 +1,12 @@
 ---
 title: "Systems Studio — Branding, London, England · Just a Design List"
-description: "Systems Studio: branding, interactive/digital and packaging practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023."
+description: "Systems Studio: branding, interactive/digital and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/systems-studio"
 ---
 
 # Systems Studio
 
-Systems Studio: branding, interactive/digital and packaging practice based in London, England. One of 194 studios from London on Just a Design List, added in June 2023.
+Systems Studio: branding, interactive/digital and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging
 - **City:** London

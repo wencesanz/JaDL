@@ -1,12 +1,12 @@
 ---
 title: "Hvass&Hannibal — Graphic Design, Copenhagen, Denmark · Just a Design List"
-description: "Hvass&Hannibal: graphic design, branding and illustration practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in June 2023."
+description: "Hvass&Hannibal: graphic design, branding and illustration practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/hvassandhannibal"
 ---
 
 # Hvass&Hannibal
 
-Hvass&Hannibal: graphic design, branding and illustration practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in June 2023.
+Hvass&Hannibal: graphic design, branding and illustration practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding, Illustration
 - **City:** Copenhagen

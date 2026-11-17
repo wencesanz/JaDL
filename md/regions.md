@@ -12,11 +12,11 @@ Browse
 
 - [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (384)
 - [North America](https://justadesignlist.com/region/north-america) (344)
-- [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (238)
+- [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (239)
 - [Iberia](https://justadesignlist.com/region/iberia) (202)
-- [Nordics](https://justadesignlist.com/region/nordics) (109)
+- [Nordics](https://justadesignlist.com/region/nordics) (110)
 - [Oceania](https://justadesignlist.com/region/oceania) (93)
-- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (92)
+- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (93)
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "Hugmun — Graphic Design, Copenhagen, Denmark · Just a Design List"
-description: "Hugmun: graphic design, branding and interactive/digital practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in May 2023."
+description: "Hugmun: graphic design, branding and interactive/digital practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/hugmun"
 ---
 
 # Hugmun
 
-Hugmun: graphic design, branding and interactive/digital practice based in Copenhagen, Denmark. One of 32 studios from Copenhagen on Just a Design List, added in May 2023.
+Hugmun: graphic design, branding and interactive/digital practice based in Copenhagen, Denmark. One of 33 studios from Copenhagen on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding, Interactive/Digital, Illustration, Packaging
 - **City:** Copenhagen
