@@ -1,5 +1,5 @@
 ---
-title: "Industrial Design design studios · Just a Design List"
+title: "Industrial Design studios · Just a Design List"
 description: "11 independent studios and designers working in industrial design, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/industrial-design"
 ---

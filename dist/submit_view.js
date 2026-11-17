@@ -82,6 +82,7 @@ function SubmitView() {
     if (hp) {
       setSending(false);
       setSent(true);
+      window.jadlTrack && window.jadlTrack("submit_studio");
       return;
     }
     const payload = {
@@ -112,6 +113,7 @@ function SubmitView() {
         throw new Error(data.errors && data.errors.map((x) => x.message).join(", ") || `Request failed (${res.status})`);
       }
       setSent(true);
+      window.jadlTrack && window.jadlTrack("submit_studio");
     } catch (err) {
       console.error("submit failed", err);
       setErrMsg(err.message);

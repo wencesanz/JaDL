@@ -72,7 +72,7 @@ function collCopy(kind, value, n) {
     const low = value.toLowerCase();
     return {
       h1: value,
-      title: `${value} design studios · Just a Design List`,
+      title: `${/design$/i.test(value) ? value : value + " design"} studios · Just a Design List`,
       desc: `${n} independent ${plural} and designers working in ${low}, collected in the Just a Design List index. Browse by country and city.`
     };
   }

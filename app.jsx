@@ -283,7 +283,7 @@ function setMeta(route) {
   let image = null;
   let robots = null;
   let jsonld = [];
-  const url = SITE_BASE + routeToPath(route);
+  let url = SITE_BASE + routeToPath(route);
   if (route.view === "studio") {
     const s = (d.studios || []).find(x => x.name === route.name);
     if (s) {
@@ -299,15 +299,22 @@ function setMeta(route) {
     jsonld = [websiteLd(desc)];
   } else if (route.view === "studios") {
     const f = route.filter || {};
+    // A filtered list shows the same studios as the matching collection page:
+    // same title, and the canonical points there, so analytics and search
+    // engines count them as one page.
+    const slug = v => window.collSlugify ? window.collSlugify(v) : String(v).toLowerCase().replace(/[^a-z0-9]+/g, "-");
     if (f.cat) {
-      title = `${f.cat} — design studios · Just a Design List`;
+      title = `${/design$/i.test(f.cat) ? f.cat : f.cat + " design"} studios · Just a Design List`;
       desc = `Design studios and independent practices working in ${f.cat.toLowerCase()}.`;
+      url = `${SITE_BASE}/discipline/${slug(f.cat)}`;
     } else if (f.country) {
       title = `Design studios in ${f.country} · Just a Design List`;
       desc = `Independent design practices based in ${f.country}.`;
+      url = `${SITE_BASE}/country/${slug(f.country)}`;
     } else if (f.city) {
       title = `Design studios in ${f.city} · Just a Design List`;
       desc = `Independent design practices based in ${f.city}.`;
+      url = `${SITE_BASE}/city/${slug(f.city)}`;
     } else {
       title = "All studios · Just a Design List";
       desc = "Browse the full index of design studios and independent designers.";
