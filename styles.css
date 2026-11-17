@@ -1848,3 +1848,7 @@ html.qs-lock { overflow: hidden; }
 .list-qr-link { display: block; font-family: var(--mono); font-size: 11px; color: var(--mute); overflow-wrap: anywhere; text-decoration: none; }
 .list-qr-link:hover { color: var(--accent-text); }
 @media (max-width: 600px) { .list-qr { grid-template-columns: 1fr; justify-items: start; } }
+
+/* Click-sound toggle (sits between search and theme) */
+.search-toggle + .sound-toggle, .sound-toggle + .theme-toggle { margin-left: 8px; }
+.sound-toggle[aria-pressed="false"] { color: var(--mute); }
