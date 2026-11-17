@@ -12,6 +12,8 @@ City
 
 9 independent design studios based in Porto, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Graphic Design studios in Porto](https://justadesignlist.com/city/porto/graphic-design) (6), [Branding design studios in Porto](https://justadesignlist.com/city/porto/branding) (5), [Interactive/Digital design studios in Porto](https://justadesignlist.com/city/porto/interactive-digital) (5)
+
 - [327](https://justadesignlist.com/studio/327) — Porto, Portugal
 - [and atelier](https://justadesignlist.com/studio/and-atelier) — Porto, Portugal
 - [Another Collective](https://justadesignlist.com/studio/another-collective) — Porto, Portugal

@@ -12,6 +12,8 @@ Country
 
 48 independent design studios and practices based in Sweden. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Sweden](https://justadesignlist.com/country/sweden/branding) (42), [Interactive/Digital design studios in Sweden](https://justadesignlist.com/country/sweden/interactive-digital) (25), [Graphic Design studios in Sweden](https://justadesignlist.com/country/sweden/graphic-design) (23), [Packaging design studios in Sweden](https://justadesignlist.com/country/sweden/packaging) (14), [Motion design studios in Sweden](https://justadesignlist.com/country/sweden/motion) (8), [Typography design studios in Sweden](https://justadesignlist.com/country/sweden/typography) (7)
+
 - [25AH](https://justadesignlist.com/studio/25ah) — Stockholm, Sweden
 - [Add Studio](https://justadesignlist.com/studio/add-studio) — Stockholm, Sweden
 - [AGoodId](https://justadesignlist.com/studio/agoodid) — Stockholm, Sweden

@@ -12,6 +12,8 @@ City
 
 12 independent design studios based in Glasgow, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Glasgow](https://justadesignlist.com/city/glasgow/branding) (11), [Graphic Design studios in Glasgow](https://justadesignlist.com/city/glasgow/graphic-design) (7)
+
 - [Classmate Studio](https://justadesignlist.com/studio/classmate-studio) — Helsinki, Budapest, Glasgow, Finland, Hungary, Scotland
 - [Freytag Anderson](https://justadesignlist.com/studio/freytag-anderson) — Glasgow, Oban, Scotland
 - [Graphical House](https://justadesignlist.com/studio/graphical-house) — Glasgow, Scotland

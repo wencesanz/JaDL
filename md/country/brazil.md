@@ -12,6 +12,8 @@ Country
 
 13 independent design studios and practices based in Brazil. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Brazil](https://justadesignlist.com/country/brazil/branding) (10), [Packaging design studios in Brazil](https://justadesignlist.com/country/brazil/packaging) (7), [Graphic Design studios in Brazil](https://justadesignlist.com/country/brazil/graphic-design) (6), [Interactive/Digital design studios in Brazil](https://justadesignlist.com/country/brazil/interactive-digital) (6)
+
 - [Essentis](https://justadesignlist.com/studio/essentis) — Porto Alegre, Brazil
 - [ESTUDIO CRU](https://justadesignlist.com/studio/estudio-cru) — Rio de Janeiro, Brazil
 - [Estúdio Gole](https://justadesignlist.com/studio/estudio-gole) — Sao Paulo, Brazil

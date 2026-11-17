@@ -12,6 +12,8 @@ City
 
 6 independent design studios based in Brussels, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Brussels](https://justadesignlist.com/city/brussels/branding) (6), [Interactive/Digital design studios in Brussels](https://justadesignlist.com/city/brussels/interactive-digital) (5)
+
 - [Base](https://justadesignlist.com/studio/base) — New York, Brussels, Genève, Melbourne, Saigon, USA, Belgium, Switzerland, Australia, Vietnam
 - [Coast](https://justadesignlist.com/studio/coast) — Brussels, Belgium
 - [Erretres](https://justadesignlist.com/studio/erretres) — Madrid, Brussels, Spain, Belgium

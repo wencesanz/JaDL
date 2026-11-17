@@ -12,6 +12,8 @@ City
 
 15 independent design studios based in Hamburg, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Hamburg](https://justadesignlist.com/city/hamburg/branding) (12), [Graphic Design studios in Hamburg](https://justadesignlist.com/city/hamburg/graphic-design) (10), [Interactive/Digital design studios in Hamburg](https://justadesignlist.com/city/hamburg/interactive-digital) (8), [Typography design studios in Hamburg](https://justadesignlist.com/city/hamburg/typography) (6), [Packaging design studios in Hamburg](https://justadesignlist.com/city/hamburg/packaging) (5)
+
 - [Bareis + Nicolaus](https://justadesignlist.com/studio/bareis-nicolaus) — Hamburg, Stuttgart, Germany
 - [EIGA](https://justadesignlist.com/studio/eiga) — Hamburg, Germany
 - [Hyperfocus](https://justadesignlist.com/studio/hyperfocus) — Hamburg, Germany

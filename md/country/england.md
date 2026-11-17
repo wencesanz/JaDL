@@ -12,6 +12,8 @@ Country
 
 242 independent design studios and practices based in England. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in England](https://justadesignlist.com/country/england/branding) (208), [Graphic Design studios in England](https://justadesignlist.com/country/england/graphic-design) (137), [Interactive/Digital design studios in England](https://justadesignlist.com/country/england/interactive-digital) (129), [Packaging design studios in England](https://justadesignlist.com/country/england/packaging) (62), [Motion design studios in England](https://justadesignlist.com/country/england/motion) (49), [Advertising/Campaigns design studios in England](https://justadesignlist.com/country/england/advertising-campaigns) (35), [Typography design studios in England](https://justadesignlist.com/country/england/typography) (32), [Illustration design studios in England](https://justadesignlist.com/country/england/illustration) (18)
+
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
 - [20(SOMETHING)](https://justadesignlist.com/studio/20-something) — London, England

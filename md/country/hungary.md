@@ -12,6 +12,8 @@ Country
 
 5 independent design studios and practices based in Hungary. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Hungary](https://justadesignlist.com/country/hungary/branding) (5)
+
 - [Classmate Studio](https://justadesignlist.com/studio/classmate-studio) — Helsinki, Budapest, Glasgow, Finland, Hungary, Scotland
 - [Comet](https://justadesignlist.com/studio/comet) — Budapest, Hungary
 - [L²](https://justadesignlist.com/studio/l2) — Budapest, Hungary

@@ -12,6 +12,8 @@ City
 
 28 independent design studios based in Montreal, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Montreal](https://justadesignlist.com/city/montreal/branding) (22), [Graphic Design studios in Montreal](https://justadesignlist.com/city/montreal/graphic-design) (17), [Interactive/Digital design studios in Montreal](https://justadesignlist.com/city/montreal/interactive-digital) (12), [Packaging design studios in Montreal](https://justadesignlist.com/city/montreal/packaging) (9), [Advertising/Campaigns design studios in Montreal](https://justadesignlist.com/city/montreal/advertising-campaigns) (6)
+
 - [Applied Archive Atelier](https://justadesignlist.com/studio/applied-archive-atelier) — Montreal, Canada
 - [AWP](https://justadesignlist.com/studio/awp) — Montreal, Canada
 - [Baillat Studio](https://justadesignlist.com/studio/baillat-studio) — Montreal, Canada

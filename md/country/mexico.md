@@ -12,6 +12,8 @@ Country
 
 15 independent design studios and practices based in Mexico. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Mexico](https://justadesignlist.com/country/mexico/branding) (14), [Graphic Design studios in Mexico](https://justadesignlist.com/country/mexico/graphic-design) (11), [Packaging design studios in Mexico](https://justadesignlist.com/country/mexico/packaging) (9), [Interactive/Digital design studios in Mexico](https://justadesignlist.com/country/mexico/interactive-digital) (6)
+
 - [Anagrama](https://justadesignlist.com/studio/anagrama) — Mexico City, Monterrey, Tokyo, USA, Mexico, Japan
 - [Atla](https://justadesignlist.com/studio/atla) — Austin, Mexico City, Caracas, Lima, Tijuana, USA, Mexico, Venezuela, Peru
 - [BonTemps](https://justadesignlist.com/studio/bontemps) — Mexico City, Mexico

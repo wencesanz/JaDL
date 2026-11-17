@@ -12,6 +12,8 @@ City
 
 6 independent design studios based in Graz, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Graz](https://justadesignlist.com/city/graz/branding) (6), [Graphic Design studios in Graz](https://justadesignlist.com/city/graz/graphic-design) (5), [Interactive/Digital design studios in Graz](https://justadesignlist.com/city/graz/interactive-digital) (5)
+
 - [Diemling](https://justadesignlist.com/studio/diemling) — Graz, Austria
 - [RAWTY](https://justadesignlist.com/studio/rawty) — Graz, Austria
 - [Studio Bruch](https://justadesignlist.com/studio/studio-bruch) — Graz, Austria

@@ -12,6 +12,8 @@ City
 
 31 independent design studios based in Sydney, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Sydney](https://justadesignlist.com/city/sydney/branding) (27), [Interactive/Digital design studios in Sydney](https://justadesignlist.com/city/sydney/interactive-digital) (15), [Graphic Design studios in Sydney](https://justadesignlist.com/city/sydney/graphic-design) (14), [Motion design studios in Sydney](https://justadesignlist.com/city/sydney/motion) (11), [Packaging design studios in Sydney](https://justadesignlist.com/city/sydney/packaging) (9)
+
 - [ACCOMPANY](https://justadesignlist.com/studio/accompany) — Sydney, Australia
 - [Andrew Suggit](https://justadesignlist.com/studio/andrew-suggit) — Sydney, Australia
 - [BUCK](https://justadesignlist.com/studio/buck) — Los Angeles, New York, London, Amsterdam, Sydney, USA, England, The Netherlands, Australia

@@ -12,6 +12,8 @@ Country
 
 62 independent design studios and practices based in The Netherlands. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in The Netherlands](https://justadesignlist.com/country/the-netherlands/branding) (49), [Interactive/Digital design studios in The Netherlands](https://justadesignlist.com/country/the-netherlands/interactive-digital) (34), [Graphic Design studios in The Netherlands](https://justadesignlist.com/country/the-netherlands/graphic-design) (26), [Motion design studios in The Netherlands](https://justadesignlist.com/country/the-netherlands/motion) (12), [Packaging design studios in The Netherlands](https://justadesignlist.com/country/the-netherlands/packaging) (10), [Advertising/Campaigns design studios in The Netherlands](https://justadesignlist.com/country/the-netherlands/advertising-campaigns) (5)
+
 - [27b](https://justadesignlist.com/studio/27b) — Amsterdam, The Netherlands
 - [Adoratorio Studio](https://justadesignlist.com/studio/adoratorio-studio) — Brescia, Amsterdam, Italy, The Netherlands
 - [analogue](https://justadesignlist.com/studio/analogue) — Amsterdam, The Netherlands

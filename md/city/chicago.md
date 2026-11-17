@@ -12,6 +12,8 @@ City
 
 13 independent design studios based in Chicago, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Chicago](https://justadesignlist.com/city/chicago/branding) (11), [Packaging design studios in Chicago](https://justadesignlist.com/city/chicago/packaging) (5)
+
 - [50,000feet](https://justadesignlist.com/studio/50-000feet) — Chicago, New York, USA
 - [Aperitif](https://justadesignlist.com/studio/aperitif) — Chicago, USA
 - [Applied arts](https://justadesignlist.com/studio/applied-arts) — Stevensville, New York, Chicago, Los Angeles, USA

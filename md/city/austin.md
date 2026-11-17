@@ -12,6 +12,8 @@ City
 
 6 independent design studios based in Austin, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Austin](https://justadesignlist.com/city/austin/branding) (5), [Graphic Design studios in Austin](https://justadesignlist.com/city/austin/graphic-design) (5)
+
 - [Atla](https://justadesignlist.com/studio/atla) — Austin, Mexico City, Caracas, Lima, Tijuana, USA, Mexico, Venezuela, Peru
 - [Clay](https://justadesignlist.com/studio/clay) — San Francisco, New York, Austin, Denver, Lisbon, Belgrade, USA, Portugal, Serbia
 - [Goodside](https://justadesignlist.com/studio/goodside) — Austin, USA

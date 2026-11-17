@@ -12,6 +12,8 @@ Country
 
 91 independent design studios and practices based in Australia. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Australia](https://justadesignlist.com/country/australia/branding) (81), [Interactive/Digital design studios in Australia](https://justadesignlist.com/country/australia/interactive-digital) (51), [Graphic Design studios in Australia](https://justadesignlist.com/country/australia/graphic-design) (46), [Packaging design studios in Australia](https://justadesignlist.com/country/australia/packaging) (26), [Motion design studios in Australia](https://justadesignlist.com/country/australia/motion) (24), [Advertising/Campaigns design studios in Australia](https://justadesignlist.com/country/australia/advertising-campaigns) (14), [Illustration design studios in Australia](https://justadesignlist.com/country/australia/illustration) (9), [Typography design studios in Australia](https://justadesignlist.com/country/australia/typography) (6)
+
 - [A Friend of Mine](https://justadesignlist.com/studio/a-friend-of-mine) — Melbourne, Australia
 - [ACCOMPANY](https://justadesignlist.com/studio/accompany) — Sydney, Australia
 - [AKLR](https://justadesignlist.com/studio/aklr) — Melbourne, Australia

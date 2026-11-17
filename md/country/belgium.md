@@ -12,6 +12,8 @@ Country
 
 20 independent design studios and practices based in Belgium. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Belgium](https://justadesignlist.com/country/belgium/branding) (18), [Graphic Design studios in Belgium](https://justadesignlist.com/country/belgium/graphic-design) (11), [Interactive/Digital design studios in Belgium](https://justadesignlist.com/country/belgium/interactive-digital) (10), [Packaging design studios in Belgium](https://justadesignlist.com/country/belgium/packaging) (10), [Motion design studios in Belgium](https://justadesignlist.com/country/belgium/motion) (5), [Typography design studios in Belgium](https://justadesignlist.com/country/belgium/typography) (5)
+
 - [Base](https://justadesignlist.com/studio/base) — New York, Brussels, Genève, Melbourne, Saigon, USA, Belgium, Switzerland, Australia, Vietnam
 - [Celta](https://justadesignlist.com/studio/celta) — Antwerp, Belgium
 - [Coast](https://justadesignlist.com/studio/coast) — Brussels, Belgium

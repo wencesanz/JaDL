@@ -12,6 +12,8 @@ City
 
 15 independent design studios based in Munich, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Munich](https://justadesignlist.com/city/munich/branding) (9), [Interactive/Digital design studios in Munich](https://justadesignlist.com/city/munich/interactive-digital) (9), [Graphic Design studios in Munich](https://justadesignlist.com/city/munich/graphic-design) (8)
+
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
 - [Bureau Borsche](https://justadesignlist.com/studio/bureau-borsche) — Munich, Germany
 - [Bureau Burger](https://justadesignlist.com/studio/bureau-burger) — Munich, Germany

@@ -12,6 +12,8 @@ City
 
 6 independent design studios based in Prague, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Graphic Design studios in Prague](https://justadesignlist.com/city/prague/graphic-design) (5)
+
 - [Ashfall Studio](https://justadesignlist.com/studio/ashfall-studio) — Prague, Czech Republic
 - [Humbleteam](https://justadesignlist.com/studio/humbleteam) — Prague, Czech Republic
 - [Jiri Mocek](https://justadesignlist.com/studio/jiri-mocek) — Prague, Czech Republic

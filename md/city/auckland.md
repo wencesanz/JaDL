@@ -12,6 +12,8 @@ City
 
 10 independent design studios based in Auckland, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Auckland](https://justadesignlist.com/city/auckland/branding) (9), [Interactive/Digital design studios in Auckland](https://justadesignlist.com/city/auckland/interactive-digital) (8), [Packaging design studios in Auckland](https://justadesignlist.com/city/auckland/packaging) (6)
+
 - [1 of 1 Studio](https://justadesignlist.com/studio/1-of-1-studio) — Auckland, New Zealand
 - [Benek](https://justadesignlist.com/studio/benek) — Auckland, New Zealand
 - [Heart](https://justadesignlist.com/studio/heart) — Auckland, New Zealand

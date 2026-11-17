@@ -12,6 +12,8 @@ Country
 
 84 independent design studios and practices based in France. A curated index — browse by city and discipline.
 
+By discipline: [Graphic Design studios in France](https://justadesignlist.com/country/france/graphic-design) (57), [Branding design studios in France](https://justadesignlist.com/country/france/branding) (54), [Interactive/Digital design studios in France](https://justadesignlist.com/country/france/interactive-digital) (41), [Packaging design studios in France](https://justadesignlist.com/country/france/packaging) (15), [Typography design studios in France](https://justadesignlist.com/country/france/typography) (14), [Motion design studios in France](https://justadesignlist.com/country/france/motion) (9), [Advertising/Campaigns design studios in France](https://justadesignlist.com/country/france/advertising-campaigns) (9), [Illustration design studios in France](https://justadesignlist.com/country/france/illustration) (6)
+
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
 - [adaaap](https://justadesignlist.com/studio/adaaap) — Bordeaux, France
 - [Akatre](https://justadesignlist.com/studio/akatre) — Paris, France

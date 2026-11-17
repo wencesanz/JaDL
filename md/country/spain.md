@@ -12,6 +12,8 @@ Country
 
 199 independent design studios and practices based in Spain. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Spain](https://justadesignlist.com/country/spain/branding) (153), [Graphic Design studios in Spain](https://justadesignlist.com/country/spain/graphic-design) (143), [Packaging design studios in Spain](https://justadesignlist.com/country/spain/packaging) (79), [Interactive/Digital design studios in Spain](https://justadesignlist.com/country/spain/interactive-digital) (74), [Motion design studios in Spain](https://justadesignlist.com/country/spain/motion) (25), [Typography design studios in Spain](https://justadesignlist.com/country/spain/typography) (22), [Illustration design studios in Spain](https://justadesignlist.com/country/spain/illustration) (18), [Advertising/Campaigns design studios in Spain](https://justadesignlist.com/country/spain/advertising-campaigns) (12)
+
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one) — Madrid, Spain
 - [Andrei Robu Studio](https://justadesignlist.com/studio/andrei-robu-studio) — Barcelona, Spain
 - [Ang Studio®](https://justadesignlist.com/studio/ang-studio) — Bilbao, Spain

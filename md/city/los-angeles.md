@@ -12,6 +12,8 @@ City
 
 55 independent design studios based in Los Angeles, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/branding) (43), [Graphic Design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/graphic-design) (31), [Interactive/Digital design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/interactive-digital) (22), [Packaging design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/packaging) (20), [Motion design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/motion) (16), [Advertising/Campaigns design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/advertising-campaigns) (6)
+
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
 - [Andre do Amaral](https://justadesignlist.com/studio/andre-do-amaral) — Los Angeles, USA
 - [Applied arts](https://justadesignlist.com/studio/applied-arts) — Stevensville, New York, Chicago, Los Angeles, USA

@@ -12,6 +12,8 @@ City
 
 6 independent design studios based in Seattle, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Seattle](https://justadesignlist.com/city/seattle/branding) (5)
+
 - [Big Spaceship](https://justadesignlist.com/studio/big-spaceship) — New York, Seattle, USA
 - [Chloe Scheffe](https://justadesignlist.com/studio/chloe-scheffe) — Seattle, USA
 - [Civilization](https://justadesignlist.com/studio/civilization) — Seattle, USA

@@ -12,6 +12,8 @@ City
 
 16 independent design studios based in Milan, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Milan](https://justadesignlist.com/city/milan/branding) (14), [Graphic Design studios in Milan](https://justadesignlist.com/city/milan/graphic-design) (12), [Interactive/Digital design studios in Milan](https://justadesignlist.com/city/milan/interactive-digital) (10), [Packaging design studios in Milan](https://justadesignlist.com/city/milan/packaging) (8)
+
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
 - [Apart](https://justadesignlist.com/studio/apart) — Milan, Italy
 - [Calibro](https://justadesignlist.com/studio/calibro) — Milan, Italy

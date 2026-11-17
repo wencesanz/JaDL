@@ -12,6 +12,8 @@ City
 
 11 independent design studios based in Tokyo, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Tokyo](https://justadesignlist.com/city/tokyo/branding) (11), [Graphic Design studios in Tokyo](https://justadesignlist.com/city/tokyo/graphic-design) (6), [Interactive/Digital design studios in Tokyo](https://justadesignlist.com/city/tokyo/interactive-digital) (6)
+
 - [AD&D](https://justadesignlist.com/studio/adandd) — Tokyo, Japan
 - [Anagrama](https://justadesignlist.com/studio/anagrama) — Mexico City, Monterrey, Tokyo, USA, Mexico, Japan
 - [ANDMADE Inc.](https://justadesignlist.com/studio/andmade-inc) — Tokyo, Japan

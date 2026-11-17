@@ -95,6 +95,32 @@ function collCopy(kind, value, n) {
     desc: `${n} independent design ${plural} based in ${value}, from the Just a Design List index. Browse by discipline.`
   };
 }
+// Discipline within a place ("Branding studios in Berlin"). These pages exist
+// (and are prerendered) only when the combination has COMBO_MIN studios.
+const COMBO_MIN = 5;
+const COMBO_KINDS = ["city", "country"];
+function collHasField(s, field, v) {
+  return String(s[field] || "").split(",").map(x => x.trim()).includes(v);
+}
+function collComboStudios(kind, place, disc) {
+  return collStudiosFor(kind, place).filter(s => collHasField(s, "category", disc));
+}
+function collComboExists(kind, place, disc) {
+  return COMBO_KINDS.includes(kind) && collComboStudios(kind, place, disc).length >= COMBO_MIN;
+}
+function collComboSlugToValue(kind, place, slug) {
+  const cats = Object.keys((window.SITE || {}).byCat || {});
+  const disc = cats.find(c => collSlugify(c) === slug);
+  return disc && collComboExists(kind, place, disc) ? disc : null;
+}
+function collComboCopy(kind, place, disc, n) {
+  const what = /design$/i.test(disc) ? disc : disc + " design";
+  return {
+    h1: `${disc} in ${place}`,
+    title: `${what} studios in ${place} · Just a Design List`,
+    desc: `${n} independent ${n === 1 ? "studio" : "studios"} working in ${disc.toLowerCase()} in ${place}, from the Just a Design List index.`
+  };
+}
 function CollChips({
   items,
   onPick
@@ -153,11 +179,12 @@ function CollStudioList({
 function CollectionView({
   kind,
   value,
+  sub,
   go
 }) {
   const d = window.SITE || {};
   const cfg = COLLECTION_KINDS[kind];
-  const studios = useCollMm(() => collStudiosFor(kind, value).sort((a, b) => (a.name || "").localeCompare(b.name || "")), [kind, value]);
+  const studios = useCollMm(() => (sub ? collComboStudios(kind, value, sub) : collStudiosFor(kind, value)).sort((a, b) => (a.name || "").localeCompare(b.name || "")), [kind, value, sub]);
   const facets = useCollMm(() => {
     const disc = {},
       countries = {},
@@ -169,11 +196,11 @@ function CollectionView({
     }
     const rank = (obj, exclude) => Object.entries(obj).filter(([k]) => k !== exclude).sort((a, b) => b[1] - a[1]);
     return {
-      disc: rank(disc, kind === "discipline" ? value : null),
+      disc: rank(disc, kind === "discipline" ? value : sub || null),
       countries: rank(countries, kind === "country" ? value : null),
       cities: rank(cities, kind === "city" ? value : null)
     };
-  }, [studios, kind, value]);
+  }, [studios, kind, value, sub]);
   if (!value) {
     return React.createElement("div", {
       className: "view wrap",
@@ -194,12 +221,21 @@ function CollectionView({
       }
     }, "\u2190 Back to the index"));
   }
-  const copy = collCopy(kind, value, studios.length);
+  const copy = sub ? collComboCopy(kind, value, sub, studios.length) : collCopy(kind, value, studios.length);
   return React.createElement("div", {
     className: "view wrap"
   }, React.createElement("div", {
     className: "pd-topbar"
-  }, React.createElement("button", {
+  }, sub ? React.createElement("button", {
+    onClick: () => go("collection", {
+      kind,
+      value
+    }),
+    className: "back-btn",
+    "aria-label": `All studios in ${value}`
+  }, React.createElement("span", {
+    className: "arr"
+  }, "\u2190"), React.createElement("span", null, "All studios in ", value)) : React.createElement("button", {
     onClick: () => go("collectionHub", {
       kind: cfg.plural
     }),
@@ -212,7 +248,7 @@ function CollectionView({
     style: {
       marginTop: 8
     }
-  }, React.createElement("div", null, React.createElement(Eyebrow, null, React.createElement("span", null, cfg.label)), React.createElement("h2", {
+  }, React.createElement("div", null, React.createElement(Eyebrow, null, React.createElement("span", null, sub ? `${cfg.label} \u00B7 ${sub}` : cfg.label)), React.createElement("h2", {
     role: "heading", "aria-level": 1, 
     style: {
       marginTop: 14
@@ -226,7 +262,7 @@ function CollectionView({
       fontSize: 20,
       lineHeight: 1.5
     }
-  }, studios.length, " design ", studios.length === 1 ? "studio" : "studios", kind === "city" || kind === "country" || kind === "region" ? " based here" : " in the index", "."), React.createElement("a", {
+  }, studios.length, " ", sub ? sub.toLowerCase() + " " : "design ", studios.length === 1 ? "studio" : "studios", kind === "city" || kind === "country" || kind === "region" ? " based here" : " in the index", "."), sub ? null : React.createElement("a", {
     className: "coll-feed",
     href: `/feeds/${cfg.singular}/${collSlugify(value)}.xml`,
     target: "_blank",
@@ -237,10 +273,14 @@ function CollectionView({
     "aria-hidden": "true"
   }, window.jadlArrowNE ? window.jadlArrowNE() : "\u2197")))), React.createElement("div", {
     className: "coll-facets"
-  }, kind !== "discipline" && facets.disc.length > 0 && React.createElement("div", null, React.createElement("div", {
+  }, kind !== "discipline" && !sub && facets.disc.length > 0 && React.createElement("div", null, React.createElement("div", {
     className: "lbl"
   }, "By discipline"), React.createElement(CollChips, {
-    items: facets.disc.slice(0, 12).map(([c, n]) => [c, n, () => go("collection", {
+    items: facets.disc.slice(0, 12).map(([c, n]) => [c, n, () => go("collection", !sub && collComboExists(kind, value, c) ? {
+      kind,
+      value,
+      sub: c
+    } : {
       kind: "discipline",
       value: c
     })])
@@ -333,6 +373,10 @@ Object.assign(window, {
   collSlugToValue,
   collStudiosFor,
   collCopy,
+  collComboStudios,
+  collComboExists,
+  collComboSlugToValue,
+  collComboCopy,
   CollectionView,
   CollectionHubView
 });

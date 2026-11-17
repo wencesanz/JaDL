@@ -12,6 +12,8 @@ City
 
 171 independent design studios based in New York, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in New York](https://justadesignlist.com/city/new-york/branding) (139), [Graphic Design studios in New York](https://justadesignlist.com/city/new-york/graphic-design) (94), [Interactive/Digital design studios in New York](https://justadesignlist.com/city/new-york/interactive-digital) (84), [Packaging design studios in New York](https://justadesignlist.com/city/new-york/packaging) (49), [Motion design studios in New York](https://justadesignlist.com/city/new-york/motion) (28), [Typography design studios in New York](https://justadesignlist.com/city/new-york/typography) (27), [Advertising/Campaigns design studios in New York](https://justadesignlist.com/city/new-york/advertising-campaigns) (14), [Illustration design studios in New York](https://justadesignlist.com/city/new-york/illustration) (8)
+
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
 - [2 x 4](https://justadesignlist.com/studio/2-x-4) — New York, Beijing, USA, China

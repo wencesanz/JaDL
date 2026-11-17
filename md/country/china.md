@@ -12,6 +12,8 @@ Country
 
 18 independent design studios and practices based in China. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in China](https://justadesignlist.com/country/china/branding) (16), [Packaging design studios in China](https://justadesignlist.com/country/china/packaging) (12), [Graphic Design studios in China](https://justadesignlist.com/country/china/graphic-design) (10), [Interactive/Digital design studios in China](https://justadesignlist.com/country/china/interactive-digital) (6)
+
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [2 x 4](https://justadesignlist.com/studio/2-x-4) — New York, Beijing, USA, China
 - [alonglongtime](https://justadesignlist.com/studio/alonglongtime) — Hong Kong, China

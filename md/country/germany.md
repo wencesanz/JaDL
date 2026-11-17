@@ -12,6 +12,8 @@ Country
 
 100 independent design studios and practices based in Germany. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Germany](https://justadesignlist.com/country/germany/branding) (70), [Graphic Design studios in Germany](https://justadesignlist.com/country/germany/graphic-design) (64), [Interactive/Digital design studios in Germany](https://justadesignlist.com/country/germany/interactive-digital) (52), [Typography design studios in Germany](https://justadesignlist.com/country/germany/typography) (22), [Packaging design studios in Germany](https://justadesignlist.com/country/germany/packaging) (21), [Motion design studios in Germany](https://justadesignlist.com/country/germany/motion) (14), [Advertising/Campaigns design studios in Germany](https://justadesignlist.com/country/germany/advertising-campaigns) (12), [Illustration design studios in Germany](https://justadesignlist.com/country/germany/illustration) (8)
+
 - [1042](https://justadesignlist.com/studio/1042) — Düsseldorf, Germany
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
 - [AN® an.jetzt](https://justadesignlist.com/studio/an-an-jetzt) — Berlin, Germany

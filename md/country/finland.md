@@ -12,6 +12,8 @@ Country
 
 20 independent design studios and practices based in Finland. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Finland](https://justadesignlist.com/country/finland/branding) (19), [Graphic Design studios in Finland](https://justadesignlist.com/country/finland/graphic-design) (11), [Interactive/Digital design studios in Finland](https://justadesignlist.com/country/finland/interactive-digital) (11), [Packaging design studios in Finland](https://justadesignlist.com/country/finland/packaging) (8), [Motion design studios in Finland](https://justadesignlist.com/country/finland/motion) (6)
+
 - [(Studio) Lotta Nieminen](https://justadesignlist.com/studio/studio-lotta-nieminen) — Helsinki, Finland
 - [20/20](https://justadesignlist.com/studio/20-20) — Helsinki, Finland
 - [Alvan](https://justadesignlist.com/studio/alvan) — Helsinki, Finland

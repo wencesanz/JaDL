@@ -12,6 +12,8 @@ Country
 
 15 independent design studios and practices based in Scotland. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Scotland](https://justadesignlist.com/country/scotland/branding) (14), [Graphic Design studios in Scotland](https://justadesignlist.com/country/scotland/graphic-design) (9), [Packaging design studios in Scotland](https://justadesignlist.com/country/scotland/packaging) (6), [Interactive/Digital design studios in Scotland](https://justadesignlist.com/country/scotland/interactive-digital) (5)
+
 - [Classmate Studio](https://justadesignlist.com/studio/classmate-studio) — Helsinki, Budapest, Glasgow, Finland, Hungary, Scotland
 - [Covers](https://justadesignlist.com/studio/covers) — Edinburgh, Scotland
 - [Freytag Anderson](https://justadesignlist.com/studio/freytag-anderson) — Glasgow, Oban, Scotland

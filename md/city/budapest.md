@@ -12,6 +12,8 @@ City
 
 5 independent design studios based in Budapest, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Budapest](https://justadesignlist.com/city/budapest/branding) (5)
+
 - [Classmate Studio](https://justadesignlist.com/studio/classmate-studio) — Helsinki, Budapest, Glasgow, Finland, Hungary, Scotland
 - [Comet](https://justadesignlist.com/studio/comet) — Budapest, Hungary
 - [L²](https://justadesignlist.com/studio/l2) — Budapest, Hungary

@@ -12,6 +12,8 @@ Country
 
 13 independent design studios and practices based in Argentina. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Argentina](https://justadesignlist.com/country/argentina/branding) (9), [Packaging design studios in Argentina](https://justadesignlist.com/country/argentina/packaging) (6), [Graphic Design studios in Argentina](https://justadesignlist.com/country/argentina/graphic-design) (5), [Interactive/Digital design studios in Argentina](https://justadesignlist.com/country/argentina/interactive-digital) (5)
+
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
 - [Asís](https://justadesignlist.com/studio/asis) — Buenos Aires, Argentina
 - [Boostep](https://justadesignlist.com/studio/boostep) — Mar del Plata, Argentina

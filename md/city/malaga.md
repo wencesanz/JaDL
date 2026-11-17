@@ -12,6 +12,8 @@ City
 
 7 independent design studios based in Malaga, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Graphic Design studios in Malaga](https://justadesignlist.com/city/malaga/graphic-design) (6), [Branding design studios in Malaga](https://justadesignlist.com/city/malaga/branding) (5)
+
 - [bRIDA®](https://justadesignlist.com/studio/brida) — Malaga, Spain
 - [creanet](https://justadesignlist.com/studio/creanet) — Malaga, Spain
 - [Emele Collab](https://justadesignlist.com/studio/emele-collab) — Malaga, Spain

@@ -12,6 +12,8 @@ City
 
 11 independent design studios based in Genève, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Graphic Design studios in Genève](https://justadesignlist.com/city/geneve/graphic-design) (9), [Branding design studios in Genève](https://justadesignlist.com/city/geneve/branding) (5)
+
 - [Base](https://justadesignlist.com/studio/base) — New York, Brussels, Genève, Melbourne, Saigon, USA, Belgium, Switzerland, Australia, Vietnam
 - [Cécile + Roger](https://justadesignlist.com/studio/cecile-roger) — Genève, Switzerland
 - [DIA](https://justadesignlist.com/studio/dia) — New York, Genève, USA, Switzerland

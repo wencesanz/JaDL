@@ -12,6 +12,8 @@ City
 
 73 independent design studios based in Paris, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Graphic Design studios in Paris](https://justadesignlist.com/city/paris/graphic-design) (48), [Branding design studios in Paris](https://justadesignlist.com/city/paris/branding) (47), [Interactive/Digital design studios in Paris](https://justadesignlist.com/city/paris/interactive-digital) (33), [Typography design studios in Paris](https://justadesignlist.com/city/paris/typography) (12), [Packaging design studios in Paris](https://justadesignlist.com/city/paris/packaging) (11), [Motion design studios in Paris](https://justadesignlist.com/city/paris/motion) (9), [Advertising/Campaigns design studios in Paris](https://justadesignlist.com/city/paris/advertising-campaigns) (9), [Illustration design studios in Paris](https://justadesignlist.com/city/paris/illustration) (6)
+
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
 - [Akatre](https://justadesignlist.com/studio/akatre) — Paris, France
 - [Antoine Peltier](https://justadesignlist.com/studio/antoine-peltier) — Paris, France

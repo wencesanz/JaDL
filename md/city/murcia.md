@@ -12,6 +12,8 @@ City
 
 5 independent design studios based in Murcia, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Murcia](https://justadesignlist.com/city/murcia/branding) (5), [Graphic Design studios in Murcia](https://justadesignlist.com/city/murcia/graphic-design) (5)
+
 - [Fellas](https://justadesignlist.com/studio/fellas) — Murcia, Spain
 - [Omni Design](https://justadesignlist.com/studio/omni-design) — Murcia, Spain
 - [Rubio & Del Amo](https://justadesignlist.com/studio/rubio-and-del-amo) — Murcia, Spain

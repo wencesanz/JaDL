@@ -12,6 +12,8 @@ City
 
 6 independent design studios based in Gothenburg, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Gothenburg](https://justadesignlist.com/city/gothenburg/branding) (6)
+
 - [Aino](https://justadesignlist.com/studio/aino) — Gothenburg, Oslo, Sweden, Norway
 - [Aoki](https://justadesignlist.com/studio/aoki) — Gothenburg, Sweden
 - [F&B Happy](https://justadesignlist.com/studio/fandb-happy) — Gothenburg, Sweden

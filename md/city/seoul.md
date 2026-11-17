@@ -12,6 +12,8 @@ City
 
 12 independent design studios based in Seoul, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Graphic Design studios in Seoul](https://justadesignlist.com/city/seoul/graphic-design) (10), [Branding design studios in Seoul](https://justadesignlist.com/city/seoul/branding) (7), [Interactive/Digital design studios in Seoul](https://justadesignlist.com/city/seoul/interactive-digital) (5)
+
 - [HAUS ARDORYOUTH](https://justadesignlist.com/studio/haus-ardoryouth) — Seoul, South Korea
 - [HuskyFox](https://justadesignlist.com/studio/huskyfox) — Seoul, South Korea
 - [Jaemin Lee](https://justadesignlist.com/studio/jaemin-lee) — Seoul, South Korea

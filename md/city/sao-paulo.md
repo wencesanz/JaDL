@@ -12,6 +12,8 @@ City
 
 7 independent design studios based in Sao Paulo, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Sao Paulo](https://justadesignlist.com/city/sao-paulo/branding) (5), [Packaging design studios in Sao Paulo](https://justadesignlist.com/city/sao-paulo/packaging) (5)
+
 - [Estúdio Gole](https://justadesignlist.com/studio/estudio-gole) — Sao Paulo, Brazil
 - [Glauber Sampaio](https://justadesignlist.com/studio/glauber-sampaio) — Sao Paulo, Brazil
 - [Gustavo Faria](https://justadesignlist.com/studio/gustavo-faria) — Sao Paulo, Brazil

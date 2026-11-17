@@ -12,6 +12,8 @@ City
 
 13 independent design studios based in Lisbon, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Lisbon](https://justadesignlist.com/city/lisbon/branding) (13), [Interactive/Digital design studios in Lisbon](https://justadesignlist.com/city/lisbon/interactive-digital) (8), [Graphic Design studios in Lisbon](https://justadesignlist.com/city/lisbon/graphic-design) (8)
+
 - [Clay](https://justadesignlist.com/studio/clay) — San Francisco, New York, Austin, Denver, Lisbon, Belgrade, USA, Portugal, Serbia
 - [Desisto](https://justadesignlist.com/studio/desisto) — Lisbon, Portugal
 - [Elisabeth Kiviorg](https://justadesignlist.com/studio/elisabeth-kiviorg) — Lisbon, Portugal

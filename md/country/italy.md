@@ -12,6 +12,8 @@ Country
 
 32 independent design studios and practices based in Italy. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Italy](https://justadesignlist.com/country/italy/branding) (29), [Graphic Design studios in Italy](https://justadesignlist.com/country/italy/graphic-design) (24), [Interactive/Digital design studios in Italy](https://justadesignlist.com/country/italy/interactive-digital) (21), [Packaging design studios in Italy](https://justadesignlist.com/country/italy/packaging) (15), [Typography design studios in Italy](https://justadesignlist.com/country/italy/typography) (6)
+
 - [2VSN Studio](https://justadesignlist.com/studio/2vsn-studio) — Brescia, Italy
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
 - [Adoratorio Studio](https://justadesignlist.com/studio/adoratorio-studio) — Brescia, Amsterdam, Italy, The Netherlands

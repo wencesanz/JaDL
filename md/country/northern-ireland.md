@@ -12,6 +12,8 @@ Country
 
 5 independent design studios and practices based in Northern Ireland. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Northern Ireland](https://justadesignlist.com/country/northern-ireland/branding) (5)
+
 - [Allies](https://justadesignlist.com/studio/allies) — Belfast, Northern Ireland
 - [Angel & Anchor](https://justadesignlist.com/studio/angel-and-anchor) — Belfast, Northern Ireland
 - [Clever Ghost](https://justadesignlist.com/studio/clever-ghost) — Holywood, Northern Ireland

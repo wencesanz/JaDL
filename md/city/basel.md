@@ -12,6 +12,8 @@ City
 
 5 independent design studios based in Basel, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Graphic Design studios in Basel](https://justadesignlist.com/city/basel/graphic-design) (5)
+
 - [Claudiabasel](https://justadesignlist.com/studio/claudiabasel) — Basel, Switzerland
 - [Début Début](https://justadesignlist.com/studio/debut-debut) — Basel, Switzerland
 - [Ludovic Balland](https://justadesignlist.com/studio/ludovic-balland) — Basel, Switzerland

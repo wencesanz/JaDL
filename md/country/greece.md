@@ -12,6 +12,8 @@ Country
 
 16 independent design studios and practices based in Greece. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Greece](https://justadesignlist.com/country/greece/branding) (15), [Graphic Design studios in Greece](https://justadesignlist.com/country/greece/graphic-design) (12), [Interactive/Digital design studios in Greece](https://justadesignlist.com/country/greece/interactive-digital) (12), [Packaging design studios in Greece](https://justadesignlist.com/country/greece/packaging) (7)
+
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
 - [AG Design Agency](https://justadesignlist.com/studio/ag-design-agency) — Athens, Greece
 - [Another Practice](https://justadesignlist.com/studio/another-practice) — Athens, Greece

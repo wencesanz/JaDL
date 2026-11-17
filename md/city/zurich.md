@@ -12,6 +12,8 @@ City
 
 21 independent design studios based in Zurich, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Graphic Design studios in Zurich](https://justadesignlist.com/city/zurich/graphic-design) (17), [Branding design studios in Zurich](https://justadesignlist.com/city/zurich/branding) (13), [Interactive/Digital design studios in Zurich](https://justadesignlist.com/city/zurich/interactive-digital) (10), [Packaging design studios in Zurich](https://justadesignlist.com/city/zurich/packaging) (6)
+
 - [AHOY](https://justadesignlist.com/studio/ahoy) — New York, Zurich, USA, Switzerland
 - [Atelier Maève](https://justadesignlist.com/studio/atelier-maeve) — Zurich, Switzerland
 - [Badesaison](https://justadesignlist.com/studio/badesaison) — Zurich, Switzerland

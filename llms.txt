@@ -17,7 +17,7 @@ All data is public and read-only. Please link back to the studio page on justade
 
 - [All studios, A–Z](https://justadesignlist.com/studios)
 - Studio page: `/studio/<slug>`, where slug is the name in lowercase ASCII with non-alphanumerics as hyphens and "&" as "and".
-- By place: `/city/<slug>`, `/country/<slug>`, `/region/<slug>` (regions: Iberia, UK & Ireland, North America, Nordics, Oceania, Rest of Europe, Rest of the world).
+- By place: `/city/<slug>`, `/country/<slug>`, `/region/<slug>`; a discipline within a city or country, when it has 5+ studios: `/city/<slug>/<discipline>`, e.g. /city/berlin/branding (regions: Iberia, UK & Ireland, North America, Nordics, Oceania, Rest of Europe, Rest of the world).
 - By discipline: `/discipline/<slug>` — see [the nine disciplines](https://justadesignlist.com/categories).
 - [Geography](https://justadesignlist.com/geography), [About / colophon](https://justadesignlist.com/about).
 

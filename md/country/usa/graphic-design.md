@@ -1,0 +1,196 @@
+---
+title: "Graphic Design studios in USA · Just a Design List"
+description: "178 independent studios working in graphic design in USA, from the Just a Design List index."
+url: "https://justadesignlist.com/country/usa/graphic-design"
+---
+
+[All studios in USA](https://justadesignlist.com/country/usa) · [All Graphic Design studios](https://justadesignlist.com/discipline/graphic-design)
+
+Country · Graphic Design
+
+# Graphic Design in USA
+
+178 independent studios working in graphic design in USA, from the Just a Design List index.
+
+- [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
+- [7D8](https://justadesignlist.com/studio/7d8) — Salt Lake City, USA
+- [Aaron Lowell Denton](https://justadesignlist.com/studio/aaron-lowell-denton) — Bloomington, USA
+- [Acquazzone](https://justadesignlist.com/studio/acquazzone) — San Francisco, USA
+- [Actual Source](https://justadesignlist.com/studio/actual-source) — Provo, USA
+- [Adam Ho, I.S.P.](https://justadesignlist.com/studio/adam-ho-i-s-p) — New York, USA
+- [AHOY](https://justadesignlist.com/studio/ahoy) — New York, Zurich, USA, Switzerland
+- [Alexander Shoukas](https://justadesignlist.com/studio/alexander-shoukas) — New York, USA
+- [All True](https://justadesignlist.com/studio/all-true) — Springfield, USA
+- [Alvaro Dominguez](https://justadesignlist.com/studio/alvaro-dominguez) — New York, USA
+- [Andre do Amaral](https://justadesignlist.com/studio/andre-do-amaral) — Los Angeles, USA
+- [ANTIANTI](https://justadesignlist.com/studio/antianti) — New York, USA
+- [Arce Studio](https://justadesignlist.com/studio/arce-studio) — Madrid, New York, Spain, USA
+- [Arctic Research](https://justadesignlist.com/studio/arctic-research) — USA
+- [Atla](https://justadesignlist.com/studio/atla) — Austin, Mexico City, Caracas, Lima, Tijuana, USA, Mexico, Venezuela, Peru
+- [Axel Peemöller](https://justadesignlist.com/studio/axel-peemoller) — New York, USA
+- [BAD Studio](https://justadesignlist.com/studio/bad-studio) — New York, USA
+- [Base](https://justadesignlist.com/studio/base) — New York, Brussels, Genève, Melbourne, Saigon, USA, Belgium, Switzerland, Australia, Vietnam
+- [Ben Fehrman-Lee](https://justadesignlist.com/studio/ben-fehrman-lee) — New York, USA
+- [Bethany Heck](https://justadesignlist.com/studio/bethany-heck) — New York, USA
+- [Better Half](https://justadesignlist.com/studio/better-half) — New York, USA
+- [Blurr Bureau](https://justadesignlist.com/studio/blurr-bureau) — New York, Melbourne, USA, Australia
+- [Carpenter Collective](https://justadesignlist.com/studio/carpenter-collective) — Kansas City, USA
+- [CASE Agency](https://justadesignlist.com/studio/case-agency) — New York, Los Angeles, USA
+- [Chaoqun Wang](https://justadesignlist.com/studio/chaoqun-wang) — New York, USA
+- [Chloe Scheffe](https://justadesignlist.com/studio/chloe-scheffe) — Seattle, USA
+- [Christopher A. Ritter](https://justadesignlist.com/studio/christopher-a-ritter) — Covington, USA
+- [Cina Associates](https://justadesignlist.com/studio/cina-associates) — Minneapolis, USA
+- [Civilization](https://justadesignlist.com/studio/civilization) — Seattle, USA
+- [Clay](https://justadesignlist.com/studio/clay) — San Francisco, New York, Austin, Denver, Lisbon, Belgrade, USA, Portugal, Serbia
+- [Clay Boan](https://justadesignlist.com/studio/clay-boan) — New York, USA
+- [CLUB](https://justadesignlist.com/studio/club) — Los Angeles, USA
+- [Cold Cuts](https://justadesignlist.com/studio/cold-cuts) — New York, USA
+- [COMMON NAME](https://justadesignlist.com/studio/common-name) — New York, USA
+- [Company Policy](https://justadesignlist.com/studio/company-policy) — New York, USA
+- [Convicts](https://justadesignlist.com/studio/convicts) — New York, Los Angeles, Byron Bay, USA, Australia
+- [Counter](https://justadesignlist.com/studio/counter) — Orlando, USA
+- [Crown Creative](https://justadesignlist.com/studio/crown-creative) — New York, London, Belfast, USA, England, Northern Ireland
+- [Crystal Zapata](https://justadesignlist.com/studio/crystal-zapata) — Chicago, USA
+- [Cul De Sac Studio](https://justadesignlist.com/studio/cul-de-sac-studio) — Los Angeles, USA
+- [D. Kim](https://justadesignlist.com/studio/d-kim) — San Francisco, USA
+- [Daikoku Design Institute](https://justadesignlist.com/studio/daikoku-design-institute) — Los Angeles, Tokyo, USA, Japan
+- [Daniel Brokstad](https://justadesignlist.com/studio/daniel-brokstad) — New York, USA
+- [DIA](https://justadesignlist.com/studio/dia) — New York, Genève, USA, Switzerland
+- [DNCO](https://justadesignlist.com/studio/dnco) — London, New York, England, USA
+- [Domino New York](https://justadesignlist.com/studio/domino-new-york) — New York, USA
+- [DoThings](https://justadesignlist.com/studio/dothings) — New York, Los Angeles, Paris, USA, France
+- [Eddie Mandell](https://justadesignlist.com/studio/eddie-mandell) — New York, USA
+- [edition.studio](https://justadesignlist.com/studio/edition-studio) — New York, USA
+- [ELLA](https://justadesignlist.com/studio/ella) — Los Angeles, USA
+- [Elvis Benicio](https://justadesignlist.com/studio/elvis-benicio) — San Francisco, USA
+- [Emily Klaebe](https://justadesignlist.com/studio/emily-klaebe) — Portland, USA
+- [Eric Hu studio](https://justadesignlist.com/studio/eric-hu-studio) — New York, USA
+- [Erik Jonsson](https://justadesignlist.com/studio/erik-jonsson) — San Francisco, USA
+- [Everything Studio](https://justadesignlist.com/studio/everything-studio) — New York, USA
+- [Farbod Kokabi](https://justadesignlist.com/studio/farbod-kokabi) — San Francisco, USA
+- [FAY](https://justadesignlist.com/studio/fay) — New York, USA
+- [Feel For](https://justadesignlist.com/studio/feel-for) — San Diego, USA
+- [Fix Studio](https://justadesignlist.com/studio/fix-studio) — New York, USA
+- [For Office Use Only](https://justadesignlist.com/studio/for-office-use-only) — New York, USA
+- [Gabe Ferreira](https://justadesignlist.com/studio/gabe-ferreira) — San Francisco, USA
+- [Garrett Elizabeth Office](https://justadesignlist.com/studio/garrett-elizabeth-office) — New York, USA
+- [Graphic Services](https://justadesignlist.com/studio/graphic-services) — New York, USA
+- [Graphis Dept.](https://justadesignlist.com/studio/graphis-dept) — New York, USA
+- [Hybrid Design](https://justadesignlist.com/studio/hybrid-design) — San Francisco, USA
+- [Hype Type Studio](https://justadesignlist.com/studio/hype-type-studio) — Los Angeles, USA
+- [In-House Intl](https://justadesignlist.com/studio/in-house-intl) — Austin, USA
+- [Industry](https://justadesignlist.com/studio/industry) — Portland, USA
+- [Inventory Form & Content](https://justadesignlist.com/studio/inventory-form-and-content) — Los Angeles, USA
+- [itm.graphics](https://justadesignlist.com/studio/itm-graphics) — USA
+- [Jack McEntee](https://justadesignlist.com/studio/jack-mcentee) — Los Angeles, USA
+- [Jason Schulte Design](https://justadesignlist.com/studio/jason-schulte-design) — San Francisco, USA
+- [Javas Lehn Studio](https://justadesignlist.com/studio/javas-lehn-studio) — New York, USA
+- [Jekyll](https://justadesignlist.com/studio/jekyll) — Kansas City, USA
+- [Joe Perez](https://justadesignlist.com/studio/joe-perez) — Rhode Island, USA
+- [Joyce N. Ho](https://justadesignlist.com/studio/joyce-n-ho) — New York, USA
+- [Jump Jirakaweekul](https://justadesignlist.com/studio/jump-jirakaweekul) — New York, USA
+- [Justin Hunt Sloane](https://justadesignlist.com/studio/justin-hunt-sloane) — Los Angeles, USA
+- [Kendall Henderson](https://justadesignlist.com/studio/kendall-henderson) — New York, USA
+- [Kiku Obata & Company](https://justadesignlist.com/studio/kiku-obata-and-company) — St. Louis, London, USA, England
+- [Kristina Bartošová](https://justadesignlist.com/studio/kristina-bartosova) — New York, USA
+- [Kurppa Hosk](https://justadesignlist.com/studio/kurppa-hosk) — Stockholm, New York, Sweden, USA
+- [L’Étude](https://justadesignlist.com/studio/l-etude) — Los Angeles, USA
+- [Landscape](https://justadesignlist.com/studio/landscape) — San Francisco, USA
+- [LDLR](https://justadesignlist.com/studio/ldlr) — San Jose, USA
+- [Lower Westside Design Company](https://justadesignlist.com/studio/lower-westside-design-company) — Palm Beach Gardens, USA
+- [Lucy Andersen](https://justadesignlist.com/studio/lucy-andersen) — New York, USA
+- [Manual](https://justadesignlist.com/studio/manual) — San Francisco, USA
+- [Marc Atlan Design](https://justadesignlist.com/studio/marc-atlan-design) — Los Angeles, USA
+- [Marek Nedelka](https://justadesignlist.com/studio/marek-nedelka) — New York, USA
+- [Margot Lévêque](https://justadesignlist.com/studio/margot-leveque) — New York, USA
+- [Marina Zertuche](https://justadesignlist.com/studio/marina-zertuche) — Austin, USA
+- [Matt van Leeuwen](https://justadesignlist.com/studio/matt-van-leeuwen) — New York, USA
+- [Matt Wiley](https://justadesignlist.com/studio/matt-wiley) — New York, USA
+- [Melia Tandiono](https://justadesignlist.com/studio/melia-tandiono) — New York, USA
+- [Melody Digital](https://justadesignlist.com/studio/melody-digital) — Los Angeles, USA
+- [Mike Krol](https://justadesignlist.com/studio/mike-krol) — Los Angeles, USA
+- [Miska Studio](https://justadesignlist.com/studio/miska-studio) — New York, USA
+- [Moniker](https://justadesignlist.com/studio/moniker) — San Francisco, USA
+- [monopo](https://justadesignlist.com/studio/monopo) — London, Tokyo, Paris, New York, England, Japan, France, USA
+- [Movetic](https://justadesignlist.com/studio/movetic) — San Diego, USA
+- [New Studio](https://justadesignlist.com/studio/new-studio) — New York, Miami, USA
+- [Noah Baker Studio](https://justadesignlist.com/studio/noah-baker-studio) — New York, USA
+- [Noah Beckwith](https://justadesignlist.com/studio/noah-beckwith) — New York, USA
+- [Non-Format](https://justadesignlist.com/studio/non-format) — Oslo, Twin Cities, Norway, USA
+- [Non-Objective](https://justadesignlist.com/studio/non-objective) — Seoul, New York, South Korea, USA
+- [NR2154](https://justadesignlist.com/studio/nr2154) — New York, Copenhagen, Paris, USA, Denmark, France
+- [Object-Matter](https://justadesignlist.com/studio/object-matter) — Los Angeles, USA
+- [Old Friend](https://justadesignlist.com/studio/old-friend) — Portland, USA
+- [One Design Company](https://justadesignlist.com/studio/one-design-company) — Chicago, USA
+- [order](https://justadesignlist.com/studio/order) — New York, USA
+- [Ordinary People](https://justadesignlist.com/studio/ordinary-people) — Seoul, New York, South Korea, USA
+- [OTM©](https://justadesignlist.com/studio/otm) — New York, USA
+- [P – K](https://justadesignlist.com/studio/p-k) — Los Angeles, Seoul, USA, South Korea
+- [Parámetro Studio](https://justadesignlist.com/studio/parametro-studio) — Monterrey, New York, Paris, Madrid, Mexico, USA, France, Spain
+- [Partner & Partners](https://justadesignlist.com/studio/partner-and-partners) — New York, USA
+- [Pedro Del Corro](https://justadesignlist.com/studio/pedro-del-corro) — New York, USA
+- [Perky Bros](https://justadesignlist.com/studio/perky-bros) — Nashville, USA
+- [Perron](https://justadesignlist.com/studio/perron) — Los Angeles, USA
+- [Platform](https://justadesignlist.com/studio/platform) — Chicago, USA
+- [Play](https://justadesignlist.com/studio/play) — San Francisco, USA
+- [Porto Rocha](https://justadesignlist.com/studio/porto-rocha) — New York, USA
+- [Practise](https://justadesignlist.com/studio/practise) — Providence, USA
+- [Public-Library](https://justadesignlist.com/studio/public-library) — Los Angeles, USA
+- [Qingyu Wu](https://justadesignlist.com/studio/qingyu-wu) — New York, ShangHai, USA, China
+- [Rachel Quan](https://justadesignlist.com/studio/rachel-quan) — New York, USA
+- [Rareview®](https://justadesignlist.com/studio/rareview) — San Clemente, USA
+- [Rationale](https://justadesignlist.com/studio/rationale) — Seattle, USA
+- [Relic](https://justadesignlist.com/studio/relic) — Nashville, USA
+- [RoAndCo](https://justadesignlist.com/studio/roandco) — New York, Los Angeles, USA
+- [Roger Schami](https://justadesignlist.com/studio/roger-schami) — Los Angeles, USA
+- [Rolando Castillo](https://justadesignlist.com/studio/rolando-castillo) — Los Angeles, USA
+- [Ryan Huntsinger](https://justadesignlist.com/studio/ryan-huntsinger) — Oakland, USA
+- [Saint Urbain](https://justadesignlist.com/studio/saint-urbain) — Los Angeles, Mexico City, Montreal, New York, USA, Canada, Mexico
+- [Saint-Lazare](https://justadesignlist.com/studio/saint-lazare) — Paris, New York, France, USA
+- [Sandstrom Partners](https://justadesignlist.com/studio/sandstrom-partners) — Portland, USA
+- [Sasha Denisova](https://justadesignlist.com/studio/sasha-denisova) — New York, USA
+- [Savvy](https://justadesignlist.com/studio/savvy) — Mexico City, New York, Mexico, USA
+- [Scorpion Rose Studio](https://justadesignlist.com/studio/scorpion-rose-studio) — Detroit, USA
+- [Sergio Martínez](https://justadesignlist.com/studio/sergio-martinez) — Portland, USA
+- [Skinny Ships](https://justadesignlist.com/studio/skinny-ships) — Portland, USA
+- [Some Days](https://justadesignlist.com/studio/some-days) — New York, Berkeley, USA
+- [Special Offer, Inc](https://justadesignlist.com/studio/special-offer-inc) — New York, USA
+- [STAGECREW](https://justadesignlist.com/studio/stagecrew) — USA
+- [Stefanie Brückler Studio](https://justadesignlist.com/studio/stefanie-bruckler-studio) — New York, USA
+- [Studia Studio](https://justadesignlist.com/studio/studia-studio) — Jersey City, USA
+- [Studio & Marie](https://justadesignlist.com/studio/studio-and-marie) — New York, USA
+- [Studio Anthony Lane](https://justadesignlist.com/studio/studio-anthony-lane) — Minneapolis, USA
+- [Studio Elana Schlenker](https://justadesignlist.com/studio/studio-elana-schlenker) — New York, USA
+- [Studio Gonzalo Hergueta](https://justadesignlist.com/studio/studio-gonzalo-hergueta) — New York, USA
+- [Studio NMW](https://justadesignlist.com/studio/studio-nmw) — New York, USA
+- [Studio Paradise](https://justadesignlist.com/studio/studio-paradise) — Los Angeles, USA
+- [Sunny Tianqing Li](https://justadesignlist.com/studio/sunny-tianqing-li) — Santa Clara, USA
+- [Super Keen](https://justadesignlist.com/studio/super-keen) — New York, USA
+- [Superexpresso](https://justadesignlist.com/studio/superexpresso) — Austin, USA
+- [Team](https://justadesignlist.com/studio/team) — New York, USA
+- [The Collected Works](https://justadesignlist.com/studio/the-collected-works) — New York, New Orleans, USA
+- [The New Company](https://justadesignlist.com/studio/the-new-company) — Los Angeles, San Francisco, USA
+- [The Office of Ordinary Things](https://justadesignlist.com/studio/the-office-of-ordinary-things) — San Francisco, USA
+- [This Design](https://justadesignlist.com/studio/this-design) — Portland, USA
+- [Tractorbeam](https://justadesignlist.com/studio/tractorbeam) — Dallas, USA
+- [Triboro](https://justadesignlist.com/studio/triboro) — New York, USA
+- [unfun](https://justadesignlist.com/studio/unfun) — Berlin, New York, Germany, USA
+- [Verena Michelitsch](https://justadesignlist.com/studio/verena-michelitsch) — New York, USA
+- [Violet Office](https://justadesignlist.com/studio/violet-office) — Los Angeles, New York, USA
+- [Virgile Flores](https://justadesignlist.com/studio/virgile-flores) — New York, USA
+- [visual dialogue](https://justadesignlist.com/studio/visual-dialogue) — Boston, USA
+- [W—E studio](https://justadesignlist.com/studio/w-e-studio) — Zurich, New York, Switzerland, USA
+- [WAS](https://justadesignlist.com/studio/was) — Los Angeles, USA
+- [Watson](https://justadesignlist.com/studio/watson) — New York, London, England, USA
+- [Wedge](https://justadesignlist.com/studio/wedge) — Montreal, Los Angeles, Canada, USA
+- [William Hall](https://justadesignlist.com/studio/william-hall) — London, Los Angeles, New York, Istanbul, England, USA, Turkey
+- [WØRKS](https://justadesignlist.com/studio/w-rks) — New York, USA
+- [Worksbyworks Studio](https://justadesignlist.com/studio/worksbyworks-studio) — New York, ShangHai, USA, China
+- [XKM Studio](https://justadesignlist.com/studio/xkm-studio) — New York, USA
+- [YENCE Studio](https://justadesignlist.com/studio/yence-studio) — Tübingen, Los Angeles, Germany, USA
+- [Yihuang Zhou](https://justadesignlist.com/studio/yihuang-zhou) — New York, USA
+- [YummyColours](https://justadesignlist.com/studio/yummycolours) — New York, Copenhagen, USA, Denmark
+
+---
+
+From [Just a Design List](https://justadesignlist.com/), a hand-edited index of design studios. All entries as JSON: https://justadesignlist.com/studios.json

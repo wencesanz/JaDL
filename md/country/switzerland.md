@@ -12,6 +12,8 @@ Country
 
 58 independent design studios and practices based in Switzerland. A curated index — browse by city and discipline.
 
+By discipline: [Graphic Design studios in Switzerland](https://justadesignlist.com/country/switzerland/graphic-design) (49), [Branding design studios in Switzerland](https://justadesignlist.com/country/switzerland/branding) (30), [Interactive/Digital design studios in Switzerland](https://justadesignlist.com/country/switzerland/interactive-digital) (23), [Typography design studios in Switzerland](https://justadesignlist.com/country/switzerland/typography) (14), [Packaging design studios in Switzerland](https://justadesignlist.com/country/switzerland/packaging) (11), [Motion design studios in Switzerland](https://justadesignlist.com/country/switzerland/motion) (9)
+
 - [AHOY](https://justadesignlist.com/studio/ahoy) — New York, Zurich, USA, Switzerland
 - [Aris Zenone](https://justadesignlist.com/studio/aris-zenone) — Lausanne, Switzerland
 - [Atelier Maève](https://justadesignlist.com/studio/atelier-maeve) — Zurich, Switzerland

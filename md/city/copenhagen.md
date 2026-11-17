@@ -12,6 +12,8 @@ City
 
 33 independent design studios based in Copenhagen, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Copenhagen](https://justadesignlist.com/city/copenhagen/branding) (29), [Interactive/Digital design studios in Copenhagen](https://justadesignlist.com/city/copenhagen/interactive-digital) (18), [Graphic Design studios in Copenhagen](https://justadesignlist.com/city/copenhagen/graphic-design) (17), [Packaging design studios in Copenhagen](https://justadesignlist.com/city/copenhagen/packaging) (7), [Motion design studios in Copenhagen](https://justadesignlist.com/city/copenhagen/motion) (6)
+
 - [28K Studio](https://justadesignlist.com/studio/28k-studio) — Copenhagen, Denmark
 - [All the Way to Paris](https://justadesignlist.com/studio/all-the-way-to-paris) — Copenhagen, Denmark
 - [Astrae Studio](https://justadesignlist.com/studio/astrae-studio) — Copenhagen, Denmark

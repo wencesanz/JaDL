@@ -12,6 +12,8 @@ City
 
 11 independent design studios based in Valencia, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Graphic Design studios in Valencia](https://justadesignlist.com/city/valencia/graphic-design) (10), [Branding design studios in Valencia](https://justadesignlist.com/city/valencia/branding) (10), [Packaging design studios in Valencia](https://justadesignlist.com/city/valencia/packaging) (5)
+
 - [Carles Rodrigo](https://justadesignlist.com/studio/carles-rodrigo) — Valencia, Spain
 - [Ciprian Bădălan](https://justadesignlist.com/studio/ciprian-badalan) — Valencia, Spain
 - [CuldeSac](https://justadesignlist.com/studio/culdesac) — Valencia, Spain

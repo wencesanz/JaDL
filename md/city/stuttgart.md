@@ -12,6 +12,8 @@ City
 
 8 independent design studios based in Stuttgart, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Graphic Design studios in Stuttgart](https://justadesignlist.com/city/stuttgart/graphic-design) (8), [Branding design studios in Stuttgart](https://justadesignlist.com/city/stuttgart/branding) (7)
+
 - [Bareis + Nicolaus](https://justadesignlist.com/studio/bareis-nicolaus) — Hamburg, Stuttgart, Germany
 - [burkhardthauke](https://justadesignlist.com/studio/burkhardthauke) — Stuttgart, Germany
 - [Hochburg Design](https://justadesignlist.com/studio/hochburg-design) — Stuttgart, Germany

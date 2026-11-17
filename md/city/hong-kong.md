@@ -12,6 +12,8 @@ City
 
 7 independent design studios based in Hong Kong, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Hong Kong](https://justadesignlist.com/city/hong-kong/branding) (7), [Packaging design studios in Hong Kong](https://justadesignlist.com/city/hong-kong/packaging) (5)
+
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [alonglongtime](https://justadesignlist.com/studio/alonglongtime) — Hong Kong, China
 - [BD85BD85](https://justadesignlist.com/studio/bd85bd85) — Hong Kong, London, China, England

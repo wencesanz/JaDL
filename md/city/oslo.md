@@ -12,6 +12,8 @@ City
 
 21 independent design studios based in Oslo, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Oslo](https://justadesignlist.com/city/oslo/branding) (20), [Interactive/Digital design studios in Oslo](https://justadesignlist.com/city/oslo/interactive-digital) (12), [Graphic Design studios in Oslo](https://justadesignlist.com/city/oslo/graphic-design) (7), [Packaging design studios in Oslo](https://justadesignlist.com/city/oslo/packaging) (6)
+
 - [Aino](https://justadesignlist.com/studio/aino) — Gothenburg, Oslo, Sweden, Norway
 - [Bakken & Baeck](https://justadesignlist.com/studio/bakken-and-baeck) — Oslo, Amsterdam, Bonn, London, Barcelona, Norway, The Netherlands, Germany, England, Spain
 - [Ben K. Wallace](https://justadesignlist.com/studio/ben-k-wallace) — Oslo, Norway

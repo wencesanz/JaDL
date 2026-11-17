@@ -12,6 +12,8 @@ Country
 
 7 independent design studios and practices based in United Arab Emirates. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in United Arab Emirates](https://justadesignlist.com/country/united-arab-emirates/branding) (7)
+
 - [Artofmany](https://justadesignlist.com/studio/artofmany) — Barcelona, Dubai, Spain, United Arab Emirates
 - [Bond](https://justadesignlist.com/studio/bond) — Helsinki, Dubai, New York, San Francisco, Finland, United Arab Emirates, USA
 - [Creneau](https://justadesignlist.com/studio/creneau) — Hasselt, Eindhoven, Dubai, Belgium, The Netherlands, United Arab Emirates

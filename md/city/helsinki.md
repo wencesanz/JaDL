@@ -12,6 +12,8 @@ City
 
 20 independent design studios based in Helsinki, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Helsinki](https://justadesignlist.com/city/helsinki/branding) (19), [Graphic Design studios in Helsinki](https://justadesignlist.com/city/helsinki/graphic-design) (11), [Interactive/Digital design studios in Helsinki](https://justadesignlist.com/city/helsinki/interactive-digital) (11), [Packaging design studios in Helsinki](https://justadesignlist.com/city/helsinki/packaging) (8), [Motion design studios in Helsinki](https://justadesignlist.com/city/helsinki/motion) (6)
+
 - [(Studio) Lotta Nieminen](https://justadesignlist.com/studio/studio-lotta-nieminen) — Helsinki, Finland
 - [20/20](https://justadesignlist.com/studio/20-20) — Helsinki, Finland
 - [Alvan](https://justadesignlist.com/studio/alvan) — Helsinki, Finland

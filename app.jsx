@@ -53,7 +53,7 @@ function routeToPath(r) {
     case "collection":
       {
         const cfg = (window.COLLECTION_KINDS || {})[r.kind];
-        return cfg ? `/${cfg.singular}/${slugify(r.value || "")}` : "/";
+        return cfg ? `/${cfg.singular}/${slugify(r.value || "")}${r.sub ? "/" + slugify(r.sub) : ""}` : "/";
       }
     case "collectionHub":
       return `/${r.kind}`;
@@ -102,10 +102,16 @@ function pathToRoute(pathname, search) {
   }
   if (["discipline", "country", "city", "region"].includes(seg) && parts[1]) {
     const value = window.collSlugToValue ? window.collSlugToValue(seg, parts[1]) : null;
+    const sub = value && parts[2] && window.collComboSlugToValue ? window.collComboSlugToValue(seg, value, parts[2]) : null;
+    if (value && parts[2] && !sub) return {
+      view: "notfound",
+      path: pathname
+    };
     return value ? {
       view: "collection",
       kind: seg,
-      value
+      value,
+      ...(sub ? { sub } : {})
     } : {
       view: "notfound",
       path: pathname
@@ -346,8 +352,8 @@ function setMeta(route) {
     desc = `Browse the index of design studios by ${cfg ? cfg.singular : "collection"}. Every ${cfg ? cfg.singular : "collection"} represented across the directory.`;
     jsonld = [breadcrumbLd([["Home", SITE_BASE + "/"], [lp, url]])];
   } else if (route.view === "collection") {
-    const studios = window.collStudiosFor ? window.collStudiosFor(route.kind, route.value) : [];
-    const c = window.collCopy ? window.collCopy(route.kind, route.value, studios.length) : {
+    const studios = route.sub && window.collComboStudios ? window.collComboStudios(route.kind, route.value, route.sub) : window.collStudiosFor ? window.collStudiosFor(route.kind, route.value) : [];
+    const c = route.sub && window.collComboCopy ? window.collComboCopy(route.kind, route.value, route.sub, studios.length) : window.collCopy ? window.collCopy(route.kind, route.value, studios.length) : {
       title,
       desc
     };
@@ -356,7 +362,9 @@ function setMeta(route) {
     if (studios.length < 2) robots = "noindex, follow";
     image = `${SITE_BASE}/api/og?kind=${route.kind}&value=${encodeURIComponent(route.value || "")}&v=1`;
     const cfg = (window.COLLECTION_KINDS || {})[route.kind] || {};
-    jsonld = [collectionLd(title, desc, url, studios), breadcrumbLd([["Home", SITE_BASE + "/"], [cfg.labelPlural || "Collections", SITE_BASE + "/" + (cfg.plural || "")], [route.value, url]])];
+    const crumbs = [["Home", SITE_BASE + "/"], [cfg.labelPlural || "Collections", SITE_BASE + "/" + (cfg.plural || "")], [route.value, route.sub ? `${SITE_BASE}/${cfg.singular}/${slugify(route.value)}` : url]];
+    if (route.sub) crumbs.push([route.sub, url]);
+    jsonld = [collectionLd(title, desc, url, studios), breadcrumbLd(crumbs)];
   }
   document.title = title;
   setRobots(robots);
@@ -413,7 +421,7 @@ function App() {
       top: 0,
       behavior: "instant"
     });
-  }, [ready, route.view, route.name, route.kind, route.value, route.filter?.cat, route.filter?.country, route.filter?.city, route.shared]);
+  }, [ready, route.view, route.name, route.kind, route.value, route.sub, route.filter?.cat, route.filter?.country, route.filter?.city, route.shared]);
   useEffect(() => {
     const onPop = () => setRoute(pathToRoute(window.location.pathname, window.location.search));
     window.addEventListener("popstate", onPop);
@@ -513,8 +521,10 @@ function App() {
       break;
     case "collection":
       body = React.createElement(CollectionView, {
+        key: route.kind + "/" + route.value + "/" + (route.sub || ""),
         kind: route.kind,
         value: route.value,
+        sub: route.sub,
         go: go
       });
       break;

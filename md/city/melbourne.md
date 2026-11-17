@@ -12,6 +12,8 @@ City
 
 51 independent design studios based in Melbourne, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Melbourne](https://justadesignlist.com/city/melbourne/branding) (46), [Interactive/Digital design studios in Melbourne](https://justadesignlist.com/city/melbourne/interactive-digital) (31), [Graphic Design studios in Melbourne](https://justadesignlist.com/city/melbourne/graphic-design) (29), [Packaging design studios in Melbourne](https://justadesignlist.com/city/melbourne/packaging) (15), [Motion design studios in Melbourne](https://justadesignlist.com/city/melbourne/motion) (11), [Advertising/Campaigns design studios in Melbourne](https://justadesignlist.com/city/melbourne/advertising-campaigns) (10), [Illustration design studios in Melbourne](https://justadesignlist.com/city/melbourne/illustration) (5), [Typography design studios in Melbourne](https://justadesignlist.com/city/melbourne/typography) (5)
+
 - [A Friend of Mine](https://justadesignlist.com/studio/a-friend-of-mine) — Melbourne, Australia
 - [AKLR](https://justadesignlist.com/studio/aklr) — Melbourne, Australia
 - [Alter](https://justadesignlist.com/studio/alter) — Melbourne, Australia

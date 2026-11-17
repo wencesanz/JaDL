@@ -12,6 +12,8 @@ City
 
 195 independent design studios based in London, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in London](https://justadesignlist.com/city/london/branding) (167), [Graphic Design studios in London](https://justadesignlist.com/city/london/graphic-design) (111), [Interactive/Digital design studios in London](https://justadesignlist.com/city/london/interactive-digital) (107), [Packaging design studios in London](https://justadesignlist.com/city/london/packaging) (50), [Motion design studios in London](https://justadesignlist.com/city/london/motion) (42), [Advertising/Campaigns design studios in London](https://justadesignlist.com/city/london/advertising-campaigns) (28), [Typography design studios in London](https://justadesignlist.com/city/london/typography) (26), [Illustration design studios in London](https://justadesignlist.com/city/london/illustration) (14)
+
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
 - [20(SOMETHING)](https://justadesignlist.com/studio/20-something) — London, England

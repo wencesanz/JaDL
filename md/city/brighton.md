@@ -12,6 +12,8 @@ City
 
 5 independent design studios based in Brighton, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Brighton](https://justadesignlist.com/city/brighton/branding) (5)
+
 - [Aloof Studio](https://justadesignlist.com/studio/aloof-studio) — Brighton, England
 - [Eighth Day](https://justadesignlist.com/studio/eighth-day) — Brighton, England
 - [Fable & Co.](https://justadesignlist.com/studio/fable-and-co) — Brighton, London, England

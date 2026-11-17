@@ -12,6 +12,8 @@ City
 
 8 independent design studios based in Lausanne, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Graphic Design studios in Lausanne](https://justadesignlist.com/city/lausanne/graphic-design) (5)
+
 - [Aris Zenone](https://justadesignlist.com/studio/aris-zenone) — Lausanne, Switzerland
 - [Balmer Hählen](https://justadesignlist.com/studio/balmer-hahlen) — Lausanne, Switzerland
 - [Bilal Sebei](https://justadesignlist.com/studio/bilal-sebei) — Lausanne, Switzerland

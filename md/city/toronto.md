@@ -12,6 +12,8 @@ City
 
 15 independent design studios based in Toronto, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Toronto](https://justadesignlist.com/city/toronto/branding) (14), [Graphic Design studios in Toronto](https://justadesignlist.com/city/toronto/graphic-design) (10), [Interactive/Digital design studios in Toronto](https://justadesignlist.com/city/toronto/interactive-digital) (8), [Packaging design studios in Toronto](https://justadesignlist.com/city/toronto/packaging) (6)
+
 - [Alina Skyson](https://justadesignlist.com/studio/alina-skyson) — Toronto, Canada
 - [Bruce Mau Design](https://justadesignlist.com/studio/bruce-mau-design) — Toronto, Canada
 - [Concrete](https://justadesignlist.com/studio/concrete) — Toronto, Canada

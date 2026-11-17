@@ -12,6 +12,8 @@ City
 
 8 independent design studios based in Singapore, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Singapore](https://justadesignlist.com/city/singapore/branding) (8), [Graphic Design studios in Singapore](https://justadesignlist.com/city/singapore/graphic-design) (6)
+
 - [Darling](https://justadesignlist.com/studio/darling) — Singapore, Singapore
 - [Do Not Design](https://justadesignlist.com/studio/do-not-design) — Singapore, Singapore
 - [Foreign Policy](https://justadesignlist.com/studio/foreign-policy) — Singapore, Singapore

@@ -12,6 +12,8 @@ City
 
 15 independent design studios based in Vancouver, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Vancouver](https://justadesignlist.com/city/vancouver/branding) (12), [Interactive/Digital design studios in Vancouver](https://justadesignlist.com/city/vancouver/interactive-digital) (9), [Graphic Design studios in Vancouver](https://justadesignlist.com/city/vancouver/graphic-design) (8), [Packaging design studios in Vancouver](https://justadesignlist.com/city/vancouver/packaging) (6)
+
 - [Cossette](https://justadesignlist.com/studio/cossette) — Montreal, Québec, Toronto, Halifax, Vancouver, Canada
 - [Faculty](https://justadesignlist.com/studio/faculty) — Vancouver, Canada
 - [Giant Ant](https://justadesignlist.com/studio/giant-ant) — Vancouver, Australia

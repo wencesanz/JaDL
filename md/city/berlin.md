@@ -12,6 +12,8 @@ City
 
 46 independent design studios based in Berlin, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Berlin](https://justadesignlist.com/city/berlin/branding) (34), [Graphic Design studios in Berlin](https://justadesignlist.com/city/berlin/graphic-design) (28), [Interactive/Digital design studios in Berlin](https://justadesignlist.com/city/berlin/interactive-digital) (25), [Packaging design studios in Berlin](https://justadesignlist.com/city/berlin/packaging) (10), [Typography design studios in Berlin](https://justadesignlist.com/city/berlin/typography) (9), [Advertising/Campaigns design studios in Berlin](https://justadesignlist.com/city/berlin/advertising-campaigns) (6), [Motion design studios in Berlin](https://justadesignlist.com/city/berlin/motion) (5), [Illustration design studios in Berlin](https://justadesignlist.com/city/berlin/illustration) (5)
+
 - [AN® an.jetzt](https://justadesignlist.com/studio/an-an-jetzt) — Berlin, Germany
 - [Autostrada Studios](https://justadesignlist.com/studio/autostrada-studios) — Berlin, Germany
 - [Bureau for Visual Affairs](https://justadesignlist.com/studio/bureau-for-visual-affairs) — London, Berlin, England, Germany

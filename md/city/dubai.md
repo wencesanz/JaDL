@@ -12,6 +12,8 @@ City
 
 6 independent design studios based in Dubai, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Dubai](https://justadesignlist.com/city/dubai/branding) (6)
+
 - [Artofmany](https://justadesignlist.com/studio/artofmany) — Barcelona, Dubai, Spain, United Arab Emirates
 - [Bond](https://justadesignlist.com/studio/bond) — Helsinki, Dubai, New York, San Francisco, Finland, United Arab Emirates, USA
 - [Creneau](https://justadesignlist.com/studio/creneau) — Hasselt, Eindhoven, Dubai, Belgium, The Netherlands, United Arab Emirates

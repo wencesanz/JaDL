@@ -59,7 +59,12 @@ async function convert(file) {
 await rm('md', { recursive: true, force: true });
 const files = (await readdir('.')).filter((f) => f.endsWith('.html') && !SKIP.has(f));
 for (const d of DIRS) {
-  try { for (const f of await readdir(d)) if (f.endsWith('.html')) files.push(`${d}/${f}`); } catch {}
+  try {
+    for (const e of await readdir(d, { withFileTypes: true })) {
+      if (e.isFile() && e.name.endsWith('.html')) files.push(`${d}/${e.name}`);
+      else if (e.isDirectory()) for (const f of await readdir(`${d}/${e.name}`)) if (f.endsWith('.html')) files.push(`${d}/${e.name}/${f}`);
+    }
+  } catch {}
 }
 let n = 0;
 for (const f of files) {

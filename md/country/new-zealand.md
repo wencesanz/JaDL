@@ -12,6 +12,8 @@ Country
 
 18 independent design studios and practices based in New Zealand. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in New Zealand](https://justadesignlist.com/country/new-zealand/branding) (16), [Interactive/Digital design studios in New Zealand](https://justadesignlist.com/country/new-zealand/interactive-digital) (12), [Packaging design studios in New Zealand](https://justadesignlist.com/country/new-zealand/packaging) (9), [Graphic Design studios in New Zealand](https://justadesignlist.com/country/new-zealand/graphic-design) (8)
+
 - [1 of 1 Studio](https://justadesignlist.com/studio/1-of-1-studio) — Auckland, New Zealand
 - [Benek](https://justadesignlist.com/studio/benek) — Auckland, New Zealand
 - [Field of Play](https://justadesignlist.com/studio/field-of-play) — Sydney, Whangārei, Australia, New Zealand

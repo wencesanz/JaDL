@@ -12,6 +12,8 @@ Country
 
 33 independent design studios and practices based in Denmark. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Denmark](https://justadesignlist.com/country/denmark/branding) (29), [Interactive/Digital design studios in Denmark](https://justadesignlist.com/country/denmark/interactive-digital) (18), [Graphic Design studios in Denmark](https://justadesignlist.com/country/denmark/graphic-design) (16), [Packaging design studios in Denmark](https://justadesignlist.com/country/denmark/packaging) (7), [Motion design studios in Denmark](https://justadesignlist.com/country/denmark/motion) (7)
+
 - [28K Studio](https://justadesignlist.com/studio/28k-studio) — Copenhagen, Denmark
 - [All the Way to Paris](https://justadesignlist.com/studio/all-the-way-to-paris) — Copenhagen, Denmark
 - [Astrae Studio](https://justadesignlist.com/studio/astrae-studio) — Copenhagen, Denmark

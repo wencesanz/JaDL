@@ -12,6 +12,8 @@ City
 
 10 independent design studios based in Buenos Aires, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Buenos Aires](https://justadesignlist.com/city/buenos-aires/branding) (7), [Interactive/Digital design studios in Buenos Aires](https://justadesignlist.com/city/buenos-aires/interactive-digital) (5), [Packaging design studios in Buenos Aires](https://justadesignlist.com/city/buenos-aires/packaging) (5)
+
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
 - [Asís](https://justadesignlist.com/studio/asis) — Buenos Aires, Argentina
 - [Hueso](https://justadesignlist.com/studio/hueso) — Buenos Aires, Argentina

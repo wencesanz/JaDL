@@ -12,6 +12,8 @@ City
 
 8 independent design studios based in Warsaw, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Warsaw](https://justadesignlist.com/city/warsaw/branding) (8), [Interactive/Digital design studios in Warsaw](https://justadesignlist.com/city/warsaw/interactive-digital) (5)
+
 - [Dmowski&Co.](https://justadesignlist.com/studio/dmowskiandco) — Warsaw, Lublin, Poland
 - [Grzegorz Sołowiński](https://justadesignlist.com/studio/grzegorz-so-owinski) — Warsaw, Poland
 - [hopa studio](https://justadesignlist.com/studio/hopa-studio) — Warsaw, Poland

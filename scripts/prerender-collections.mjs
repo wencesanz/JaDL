@@ -124,6 +124,29 @@ function copyFor(kind, value, n) {
   };
 }
 
+// Discipline within a place ("Branding studios in Berlin"): only when the
+// combination has COMBO_MIN studios or more. Mirror of collComboCopy() in
+// collections.jsx.
+const COMBO_MIN = 5;
+const COMBO_KINDS = ['city', 'country'];
+function comboTitleWord(disc) { return /design$/i.test(disc) ? disc : disc + ' design'; }
+function comboCopy(kind, place, disc, n) {
+  const what = comboTitleWord(disc);
+  return {
+    h1: `${disc} in ${place}`,
+    title: `${what} studios in ${place} · Just a Design List`,
+    desc: `${n} independent ${n === 1 ? 'studio' : 'studios'} working in ${disc.toLowerCase()} in ${place}, from the Just a Design List index.`,
+  };
+}
+function comboSnapshot(kind, place, disc, studios, copy) {
+  const cfg = KINDS[kind];
+  const items = studios.map((s) => {
+    const loc = [s.city, s.country].filter(Boolean).join(', ');
+    return `<li><a href="/studio/${studioSlug(s, ALL)}">${htmlEsc(s.name)}</a>${loc ? ` — ${htmlEsc(loc)}` : ''}</li>`;
+  }).join('');
+  return `<div class="page" data-screen-label="collection"><main class="view wrap"><nav><a href="/${cfg.singular}/${slugify(place)}">All studios in ${htmlEsc(place)}</a> · <a href="/discipline/${slugify(disc)}">All ${htmlEsc(disc)} studios</a></nav><header><p>${htmlEsc(cfg.label)} · ${htmlEsc(disc)}</p><h1>${htmlEsc(copy.h1)}</h1><p>${htmlEsc(copy.desc)}</p></header><ul>${items}</ul></main></div>`;
+}
+
 function breadcrumbLd(pairs) {
   return {
     '@context': 'https://schema.org', '@type': 'BreadcrumbList',
@@ -149,13 +172,14 @@ function ldScripts(nodes) {
 
 // Crawlable body snapshot. The SPA replaces #root on hydration, so this only
 // needs to be valid + informative for crawlers that don't run JS.
-function leafSnapshot(kind, value, studios, copy) {
+function leafSnapshot(kind, value, studios, copy, combos = []) {
   const cfg = KINDS[kind];
+  const by = combos.length ? `<p>By discipline: ${combos.map(([d, n]) => `<a href="/${cfg.singular}/${slugify(value)}/${slugify(d)}">${htmlEsc(comboCopy(kind, value, d, n).title.replace(" · Just a Design List", ""))}</a> (${n})`).join(', ')}</p>` : '';
   const items = studios.slice(0, 200).map((s) => {
     const loc = [s.city, s.country].filter(Boolean).join(', ');
     return `<li><a href="/studio/${studioSlug(s, ALL)}">${htmlEsc(s.name)}</a>${loc ? ` — ${htmlEsc(loc)}` : ''}</li>`;
   }).join('');
-  return `<div class="page" data-screen-label="collection"><main class="view wrap"><nav><a href="/${cfg.plural}">All ${cfg.labelPlural.toLowerCase()}</a></nav><header><p>${htmlEsc(cfg.label)}</p><h1>${htmlEsc(copy.h1)}</h1><p>${htmlEsc(copy.desc)}</p></header><ul>${items}</ul></main></div>`;
+  return `<div class="page" data-screen-label="collection"><main class="view wrap"><nav><a href="/${cfg.plural}">All ${cfg.labelPlural.toLowerCase()}</a></nav><header><p>${htmlEsc(cfg.label)}</p><h1>${htmlEsc(copy.h1)}</h1><p>${htmlEsc(copy.desc)}</p>${by}</header><ul>${items}</ul></main></div>`;
 }
 function hubSnapshot(kind, rows) {
   const cfg = KINDS[kind];
@@ -239,7 +263,7 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot, imag
   ALL = studios;
   for (const s of studios) s.region = regionOf(s.country);
 
-  let leaves = 0, hubs = 0, thin = 0;
+  let leaves = 0, hubs = 0, thin = 0, combos = 0;
   const sitemapUrls = []; // { path, priority } for indexable pages
 
   for (const kind of Object.keys(KINDS)) {
@@ -273,6 +297,9 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot, imag
       const url = `${SITE_BASE}/${cfg.singular}/${slug}`;
       const indexable = group.length >= MIN_INDEXABLE;
       const sorted = [...group].sort((a, b) => (a.name || '').localeCompare(b.name || ''));
+      const combosHere = COMBO_KINDS.includes(kind)
+        ? [...groupBy(group, 'category').entries()].filter(([, g]) => g.length >= COMBO_MIN).map(([d, g]) => [d, g.length]).sort((a, b) => b[1] - a[1])
+        : [];
       await writeFile(`${cfg.singular}/${slug}.html`, renderPage(template, {
         title: copy.title, desc: copy.desc, url,
         image: `${SITE_BASE}/api/og?kind=${kind}&value=${encodeURIComponent(value)}&v=1`,
@@ -281,13 +308,38 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot, imag
           collectionLd(copy.title, copy.desc, url, sorted),
           breadcrumbLd([['Home', SITE_BASE + '/'], [cfg.labelPlural, `${SITE_BASE}/${cfg.plural}`], [value, url]]),
         ],
-        snapshot: leafSnapshot(kind, value, sorted, copy),
+        snapshot: leafSnapshot(kind, value, sorted, copy, combosHere),
         feed: { title: `${copy.h1} · Just a Design List`, href: `/feeds/${cfg.singular}/${slug}.xml` },
       }), 'utf8');
       await writeFile(`feeds/${cfg.singular}/${slug}.xml`, feedFor(kind, value, slug, group), 'utf8');
       leaves++;
       if (indexable) sitemapUrls.push({ path: `${cfg.singular}/${slug}`, priority: '0.6', lastmod: lastEdited(group) });
       else thin++;
+
+      // ---- discipline within this place ----
+      if (COMBO_KINDS.includes(kind)) {
+        const byDisc = groupBy(group, 'category');
+        for (const [disc, sub] of byDisc) {
+          if (sub.length < COMBO_MIN) continue;
+          const dslug = slugify(disc);
+          const ccopy = comboCopy(kind, value, disc, sub.length);
+          const curl = `${url}/${dslug}`;
+          const csorted = [...sub].sort((a, b) => (a.name || '').localeCompare(b.name || ''));
+          await mkdir(`${cfg.singular}/${slug}`, { recursive: true });
+          await writeFile(`${cfg.singular}/${slug}/${dslug}.html`, renderPage(template, {
+            title: ccopy.title, desc: ccopy.desc, url: curl,
+            image: `${SITE_BASE}/api/og?kind=${kind}&value=${encodeURIComponent(value)}&v=1`,
+            robots: null,
+            jsonld: [
+              collectionLd(ccopy.title, ccopy.desc, curl, csorted),
+              breadcrumbLd([['Home', SITE_BASE + '/'], [cfg.labelPlural, `${SITE_BASE}/${cfg.plural}`], [value, url], [disc, curl]]),
+            ],
+            snapshot: comboSnapshot(kind, value, disc, csorted, ccopy),
+          }), 'utf8');
+          combos++;
+          sitemapUrls.push({ path: `${cfg.singular}/${slug}/${dslug}`, priority: '0.6', lastmod: lastEdited(sub) });
+        }
+      }
     }
   }
 
@@ -313,7 +365,7 @@ function renderPage(template, { title, desc, url, robots, jsonld, snapshot, imag
     console.warn('Could not update sitemap.xml (run sync-notion.mjs first):', e.message);
   }
 
-  console.log(`Prerendered ${hubs} hubs + ${leaves} leaf pages (${thin} thin/noindex). ${sitemapUrls.length} indexable URLs.`);
+  console.log(`Prerendered ${hubs} hubs + ${leaves} leaf pages (${thin} thin/noindex) + ${combos} discipline-in-place pages. ${sitemapUrls.length} indexable URLs.`);
 })().catch((err) => {
   console.error('PRERENDER-COLLECTIONS FAILED:', err);
   process.exit(1);

@@ -12,6 +12,8 @@ Country
 
 26 independent design studios and practices based in Norway. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Norway](https://justadesignlist.com/country/norway/branding) (25), [Interactive/Digital design studios in Norway](https://justadesignlist.com/country/norway/interactive-digital) (14), [Graphic Design studios in Norway](https://justadesignlist.com/country/norway/graphic-design) (9), [Packaging design studios in Norway](https://justadesignlist.com/country/norway/packaging) (8)
+
 - [Aino](https://justadesignlist.com/studio/aino) — Gothenburg, Oslo, Sweden, Norway
 - [Bakken & Baeck](https://justadesignlist.com/studio/bakken-and-baeck) — Oslo, Amsterdam, Bonn, London, Barcelona, Norway, The Netherlands, Germany, England, Spain
 - [Ben K. Wallace](https://justadesignlist.com/studio/ben-k-wallace) — Oslo, Norway

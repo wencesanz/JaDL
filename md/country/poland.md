@@ -12,6 +12,8 @@ Country
 
 15 independent design studios and practices based in Poland. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Poland](https://justadesignlist.com/country/poland/branding) (13), [Interactive/Digital design studios in Poland](https://justadesignlist.com/country/poland/interactive-digital) (9), [Graphic Design studios in Poland](https://justadesignlist.com/country/poland/graphic-design) (7), [Packaging design studios in Poland](https://justadesignlist.com/country/poland/packaging) (5)
+
 - [Dmowski&Co.](https://justadesignlist.com/studio/dmowskiandco) — Warsaw, Lublin, Poland
 - [For brands](https://justadesignlist.com/studio/for-brands) — Poznan, Genève, Poland, Switzerland
 - [Grzegorz Sołowiński](https://justadesignlist.com/studio/grzegorz-so-owinski) — Warsaw, Poland

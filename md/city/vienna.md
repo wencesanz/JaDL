@@ -12,6 +12,8 @@ City
 
 11 independent design studios based in Vienna, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Vienna](https://justadesignlist.com/city/vienna/branding) (10), [Graphic Design studios in Vienna](https://justadesignlist.com/city/vienna/graphic-design) (7), [Interactive/Digital design studios in Vienna](https://justadesignlist.com/city/vienna/interactive-digital) (6)
+
 - [Acute](https://justadesignlist.com/studio/acute) — Vienna, Austria
 - [Afloat](https://justadesignlist.com/studio/afloat) — Vienna, Austria
 - [Atelier Olschinsky](https://justadesignlist.com/studio/atelier-olschinsky) — Vienna, Austria

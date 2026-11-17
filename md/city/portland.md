@@ -12,6 +12,8 @@ City
 
 13 independent design studios based in Portland, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Portland](https://justadesignlist.com/city/portland/branding) (11), [Graphic Design studios in Portland](https://justadesignlist.com/city/portland/graphic-design) (7), [Interactive/Digital design studios in Portland](https://justadesignlist.com/city/portland/interactive-digital) (6)
+
 - [Cinco](https://justadesignlist.com/studio/cinco) — Portland, USA
 - [Emily Klaebe](https://justadesignlist.com/studio/emily-klaebe) — Portland, USA
 - [Industry](https://justadesignlist.com/studio/industry) — Portland, USA

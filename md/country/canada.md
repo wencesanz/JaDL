@@ -12,6 +12,8 @@ Country
 
 58 independent design studios and practices based in Canada. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Canada](https://justadesignlist.com/country/canada/branding) (49), [Graphic Design studios in Canada](https://justadesignlist.com/country/canada/graphic-design) (34), [Interactive/Digital design studios in Canada](https://justadesignlist.com/country/canada/interactive-digital) (28), [Packaging design studios in Canada](https://justadesignlist.com/country/canada/packaging) (21), [Advertising/Campaigns design studios in Canada](https://justadesignlist.com/country/canada/advertising-campaigns) (10), [Typography design studios in Canada](https://justadesignlist.com/country/canada/typography) (7), [Motion design studios in Canada](https://justadesignlist.com/country/canada/motion) (6)
+
 - [Alina Skyson](https://justadesignlist.com/studio/alina-skyson) — Toronto, Canada
 - [Applied Archive Atelier](https://justadesignlist.com/studio/applied-archive-atelier) — Montreal, Canada
 - [AWP](https://justadesignlist.com/studio/awp) — Montreal, Canada

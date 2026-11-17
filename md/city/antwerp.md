@@ -12,6 +12,8 @@ City
 
 8 independent design studios based in Antwerp, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Antwerp](https://justadesignlist.com/city/antwerp/branding) (6), [Packaging design studios in Antwerp](https://justadesignlist.com/city/antwerp/packaging) (6), [Graphic Design studios in Antwerp](https://justadesignlist.com/city/antwerp/graphic-design) (5)
+
 - [Celta](https://justadesignlist.com/studio/celta) — Antwerp, Belgium
 - [FCKLCK STUDIO](https://justadesignlist.com/studio/fcklck-studio) — Amsterdam, Antwerp, London, The Netherlands, Belgium, England
 - [SKINN](https://justadesignlist.com/studio/skinn) — Antwerp, Belgium

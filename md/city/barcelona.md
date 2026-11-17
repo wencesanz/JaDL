@@ -12,6 +12,8 @@ City
 
 94 independent design studios based in Barcelona, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Barcelona](https://justadesignlist.com/city/barcelona/branding) (73), [Graphic Design studios in Barcelona](https://justadesignlist.com/city/barcelona/graphic-design) (67), [Packaging design studios in Barcelona](https://justadesignlist.com/city/barcelona/packaging) (37), [Interactive/Digital design studios in Barcelona](https://justadesignlist.com/city/barcelona/interactive-digital) (31), [Typography design studios in Barcelona](https://justadesignlist.com/city/barcelona/typography) (15), [Motion design studios in Barcelona](https://justadesignlist.com/city/barcelona/motion) (12), [Advertising/Campaigns design studios in Barcelona](https://justadesignlist.com/city/barcelona/advertising-campaigns) (8), [Illustration design studios in Barcelona](https://justadesignlist.com/city/barcelona/illustration) (5)
+
 - [Andrei Robu Studio](https://justadesignlist.com/studio/andrei-robu-studio) — Barcelona, Spain
 - [Arnau Pi](https://justadesignlist.com/studio/arnau-pi) — Barcelona, Spain
 - [Artofmany](https://justadesignlist.com/studio/artofmany) — Barcelona, Dubai, Spain, United Arab Emirates

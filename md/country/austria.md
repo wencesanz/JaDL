@@ -12,6 +12,8 @@ Country
 
 21 independent design studios and practices based in Austria. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Austria](https://justadesignlist.com/country/austria/branding) (19), [Graphic Design studios in Austria](https://justadesignlist.com/country/austria/graphic-design) (15), [Interactive/Digital design studios in Austria](https://justadesignlist.com/country/austria/interactive-digital) (12), [Packaging design studios in Austria](https://justadesignlist.com/country/austria/packaging) (8)
+
 - [Acute](https://justadesignlist.com/studio/acute) — Vienna, Austria
 - [Afloat](https://justadesignlist.com/studio/afloat) — Vienna, Austria
 - [Atelier Olschinsky](https://justadesignlist.com/studio/atelier-olschinsky) — Vienna, Austria

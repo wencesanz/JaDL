@@ -12,6 +12,8 @@ City
 
 12 independent design studios based in Manchester, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Manchester](https://justadesignlist.com/city/manchester/branding) (12), [Interactive/Digital design studios in Manchester](https://justadesignlist.com/city/manchester/interactive-digital) (6), [Graphic Design studios in Manchester](https://justadesignlist.com/city/manchester/graphic-design) (5)
+
 - [Alphabet](https://justadesignlist.com/studio/alphabet) — Manchester, England
 - [Anti Average®](https://justadesignlist.com/studio/anti-average) — Manchester, England
 - [BGN](https://justadesignlist.com/studio/bgn) — Manchester, England

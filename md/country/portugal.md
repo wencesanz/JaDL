@@ -12,6 +12,8 @@ Country
 
 23 independent design studios and practices based in Portugal. A curated index — browse by city and discipline.
 
+By discipline: [Branding design studios in Portugal](https://justadesignlist.com/country/portugal/branding) (19), [Graphic Design studios in Portugal](https://justadesignlist.com/country/portugal/graphic-design) (15), [Interactive/Digital design studios in Portugal](https://justadesignlist.com/country/portugal/interactive-digital) (14), [Packaging design studios in Portugal](https://justadesignlist.com/country/portugal/packaging) (5)
+
 - [327](https://justadesignlist.com/studio/327) — Porto, Portugal
 - [and atelier](https://justadesignlist.com/studio/and-atelier) — Porto, Portugal
 - [Another Collective](https://justadesignlist.com/studio/another-collective) — Porto, Portugal

@@ -12,6 +12,8 @@ City
 
 41 independent design studios based in Stockholm, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Stockholm](https://justadesignlist.com/city/stockholm/branding) (37), [Interactive/Digital design studios in Stockholm](https://justadesignlist.com/city/stockholm/interactive-digital) (21), [Graphic Design studios in Stockholm](https://justadesignlist.com/city/stockholm/graphic-design) (18), [Packaging design studios in Stockholm](https://justadesignlist.com/city/stockholm/packaging) (14), [Motion design studios in Stockholm](https://justadesignlist.com/city/stockholm/motion) (7), [Typography design studios in Stockholm](https://justadesignlist.com/city/stockholm/typography) (5)
+
 - [25AH](https://justadesignlist.com/studio/25ah) — Stockholm, Sweden
 - [Add Studio](https://justadesignlist.com/studio/add-studio) — Stockholm, Sweden
 - [AGoodId](https://justadesignlist.com/studio/agoodid) — Stockholm, Sweden

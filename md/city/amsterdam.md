@@ -12,6 +12,8 @@ City
 
 45 independent design studios based in Amsterdam, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in Amsterdam](https://justadesignlist.com/city/amsterdam/branding) (37), [Interactive/Digital design studios in Amsterdam](https://justadesignlist.com/city/amsterdam/interactive-digital) (27), [Graphic Design studios in Amsterdam](https://justadesignlist.com/city/amsterdam/graphic-design) (17), [Packaging design studios in Amsterdam](https://justadesignlist.com/city/amsterdam/packaging) (8), [Motion design studios in Amsterdam](https://justadesignlist.com/city/amsterdam/motion) (8)
+
 - [27b](https://justadesignlist.com/studio/27b) — Amsterdam, The Netherlands
 - [Adoratorio Studio](https://justadesignlist.com/studio/adoratorio-studio) — Brescia, Amsterdam, Italy, The Netherlands
 - [analogue](https://justadesignlist.com/studio/analogue) — Amsterdam, The Netherlands

@@ -12,6 +12,8 @@ Country
 
 5 independent design studios and practices based in Romania. A curated index — browse by city and discipline.
 
+By discipline: [Graphic Design studios in Romania](https://justadesignlist.com/country/romania/graphic-design) (5)
+
 - [Bogdan Ceauescu](https://justadesignlist.com/studio/bogdan-ceauescu) — Romania
 - [Brandient](https://justadesignlist.com/studio/brandient) — Bucharest, Romania
 - [Daniel and Andrew](https://justadesignlist.com/studio/daniel-and-andrew) — Bucharest, Romania

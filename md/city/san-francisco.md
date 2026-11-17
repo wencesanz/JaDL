@@ -12,6 +12,8 @@ City
 
 35 independent design studios based in San Francisco, from the Just a Design List index. Browse by discipline.
 
+By discipline: [Branding design studios in San Francisco](https://justadesignlist.com/city/san-francisco/branding) (30), [Interactive/Digital design studios in San Francisco](https://justadesignlist.com/city/san-francisco/interactive-digital) (18), [Graphic Design studios in San Francisco](https://justadesignlist.com/city/san-francisco/graphic-design) (15), [Packaging design studios in San Francisco](https://justadesignlist.com/city/san-francisco/packaging) (14), [Motion design studios in San Francisco](https://justadesignlist.com/city/san-francisco/motion) (8), [Illustration design studios in San Francisco](https://justadesignlist.com/city/san-francisco/illustration) (5)
+
 - [Acquazzone](https://justadesignlist.com/studio/acquazzone) — San Francisco, USA
 - [Ammunition](https://justadesignlist.com/studio/ammunition) — San Francisco, New York, USA
 - [Bond](https://justadesignlist.com/studio/bond) — Helsinki, Dubai, New York, San Francisco, Finland, United Arab Emirates, USA
