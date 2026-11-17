@@ -1,12 +1,12 @@
 ---
 title: "All studios · Just a Design List"
-description: "Browse the full index of 1466 design studios and independent designers, A to Z."
+description: "Browse the full index of 1469 design studios and independent designers, A to Z."
 url: "https://justadesignlist.com/studios"
 ---
 
 The List
 
-# All 1466 studios and designers
+# All 1469 studios and designers
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China · Branding, Motion, Interactive/Digital, Typography, Packaging
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Slovenia · Paris, France · Branding, Interactive/Digital, Packaging, Motion
@@ -771,6 +771,8 @@ The List
 - [Margot Lévêque](https://justadesignlist.com/studio/margot-leveque) — New York, USA · Graphic Design, Typography
 - [Mariam Khalifah](https://justadesignlist.com/studio/mariam-khalifah) — Berlin, Germany · Branding, Graphic Design, Packaging, Interactive/Digital
 - [Mariano Fiore](https://justadesignlist.com/studio/mariano-fiore) — Barcelona, Spain · Graphic Design
+- [Marina Zertuche](https://justadesignlist.com/studio/marina-zertuche) — Austin, USA · Branding, Graphic Design, Advertising/Campaigns
+- [Marinus Klinksik](https://justadesignlist.com/studio/marinus-klinksik) — Hamburg, Germany · Graphic Design, Typography, Motion
 - [Marisa Piñana](https://justadesignlist.com/studio/marisa-pinana) — London, England · Graphic Design
 - [Marius Fahrner Design](https://justadesignlist.com/studio/marius-fahrner-design) — Hamburg, Germany · Branding, Interactive/Digital, Graphic Design, Packaging
 - [Marks](https://justadesignlist.com/studio/marks) — Genève, Switzerland · Branding, Graphic Design, Interactive/Digital
@@ -816,6 +818,7 @@ The List
 - [Miles Sale](https://justadesignlist.com/studio/miles-sale) — Amsterdam, The Netherlands · Branding, Interactive/Digital, Packaging, Motion, Advertising/Campaigns
 - [Milkshake](https://justadesignlist.com/studio/milkshake) — New York, USA · Branding, Interactive/Digital
 - [MILL3](https://justadesignlist.com/studio/mill3) — Montreal, Canada · Interactive/Digital, Graphic Design
+- [Minimalist](https://justadesignlist.com/studio/minimalist) — Seoul, South Korea · Branding, Graphic Design, Packaging
 - [Mirats Studio](https://justadesignlist.com/studio/mirats-studio) — Barcelona, Spain · Branding, Graphic Design, Packaging, Interactive/Digital
 - [MiresBall](https://justadesignlist.com/studio/miresball) — San Diego, USA · Branding, Packaging
 - [Miska Studio](https://justadesignlist.com/studio/miska-studio) — New York, USA · Graphic Design

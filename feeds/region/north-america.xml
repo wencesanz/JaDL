@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/region/north-america</link>
     <description>New additions to Just a Design List: design studios in North America.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 10:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:09:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/region/north-america.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marina Zertuche</title>
+      <link>https://justadesignlist.com/studio/marina-zertuche</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/marina-zertuche</guid>
+      <pubDate>Tue, 17 Nov 2026 13:09:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Advertising/Campaigns — Austin, USA. https://www.marinazertuche.work/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Advertising/Campaigns</category>
+    </item>
     <item>
       <title>Convicts</title>
       <link>https://justadesignlist.com/studio/convicts</link>
@@ -303,17 +313,6 @@
       <description>Branding · Interactive/Digital — New York, USA. https://thefutureforward.com/</description>
       <category>Branding</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Work by HOLIDAY</title>
-      <link>https://justadesignlist.com/studio/work-by-holiday</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/work-by-holiday</guid>
-      <pubDate>Wed, 23 Sep 2026 11:47:00 GMT</pubDate>
-      <description>Branding · Packaging · Interactive/Digital · Graphic Design — Toronto, Canada. https://workbyholiday.com/</description>
-      <category>Branding</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
-      <category>Graphic Design</category>
     </item>
   </channel>
 </rss>

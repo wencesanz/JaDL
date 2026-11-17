@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Seoul · Just a Design List"
-description: "11 independent design studios based in Seoul, from the Just a Design List index. Browse by discipline."
+description: "12 independent design studios based in Seoul, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/seoul"
 ---
 
@@ -10,12 +10,13 @@ City
 
 # Seoul
 
-11 independent design studios based in Seoul, from the Just a Design List index. Browse by discipline.
+12 independent design studios based in Seoul, from the Just a Design List index. Browse by discipline.
 
 - [HAUS ARDORYOUTH](https://justadesignlist.com/studio/haus-ardoryouth) — Seoul, South Korea
 - [HuskyFox](https://justadesignlist.com/studio/huskyfox) — Seoul, South Korea
 - [Jaemin Lee](https://justadesignlist.com/studio/jaemin-lee) — Seoul, South Korea
 - [Joonghyun Cho](https://justadesignlist.com/studio/joonghyun-cho) — Seoul, South Korea
+- [Minimalist](https://justadesignlist.com/studio/minimalist) — Seoul, South Korea
 - [Non-Objective](https://justadesignlist.com/studio/non-objective) — Seoul, New York, South Korea, USA
 - [Ordinary People](https://justadesignlist.com/studio/ordinary-people) — Seoul, New York, South Korea, USA
 - [P – K](https://justadesignlist.com/studio/p-k) — Los Angeles, Seoul, USA, South Korea

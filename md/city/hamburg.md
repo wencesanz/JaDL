@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Hamburg · Just a Design List"
-description: "14 independent design studios based in Hamburg, from the Just a Design List index. Browse by discipline."
+description: "15 independent design studios based in Hamburg, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/hamburg"
 ---
 
@@ -10,7 +10,7 @@ City
 
 # Hamburg
 
-14 independent design studios based in Hamburg, from the Just a Design List index. Browse by discipline.
+15 independent design studios based in Hamburg, from the Just a Design List index. Browse by discipline.
 
 - [Bareis + Nicolaus](https://justadesignlist.com/studio/bareis-nicolaus) — Hamburg, Stuttgart, Germany
 - [EIGA](https://justadesignlist.com/studio/eiga) — Hamburg, Germany
@@ -18,6 +18,7 @@ City
 - [JUNO](https://justadesignlist.com/studio/juno) — Hamburg, Germany
 - [Karl Anders](https://justadesignlist.com/studio/karl-anders) — Hamburg, Germany
 - [Marcel Häusler](https://justadesignlist.com/studio/marcel-hausler) — Hamburg, Paris, Germany, France
+- [Marinus Klinksik](https://justadesignlist.com/studio/marinus-klinksik) — Hamburg, Germany
 - [Marius Fahrner Design](https://justadesignlist.com/studio/marius-fahrner-design) — Hamburg, Germany
 - [MOIN MOTION](https://justadesignlist.com/studio/moin-motion) — Hamburg, Germany
 - [Mutabor](https://justadesignlist.com/studio/mutabor) — Hamburg, Munich, Germany

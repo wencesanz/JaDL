@@ -1,6 +1,6 @@
 ---
 title: "Design studios in USA · Just a Design List"
-description: "332 independent design studios and practices based in USA. A curated index — browse by city and discipline."
+description: "333 independent design studios and practices based in USA. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/usa"
 ---
 
@@ -10,7 +10,7 @@ Country
 
 # USA
 
-332 independent design studios and practices based in USA. A curated index — browse by city and discipline.
+333 independent design studios and practices based in USA. A curated index — browse by city and discipline.
 
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -187,6 +187,7 @@ Country
 - [Marc Atlan Design](https://justadesignlist.com/studio/marc-atlan-design) — Los Angeles, USA
 - [Marek Nedelka](https://justadesignlist.com/studio/marek-nedelka) — New York, USA
 - [Margot Lévêque](https://justadesignlist.com/studio/margot-leveque) — New York, USA
+- [Marina Zertuche](https://justadesignlist.com/studio/marina-zertuche) — Austin, USA
 - [Mast](https://justadesignlist.com/studio/mast) — Denver, USA
 - [Matchstic](https://justadesignlist.com/studio/matchstic) — Atlanta, USA
 - [Matey](https://justadesignlist.com/studio/matey) — Birmingham, USA
@@ -211,7 +212,6 @@ Country
 - [Mucho](https://justadesignlist.com/studio/mucho) — Barcelona, Melbourne, Paris, San Francisco, Spain, Australia, France, USA
 - [New Genre](https://justadesignlist.com/studio/new-genre) — London, San Francisco, England, USA
 - [New Studio](https://justadesignlist.com/studio/new-studio) — New York, Miami, USA
-- [Nihilo](https://justadesignlist.com/studio/nihilo) — Columbus, USA
 
 ---
 

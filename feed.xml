@@ -5,8 +5,38 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 01:43:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:41:05 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Minimalist</title>
+      <link>https://www.minimalist.kr/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/minimalist</guid>
+      <pubDate>Tue, 17 Nov 2026 13:59:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — Seoul, South Korea.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Marina Zertuche</title>
+      <link>https://www.marinazertuche.work/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/marina-zertuche</guid>
+      <pubDate>Tue, 17 Nov 2026 13:09:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Advertising/Campaigns — Austin, USA.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>Marinus Klinksik</title>
+      <link>https://marinusklinksik.de/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/marinus-klinksik</guid>
+      <pubDate>Tue, 17 Nov 2026 09:24:00 GMT</pubDate>
+      <description>Graphic Design · Typography · Motion — Hamburg, Germany.</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+      <category>Motion</category>
+    </item>
     <item>
       <title>THIRD HORIZON Studios®</title>
       <link>https://www.thirdhorizonstudios.com</link>
@@ -302,36 +332,6 @@
       <category>Advertising/Campaigns</category>
       <category>Interactive/Digital</category>
       <category>Packaging</category>
-    </item>
-    <item>
-      <title>ESTUDIO CRU</title>
-      <link>https://www.estudiocru.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/estudio-cru</guid>
-      <pubDate>Tue, 03 Nov 2026 17:43:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Motion · Interactive/Digital — Rio de Janeiro, Brazil.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>buero ®S</title>
-      <link>https://buero-rs.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/buero-s</guid>
-      <pubDate>Tue, 03 Nov 2026 15:12:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging — Düsseldorf, Germany.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Mantis</title>
-      <link>https://www.mantis.works/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/mantis</guid>
-      <pubDate>Tue, 03 Nov 2026 15:03:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital — New York, USA.</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>

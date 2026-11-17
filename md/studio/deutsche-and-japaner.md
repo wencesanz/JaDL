@@ -1,12 +1,12 @@
 ---
 title: "Deutsche & Japaner — Graphic Design, Mannheim, Germany · Just a Design List"
-description: "Deutsche & Japaner: graphic design, branding and packaging practice based in Mannheim, Germany. The only studio from Mannheim, one of 99 from Germany on Just a Design List, added in June 2023."
+description: "Deutsche & Japaner: graphic design, branding and packaging practice based in Mannheim, Germany. The only studio from Mannheim, one of 100 from Germany on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/deutsche-and-japaner"
 ---
 
 # Deutsche & Japaner
 
-Deutsche & Japaner: graphic design, branding and packaging practice based in Mannheim, Germany. The only studio from Mannheim, one of 99 from Germany on Just a Design List, added in June 2023.
+Deutsche & Japaner: graphic design, branding and packaging practice based in Mannheim, Germany. The only studio from Mannheim, one of 100 from Germany on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding, Packaging, Typography
 - **City:** Mannheim, Berlin

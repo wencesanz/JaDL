@@ -1,12 +1,12 @@
 ---
 title: "TinyWins — Branding, Santa Monica, USA · Just a Design List"
-description: "TinyWins: branding, interactive/digital and advertising/campaigns practice based in Santa Monica, USA. The only studio from Santa Monica, one of 332 from USA on Just a Design List, added in July 2026."
+description: "TinyWins: branding, interactive/digital and advertising/campaigns practice based in Santa Monica, USA. The only studio from Santa Monica, one of 333 from USA on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/tinywins"
 ---
 
 # TinyWins
 
-TinyWins: branding, interactive/digital and advertising/campaigns practice based in Santa Monica, USA. The only studio from Santa Monica, one of 332 from USA on Just a Design List, added in July 2026.
+TinyWins: branding, interactive/digital and advertising/campaigns practice based in Santa Monica, USA. The only studio from Santa Monica, one of 333 from USA on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Advertising/Campaigns
 - **City:** Santa Monica

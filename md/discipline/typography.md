@@ -1,6 +1,6 @@
 ---
 title: "Typography design studios · Just a Design List"
-description: "192 independent studios and designers working in typography, collected in the Just a Design List index. Browse by country and city."
+description: "193 independent studios and designers working in typography, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/typography"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Typography
 
-192 independent studios and designers working in typography, collected in the Just a Design List index. Browse by country and city.
+193 independent studios and designers working in typography, collected in the Just a Design List index. Browse by country and city.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -109,6 +109,7 @@ Discipline
 - [Manual](https://justadesignlist.com/studio/manual) — San Francisco, USA
 - [Marcel Häusler](https://justadesignlist.com/studio/marcel-hausler) — Hamburg, Paris, Germany, France
 - [Margot Lévêque](https://justadesignlist.com/studio/margot-leveque) — New York, USA
+- [Marinus Klinksik](https://justadesignlist.com/studio/marinus-klinksik) — Hamburg, Germany
 - [Marmite Defontes](https://justadesignlist.com/studio/marmite-defontes) — Lausanne, Switzerland
 - [Matinée Studio](https://justadesignlist.com/studio/matinee-studio) — London, England
 - [Matt van Leeuwen](https://justadesignlist.com/studio/matt-van-leeuwen) — New York, USA

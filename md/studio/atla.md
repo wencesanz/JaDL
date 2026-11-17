@@ -1,12 +1,12 @@
 ---
 title: "Atla — Branding, Austin, USA · Just a Design List"
-description: "Atla: branding, graphic design and interactive/digital practice based in Austin, USA. One of 5 studios from Austin on Just a Design List, added in May 2026."
+description: "Atla: branding, graphic design and interactive/digital practice based in Austin, USA. One of 6 studios from Austin on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/atla"
 ---
 
 # Atla
 
-Atla: branding, graphic design and interactive/digital practice based in Austin, USA. One of 5 studios from Austin on Just a Design List, added in May 2026.
+Atla: branding, graphic design and interactive/digital practice based in Austin, USA. One of 6 studios from Austin on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Motion
 - **City:** Austin, Mexico City, Caracas, Lima, Tijuana
@@ -24,6 +24,7 @@ Atla: branding, graphic design and interactive/digital practice based in Austin,
 - [Clay](https://justadesignlist.com/studio/clay)
 - [Goodside](https://justadesignlist.com/studio/goodside)
 - [In-House Intl](https://justadesignlist.com/studio/in-house-intl)
+- [Marina Zertuche](https://justadesignlist.com/studio/marina-zertuche)
 - [Superexpresso](https://justadesignlist.com/studio/superexpresso)
 
 ---

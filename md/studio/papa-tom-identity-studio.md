@@ -1,12 +1,12 @@
 ---
 title: "PAPA TOM® Identity Studio — Branding, Backnang, Germany · Just a Design List"
-description: "PAPA TOM® Identity Studio: branding, interactive/digital and advertising/campaigns practice based in Backnang, Germany. The only studio from Backnang, one of 99 from Germany on Just a Design List, added in July 2026."
+description: "PAPA TOM® Identity Studio: branding, interactive/digital and advertising/campaigns practice based in Backnang, Germany. The only studio from Backnang, one of 100 from Germany on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/papa-tom-identity-studio"
 ---
 
 # PAPA TOM® Identity Studio
 
-PAPA TOM® Identity Studio: branding, interactive/digital and advertising/campaigns practice based in Backnang, Germany. The only studio from Backnang, one of 99 from Germany on Just a Design List, added in July 2026.
+PAPA TOM® Identity Studio: branding, interactive/digital and advertising/campaigns practice based in Backnang, Germany. The only studio from Backnang, one of 100 from Germany on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Advertising/Campaigns
 - **City:** Backnang

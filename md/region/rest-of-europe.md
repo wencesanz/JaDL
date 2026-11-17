@@ -1,6 +1,6 @@
 ---
 title: "Design studios in the rest of Europe · Just a Design List"
-description: "384 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline."
+description: "385 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/rest-of-europe"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # Rest of Europe
 
-384 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline.
+385 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline.
 
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
 - [1042](https://justadesignlist.com/studio/1042) — Düsseldorf, Germany
@@ -201,6 +201,7 @@ Region
 - [Marcel Häusler](https://justadesignlist.com/studio/marcel-hausler) — Hamburg, Paris, Germany, France
 - [Marco Lüthi](https://justadesignlist.com/studio/marco-luthi) — Zurich, Switzerland
 - [Mariam Khalifah](https://justadesignlist.com/studio/mariam-khalifah) — Berlin, Germany
+- [Marinus Klinksik](https://justadesignlist.com/studio/marinus-klinksik) — Hamburg, Germany
 - [Marius Fahrner Design](https://justadesignlist.com/studio/marius-fahrner-design) — Hamburg, Germany
 - [Marks](https://justadesignlist.com/studio/marks) — Genève, Switzerland
 - [Markwald Neusitzer Identity](https://justadesignlist.com/studio/markwald-neusitzer-identity) — Düsseldorf, Frankfurt, Germany
@@ -211,7 +212,6 @@ Region
 - [Meinhard Taxer](https://justadesignlist.com/studio/meinhard-taxer) — Innsbruck, Austria
 - [Miklós Kiss](https://justadesignlist.com/studio/miklos-kiss) — Budapest, Hungary
 - [Miles Sale](https://justadesignlist.com/studio/miles-sale) — Amsterdam, The Netherlands
-- [Moby Digg](https://justadesignlist.com/studio/moby-digg) — Munich, Germany
 
 ---
 

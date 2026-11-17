@@ -1,12 +1,12 @@
 ---
 title: "Joe Perez — Graphic Design, Rhode Island, USA · Just a Design List"
-description: "Joe Perez: graphic design practice based in Rhode Island, USA. The only studio from Rhode Island, one of 332 from USA on Just a Design List, added in May 2023."
+description: "Joe Perez: graphic design practice based in Rhode Island, USA. The only studio from Rhode Island, one of 333 from USA on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/joe-perez"
 ---
 
 # Joe Perez
 
-Joe Perez: graphic design practice based in Rhode Island, USA. The only studio from Rhode Island, one of 332 from USA on Just a Design List, added in May 2023.
+Joe Perez: graphic design practice based in Rhode Island, USA. The only studio from Rhode Island, one of 333 from USA on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Rhode Island

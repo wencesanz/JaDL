@@ -1,12 +1,12 @@
 ---
 title: "Non-Objective — Branding, Seoul, South Korea · Just a Design List"
-description: "Non-Objective: branding, graphic design and interactive/digital practice based in Seoul, South Korea. One of 11 studios from Seoul on Just a Design List, added in December 2024."
+description: "Non-Objective: branding, graphic design and interactive/digital practice based in Seoul, South Korea. One of 12 studios from Seoul on Just a Design List, added in December 2024."
 url: "https://justadesignlist.com/studio/non-objective"
 ---
 
 # Non-Objective
 
-Non-Objective: branding, graphic design and interactive/digital practice based in Seoul, South Korea. One of 11 studios from Seoul on Just a Design List, added in December 2024.
+Non-Objective: branding, graphic design and interactive/digital practice based in Seoul, South Korea. One of 12 studios from Seoul on Just a Design List, added in December 2024.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** Seoul, New York
@@ -25,8 +25,8 @@ Non-Objective: branding, graphic design and interactive/digital practice based i
 - [HuskyFox](https://justadesignlist.com/studio/huskyfox)
 - [Jaemin Lee](https://justadesignlist.com/studio/jaemin-lee)
 - [Joonghyun Cho](https://justadesignlist.com/studio/joonghyun-cho)
+- [Minimalist](https://justadesignlist.com/studio/minimalist)
 - [Ordinary People](https://justadesignlist.com/studio/ordinary-people)
-- [P – K](https://justadesignlist.com/studio/p-k)
 
 ---
 

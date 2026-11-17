@@ -1,12 +1,12 @@
 ---
 title: "Christopher A. Ritter — Branding, Covington, USA · Just a Design List"
-description: "Christopher A. Ritter: branding, graphic design and typography practice based in Covington, USA. The only studio from Covington, one of 332 from USA on Just a Design List, added in November 2026."
+description: "Christopher A. Ritter: branding, graphic design and typography practice based in Covington, USA. The only studio from Covington, one of 333 from USA on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/christopher-a-ritter"
 ---
 
 # Christopher A. Ritter
 
-Christopher A. Ritter: branding, graphic design and typography practice based in Covington, USA. The only studio from Covington, one of 332 from USA on Just a Design List, added in November 2026.
+Christopher A. Ritter: branding, graphic design and typography practice based in Covington, USA. The only studio from Covington, one of 333 from USA on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Graphic Design, Typography
 - **City:** Covington

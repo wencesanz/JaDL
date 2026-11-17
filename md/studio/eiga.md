@@ -1,12 +1,12 @@
 ---
 title: "EIGA — Branding, Hamburg, Germany · Just a Design List"
-description: "EIGA: branding, graphic design and packaging practice based in Hamburg, Germany. One of 14 studios from Hamburg on Just a Design List, added in August 2026."
+description: "EIGA: branding, graphic design and packaging practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/eiga"
 ---
 
 # EIGA
 
-EIGA: branding, graphic design and packaging practice based in Hamburg, Germany. One of 14 studios from Hamburg on Just a Design List, added in August 2026.
+EIGA: branding, graphic design and packaging practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Interactive/Digital, Motion
 - **City:** Hamburg
@@ -26,7 +26,7 @@ EIGA: branding, graphic design and packaging practice based in Hamburg, Germany.
 - [JUNO](https://justadesignlist.com/studio/juno)
 - [Karl Anders](https://justadesignlist.com/studio/karl-anders)
 - [Marcel Häusler](https://justadesignlist.com/studio/marcel-hausler)
-- [Marius Fahrner Design](https://justadesignlist.com/studio/marius-fahrner-design)
+- [Marinus Klinksik](https://justadesignlist.com/studio/marinus-klinksik)
 
 ---
 

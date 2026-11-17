@@ -1,6 +1,6 @@
 ---
 title: "Motion design studios · Just a Design List"
-description: "229 independent studios and designers working in motion, collected in the Just a Design List index. Browse by country and city."
+description: "230 independent studios and designers working in motion, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/motion"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Motion
 
-229 independent studios and designers working in motion, collected in the Just a Design List index. Browse by country and city.
+230 independent studios and designers working in motion, collected in the Just a Design List index. Browse by country and city.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
@@ -125,6 +125,7 @@ Discipline
 - [Lunqdvist & Dallyn](https://justadesignlist.com/studio/lunqdvist-and-dallyn) — Oxfordshire, England
 - [Magpie Studio](https://justadesignlist.com/studio/magpie-studio) — London, England
 - [Manual](https://justadesignlist.com/studio/manual) — San Francisco, USA
+- [Marinus Klinksik](https://justadesignlist.com/studio/marinus-klinksik) — Hamburg, Germany
 - [Martillo Studio](https://justadesignlist.com/studio/martillo-studio) — Barcelona, Lisbon, Spain, Portugal
 - [Matija Gabrilo](https://justadesignlist.com/studio/matija-gabrilo) — Vancouver, Canada
 - [Matt Wiley](https://justadesignlist.com/studio/matt-wiley) — New York, USA
@@ -211,7 +212,6 @@ Discipline
 - [Studio Odea](https://justadesignlist.com/studio/studio-odea) — Sydney, Brisbane, Australia
 - [Studio Rejane Dal Bello](https://justadesignlist.com/studio/studio-rejane-dal-bello) — London, England
 - [Studio Reko](https://justadesignlist.com/studio/studio-reko) — Stockholm, Sweden
-- [Studio Size](https://justadesignlist.com/studio/studio-size) — Zagreb, Croatia
 
 ---
 

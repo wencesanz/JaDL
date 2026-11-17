@@ -1,12 +1,12 @@
 ---
 title: "Deeo Studio — Branding, Baltimore, USA · Just a Design List"
-description: "Deeo Studio: branding, motion and interactive/digital practice based in Baltimore, USA. The only studio from Baltimore, one of 332 from USA on Just a Design List, added in June 2026."
+description: "Deeo Studio: branding, motion and interactive/digital practice based in Baltimore, USA. The only studio from Baltimore, one of 333 from USA on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/deeo-studio"
 ---
 
 # Deeo Studio
 
-Deeo Studio: branding, motion and interactive/digital practice based in Baltimore, USA. The only studio from Baltimore, one of 332 from USA on Just a Design List, added in June 2026.
+Deeo Studio: branding, motion and interactive/digital practice based in Baltimore, USA. The only studio from Baltimore, one of 333 from USA on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Motion, Interactive/Digital
 - **City:** Baltimore

@@ -1,12 +1,12 @@
 ---
 title: "ARRAY — Branding, Jacksonville, USA · Just a Design List"
-description: "ARRAY: branding, interactive/digital and packaging practice based in Jacksonville, USA. The only studio from Jacksonville, one of 332 from USA on Just a Design List, added in August 2026."
+description: "ARRAY: branding, interactive/digital and packaging practice based in Jacksonville, USA. The only studio from Jacksonville, one of 333 from USA on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/array"
 ---
 
 # ARRAY
 
-ARRAY: branding, interactive/digital and packaging practice based in Jacksonville, USA. The only studio from Jacksonville, one of 332 from USA on Just a Design List, added in August 2026.
+ARRAY: branding, interactive/digital and packaging practice based in Jacksonville, USA. The only studio from Jacksonville, one of 333 from USA on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging
 - **City:** Jacksonville

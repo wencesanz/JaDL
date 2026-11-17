@@ -1,6 +1,6 @@
 ---
 title: "Design studios in South Korea · Just a Design List"
-description: "11 independent design studios and practices based in South Korea. A curated index — browse by city and discipline."
+description: "12 independent design studios and practices based in South Korea. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/south-korea"
 ---
 
@@ -10,12 +10,13 @@ Country
 
 # South Korea
 
-11 independent design studios and practices based in South Korea. A curated index — browse by city and discipline.
+12 independent design studios and practices based in South Korea. A curated index — browse by city and discipline.
 
 - [HAUS ARDORYOUTH](https://justadesignlist.com/studio/haus-ardoryouth) — Seoul, South Korea
 - [HuskyFox](https://justadesignlist.com/studio/huskyfox) — Seoul, South Korea
 - [Jaemin Lee](https://justadesignlist.com/studio/jaemin-lee) — Seoul, South Korea
 - [Joonghyun Cho](https://justadesignlist.com/studio/joonghyun-cho) — Seoul, South Korea
+- [Minimalist](https://justadesignlist.com/studio/minimalist) — Seoul, South Korea
 - [Non-Objective](https://justadesignlist.com/studio/non-objective) — Seoul, New York, South Korea, USA
 - [Ordinary People](https://justadesignlist.com/studio/ordinary-people) — Seoul, New York, South Korea, USA
 - [P – K](https://justadesignlist.com/studio/p-k) — Los Angeles, Seoul, USA, South Korea

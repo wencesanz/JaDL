@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/country/germany</link>
     <description>New additions to Just a Design List: design studios in Germany.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 19:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:24:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/country/germany.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marinus Klinksik</title>
+      <link>https://justadesignlist.com/studio/marinus-klinksik</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/marinus-klinksik</guid>
+      <pubDate>Tue, 17 Nov 2026 09:24:00 GMT</pubDate>
+      <description>Graphic Design · Typography · Motion — Hamburg, Germany. https://marinusklinksik.de/</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+      <category>Motion</category>
+    </item>
     <item>
       <title>Fabian Huber</title>
       <link>https://justadesignlist.com/studio/fabian-huber</link>
@@ -308,16 +318,6 @@
       <category>Graphic Design</category>
       <category>Motion</category>
       <category>Typography</category>
-    </item>
-    <item>
-      <title>Obys Agency</title>
-      <link>https://justadesignlist.com/studio/obys-agency</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/obys-agency</guid>
-      <pubDate>Tue, 11 Aug 2026 16:19:00 GMT</pubDate>
-      <description>Interactive/Digital · Branding · Motion — Amsterdam, The Netherlands. https://obys.agency/</description>
-      <category>Interactive/Digital</category>
-      <category>Branding</category>
-      <category>Motion</category>
     </item>
   </channel>
 </rss>

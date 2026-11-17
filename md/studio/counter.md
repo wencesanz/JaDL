@@ -1,12 +1,12 @@
 ---
 title: "Counter — Branding, Orlando, USA · Just a Design List"
-description: "Counter: branding, graphic design and typography practice based in Orlando, USA. The only studio from Orlando, one of 332 from USA on Just a Design List, added in May 2026."
+description: "Counter: branding, graphic design and typography practice based in Orlando, USA. The only studio from Orlando, one of 333 from USA on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/counter"
 ---
 
 # Counter
 
-Counter: branding, graphic design and typography practice based in Orlando, USA. The only studio from Orlando, one of 332 from USA on Just a Design List, added in May 2026.
+Counter: branding, graphic design and typography practice based in Orlando, USA. The only studio from Orlando, one of 333 from USA on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Typography
 - **City:** Orlando

@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/city/seoul</link>
     <description>New additions to Just a Design List: design studios in Seoul.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 08:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:59:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/city/seoul.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Minimalist</title>
+      <link>https://justadesignlist.com/studio/minimalist</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/minimalist</guid>
+      <pubDate>Tue, 17 Nov 2026 13:59:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — Seoul, South Korea. https://www.minimalist.kr/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>XS</title>
       <link>https://justadesignlist.com/studio/xs</link>

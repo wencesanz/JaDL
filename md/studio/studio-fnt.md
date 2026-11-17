@@ -1,12 +1,12 @@
 ---
 title: "Studio fnt — Graphic Design, Seoul, South Korea · Just a Design List"
-description: "Studio fnt: graphic design practice based in Seoul, South Korea. One of 11 studios from Seoul on Just a Design List, added in May 2023."
+description: "Studio fnt: graphic design practice based in Seoul, South Korea. One of 12 studios from Seoul on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/studio-fnt"
 ---
 
 # Studio fnt
 
-Studio fnt: graphic design practice based in Seoul, South Korea. One of 11 studios from Seoul on Just a Design List, added in May 2023.
+Studio fnt: graphic design practice based in Seoul, South Korea. One of 12 studios from Seoul on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Seoul
@@ -25,8 +25,8 @@ Studio fnt: graphic design practice based in Seoul, South Korea. One of 11 studi
 - [HuskyFox](https://justadesignlist.com/studio/huskyfox)
 - [Jaemin Lee](https://justadesignlist.com/studio/jaemin-lee)
 - [Joonghyun Cho](https://justadesignlist.com/studio/joonghyun-cho)
+- [Minimalist](https://justadesignlist.com/studio/minimalist)
 - [Non-Objective](https://justadesignlist.com/studio/non-objective)
-- [Ordinary People](https://justadesignlist.com/studio/ordinary-people)
 
 ---
 

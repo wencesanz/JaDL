@@ -1,12 +1,12 @@
 ---
 title: "Bureau Hardy Seiler — Graphic Design, Hannover, Germany · Just a Design List"
-description: "Bureau Hardy Seiler: graphic design practice based in Hannover, Germany. The only studio from Hannover, one of 99 from Germany on Just a Design List, added in June 2023."
+description: "Bureau Hardy Seiler: graphic design practice based in Hannover, Germany. The only studio from Hannover, one of 100 from Germany on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/bureau-hardy-seiler"
 ---
 
 # Bureau Hardy Seiler
 
-Bureau Hardy Seiler: graphic design practice based in Hannover, Germany. The only studio from Hannover, one of 99 from Germany on Just a Design List, added in June 2023.
+Bureau Hardy Seiler: graphic design practice based in Hannover, Germany. The only studio from Hannover, one of 100 from Germany on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Hannover

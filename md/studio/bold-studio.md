@@ -1,12 +1,12 @@
 ---
 title: "Bold Studio — Typography, Constance City, Germany · Just a Design List"
-description: "Bold Studio: typography practice based in Constance City, Germany. The only studio from Constance City, one of 99 from Germany on Just a Design List, added in August 2026."
+description: "Bold Studio: typography practice based in Constance City, Germany. The only studio from Constance City, one of 100 from Germany on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/bold-studio"
 ---
 
 # Bold Studio
 
-Bold Studio: typography practice based in Constance City, Germany. The only studio from Constance City, one of 99 from Germany on Just a Design List, added in August 2026.
+Bold Studio: typography practice based in Constance City, Germany. The only studio from Constance City, one of 100 from Germany on Just a Design List, added in August 2026.
 
 - **Discipline:** Typography
 - **City:** Constance City

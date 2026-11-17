@@ -5,8 +5,38 @@
     <link>https://justadesignlist.com/discipline/graphic-design</link>
     <description>New additions to Just a Design List: Graphic Design studios.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 19:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:59:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/graphic-design.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Minimalist</title>
+      <link>https://justadesignlist.com/studio/minimalist</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/minimalist</guid>
+      <pubDate>Tue, 17 Nov 2026 13:59:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — Seoul, South Korea. https://www.minimalist.kr/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
+    <item>
+      <title>Marina Zertuche</title>
+      <link>https://justadesignlist.com/studio/marina-zertuche</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/marina-zertuche</guid>
+      <pubDate>Tue, 17 Nov 2026 13:09:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Advertising/Campaigns — Austin, USA. https://www.marinazertuche.work/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>Marinus Klinksik</title>
+      <link>https://justadesignlist.com/studio/marinus-klinksik</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/marinus-klinksik</guid>
+      <pubDate>Tue, 17 Nov 2026 09:24:00 GMT</pubDate>
+      <description>Graphic Design · Typography · Motion — Hamburg, Germany. https://marinusklinksik.de/</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+      <category>Motion</category>
+    </item>
     <item>
       <title>THIRD HORIZON Studios®</title>
       <link>https://justadesignlist.com/studio/third-horizon-studios</link>
@@ -304,37 +334,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Advertising/Campaigns</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Shannon Lim</title>
-      <link>https://justadesignlist.com/studio/shannon-lim</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/shannon-lim</guid>
-      <pubDate>Fri, 30 Oct 2026 11:58:00 GMT</pubDate>
-      <description>Branding · Graphic Design — Singapore, Singapore. https://www.thisisveryrude.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Onda Studio</title>
-      <link>https://justadesignlist.com/studio/onda-studio</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/onda-studio</guid>
-      <pubDate>Fri, 30 Oct 2026 10:30:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Illustration · Typography · Packaging · Interactive/Digital — Braga, Portugal. https://www.ondastudio.co/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Illustration</category>
-      <category>Typography</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Big Active</title>
-      <link>https://justadesignlist.com/studio/big-active</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/big-active</guid>
-      <pubDate>Fri, 30 Oct 2026 09:49:00 GMT</pubDate>
-      <description>Graphic Design · Interactive/Digital — London, England. https://bigactive.com/</description>
-      <category>Graphic Design</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>

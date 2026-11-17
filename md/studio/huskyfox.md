@@ -1,12 +1,12 @@
 ---
 title: "HuskyFox — Branding, Seoul, South Korea · Just a Design List"
-description: "HuskyFox: branding, packaging and typography practice based in Seoul, South Korea. One of 11 studios from Seoul on Just a Design List, added in July 2026."
+description: "HuskyFox: branding, packaging and typography practice based in Seoul, South Korea. One of 12 studios from Seoul on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/huskyfox"
 ---
 
 # HuskyFox
 
-HuskyFox: branding, packaging and typography practice based in Seoul, South Korea. One of 11 studios from Seoul on Just a Design List, added in July 2026.
+HuskyFox: branding, packaging and typography practice based in Seoul, South Korea. One of 12 studios from Seoul on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Packaging, Typography
 - **City:** Seoul
@@ -24,9 +24,9 @@ HuskyFox: branding, packaging and typography practice based in Seoul, South Kore
 - [HAUS ARDORYOUTH](https://justadesignlist.com/studio/haus-ardoryouth)
 - [Jaemin Lee](https://justadesignlist.com/studio/jaemin-lee)
 - [Joonghyun Cho](https://justadesignlist.com/studio/joonghyun-cho)
+- [Minimalist](https://justadesignlist.com/studio/minimalist)
 - [Non-Objective](https://justadesignlist.com/studio/non-objective)
 - [Ordinary People](https://justadesignlist.com/studio/ordinary-people)
-- [P – K](https://justadesignlist.com/studio/p-k)
 
 ---
 

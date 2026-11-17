@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/discipline/motion</link>
     <description>New additions to Just a Design List: Motion studios.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 19:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:24:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/motion.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marinus Klinksik</title>
+      <link>https://justadesignlist.com/studio/marinus-klinksik</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/marinus-klinksik</guid>
+      <pubDate>Tue, 17 Nov 2026 09:24:00 GMT</pubDate>
+      <description>Graphic Design · Typography · Motion — Hamburg, Germany. https://marinusklinksik.de/</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+      <category>Motion</category>
+    </item>
     <item>
       <title>THIRD HORIZON Studios®</title>
       <link>https://justadesignlist.com/studio/third-horizon-studios</link>
@@ -345,18 +355,6 @@
       <category>Graphic Design</category>
       <category>Interactive/Digital</category>
       <category>Packaging</category>
-      <category>Motion</category>
-    </item>
-    <item>
-      <title>BonTemps</title>
-      <link>https://justadesignlist.com/studio/bontemps</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/bontemps</guid>
-      <pubDate>Sun, 13 Sep 2026 15:02:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Advertising/Campaigns · Interactive/Digital · Motion — Mexico City, Mexico. https://www.bontemps.agency/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Advertising/Campaigns</category>
-      <category>Interactive/Digital</category>
       <category>Motion</category>
     </item>
   </channel>

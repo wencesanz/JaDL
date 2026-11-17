@@ -1,12 +1,12 @@
 ---
 title: "Arctic Research — Branding, USA · Just a Design List"
-description: "Arctic Research: branding and graphic design practice based in USA. One of 332 from USA on Just a Design List, added in September 2026."
+description: "Arctic Research: branding and graphic design practice based in USA. One of 333 from USA on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/arctic-research"
 ---
 
 # Arctic Research
 
-Arctic Research: branding and graphic design practice based in USA. One of 332 from USA on Just a Design List, added in September 2026.
+Arctic Research: branding and graphic design practice based in USA. One of 333 from USA on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design
 - **Country:** USA

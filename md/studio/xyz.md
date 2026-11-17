@@ -1,12 +1,12 @@
 ---
 title: "xyz — Branding, Seoul, South Korea · Just a Design List"
-description: "xyz: branding and interactive/digital practice based in Seoul, South Korea. One of 11 studios from Seoul on Just a Design List, added in February 2026."
+description: "xyz: branding and interactive/digital practice based in Seoul, South Korea. One of 12 studios from Seoul on Just a Design List, added in February 2026."
 url: "https://justadesignlist.com/studio/xyz"
 ---
 
 # xyz
 
-xyz: branding and interactive/digital practice based in Seoul, South Korea. One of 11 studios from Seoul on Just a Design List, added in February 2026.
+xyz: branding and interactive/digital practice based in Seoul, South Korea. One of 12 studios from Seoul on Just a Design List, added in February 2026.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** Seoul
@@ -25,8 +25,8 @@ xyz: branding and interactive/digital practice based in Seoul, South Korea. One 
 - [HuskyFox](https://justadesignlist.com/studio/huskyfox)
 - [Jaemin Lee](https://justadesignlist.com/studio/jaemin-lee)
 - [Joonghyun Cho](https://justadesignlist.com/studio/joonghyun-cho)
+- [Minimalist](https://justadesignlist.com/studio/minimalist)
 - [Non-Objective](https://justadesignlist.com/studio/non-objective)
-- [Ordinary People](https://justadesignlist.com/studio/ordinary-people)
 
 ---
 

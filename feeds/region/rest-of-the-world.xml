@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/region/rest-of-the-world</link>
     <description>New additions to Just a Design List: design studios in Rest of the world.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 18:55:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:59:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/region/rest-of-the-world.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Minimalist</title>
+      <link>https://justadesignlist.com/studio/minimalist</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/minimalist</guid>
+      <pubDate>Tue, 17 Nov 2026 13:59:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — Seoul, South Korea. https://www.minimalist.kr/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Dum Dum Studio ®</title>
       <link>https://justadesignlist.com/studio/dum-dum-studio</link>
@@ -313,19 +323,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Packaging</category>
-    </item>
-    <item>
-      <title>BD85BD85</title>
-      <link>https://justadesignlist.com/studio/bd85bd85</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/bd85bd85</guid>
-      <pubDate>Mon, 27 Jul 2026 08:19:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Interactive/Digital · Motion · Typography — Hong Kong, China. https://bd85bd85.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
-      <category>Motion</category>
-      <category>Typography</category>
     </item>
   </channel>
 </rss>

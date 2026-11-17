@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Austin · Just a Design List"
-description: "5 independent design studios based in Austin, from the Just a Design List index. Browse by discipline."
+description: "6 independent design studios based in Austin, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/austin"
 ---
 
@@ -10,12 +10,13 @@ City
 
 # Austin
 
-5 independent design studios based in Austin, from the Just a Design List index. Browse by discipline.
+6 independent design studios based in Austin, from the Just a Design List index. Browse by discipline.
 
 - [Atla](https://justadesignlist.com/studio/atla) — Austin, Mexico City, Caracas, Lima, Tijuana, USA, Mexico, Venezuela, Peru
 - [Clay](https://justadesignlist.com/studio/clay) — San Francisco, New York, Austin, Denver, Lisbon, Belgrade, USA, Portugal, Serbia
 - [Goodside](https://justadesignlist.com/studio/goodside) — Austin, USA
 - [In-House Intl](https://justadesignlist.com/studio/in-house-intl) — Austin, USA
+- [Marina Zertuche](https://justadesignlist.com/studio/marina-zertuche) — Austin, USA
 - [Superexpresso](https://justadesignlist.com/studio/superexpresso) — Austin, USA
 
 ---

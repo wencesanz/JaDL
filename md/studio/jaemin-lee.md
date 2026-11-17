@@ -1,12 +1,12 @@
 ---
 title: "Jaemin Lee — Graphic Design, Seoul, South Korea · Just a Design List"
-description: "Jaemin Lee: graphic design practice based in Seoul, South Korea. One of 11 studios from Seoul on Just a Design List, added in May 2023."
+description: "Jaemin Lee: graphic design practice based in Seoul, South Korea. One of 12 studios from Seoul on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/jaemin-lee"
 ---
 
 # Jaemin Lee
 
-Jaemin Lee: graphic design practice based in Seoul, South Korea. One of 11 studios from Seoul on Just a Design List, added in May 2023.
+Jaemin Lee: graphic design practice based in Seoul, South Korea. One of 12 studios from Seoul on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Seoul
@@ -24,9 +24,9 @@ Jaemin Lee: graphic design practice based in Seoul, South Korea. One of 11 studi
 - [HAUS ARDORYOUTH](https://justadesignlist.com/studio/haus-ardoryouth)
 - [HuskyFox](https://justadesignlist.com/studio/huskyfox)
 - [Joonghyun Cho](https://justadesignlist.com/studio/joonghyun-cho)
+- [Minimalist](https://justadesignlist.com/studio/minimalist)
 - [Non-Objective](https://justadesignlist.com/studio/non-objective)
 - [Ordinary People](https://justadesignlist.com/studio/ordinary-people)
-- [P – K](https://justadesignlist.com/studio/p-k)
 
 ---
 

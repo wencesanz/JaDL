@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/discipline/packaging</link>
     <description>New additions to Just a Design List: Packaging studios.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 18:55:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:59:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/packaging.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Minimalist</title>
+      <link>https://justadesignlist.com/studio/minimalist</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/minimalist</guid>
+      <pubDate>Tue, 17 Nov 2026 13:59:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging — Seoul, South Korea. https://www.minimalist.kr/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Dum Dum Studio ®</title>
       <link>https://justadesignlist.com/studio/dum-dum-studio</link>
@@ -336,17 +346,6 @@
       <category>Graphic Design</category>
       <category>Interactive/Digital</category>
       <category>Packaging</category>
-    </item>
-    <item>
-      <title>Acquazzone</title>
-      <link>https://justadesignlist.com/studio/acquazzone</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/acquazzone</guid>
-      <pubDate>Tue, 13 Oct 2026 20:40:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Typography — San Francisco, USA. https://acquazzone.net/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Typography</category>
     </item>
   </channel>
 </rss>

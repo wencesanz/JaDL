@@ -1,12 +1,12 @@
 ---
 title: "Ben Pieratt — Branding, USA · Just a Design List"
-description: "Ben Pieratt: branding practice based in USA. One of 332 from USA on Just a Design List, added in May 2023."
+description: "Ben Pieratt: branding practice based in USA. One of 333 from USA on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/ben-pieratt"
 ---
 
 # Ben Pieratt
 
-Ben Pieratt: branding practice based in USA. One of 332 from USA on Just a Design List, added in May 2023.
+Ben Pieratt: branding practice based in USA. One of 333 from USA on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **Country:** USA

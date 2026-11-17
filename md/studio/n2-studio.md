@@ -1,12 +1,12 @@
 ---
 title: "n2.Studio — Graphic Design, Münster, Germany · Just a Design List"
-description: "n2.Studio: graphic design and interactive/digital practice based in Münster, Germany. The only studio from Münster, one of 99 from Germany on Just a Design List, added in August 2026."
+description: "n2.Studio: graphic design and interactive/digital practice based in Münster, Germany. The only studio from Münster, one of 100 from Germany on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/n2-studio"
 ---
 
 # n2.Studio
 
-n2.Studio: graphic design and interactive/digital practice based in Münster, Germany. The only studio from Münster, one of 99 from Germany on Just a Design List, added in August 2026.
+n2.Studio: graphic design and interactive/digital practice based in Münster, Germany. The only studio from Münster, one of 100 from Germany on Just a Design List, added in August 2026.
 
 - **Discipline:** Graphic Design, Interactive/Digital
 - **City:** Münster

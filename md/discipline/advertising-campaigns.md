@@ -1,6 +1,6 @@
 ---
 title: "Advertising/Campaigns design studios · Just a Design List"
-description: "140 independent studios and designers working in advertising/campaigns, collected in the Just a Design List index. Browse by country and city."
+description: "141 independent studios and designers working in advertising/campaigns, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/advertising-campaigns"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Advertising/Campaigns
 
-140 independent studios and designers working in advertising/campaigns, collected in the Just a Design List index. Browse by country and city.
+141 independent studios and designers working in advertising/campaigns, collected in the Just a Design List index. Browse by country and city.
 
 - [1042](https://justadesignlist.com/studio/1042) — Düsseldorf, Germany
 - [20(SOMETHING)](https://justadesignlist.com/studio/20-something) — London, England
@@ -86,6 +86,7 @@ Discipline
 - [Maiarelli Studio](https://justadesignlist.com/studio/maiarelli-studio) — New York, USA
 - [Manual](https://justadesignlist.com/studio/manual) — San Francisco, USA
 - [Marc Atlan Design](https://justadesignlist.com/studio/marc-atlan-design) — Los Angeles, USA
+- [Marina Zertuche](https://justadesignlist.com/studio/marina-zertuche) — Austin, USA
 - [Massa](https://justadesignlist.com/studio/massa) — Barcelona, Spain
 - [Mayda](https://justadesignlist.com/studio/mayda) — New York, USA
 - [Michael Longton](https://justadesignlist.com/studio/michael-longton) — Melbourne, Australia

@@ -1,12 +1,12 @@
 ---
 title: "REMOTE — Branding, Seoul, South Korea · Just a Design List"
-description: "REMOTE: branding, interactive/digital and graphic design practice based in Seoul, South Korea. One of 11 studios from Seoul on Just a Design List, added in April 2025."
+description: "REMOTE: branding, interactive/digital and graphic design practice based in Seoul, South Korea. One of 12 studios from Seoul on Just a Design List, added in April 2025."
 url: "https://justadesignlist.com/studio/remote"
 ---
 
 # REMOTE
 
-REMOTE: branding, interactive/digital and graphic design practice based in Seoul, South Korea. One of 11 studios from Seoul on Just a Design List, added in April 2025.
+REMOTE: branding, interactive/digital and graphic design practice based in Seoul, South Korea. One of 12 studios from Seoul on Just a Design List, added in April 2025.
 
 - **Discipline:** Branding, Interactive/Digital, Graphic Design
 - **City:** Seoul, Helsinki
@@ -25,8 +25,8 @@ REMOTE: branding, interactive/digital and graphic design practice based in Seoul
 - [HuskyFox](https://justadesignlist.com/studio/huskyfox)
 - [Jaemin Lee](https://justadesignlist.com/studio/jaemin-lee)
 - [Joonghyun Cho](https://justadesignlist.com/studio/joonghyun-cho)
+- [Minimalist](https://justadesignlist.com/studio/minimalist)
 - [Non-Objective](https://justadesignlist.com/studio/non-objective)
-- [Ordinary People](https://justadesignlist.com/studio/ordinary-people)
 
 ---
 

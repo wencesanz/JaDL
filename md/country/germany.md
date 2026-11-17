@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Germany · Just a Design List"
-description: "99 independent design studios and practices based in Germany. A curated index — browse by city and discipline."
+description: "100 independent design studios and practices based in Germany. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/germany"
 ---
 
@@ -10,7 +10,7 @@ Country
 
 # Germany
 
-99 independent design studios and practices based in Germany. A curated index — browse by city and discipline.
+100 independent design studios and practices based in Germany. A curated index — browse by city and discipline.
 
 - [1042](https://justadesignlist.com/studio/1042) — Düsseldorf, Germany
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
@@ -60,6 +60,7 @@ Country
 - [MAD](https://justadesignlist.com/studio/mad) — Berlin, Germany
 - [Marcel Häusler](https://justadesignlist.com/studio/marcel-hausler) — Hamburg, Paris, Germany, France
 - [Mariam Khalifah](https://justadesignlist.com/studio/mariam-khalifah) — Berlin, Germany
+- [Marinus Klinksik](https://justadesignlist.com/studio/marinus-klinksik) — Hamburg, Germany
 - [Marius Fahrner Design](https://justadesignlist.com/studio/marius-fahrner-design) — Hamburg, Germany
 - [Markwald Neusitzer Identity](https://justadesignlist.com/studio/markwald-neusitzer-identity) — Düsseldorf, Frankfurt, Germany
 - [Matter Of](https://justadesignlist.com/studio/matter-of) — Stuttgart, Germany

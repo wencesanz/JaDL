@@ -1,12 +1,12 @@
 ---
 title: "Joonghyun Cho — Graphic Design, Seoul, South Korea · Just a Design List"
-description: "Joonghyun Cho: graphic design practice based in Seoul, South Korea. One of 11 studios from Seoul on Just a Design List, added in May 2023."
+description: "Joonghyun Cho: graphic design practice based in Seoul, South Korea. One of 12 studios from Seoul on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/joonghyun-cho"
 ---
 
 # Joonghyun Cho
 
-Joonghyun Cho: graphic design practice based in Seoul, South Korea. One of 11 studios from Seoul on Just a Design List, added in May 2023.
+Joonghyun Cho: graphic design practice based in Seoul, South Korea. One of 12 studios from Seoul on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Seoul
@@ -24,9 +24,9 @@ Joonghyun Cho: graphic design practice based in Seoul, South Korea. One of 11 st
 - [HAUS ARDORYOUTH](https://justadesignlist.com/studio/haus-ardoryouth)
 - [HuskyFox](https://justadesignlist.com/studio/huskyfox)
 - [Jaemin Lee](https://justadesignlist.com/studio/jaemin-lee)
+- [Minimalist](https://justadesignlist.com/studio/minimalist)
 - [Non-Objective](https://justadesignlist.com/studio/non-objective)
 - [Ordinary People](https://justadesignlist.com/studio/ordinary-people)
-- [P – K](https://justadesignlist.com/studio/p-k)
 
 ---
 

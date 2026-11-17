@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/discipline/typography</link>
     <description>New additions to Just a Design List: Typography studios.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 18:57:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:24:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/typography.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marinus Klinksik</title>
+      <link>https://justadesignlist.com/studio/marinus-klinksik</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/marinus-klinksik</guid>
+      <pubDate>Tue, 17 Nov 2026 09:24:00 GMT</pubDate>
+      <description>Graphic Design · Typography · Motion — Hamburg, Germany. https://marinusklinksik.de/</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+      <category>Motion</category>
+    </item>
     <item>
       <title>eTypes</title>
       <link>https://justadesignlist.com/studio/etypes</link>
@@ -323,15 +333,6 @@
       <category>Graphic Design</category>
       <category>Typography</category>
       <category>Packaging</category>
-    </item>
-    <item>
-      <title>Fraser Muggeridge Studio</title>
-      <link>https://justadesignlist.com/studio/fraser-muggeridge-studio</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/fraser-muggeridge-studio</guid>
-      <pubDate>Mon, 07 Sep 2026 11:48:00 GMT</pubDate>
-      <description>Graphic Design · Typography — London, England. https://pleasedonotbend.co.uk/</description>
-      <category>Graphic Design</category>
-      <category>Typography</category>
     </item>
   </channel>
 </rss>

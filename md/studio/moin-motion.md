@@ -1,12 +1,12 @@
 ---
 title: "MOIN MOTION — Motion, Hamburg, Germany · Just a Design List"
-description: "MOIN MOTION: motion practice based in Hamburg, Germany. One of 14 studios from Hamburg on Just a Design List, added in May 2026."
+description: "MOIN MOTION: motion practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/moin-motion"
 ---
 
 # MOIN MOTION
 
-MOIN MOTION: motion practice based in Hamburg, Germany. One of 14 studios from Hamburg on Just a Design List, added in May 2026.
+MOIN MOTION: motion practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in May 2026.
 
 - **Discipline:** Motion
 - **City:** Hamburg

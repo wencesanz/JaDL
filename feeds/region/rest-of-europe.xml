@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/region/rest-of-europe</link>
     <description>New additions to Just a Design List: design studios in Rest of Europe.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:28:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:24:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/region/rest-of-europe.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marinus Klinksik</title>
+      <link>https://justadesignlist.com/studio/marinus-klinksik</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/marinus-klinksik</guid>
+      <pubDate>Tue, 17 Nov 2026 09:24:00 GMT</pubDate>
+      <description>Graphic Design · Typography · Motion — Hamburg, Germany. https://marinusklinksik.de/</description>
+      <category>Graphic Design</category>
+      <category>Typography</category>
+      <category>Motion</category>
+    </item>
     <item>
       <title>adaaap</title>
       <link>https://justadesignlist.com/studio/adaaap</link>
@@ -307,14 +317,6 @@
       <category>Motion</category>
       <category>Interactive/Digital</category>
       <category>Branding</category>
-    </item>
-    <item>
-      <title>Central studio</title>
-      <link>https://justadesignlist.com/studio/central-studio</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/central-studio</guid>
-      <pubDate>Mon, 28 Sep 2026 13:11:00 GMT</pubDate>
-      <description>Graphic Design — Lugano, Switzerland. https://centralstudio.ch/</description>
-      <category>Graphic Design</category>
     </item>
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 ---
 title: "Goodside — Branding, Austin, USA · Just a Design List"
-description: "Goodside: branding, illustration and interactive/digital practice based in Austin, USA. One of 5 studios from Austin on Just a Design List, added in June 2026."
+description: "Goodside: branding, illustration and interactive/digital practice based in Austin, USA. One of 6 studios from Austin on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/goodside"
 ---
 
 # Goodside
 
-Goodside: branding, illustration and interactive/digital practice based in Austin, USA. One of 5 studios from Austin on Just a Design List, added in June 2026.
+Goodside: branding, illustration and interactive/digital practice based in Austin, USA. One of 6 studios from Austin on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Illustration, Interactive/Digital, Packaging, Advertising/Campaigns
 - **City:** Austin
@@ -24,6 +24,7 @@ Goodside: branding, illustration and interactive/digital practice based in Austi
 - [Atla](https://justadesignlist.com/studio/atla)
 - [Clay](https://justadesignlist.com/studio/clay)
 - [In-House Intl](https://justadesignlist.com/studio/in-house-intl)
+- [Marina Zertuche](https://justadesignlist.com/studio/marina-zertuche)
 - [Superexpresso](https://justadesignlist.com/studio/superexpresso)
 
 ---

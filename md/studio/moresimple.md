@@ -1,12 +1,12 @@
 ---
 title: "MoreSimple — Branding, Tampa, USA · Just a Design List"
-description: "MoreSimple: branding practice based in Tampa, USA. The only studio from Tampa, one of 332 from USA on Just a Design List, added in May 2026."
+description: "MoreSimple: branding practice based in Tampa, USA. The only studio from Tampa, one of 333 from USA on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/moresimple"
 ---
 
 # MoreSimple
 
-MoreSimple: branding practice based in Tampa, USA. The only studio from Tampa, one of 332 from USA on Just a Design List, added in May 2026.
+MoreSimple: branding practice based in Tampa, USA. The only studio from Tampa, one of 333 from USA on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding
 - **City:** Tampa

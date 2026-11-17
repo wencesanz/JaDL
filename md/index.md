@@ -1,10 +1,10 @@
 ---
 title: "Just a Design List — A curated directory of design practices"
-description: "A slow, curated index of design studios and independent designers. 1466 entries across 176 countries."
+description: "A slow, curated index of design studios and independent designers. 1469 entries across 176 countries."
 url: "https://justadesignlist.com/"
 ---
 
-# 1466 design studios and independent designers, collected without ranking.
+# 1469 design studios and independent designers, collected without ranking.
 
 A working index of studios and independent designers whose practice the editor finds worth returning to. Entries are collected slowly, without ranking, and each is kept short on purpose — a pointer, not a review. Navigate by discipline, geography, or simply read it as a list.
 
@@ -12,6 +12,9 @@ A working index of studios and independent designers whose practice the editor f
 
 ## Recent additions
 
+- [Minimalist](https://justadesignlist.com/studio/minimalist) — Seoul, South Korea
+- [Marina Zertuche](https://justadesignlist.com/studio/marina-zertuche) — Austin, USA
+- [Marinus Klinksik](https://justadesignlist.com/studio/marinus-klinksik) — Hamburg, Germany
 - [THIRD HORIZON Studios®](https://justadesignlist.com/studio/third-horizon-studios) — London, England
 - [eTypes](https://justadesignlist.com/studio/etypes) — Copenhagen, Denmark
 - [Dum Dum Studio ®](https://justadesignlist.com/studio/dum-dum-studio) — Monterrey, Mexico
@@ -29,19 +32,16 @@ A working index of studios and independent designers whose practice the editor f
 - [Christopher A. Ritter](https://justadesignlist.com/studio/christopher-a-ritter) — Covington, USA
 - [HOT COTTAGE](https://justadesignlist.com/studio/hot-cottage) — Melbourne, Australia
 - [Anna Bosch](https://justadesignlist.com/studio/anna-bosch) — Banyoles, Spain
-- [AKLR](https://justadesignlist.com/studio/aklr) — Melbourne, Australia
-- [Adam Ho, I.S.P.](https://justadesignlist.com/studio/adam-ho-i-s-p) — New York, USA
-- [Applied Archive Atelier](https://justadesignlist.com/studio/applied-archive-atelier) — Montreal, Canada
 
 ## By discipline
 
-- [Branding](https://justadesignlist.com/discipline/branding) (1169)
-- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (899)
+- [Branding](https://justadesignlist.com/discipline/branding) (1171)
+- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (902)
 - [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (722)
-- [Packaging](https://justadesignlist.com/discipline/packaging) (464)
-- [Motion](https://justadesignlist.com/discipline/motion) (229)
-- [Typography](https://justadesignlist.com/discipline/typography) (192)
-- [Advertising/Campaigns](https://justadesignlist.com/discipline/advertising-campaigns) (140)
+- [Packaging](https://justadesignlist.com/discipline/packaging) (465)
+- [Motion](https://justadesignlist.com/discipline/motion) (230)
+- [Typography](https://justadesignlist.com/discipline/typography) (193)
+- [Advertising/Campaigns](https://justadesignlist.com/discipline/advertising-campaigns) (141)
 - [Illustration](https://justadesignlist.com/discipline/illustration) (114)
 - [Industrial Design](https://justadesignlist.com/discipline/industrial-design) (11)
 
@@ -49,18 +49,18 @@ A working index of studios and independent designers whose practice the editor f
 
 - [Iberia](https://justadesignlist.com/region/iberia) (202)
 - [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (239)
-- [North America](https://justadesignlist.com/region/north-america) (344)
+- [North America](https://justadesignlist.com/region/north-america) (345)
 - [Nordics](https://justadesignlist.com/region/nordics) (110)
 - [Oceania](https://justadesignlist.com/region/oceania) (93)
-- [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (384)
-- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (93)
+- [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (385)
+- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (94)
 
 ## Most represented countries
 
-- [USA](https://justadesignlist.com/country/usa) (332)
+- [USA](https://justadesignlist.com/country/usa) (333)
 - [England](https://justadesignlist.com/country/england) (242)
 - [Spain](https://justadesignlist.com/country/spain) (199)
-- [Germany](https://justadesignlist.com/country/germany) (99)
+- [Germany](https://justadesignlist.com/country/germany) (100)
 - [Australia](https://justadesignlist.com/country/australia) (91)
 - [France](https://justadesignlist.com/country/france) (84)
 - [The Netherlands](https://justadesignlist.com/country/the-netherlands) (62)
