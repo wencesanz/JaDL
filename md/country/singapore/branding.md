@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in Singapore · Just a Design List"
-description: "9 independent studios working in branding in Singapore, from the Just a Design List index."
+description: "10 independent studios working in branding in Singapore, from the Just a Design List index."
 url: "https://justadesignlist.com/country/singapore/branding"
 ---
 
@@ -10,7 +10,7 @@ Country · Branding
 
 # Branding in Singapore
 
-9 independent studios working in branding in Singapore, from the Just a Design List index.
+10 independent studios working in branding in Singapore, from the Just a Design List index.
 
 - [Darling](https://justadesignlist.com/studio/darling) — Singapore, Singapore
 - [Do Not Design](https://justadesignlist.com/studio/do-not-design) — Singapore, Singapore
@@ -19,6 +19,7 @@ Country · Branding
 - [Lynxeye](https://justadesignlist.com/studio/lynxeye) — Stockholm, Singapore, Sweden, Singapore
 - [OKOK Services](https://justadesignlist.com/studio/okok-services) — Amsterdam, Singapore, The Netherlands, Singapore
 - [Practice Theory](https://justadesignlist.com/studio/practice-theory) — Geylang, Ho Chi Minh City, Singapore, Vietnam
+- [Roots](https://justadesignlist.com/studio/roots) — Singapore, Singapore
 - [Shannon Lim](https://justadesignlist.com/studio/shannon-lim) — Singapore, Singapore
 - [Somewhere Else](https://justadesignlist.com/studio/somewhere-else) — Singapore, Singapore
 

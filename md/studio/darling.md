@@ -1,12 +1,12 @@
 ---
 title: "Darling — Branding, Singapore · Just a Design List"
-description: "Darling: branding, advertising/campaigns and interactive/digital practice based in Singapore. One of 8 studios from Singapore on Just a Design List, added in December 2024."
+description: "Darling: branding, advertising/campaigns and interactive/digital practice based in Singapore. One of 9 studios from Singapore on Just a Design List, added in December 2024."
 url: "https://justadesignlist.com/studio/darling"
 ---
 
 # Darling
 
-Darling: branding, advertising/campaigns and interactive/digital practice based in Singapore. One of 8 studios from Singapore on Just a Design List, added in December 2024.
+Darling: branding, advertising/campaigns and interactive/digital practice based in Singapore. One of 9 studios from Singapore on Just a Design List, added in December 2024.
 
 - **Discipline:** Branding, Advertising/Campaigns, Interactive/Digital, Graphic Design
 - **City:** Singapore
@@ -26,7 +26,7 @@ Darling: branding, advertising/campaigns and interactive/digital practice based 
 - [House of Adjaycent](https://justadesignlist.com/studio/house-of-adjaycent)
 - [Lynxeye](https://justadesignlist.com/studio/lynxeye)
 - [OKOK Services](https://justadesignlist.com/studio/okok-services)
-- [Shannon Lim](https://justadesignlist.com/studio/shannon-lim)
+- [Roots](https://justadesignlist.com/studio/roots)
 
 ---
 

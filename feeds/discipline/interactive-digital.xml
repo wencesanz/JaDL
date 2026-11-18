@@ -5,8 +5,19 @@
     <link>https://justadesignlist.com/discipline/interactive-digital</link>
     <description>New additions to Just a Design List: Interactive/Digital studios.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 16:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:24:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/interactive-digital.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Roots</title>
+      <link>https://justadesignlist.com/studio/roots</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/roots</guid>
+      <pubDate>Wed, 18 Nov 2026 08:24:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Singapore, Singapore. https://www.whererootsare.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Peltan-Brosz Studio</title>
       <link>https://justadesignlist.com/studio/peltan-brosz-studio</link>
@@ -328,15 +339,6 @@
       <description>Graphic Design · Motion · Interactive/Digital — Paris, France. https://loicaltaber.fr/</description>
       <category>Graphic Design</category>
       <category>Motion</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Lynxeye</title>
-      <link>https://justadesignlist.com/studio/lynxeye</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/lynxeye</guid>
-      <pubDate>Wed, 28 Oct 2026 07:32:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital — Stockholm, Sweden. https://lynxeye.com/</description>
-      <category>Branding</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>

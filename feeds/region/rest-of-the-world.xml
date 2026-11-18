@@ -5,8 +5,19 @@
     <link>https://justadesignlist.com/region/rest-of-the-world</link>
     <description>New additions to Just a Design List: design studios in Rest of the world.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 13:59:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:24:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/region/rest-of-the-world.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Roots</title>
+      <link>https://justadesignlist.com/studio/roots</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/roots</guid>
+      <pubDate>Wed, 18 Nov 2026 08:24:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Singapore, Singapore. https://www.whererootsare.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Minimalist</title>
       <link>https://justadesignlist.com/studio/minimalist</link>
@@ -313,16 +324,6 @@
       <category>Interactive/Digital</category>
       <category>Packaging</category>
       <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Do Not Design</title>
-      <link>https://justadesignlist.com/studio/do-not-design</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/do-not-design</guid>
-      <pubDate>Thu, 30 Jul 2026 10:16:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging — Singapore, Singapore. https://www.donotdesign.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
     </item>
   </channel>
 </rss>

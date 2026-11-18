@@ -16,7 +16,7 @@ Geography
 - [Nordics](https://justadesignlist.com/region/nordics) (110)
 - [Oceania](https://justadesignlist.com/region/oceania) (93)
 - [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (386)
-- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (94)
+- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (95)
 
 ## Countries
 
@@ -47,7 +47,7 @@ Geography
 - [Brazil](https://justadesignlist.com/country/brazil) (13)
 - [Japan](https://justadesignlist.com/country/japan) (12)
 - [South Korea](https://justadesignlist.com/country/south-korea) (12)
-- [Singapore](https://justadesignlist.com/country/singapore) (9)
+- [Singapore](https://justadesignlist.com/country/singapore) (10)
 - [United Arab Emirates](https://justadesignlist.com/country/united-arab-emirates) (7)
 - [Czech Republic](https://justadesignlist.com/country/czech-republic) (6)
 - [Hungary](https://justadesignlist.com/country/hungary) (6)
@@ -124,9 +124,9 @@ Geography
 - [Buenos Aires](https://justadesignlist.com/city/buenos-aires) (10)
 - [Mexico City](https://justadesignlist.com/city/mexico-city) (9)
 - [Porto](https://justadesignlist.com/city/porto) (9)
+- [Singapore](https://justadesignlist.com/city/singapore) (9)
 - [Antwerp](https://justadesignlist.com/city/antwerp) (8)
 - [Lausanne](https://justadesignlist.com/city/lausanne) (8)
-- [Singapore](https://justadesignlist.com/city/singapore) (8)
 - [Stuttgart](https://justadesignlist.com/city/stuttgart) (8)
 - [Warsaw](https://justadesignlist.com/city/warsaw) (8)
 - [Hong Kong](https://justadesignlist.com/city/hong-kong) (7)

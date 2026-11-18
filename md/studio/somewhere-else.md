@@ -1,12 +1,12 @@
 ---
 title: "Somewhere Else — Branding, Singapore · Just a Design List"
-description: "Somewhere Else: branding and packaging practice based in Singapore. One of 8 studios from Singapore on Just a Design List, added in July 2026."
+description: "Somewhere Else: branding and packaging practice based in Singapore. One of 9 studios from Singapore on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/somewhere-else"
 ---
 
 # Somewhere Else
 
-Somewhere Else: branding and packaging practice based in Singapore. One of 8 studios from Singapore on Just a Design List, added in July 2026.
+Somewhere Else: branding and packaging practice based in Singapore. One of 9 studios from Singapore on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Packaging
 - **City:** Singapore

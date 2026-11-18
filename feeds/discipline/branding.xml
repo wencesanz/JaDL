@@ -5,8 +5,19 @@
     <link>https://justadesignlist.com/discipline/branding</link>
     <description>New additions to Just a Design List: Branding studios.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 16:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:24:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/branding.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Roots</title>
+      <link>https://justadesignlist.com/studio/roots</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/roots</guid>
+      <pubDate>Wed, 18 Nov 2026 08:24:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Singapore, Singapore. https://www.whererootsare.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Peltan-Brosz Studio</title>
       <link>https://justadesignlist.com/studio/peltan-brosz-studio</link>
@@ -326,15 +337,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Packaging</category>
-    </item>
-    <item>
-      <title>Mantis</title>
-      <link>https://justadesignlist.com/studio/mantis</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/mantis</guid>
-      <pubDate>Tue, 03 Nov 2026 15:03:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital — New York, USA. https://www.mantis.works/</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 ---
 title: "Do Not Design — Branding, Singapore · Just a Design List"
-description: "Do Not Design: branding, graphic design and packaging practice based in Singapore. One of 8 studios from Singapore on Just a Design List, added in July 2026."
+description: "Do Not Design: branding, graphic design and packaging practice based in Singapore. One of 9 studios from Singapore on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/do-not-design"
 ---
 
 # Do Not Design
 
-Do Not Design: branding, graphic design and packaging practice based in Singapore. One of 8 studios from Singapore on Just a Design List, added in July 2026.
+Do Not Design: branding, graphic design and packaging practice based in Singapore. One of 9 studios from Singapore on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging
 - **City:** Singapore
@@ -26,7 +26,7 @@ Do Not Design: branding, graphic design and packaging practice based in Singapor
 - [House of Adjaycent](https://justadesignlist.com/studio/house-of-adjaycent)
 - [Lynxeye](https://justadesignlist.com/studio/lynxeye)
 - [OKOK Services](https://justadesignlist.com/studio/okok-services)
-- [Shannon Lim](https://justadesignlist.com/studio/shannon-lim)
+- [Roots](https://justadesignlist.com/studio/roots)
 
 ---
 

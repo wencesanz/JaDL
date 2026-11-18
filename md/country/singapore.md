@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Singapore · Just a Design List"
-description: "9 independent design studios and practices based in Singapore. A curated index — browse by city and discipline."
+description: "10 independent design studios and practices based in Singapore. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/singapore"
 ---
 
@@ -10,9 +10,9 @@ Country
 
 # Singapore
 
-9 independent design studios and practices based in Singapore. A curated index — browse by city and discipline.
+10 independent design studios and practices based in Singapore. A curated index — browse by city and discipline.
 
-By discipline: [Branding design studios in Singapore](https://justadesignlist.com/country/singapore/branding) (9), [Graphic Design studios in Singapore](https://justadesignlist.com/country/singapore/graphic-design) (6)
+By discipline: [Branding design studios in Singapore](https://justadesignlist.com/country/singapore/branding) (10), [Graphic Design studios in Singapore](https://justadesignlist.com/country/singapore/graphic-design) (7)
 
 - [Darling](https://justadesignlist.com/studio/darling) — Singapore, Singapore
 - [Do Not Design](https://justadesignlist.com/studio/do-not-design) — Singapore, Singapore
@@ -21,6 +21,7 @@ By discipline: [Branding design studios in Singapore](https://justadesignlist.co
 - [Lynxeye](https://justadesignlist.com/studio/lynxeye) — Stockholm, Singapore, Sweden, Singapore
 - [OKOK Services](https://justadesignlist.com/studio/okok-services) — Amsterdam, Singapore, The Netherlands, Singapore
 - [Practice Theory](https://justadesignlist.com/studio/practice-theory) — Geylang, Ho Chi Minh City, Singapore, Vietnam
+- [Roots](https://justadesignlist.com/studio/roots) — Singapore, Singapore
 - [Shannon Lim](https://justadesignlist.com/studio/shannon-lim) — Singapore, Singapore
 - [Somewhere Else](https://justadesignlist.com/studio/somewhere-else) — Singapore, Singapore
 

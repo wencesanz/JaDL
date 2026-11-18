@@ -1,6 +1,6 @@
 ---
 title: "Design studios in the rest of the world · Just a Design List"
-description: "94 independent design studios and designers based in the rest of the world, from the Just a Design List index. Browse by country, city and discipline."
+description: "95 independent design studios and designers based in the rest of the world, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/rest-of-the-world"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # Rest of the world
 
-94 independent design studios and designers based in the rest of the world, from the Just a Design List index. Browse by country, city and discipline.
+95 independent design studios and designers based in the rest of the world, from the Just a Design List index. Browse by country, city and discipline.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [++hellohello](https://justadesignlist.com/studio/hellohello) — Montevideo, Uruguay
@@ -83,6 +83,7 @@ Region
 - [Reesaw](https://justadesignlist.com/studio/reesaw) — NingBo, ShangHai, HangZhou, China
 - [REMOTE](https://justadesignlist.com/studio/remote) — Seoul, Helsinki, South Korea, Finland
 - [Ronda](https://justadesignlist.com/studio/ronda) — Buenos Aires, Argentina
+- [Roots](https://justadesignlist.com/studio/roots) — Singapore, Singapore
 - [Satu Collective](https://justadesignlist.com/studio/satu-collective) — Jakarta, Indonesia
 - [Savvy](https://justadesignlist.com/studio/savvy) — Mexico City, New York, Mexico, USA
 - [Shannon Lim](https://justadesignlist.com/studio/shannon-lim) — Singapore, Singapore

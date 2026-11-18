@@ -1,10 +1,10 @@
 ---
 title: "Just a Design List — A curated directory of design practices"
-description: "A slow, curated index of design studios and independent designers. 1470 entries across 176 countries."
+description: "A slow, curated index of design studios and independent designers. 1471 entries across 176 countries."
 url: "https://justadesignlist.com/"
 ---
 
-# 1470 design studios and independent designers, collected without ranking.
+# 1471 design studios and independent designers, collected without ranking.
 
 A working index of studios and independent designers whose practice the editor finds worth returning to. Entries are collected slowly, without ranking, and each is kept short on purpose — a pointer, not a review. Navigate by discipline, geography, or simply read it as a list.
 
@@ -12,6 +12,7 @@ A working index of studios and independent designers whose practice the editor f
 
 ## Recent additions
 
+- [Roots](https://justadesignlist.com/studio/roots) — Singapore
 - [Peltan-Brosz Studio](https://justadesignlist.com/studio/peltan-brosz-studio) — Budapest, Hungary
 - [Minimalist](https://justadesignlist.com/studio/minimalist) — Seoul, South Korea
 - [Marina Zertuche](https://justadesignlist.com/studio/marina-zertuche) — Austin, USA
@@ -31,14 +32,13 @@ A working index of studios and independent designers whose practice the editor f
 - [Lippert Studios](https://justadesignlist.com/studio/lippert-studios) — Berlin, Germany
 - [Convicts](https://justadesignlist.com/studio/convicts) — New York, Los Angeles, USA · Byron Bay, Australia
 - [Christopher A. Ritter](https://justadesignlist.com/studio/christopher-a-ritter) — Covington, USA
-- [HOT COTTAGE](https://justadesignlist.com/studio/hot-cottage) — Melbourne, Australia
 
 ## By discipline
 
-- [Branding](https://justadesignlist.com/discipline/branding) (1172)
-- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (903)
-- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (723)
-- [Packaging](https://justadesignlist.com/discipline/packaging) (466)
+- [Branding](https://justadesignlist.com/discipline/branding) (1173)
+- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (904)
+- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (724)
+- [Packaging](https://justadesignlist.com/discipline/packaging) (467)
 - [Motion](https://justadesignlist.com/discipline/motion) (230)
 - [Typography](https://justadesignlist.com/discipline/typography) (193)
 - [Advertising/Campaigns](https://justadesignlist.com/discipline/advertising-campaigns) (141)
@@ -53,7 +53,7 @@ A working index of studios and independent designers whose practice the editor f
 - [Nordics](https://justadesignlist.com/region/nordics) (110)
 - [Oceania](https://justadesignlist.com/region/oceania) (93)
 - [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (386)
-- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (94)
+- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (95)
 
 ## Most represented countries
 

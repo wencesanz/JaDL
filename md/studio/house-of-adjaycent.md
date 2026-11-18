@@ -1,12 +1,12 @@
 ---
 title: "House of Adjaycent — Branding, Singapore · Just a Design List"
-description: "House of Adjaycent: branding, graphic design and advertising/campaigns practice based in Singapore. One of 8 studios from Singapore on Just a Design List, added in October 2026."
+description: "House of Adjaycent: branding, graphic design and advertising/campaigns practice based in Singapore. One of 9 studios from Singapore on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/house-of-adjaycent"
 ---
 
 # House of Adjaycent
 
-House of Adjaycent: branding, graphic design and advertising/campaigns practice based in Singapore. One of 8 studios from Singapore on Just a Design List, added in October 2026.
+House of Adjaycent: branding, graphic design and advertising/campaigns practice based in Singapore. One of 9 studios from Singapore on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Advertising/Campaigns
 - **City:** Singapore
@@ -26,7 +26,7 @@ House of Adjaycent: branding, graphic design and advertising/campaigns practice 
 - [Foreign Policy](https://justadesignlist.com/studio/foreign-policy)
 - [Lynxeye](https://justadesignlist.com/studio/lynxeye)
 - [OKOK Services](https://justadesignlist.com/studio/okok-services)
-- [Shannon Lim](https://justadesignlist.com/studio/shannon-lim)
+- [Roots](https://justadesignlist.com/studio/roots)
 
 ---
 

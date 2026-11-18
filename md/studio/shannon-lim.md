@@ -1,12 +1,12 @@
 ---
 title: "Shannon Lim — Branding, Singapore · Just a Design List"
-description: "Shannon Lim: branding and graphic design practice based in Singapore. One of 8 studios from Singapore on Just a Design List, added in October 2026."
+description: "Shannon Lim: branding and graphic design practice based in Singapore. One of 9 studios from Singapore on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/shannon-lim"
 ---
 
 # Shannon Lim
 
-Shannon Lim: branding and graphic design practice based in Singapore. One of 8 studios from Singapore on Just a Design List, added in October 2026.
+Shannon Lim: branding and graphic design practice based in Singapore. One of 9 studios from Singapore on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** Singapore

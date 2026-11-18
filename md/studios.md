@@ -1,12 +1,12 @@
 ---
 title: "All studios · Just a Design List"
-description: "Browse the full index of 1470 design studios and independent designers, A to Z."
+description: "Browse the full index of 1471 design studios and independent designers, A to Z."
 url: "https://justadesignlist.com/studios"
 ---
 
 The List
 
-# All 1470 studios and designers
+# All 1471 studios and designers
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China · Branding, Motion, Interactive/Digital, Typography, Packaging
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Slovenia · Paris, France · Branding, Interactive/Digital, Packaging, Motion
@@ -1097,6 +1097,7 @@ The List
 - [Rolando Castillo](https://justadesignlist.com/studio/rolando-castillo) — Los Angeles, USA · Graphic Design
 - [Ronda](https://justadesignlist.com/studio/ronda) — Buenos Aires, Argentina · Motion
 - [Room for Magic](https://justadesignlist.com/studio/room-for-magic) — Los Angeles, USA · Branding, Interactive/Digital
+- [Roots](https://justadesignlist.com/studio/roots) — Singapore · Branding, Graphic Design, Interactive/Digital, Packaging
 - [Round](https://justadesignlist.com/studio/round) — Melbourne, Australia · Branding, Motion, Interactive/Digital, Graphic Design
 - [Rubio & Del Amo](https://justadesignlist.com/studio/rubio-and-del-amo) — Murcia, Spain · Graphic Design, Branding, Illustration, Packaging
 - [Rudmer van Hulzen](https://justadesignlist.com/studio/rudmer-van-hulzen) — Groningen, The Netherlands · Graphic Design

@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios · Just a Design List"
-description: "903 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city."
+description: "904 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Graphic Design
 
-903 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city.
+904 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city.
 
 - [(Studio) Lotta Nieminen](https://justadesignlist.com/studio/studio-lotta-nieminen) — Helsinki, Finland
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA

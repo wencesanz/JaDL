@@ -8,10 +8,10 @@ Categories
 
 # Disciplines
 
-- [Branding](https://justadesignlist.com/discipline/branding) (1172) — Identity systems, marks, and brand architecture.
-- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (903) — Print, editorial, and graphic practices in the broadest sense.
-- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (723)
-- [Packaging](https://justadesignlist.com/discipline/packaging) (466) — Form, label, and the object that leaves the shelf.
+- [Branding](https://justadesignlist.com/discipline/branding) (1173) — Identity systems, marks, and brand architecture.
+- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (904) — Print, editorial, and graphic practices in the broadest sense.
+- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (724)
+- [Packaging](https://justadesignlist.com/discipline/packaging) (467) — Form, label, and the object that leaves the shelf.
 - [Motion](https://justadesignlist.com/discipline/motion) (230)
 - [Typography](https://justadesignlist.com/discipline/typography) (193) — Type design, custom lettering, and the specimen as a medium.
 - [Advertising/Campaigns](https://justadesignlist.com/discipline/advertising-campaigns) (141)

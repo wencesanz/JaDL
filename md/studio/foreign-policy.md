@@ -1,12 +1,12 @@
 ---
 title: "Foreign Policy — Branding, Singapore · Just a Design List"
-description: "Foreign Policy: branding and graphic design practice based in Singapore. One of 8 studios from Singapore on Just a Design List, added in October 2026."
+description: "Foreign Policy: branding and graphic design practice based in Singapore. One of 9 studios from Singapore on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/foreign-policy"
 ---
 
 # Foreign Policy
 
-Foreign Policy: branding and graphic design practice based in Singapore. One of 8 studios from Singapore on Just a Design List, added in October 2026.
+Foreign Policy: branding and graphic design practice based in Singapore. One of 9 studios from Singapore on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** Singapore
@@ -26,7 +26,7 @@ Foreign Policy: branding and graphic design practice based in Singapore. One of 
 - [House of Adjaycent](https://justadesignlist.com/studio/house-of-adjaycent)
 - [Lynxeye](https://justadesignlist.com/studio/lynxeye)
 - [OKOK Services](https://justadesignlist.com/studio/okok-services)
-- [Shannon Lim](https://justadesignlist.com/studio/shannon-lim)
+- [Roots](https://justadesignlist.com/studio/roots)
 
 ---
 

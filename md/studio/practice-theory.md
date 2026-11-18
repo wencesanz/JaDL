@@ -1,12 +1,12 @@
 ---
 title: "Practice Theory — Branding, Geylang, Singapore · Just a Design List"
-description: "Practice Theory: branding practice based in Geylang, Singapore. The only studio from Geylang, one of 9 from Singapore on Just a Design List, added in May 2023."
+description: "Practice Theory: branding practice based in Geylang, Singapore. The only studio from Geylang, one of 10 from Singapore on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/practice-theory"
 ---
 
 # Practice Theory
 
-Practice Theory: branding practice based in Geylang, Singapore. The only studio from Geylang, one of 9 from Singapore on Just a Design List, added in May 2023.
+Practice Theory: branding practice based in Geylang, Singapore. The only studio from Geylang, one of 10 from Singapore on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** Geylang, Ho Chi Minh City
