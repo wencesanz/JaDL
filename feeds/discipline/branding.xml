@@ -5,8 +5,20 @@
     <link>https://justadesignlist.com/discipline/branding</link>
     <description>New additions to Just a Design List: Branding studios.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 13:59:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 16:11:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/branding.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Peltan-Brosz Studio</title>
+      <link>https://justadesignlist.com/studio/peltan-brosz-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/peltan-brosz-studio</guid>
+      <pubDate>Tue, 17 Nov 2026 16:11:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Packaging · Interactive/Digital · Illustration — Budapest, Hungary. https://peltan-brosz.com/</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Illustration</category>
+    </item>
     <item>
       <title>Minimalist</title>
       <link>https://justadesignlist.com/studio/minimalist</link>
@@ -322,17 +334,6 @@
       <pubDate>Tue, 03 Nov 2026 15:03:00 GMT</pubDate>
       <description>Branding · Interactive/Digital — New York, USA. https://www.mantis.works/</description>
       <category>Branding</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>SOUP</title>
-      <link>https://justadesignlist.com/studio/soup</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/soup</guid>
-      <pubDate>Fri, 30 Oct 2026 12:02:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Advertising/Campaigns · Interactive/Digital — London, England. https://soup.work/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Advertising/Campaigns</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>

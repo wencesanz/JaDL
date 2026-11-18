@@ -1,12 +1,12 @@
 ---
 title: "Comet — Branding, Budapest, Hungary · Just a Design List"
-description: "Comet: branding and interactive/digital practice based in Budapest, Hungary. One of 5 studios from Budapest on Just a Design List, added in January 2025."
+description: "Comet: branding and interactive/digital practice based in Budapest, Hungary. One of 6 studios from Budapest on Just a Design List, added in January 2025."
 url: "https://justadesignlist.com/studio/comet"
 ---
 
 # Comet
 
-Comet: branding and interactive/digital practice based in Budapest, Hungary. One of 5 studios from Budapest on Just a Design List, added in January 2025.
+Comet: branding and interactive/digital practice based in Budapest, Hungary. One of 6 studios from Budapest on Just a Design List, added in January 2025.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** Budapest
@@ -24,6 +24,7 @@ Comet: branding and interactive/digital practice based in Budapest, Hungary. One
 - [Classmate Studio](https://justadesignlist.com/studio/classmate-studio)
 - [L²](https://justadesignlist.com/studio/l2)
 - [Miklós Kiss](https://justadesignlist.com/studio/miklos-kiss)
+- [Peltan-Brosz Studio](https://justadesignlist.com/studio/peltan-brosz-studio)
 - [Viktor Horváth](https://justadesignlist.com/studio/viktor-horvath)
 
 ---

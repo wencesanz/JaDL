@@ -15,7 +15,7 @@ Geography
 - [North America](https://justadesignlist.com/region/north-america) (345)
 - [Nordics](https://justadesignlist.com/region/nordics) (110)
 - [Oceania](https://justadesignlist.com/region/oceania) (93)
-- [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (385)
+- [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (386)
 - [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (94)
 
 ## Countries
@@ -50,7 +50,7 @@ Geography
 - [Singapore](https://justadesignlist.com/country/singapore) (9)
 - [United Arab Emirates](https://justadesignlist.com/country/united-arab-emirates) (7)
 - [Czech Republic](https://justadesignlist.com/country/czech-republic) (6)
-- [Hungary](https://justadesignlist.com/country/hungary) (5)
+- [Hungary](https://justadesignlist.com/country/hungary) (6)
 - [Northern Ireland](https://justadesignlist.com/country/northern-ireland) (5)
 - [Romania](https://justadesignlist.com/country/romania) (5)
 - [Ukraine](https://justadesignlist.com/country/ukraine) (5)
@@ -134,6 +134,7 @@ Geography
 - [Sao Paulo](https://justadesignlist.com/city/sao-paulo) (7)
 - [Austin](https://justadesignlist.com/city/austin) (6)
 - [Brussels](https://justadesignlist.com/city/brussels) (6)
+- [Budapest](https://justadesignlist.com/city/budapest) (6)
 - [Dubai](https://justadesignlist.com/city/dubai) (6)
 - [Gothenburg](https://justadesignlist.com/city/gothenburg) (6)
 - [Graz](https://justadesignlist.com/city/graz) (6)
@@ -141,7 +142,6 @@ Geography
 - [Seattle](https://justadesignlist.com/city/seattle) (6)
 - [Basel](https://justadesignlist.com/city/basel) (5)
 - [Brighton](https://justadesignlist.com/city/brighton) (5)
-- [Budapest](https://justadesignlist.com/city/budapest) (5)
 - [Monterrey](https://justadesignlist.com/city/monterrey) (5)
 - [Murcia](https://justadesignlist.com/city/murcia) (5)
 - [Poznan](https://justadesignlist.com/city/poznan) (5)

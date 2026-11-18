@@ -1,12 +1,12 @@
 ---
 title: "Viktor Horváth — Branding, Budapest, Hungary · Just a Design List"
-description: "Viktor Horváth: branding and interactive/digital practice based in Budapest, Hungary. One of 5 studios from Budapest on Just a Design List, added in July 2026."
+description: "Viktor Horváth: branding and interactive/digital practice based in Budapest, Hungary. One of 6 studios from Budapest on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/viktor-horvath"
 ---
 
 # Viktor Horváth
 
-Viktor Horváth: branding and interactive/digital practice based in Budapest, Hungary. One of 5 studios from Budapest on Just a Design List, added in July 2026.
+Viktor Horváth: branding and interactive/digital practice based in Budapest, Hungary. One of 6 studios from Budapest on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** Budapest
@@ -25,6 +25,7 @@ Viktor Horváth: branding and interactive/digital practice based in Budapest, Hu
 - [Comet](https://justadesignlist.com/studio/comet)
 - [L²](https://justadesignlist.com/studio/l2)
 - [Miklós Kiss](https://justadesignlist.com/studio/miklos-kiss)
+- [Peltan-Brosz Studio](https://justadesignlist.com/studio/peltan-brosz-studio)
 
 ---
 

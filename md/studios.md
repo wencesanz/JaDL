@@ -1,12 +1,12 @@
 ---
 title: "All studios · Just a Design List"
-description: "Browse the full index of 1469 design studios and independent designers, A to Z."
+description: "Browse the full index of 1470 design studios and independent designers, A to Z."
 url: "https://justadesignlist.com/studios"
 ---
 
 The List
 
-# All 1469 studios and designers
+# All 1470 studios and designers
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China · Branding, Motion, Interactive/Digital, Typography, Packaging
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Slovenia · Paris, France · Branding, Interactive/Digital, Packaging, Motion
@@ -991,6 +991,7 @@ The List
 - [PDB](https://justadesignlist.com/studio/pdb) — Berlin, Germany · Branding, Graphic Design, Packaging, Illustration
 - [Pearlfisher](https://justadesignlist.com/studio/pearlfisher) — London, England · New York, USA · Branding, Packaging
 - [Pedro Del Corro](https://justadesignlist.com/studio/pedro-del-corro) — New York, USA · Graphic Design
+- [Peltan-Brosz Studio](https://justadesignlist.com/studio/peltan-brosz-studio) — Budapest, Hungary · Graphic Design, Branding, Packaging, Interactive/Digital, Illustration
 - [Pendo](https://justadesignlist.com/studio/pendo) — Vancouver, Canada · Branding, Packaging
 - [PERKS](https://justadesignlist.com/studio/perks) — Auckland, New Zealand · Branding, Graphic Design, Interactive/Digital, Packaging
 - [Perky Bros](https://justadesignlist.com/studio/perky-bros) — Nashville, USA · Branding, Graphic Design, Interactive/Digital, Packaging, Illustration, Motion

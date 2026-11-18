@@ -5,8 +5,20 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:41:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:43:58 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Peltan-Brosz Studio</title>
+      <link>https://peltan-brosz.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/peltan-brosz-studio</guid>
+      <pubDate>Tue, 17 Nov 2026 16:11:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Packaging · Interactive/Digital · Illustration — Budapest, Hungary.</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Illustration</category>
+    </item>
     <item>
       <title>Minimalist</title>
       <link>https://www.minimalist.kr/</link>
@@ -320,18 +332,6 @@
       <category>Packaging</category>
       <category>Typography</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Studio, Lisa Fessl</title>
-      <link>https://lisamfessl.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-lisa-fessl</guid>
-      <pubDate>Tue, 03 Nov 2026 17:45:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Advertising/Campaigns · Interactive/Digital · Packaging — Berlin, Germany.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Advertising/Campaigns</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
     </item>
   </channel>
 </rss>

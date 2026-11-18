@@ -1,6 +1,6 @@
 ---
 title: "Illustration design studios · Just a Design List"
-description: "114 independent studios and designers working in illustration, collected in the Just a Design List index. Browse by country and city."
+description: "115 independent studios and designers working in illustration, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/illustration"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Illustration
 
-114 independent studios and designers working in illustration, collected in the Just a Design List index. Browse by country and city.
+115 independent studios and designers working in illustration, collected in the Just a Design List index. Browse by country and city.
 
 - [1042](https://justadesignlist.com/studio/1042) — Düsseldorf, Germany
 - [ACCOMPANY](https://justadesignlist.com/studio/accompany) — Sydney, Australia
@@ -82,6 +82,7 @@ Discipline
 - [Overhaus](https://justadesignlist.com/studio/overhaus) — Bergen, Norway
 - [Øyedrops](https://justadesignlist.com/studio/yedrops) — Oslo, Norway
 - [PDB](https://justadesignlist.com/studio/pdb) — Berlin, Germany
+- [Peltan-Brosz Studio](https://justadesignlist.com/studio/peltan-brosz-studio) — Budapest, Hungary
 - [Perky Bros](https://justadesignlist.com/studio/perky-bros) — Nashville, USA
 - [Phoney](https://justadesignlist.com/studio/phoney) — Rotterdam, The Netherlands
 - [Play](https://justadesignlist.com/studio/play) — San Francisco, USA

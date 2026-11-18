@@ -1,6 +1,6 @@
 ---
 title: "Design studios in the rest of Europe · Just a Design List"
-description: "385 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline."
+description: "386 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/rest-of-europe"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # Rest of Europe
 
-385 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline.
+386 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline.
 
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
 - [1042](https://justadesignlist.com/studio/1042) — Düsseldorf, Germany

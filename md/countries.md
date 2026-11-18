@@ -40,7 +40,7 @@ Browse
 - [Singapore](https://justadesignlist.com/country/singapore) (9)
 - [United Arab Emirates](https://justadesignlist.com/country/united-arab-emirates) (7)
 - [Czech Republic](https://justadesignlist.com/country/czech-republic) (6)
-- [Hungary](https://justadesignlist.com/country/hungary) (5)
+- [Hungary](https://justadesignlist.com/country/hungary) (6)
 - [Northern Ireland](https://justadesignlist.com/country/northern-ireland) (5)
 - [Romania](https://justadesignlist.com/country/romania) (5)
 - [Ukraine](https://justadesignlist.com/country/ukraine) (5)

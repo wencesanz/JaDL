@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Budapest · Just a Design List"
-description: "5 independent design studios based in Budapest, from the Just a Design List index. Browse by discipline."
+description: "6 independent design studios based in Budapest, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/budapest"
 ---
 
@@ -10,14 +10,15 @@ City
 
 # Budapest
 
-5 independent design studios based in Budapest, from the Just a Design List index. Browse by discipline.
+6 independent design studios based in Budapest, from the Just a Design List index. Browse by discipline.
 
-By discipline: [Branding design studios in Budapest](https://justadesignlist.com/city/budapest/branding) (5)
+By discipline: [Branding design studios in Budapest](https://justadesignlist.com/city/budapest/branding) (6), [Interactive/Digital design studios in Budapest](https://justadesignlist.com/city/budapest/interactive-digital) (5)
 
 - [Classmate Studio](https://justadesignlist.com/studio/classmate-studio) — Helsinki, Budapest, Glasgow, Finland, Hungary, Scotland
 - [Comet](https://justadesignlist.com/studio/comet) — Budapest, Hungary
 - [L²](https://justadesignlist.com/studio/l2) — Budapest, Hungary
 - [Miklós Kiss](https://justadesignlist.com/studio/miklos-kiss) — Budapest, Hungary
+- [Peltan-Brosz Studio](https://justadesignlist.com/studio/peltan-brosz-studio) — Budapest, Hungary
 - [Viktor Horváth](https://justadesignlist.com/studio/viktor-horvath) — Budapest, Hungary
 
 ---

@@ -1,12 +1,12 @@
 ---
 title: "Miklós Kiss — Graphic Design, Budapest, Hungary · Just a Design List"
-description: "Miklós Kiss: graphic design, branding and illustration practice based in Budapest, Hungary. One of 5 studios from Budapest on Just a Design List, added in June 2023."
+description: "Miklós Kiss: graphic design, branding and illustration practice based in Budapest, Hungary. One of 6 studios from Budapest on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/miklos-kiss"
 ---
 
 # Miklós Kiss
 
-Miklós Kiss: graphic design, branding and illustration practice based in Budapest, Hungary. One of 5 studios from Budapest on Just a Design List, added in June 2023.
+Miklós Kiss: graphic design, branding and illustration practice based in Budapest, Hungary. One of 6 studios from Budapest on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding, Illustration
 - **City:** Budapest
@@ -24,6 +24,7 @@ Miklós Kiss: graphic design, branding and illustration practice based in Budape
 - [Classmate Studio](https://justadesignlist.com/studio/classmate-studio)
 - [Comet](https://justadesignlist.com/studio/comet)
 - [L²](https://justadesignlist.com/studio/l2)
+- [Peltan-Brosz Studio](https://justadesignlist.com/studio/peltan-brosz-studio)
 - [Viktor Horváth](https://justadesignlist.com/studio/viktor-horvath)
 
 ---
