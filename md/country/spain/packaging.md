@@ -1,6 +1,6 @@
 ---
 title: "Packaging design studios in Spain · Just a Design List"
-description: "79 independent studios working in packaging in Spain, from the Just a Design List index."
+description: "81 independent studios working in packaging in Spain, from the Just a Design List index."
 url: "https://justadesignlist.com/country/spain/packaging"
 ---
 
@@ -10,11 +10,12 @@ Country · Packaging
 
 # Packaging in Spain
 
-79 independent studios working in packaging in Spain, from the Just a Design List index.
+81 independent studios working in packaging in Spain, from the Just a Design List index.
 
 - [Andrei Robu Studio](https://justadesignlist.com/studio/andrei-robu-studio) — Barcelona, Spain
 - [Ang Studio®](https://justadesignlist.com/studio/ang-studio) — Bilbao, Spain
 - [Anna Bosch](https://justadesignlist.com/studio/anna-bosch) — Banyoles, Spain
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara) — Toledo, Madrid, Spain
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio) — Madrid, New York, Spain, USA
 - [Atipus Studio](https://justadesignlist.com/studio/atipus-studio) — Barcelona, Spain
@@ -67,6 +68,7 @@ Country · Packaging
 - [Omni Design](https://justadesignlist.com/studio/omni-design) — Murcia, Spain
 - [ORDRE](https://justadesignlist.com/studio/ordre) — Barcelona, Spain
 - [PHANTASIA](https://justadesignlist.com/studio/phantasia) — Barcelona, Spain
+- [Pifarré–Vallejo Studio](https://justadesignlist.com/studio/pifarre-vallejo-studio) — Barcelona, Spain
 - [Raíz Studio](https://justadesignlist.com/studio/raiz-studio) — Palma de Mallorca, Valladolid, Spain
 - [Relajaelcoco](https://justadesignlist.com/studio/relajaelcoco) — Madrid, Spain
 - [Requena ®](https://justadesignlist.com/studio/requena) — Barcelona, Spain

@@ -1,12 +1,12 @@
 ---
 title: "STUDIO DIAL — Branding, London, England · Just a Design List"
-description: "STUDIO DIAL: branding, motion and advertising/campaigns practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026."
+description: "STUDIO DIAL: branding, motion and advertising/campaigns practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/studio-dial"
 ---
 
 # STUDIO DIAL
 
-STUDIO DIAL: branding, motion and advertising/campaigns practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026.
+STUDIO DIAL: branding, motion and advertising/campaigns practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Motion, Advertising/Campaigns, Interactive/Digital, Packaging
 - **City:** London

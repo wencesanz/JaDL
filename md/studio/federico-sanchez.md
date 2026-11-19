@@ -1,12 +1,12 @@
 ---
 title: "Federico Sanchez — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Federico Sanchez: graphic design and branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in November 2024."
+description: "Federico Sanchez: graphic design and branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/federico-sanchez"
 ---
 
 # Federico Sanchez
 
-Federico Sanchez: graphic design and branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in November 2024.
+Federico Sanchez: graphic design and branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in November 2024.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Barcelona

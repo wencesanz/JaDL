@@ -5,8 +5,32 @@
     <link>https://justadesignlist.com/discipline/interactive-digital</link>
     <description>New additions to Just a Design List: Interactive/Digital studios.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 08:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:52:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/interactive-digital.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pifarré–Vallejo Studio</title>
+      <link>https://justadesignlist.com/studio/pifarre-vallejo-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/pifarre-vallejo-studio</guid>
+      <pubDate>Thu, 19 Nov 2026 10:52:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital · Typography — Barcelona, Spain. https://www.pifarrevallejo.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Antennae Studio</title>
+      <link>https://justadesignlist.com/studio/antennae-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/antennae-studio</guid>
+      <pubDate>Thu, 19 Nov 2026 09:05:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Typography · Packaging — London, England. https://antennae.studio</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Roots</title>
       <link>https://justadesignlist.com/studio/roots</link>
@@ -318,27 +342,6 @@
       <category>Industrial Design</category>
       <category>Branding</category>
       <category>Packaging</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Lome Studio</title>
-      <link>https://justadesignlist.com/studio/lome-studio</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/lome-studio</guid>
-      <pubDate>Wed, 28 Oct 2026 07:39:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Motion · Interactive/Digital — Paris, France. https://lome.studio/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Loïc Altaber</title>
-      <link>https://justadesignlist.com/studio/loic-altaber</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/loic-altaber</guid>
-      <pubDate>Wed, 28 Oct 2026 07:35:00 GMT</pubDate>
-      <description>Graphic Design · Motion · Interactive/Digital — Paris, France. https://loicaltaber.fr/</description>
-      <category>Graphic Design</category>
-      <category>Motion</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>

@@ -1,12 +1,12 @@
 ---
 title: "Path — Branding, London, England · Just a Design List"
-description: "Path: branding and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2026."
+description: "Path: branding and packaging practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/path"
 ---
 
 # Path
 
-Path: branding and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2026.
+Path: branding and packaging practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Packaging
 - **City:** London

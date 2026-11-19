@@ -1,12 +1,12 @@
 ---
 title: "Taller David Torrents — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Taller David Torrents: graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in July 2026."
+description: "Taller David Torrents: graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/taller-david-torrents"
 ---
 
 # Taller David Torrents
 
-Taller David Torrents: graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in July 2026.
+Taller David Torrents: graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in July 2026.
 
 - **Discipline:** Graphic Design
 - **City:** Barcelona

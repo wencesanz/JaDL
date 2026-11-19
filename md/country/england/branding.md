@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in England · Just a Design List"
-description: "208 independent studios working in branding in England, from the Just a Design List index."
+description: "210 independent studios working in branding in England, from the Just a Design List index."
 url: "https://justadesignlist.com/country/england/branding"
 ---
 
@@ -10,7 +10,7 @@ Country · Branding
 
 # Branding in England
 
-208 independent studios working in branding in England, from the Just a Design List index.
+210 independent studios working in branding in England, from the Just a Design List index.
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -25,6 +25,7 @@ Country · Branding
 - [Alphabetical](https://justadesignlist.com/studio/alphabetical) — London, England
 - [Anatomy](https://justadesignlist.com/studio/anatomy) — London, England
 - [Angelina Pischikova](https://justadesignlist.com/studio/angelina-pischikova) — London, England
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Anti Average®](https://justadesignlist.com/studio/anti-average) — Manchester, England
 - [Anton Martinez](https://justadesignlist.com/studio/anton-martinez) — London, England
 - [Ascend Studio](https://justadesignlist.com/studio/ascend-studio) — London, England
@@ -82,6 +83,7 @@ Country · Branding
 - [ffforum](https://justadesignlist.com/studio/ffforum) — London, England
 - [FIELD](https://justadesignlist.com/studio/field) — London, Berlin, England, Germany
 - [Fieldwork](https://justadesignlist.com/studio/fieldwork) — Atlanta, London, USA, England
+- [FLUORO®](https://justadesignlist.com/studio/fluoro) — London, England
 - [forpeople](https://justadesignlist.com/studio/forpeople) — London, Amsterdam, England, The Netherlands
 - [Forty Eight Point One](https://justadesignlist.com/studio/forty-eight-point-one) — London, England
 - [Found](https://justadesignlist.com/studio/found) — London, England

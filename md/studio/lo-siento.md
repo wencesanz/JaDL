@@ -1,12 +1,12 @@
 ---
 title: "Lo Siento — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Lo Siento: graphic design, branding and typography practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Lo Siento: graphic design, branding and typography practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/lo-siento"
 ---
 
 # Lo Siento
 
-Lo Siento: graphic design, branding and typography practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Lo Siento: graphic design, branding and typography practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding, Typography, Packaging
 - **City:** Barcelona

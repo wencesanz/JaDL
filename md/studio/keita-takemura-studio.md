@@ -1,12 +1,12 @@
 ---
 title: "Keita Takemura Studio — Graphic Design, London, England · Just a Design List"
-description: "Keita Takemura Studio: graphic design, packaging and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2026."
+description: "Keita Takemura Studio: graphic design, packaging and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/keita-takemura-studio"
 ---
 
 # Keita Takemura Studio
 
-Keita Takemura Studio: graphic design, packaging and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2026.
+Keita Takemura Studio: graphic design, packaging and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in October 2026.
 
 - **Discipline:** Graphic Design, Packaging, Interactive/Digital
 - **City:** London

@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in Spain · Just a Design List"
-description: "74 independent studios working in interactive/digital in Spain, from the Just a Design List index."
+description: "76 independent studios working in interactive/digital in Spain, from the Just a Design List index."
 url: "https://justadesignlist.com/country/spain/interactive-digital"
 ---
 
@@ -10,10 +10,11 @@ Country · Interactive/Digital
 
 # Interactive/Digital in Spain
 
-74 independent studios working in interactive/digital in Spain, from the Just a Design List index.
+76 independent studios working in interactive/digital in Spain, from the Just a Design List index.
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one) — Madrid, Spain
 - [Anna Bosch](https://justadesignlist.com/studio/anna-bosch) — Banyoles, Spain
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara) — Toledo, Madrid, Spain
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio) — Madrid, New York, Spain, USA
 - [Avellana Studio](https://justadesignlist.com/studio/avellana-studio) — Madrid, Spain
@@ -65,6 +66,7 @@ Country · Interactive/Digital
 - [PAISANA Studio](https://justadesignlist.com/studio/paisana-studio) — Madrid, Spain
 - [Paseo](https://justadesignlist.com/studio/paseo) — Madrid, Utrecht, Spain, The Netherlands
 - [PHANTASIA](https://justadesignlist.com/studio/phantasia) — Barcelona, Spain
+- [Pifarré–Vallejo Studio](https://justadesignlist.com/studio/pifarre-vallejo-studio) — Barcelona, Spain
 - [Plural](https://justadesignlist.com/studio/plural) — Madrid, Spain
 - [Prado](https://justadesignlist.com/studio/prado) — Palma de Mallorca, Spain
 - [Propelland](https://justadesignlist.com/studio/propelland) — Madrid, San Francisco, New York, Spain, USA

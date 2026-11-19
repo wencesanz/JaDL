@@ -1,12 +1,12 @@
 ---
 title: "Ingrid Picanyol Studio — Branding, Barcelona, Spain · Just a Design List"
-description: "Ingrid Picanyol Studio: branding, interactive/digital and graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Ingrid Picanyol Studio: branding, interactive/digital and graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/ingrid-picanyol-studio"
 ---
 
 # Ingrid Picanyol Studio
 
-Ingrid Picanyol Studio: branding, interactive/digital and graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Ingrid Picanyol Studio: branding, interactive/digital and graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Interactive/Digital, Graphic Design, Packaging
 - **City:** Barcelona

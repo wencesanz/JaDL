@@ -1,6 +1,6 @@
 ---
 title: "Packaging design studios in Barcelona · Just a Design List"
-description: "37 independent studios working in packaging in Barcelona, from the Just a Design List index."
+description: "38 independent studios working in packaging in Barcelona, from the Just a Design List index."
 url: "https://justadesignlist.com/city/barcelona/packaging"
 ---
 
@@ -10,7 +10,7 @@ City · Packaging
 
 # Packaging in Barcelona
 
-37 independent studios working in packaging in Barcelona, from the Just a Design List index.
+38 independent studios working in packaging in Barcelona, from the Just a Design List index.
 
 - [Andrei Robu Studio](https://justadesignlist.com/studio/andrei-robu-studio) — Barcelona, Spain
 - [Atipus Studio](https://justadesignlist.com/studio/atipus-studio) — Barcelona, Spain
@@ -42,6 +42,7 @@ City · Packaging
 - [Murri Studio](https://justadesignlist.com/studio/murri-studio) — Barcelona, Spain
 - [ORDRE](https://justadesignlist.com/studio/ordre) — Barcelona, Spain
 - [PHANTASIA](https://justadesignlist.com/studio/phantasia) — Barcelona, Spain
+- [Pifarré–Vallejo Studio](https://justadesignlist.com/studio/pifarre-vallejo-studio) — Barcelona, Spain
 - [Requena ®](https://justadesignlist.com/studio/requena) — Barcelona, Spain
 - [Rey Graphic](https://justadesignlist.com/studio/rey-graphic) — Barcelona, Spain
 - [Séptimo](https://justadesignlist.com/studio/septimo) — Barcelona, Spain

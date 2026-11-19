@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in Spain · Just a Design List"
-description: "153 independent studios working in branding in Spain, from the Just a Design List index."
+description: "155 independent studios working in branding in Spain, from the Just a Design List index."
 url: "https://justadesignlist.com/country/spain/branding"
 ---
 
@@ -10,10 +10,11 @@ Country · Branding
 
 # Branding in Spain
 
-153 independent studios working in branding in Spain, from the Just a Design List index.
+155 independent studios working in branding in Spain, from the Just a Design List index.
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one) — Madrid, Spain
 - [Ang Studio®](https://justadesignlist.com/studio/ang-studio) — Bilbao, Spain
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara) — Toledo, Madrid, Spain
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio) — Madrid, New York, Spain, USA
 - [Artofmany](https://justadesignlist.com/studio/artofmany) — Barcelona, Dubai, Spain, United Arab Emirates
@@ -117,6 +118,7 @@ Country · Branding
 - [Paseo](https://justadesignlist.com/studio/paseo) — Madrid, Utrecht, Spain, The Netherlands
 - [pfp, disseny](https://justadesignlist.com/studio/pfp-disseny) — Barcelona, Spain
 - [PHANTASIA](https://justadesignlist.com/studio/phantasia) — Barcelona, Spain
+- [Pifarré–Vallejo Studio](https://justadesignlist.com/studio/pifarre-vallejo-studio) — Barcelona, Spain
 - [Play&Type](https://justadesignlist.com/studio/playandtype) — Barcelona, Spain
 - [Plural](https://justadesignlist.com/studio/plural) — Madrid, Spain
 - [Point Of Reference](https://justadesignlist.com/studio/point-of-reference) — Madrid, Spain

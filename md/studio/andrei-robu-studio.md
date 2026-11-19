@@ -1,12 +1,12 @@
 ---
 title: "Andrei Robu Studio — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Andrei Robu Studio: graphic design, typography and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in September 2026."
+description: "Andrei Robu Studio: graphic design, typography and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/andrei-robu-studio"
 ---
 
 # Andrei Robu Studio
 
-Andrei Robu Studio: graphic design, typography and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in September 2026.
+Andrei Robu Studio: graphic design, typography and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in September 2026.
 
 - **Discipline:** Graphic Design, Typography, Packaging
 - **City:** Barcelona

@@ -1,12 +1,12 @@
 ---
 title: "Soon In Tokyo — Branding, Barcelona, Spain · Just a Design List"
-description: "Soon In Tokyo: branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Soon In Tokyo: branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/soon-in-tokyo"
 ---
 
 # Soon In Tokyo
 
-Soon In Tokyo: branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Soon In Tokyo: branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding
 - **City:** Barcelona

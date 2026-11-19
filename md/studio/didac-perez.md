@@ -1,12 +1,12 @@
 ---
 title: "Dídac Pérez — Branding, Barcelona, Spain · Just a Design List"
-description: "Dídac Pérez: branding and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in September 2026."
+description: "Dídac Pérez: branding and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/didac-perez"
 ---
 
 # Dídac Pérez
 
-Dídac Pérez: branding and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in September 2026.
+Dídac Pérez: branding and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** Barcelona

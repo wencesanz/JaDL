@@ -1,12 +1,12 @@
 ---
 title: "Séptimo — Branding, Barcelona, Spain · Just a Design List"
-description: "Séptimo: branding and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Séptimo: branding and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/septimo"
 ---
 
 # Séptimo
 
-Séptimo: branding and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Séptimo: branding and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Packaging
 - **City:** Barcelona

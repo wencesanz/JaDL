@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Spain · Just a Design List"
-description: "199 independent design studios and practices based in Spain. A curated index — browse by city and discipline."
+description: "201 independent design studios and practices based in Spain. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/spain"
 ---
 
@@ -10,14 +10,15 @@ Country
 
 # Spain
 
-199 independent design studios and practices based in Spain. A curated index — browse by city and discipline.
+201 independent design studios and practices based in Spain. A curated index — browse by city and discipline.
 
-By discipline: [Branding design studios in Spain](https://justadesignlist.com/country/spain/branding) (153), [Graphic Design studios in Spain](https://justadesignlist.com/country/spain/graphic-design) (143), [Packaging design studios in Spain](https://justadesignlist.com/country/spain/packaging) (79), [Interactive/Digital design studios in Spain](https://justadesignlist.com/country/spain/interactive-digital) (74), [Motion design studios in Spain](https://justadesignlist.com/country/spain/motion) (25), [Typography design studios in Spain](https://justadesignlist.com/country/spain/typography) (22), [Illustration design studios in Spain](https://justadesignlist.com/country/spain/illustration) (18), [Advertising/Campaigns design studios in Spain](https://justadesignlist.com/country/spain/advertising-campaigns) (12)
+By discipline: [Branding design studios in Spain](https://justadesignlist.com/country/spain/branding) (155), [Graphic Design studios in Spain](https://justadesignlist.com/country/spain/graphic-design) (145), [Packaging design studios in Spain](https://justadesignlist.com/country/spain/packaging) (81), [Interactive/Digital design studios in Spain](https://justadesignlist.com/country/spain/interactive-digital) (76), [Motion design studios in Spain](https://justadesignlist.com/country/spain/motion) (25), [Typography design studios in Spain](https://justadesignlist.com/country/spain/typography) (24), [Illustration design studios in Spain](https://justadesignlist.com/country/spain/illustration) (18), [Advertising/Campaigns design studios in Spain](https://justadesignlist.com/country/spain/advertising-campaigns) (12)
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one) — Madrid, Spain
 - [Andrei Robu Studio](https://justadesignlist.com/studio/andrei-robu-studio) — Barcelona, Spain
 - [Ang Studio®](https://justadesignlist.com/studio/ang-studio) — Bilbao, Spain
 - [Anna Bosch](https://justadesignlist.com/studio/anna-bosch) — Banyoles, Spain
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara) — Toledo, Madrid, Spain
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio) — Madrid, New York, Spain, USA
 - [Arnau Pi](https://justadesignlist.com/studio/arnau-pi) — Barcelona, Spain
@@ -147,6 +148,7 @@ By discipline: [Branding design studios in Spain](https://justadesignlist.com/co
 - [Paseo](https://justadesignlist.com/studio/paseo) — Madrid, Utrecht, Spain, The Netherlands
 - [pfp, disseny](https://justadesignlist.com/studio/pfp-disseny) — Barcelona, Spain
 - [PHANTASIA](https://justadesignlist.com/studio/phantasia) — Barcelona, Spain
+- [Pifarré–Vallejo Studio](https://justadesignlist.com/studio/pifarre-vallejo-studio) — Barcelona, Spain
 - [Play&Type](https://justadesignlist.com/studio/playandtype) — Barcelona, Spain
 - [Plural](https://justadesignlist.com/studio/plural) — Madrid, Spain
 - [Point Of Reference](https://justadesignlist.com/studio/point-of-reference) — Madrid, Spain
@@ -212,7 +214,6 @@ By discipline: [Branding design studios in Spain](https://justadesignlist.com/co
 - [Yarza Twins](https://justadesignlist.com/studio/yarza-twins) — London, Paris, Madrid, England, France, Spain
 - [Yonis](https://justadesignlist.com/studio/yonis) — Barcelona, Spain
 - [ZAINA](https://justadesignlist.com/studio/zaina) — Paris, Barcelona, France, Spain
-- [Zoo Studio](https://justadesignlist.com/studio/zoo-studio) — Vic, Spain
 
 ---
 

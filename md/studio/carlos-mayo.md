@@ -1,12 +1,12 @@
 ---
 title: "Carlos Mayo — Graphic Design, Madrid, Spain · Just a Design List"
-description: "Carlos Mayo: graphic design and interactive/digital practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in May 2023."
+description: "Carlos Mayo: graphic design and interactive/digital practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/carlos-mayo"
 ---
 
 # Carlos Mayo
 
-Carlos Mayo: graphic design and interactive/digital practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in May 2023.
+Carlos Mayo: graphic design and interactive/digital practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Interactive/Digital
 - **City:** Madrid
@@ -22,11 +22,11 @@ Carlos Mayo: graphic design and interactive/digital practice based in Madrid, Sp
 ## More from Madrid
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one)
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio)
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara)
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio)
 - [Avellana Studio](https://justadesignlist.com/studio/avellana-studio)
 - [Bandiz](https://justadesignlist.com/studio/bandiz)
-- [Cocota](https://justadesignlist.com/studio/cocota)
 
 ---
 

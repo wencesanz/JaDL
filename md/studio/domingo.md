@@ -1,12 +1,12 @@
 ---
 title: "DOMINGO — Branding, Barcelona, Spain · Just a Design List"
-description: "DOMINGO: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in April 2025."
+description: "DOMINGO: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in April 2025."
 url: "https://justadesignlist.com/studio/domingo"
 ---
 
 # DOMINGO
 
-DOMINGO: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in April 2025.
+DOMINGO: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in April 2025.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** Barcelona

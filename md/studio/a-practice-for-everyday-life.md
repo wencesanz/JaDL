@@ -1,12 +1,12 @@
 ---
 title: "A Practice for Everyday Life — Graphic Design, London, England · Just a Design List"
-description: "A Practice for Everyday Life: graphic design and typography practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
+description: "A Practice for Everyday Life: graphic design and typography practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/a-practice-for-everyday-life"
 ---
 
 # A Practice for Everyday Life
 
-A Practice for Everyday Life: graphic design and typography practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
+A Practice for Everyday Life: graphic design and typography practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Typography
 - **City:** London

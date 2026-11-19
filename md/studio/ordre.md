@@ -1,12 +1,12 @@
 ---
 title: "ORDRE — Branding, Barcelona, Spain · Just a Design List"
-description: "ORDRE: branding, graphic design and motion practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in July 2026."
+description: "ORDRE: branding, graphic design and motion practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/ordre"
 ---
 
 # ORDRE
 
-ORDRE: branding, graphic design and motion practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in July 2026.
+ORDRE: branding, graphic design and motion practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Motion, Packaging
 - **City:** Barcelona

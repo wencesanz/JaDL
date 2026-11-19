@@ -1,12 +1,12 @@
 ---
 title: "Atelier Dyakova — Branding, London, England · Just a Design List"
-description: "Atelier Dyakova: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026."
+description: "Atelier Dyakova: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/atelier-dyakova"
 ---
 
 # Atelier Dyakova
 
-Atelier Dyakova: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026.
+Atelier Dyakova: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Motion, Advertising/Campaigns, Packaging
 - **City:** London

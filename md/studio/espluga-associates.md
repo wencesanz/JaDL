@@ -1,12 +1,12 @@
 ---
 title: "espluga+associates — Branding, Barcelona, Spain · Just a Design List"
-description: "espluga+associates: branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "espluga+associates: branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/espluga-associates"
 ---
 
 # espluga+associates
 
-espluga+associates: branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+espluga+associates: branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding
 - **City:** Barcelona

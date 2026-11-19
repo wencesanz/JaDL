@@ -1,12 +1,12 @@
 ---
 title: "Gramática — Branding, London, England · Just a Design List"
-description: "Gramática: branding, graphic design and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024."
+description: "Gramática: branding, graphic design and packaging practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/gramatica"
 ---
 
 # Gramática
 
-Gramática: branding, graphic design and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024.
+Gramática: branding, graphic design and packaging practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2024.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Advertising/Campaigns, Interactive/Digital
 - **City:** London, Riga

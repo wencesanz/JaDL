@@ -1,12 +1,12 @@
 ---
 title: "SLAPS — Branding, Barcelona, Spain · Just a Design List"
-description: "SLAPS: branding, interactive/digital and advertising/campaigns practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2024."
+description: "SLAPS: branding, interactive/digital and advertising/campaigns practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2024."
 url: "https://justadesignlist.com/studio/slaps"
 ---
 
 # SLAPS
 
-SLAPS: branding, interactive/digital and advertising/campaigns practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2024.
+SLAPS: branding, interactive/digital and advertising/campaigns practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2024.
 
 - **Discipline:** Branding, Interactive/Digital, Advertising/Campaigns
 - **City:** Barcelona, New York

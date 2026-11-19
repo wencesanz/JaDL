@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Madrid · Just a Design List"
-description: "51 independent design studios based in Madrid, from the Just a Design List index. Browse by discipline."
+description: "52 independent design studios based in Madrid, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/madrid"
 ---
 
@@ -10,11 +10,12 @@ City
 
 # Madrid
 
-51 independent design studios based in Madrid, from the Just a Design List index. Browse by discipline.
+52 independent design studios based in Madrid, from the Just a Design List index. Browse by discipline.
 
-By discipline: [Branding design studios in Madrid](https://justadesignlist.com/city/madrid/branding) (38), [Graphic Design studios in Madrid](https://justadesignlist.com/city/madrid/graphic-design) (35), [Interactive/Digital design studios in Madrid](https://justadesignlist.com/city/madrid/interactive-digital) (27), [Packaging design studios in Madrid](https://justadesignlist.com/city/madrid/packaging) (16), [Motion design studios in Madrid](https://justadesignlist.com/city/madrid/motion) (9), [Illustration design studios in Madrid](https://justadesignlist.com/city/madrid/illustration) (7), [Typography design studios in Madrid](https://justadesignlist.com/city/madrid/typography) (7)
+By discipline: [Branding design studios in Madrid](https://justadesignlist.com/city/madrid/branding) (39), [Graphic Design studios in Madrid](https://justadesignlist.com/city/madrid/graphic-design) (36), [Interactive/Digital design studios in Madrid](https://justadesignlist.com/city/madrid/interactive-digital) (28), [Packaging design studios in Madrid](https://justadesignlist.com/city/madrid/packaging) (17), [Motion design studios in Madrid](https://justadesignlist.com/city/madrid/motion) (9), [Typography design studios in Madrid](https://justadesignlist.com/city/madrid/typography) (8), [Illustration design studios in Madrid](https://justadesignlist.com/city/madrid/illustration) (7)
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one) — Madrid, Spain
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara) — Toledo, Madrid, Spain
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio) — Madrid, New York, Spain, USA
 - [Avellana Studio](https://justadesignlist.com/studio/avellana-studio) — Madrid, Spain

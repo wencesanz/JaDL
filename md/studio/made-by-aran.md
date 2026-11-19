@@ -1,12 +1,12 @@
 ---
 title: "Made by Aran — Branding, Barcelona, Spain · Just a Design List"
-description: "Made by Aran: branding, graphic design and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in May 2026."
+description: "Made by Aran: branding, graphic design and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/made-by-aran"
 ---
 
 # Made by Aran
 
-Made by Aran: branding, graphic design and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in May 2026.
+Made by Aran: branding, graphic design and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging
 - **City:** Barcelona

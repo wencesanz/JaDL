@@ -1,12 +1,12 @@
 ---
 title: "forpeople — Branding, London, England · Just a Design List"
-description: "forpeople: branding, motion and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2026."
+description: "forpeople: branding, motion and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/forpeople"
 ---
 
 # forpeople
 
-forpeople: branding, motion and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2026.
+forpeople: branding, motion and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Motion, Interactive/Digital
 - **City:** London, Amsterdam

@@ -1,12 +1,12 @@
 ---
 title: "De Ramos & Serch — Branding, Zaragoza, Spain · Just a Design List"
-description: "De Ramos & Serch: branding, graphic design and interactive/digital practice based in Zaragoza, Spain. The only studio from Zaragoza, one of 199 from Spain on Just a Design List, added in July 2026."
+description: "De Ramos & Serch: branding, graphic design and interactive/digital practice based in Zaragoza, Spain. The only studio from Zaragoza, one of 201 from Spain on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/de-ramos-and-serch"
 ---
 
 # De Ramos & Serch
 
-De Ramos & Serch: branding, graphic design and interactive/digital practice based in Zaragoza, Spain. The only studio from Zaragoza, one of 199 from Spain on Just a Design List, added in July 2026.
+De Ramos & Serch: branding, graphic design and interactive/digital practice based in Zaragoza, Spain. The only studio from Zaragoza, one of 201 from Spain on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** Zaragoza

@@ -1,12 +1,12 @@
 ---
 title: "Modik — Motion, Madrid, Spain · Just a Design List"
-description: "Modik: motion practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in June 2023."
+description: "Modik: motion practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/modik"
 ---
 
 # Modik
 
-Modik: motion practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in June 2023.
+Modik: motion practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in June 2023.
 
 - **Discipline:** Motion
 - **City:** Madrid
@@ -22,11 +22,11 @@ Modik: motion practice based in Madrid, Spain. One of 51 studios from Madrid on 
 ## More from Madrid
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one)
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio)
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara)
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio)
 - [Avellana Studio](https://justadesignlist.com/studio/avellana-studio)
 - [Bandiz](https://justadesignlist.com/studio/bandiz)
-- [Carlos Mayo](https://justadesignlist.com/studio/carlos-mayo)
 
 ---
 

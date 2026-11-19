@@ -1,12 +1,12 @@
 ---
 title: "Zak Group — Graphic Design, London, England · Just a Design List"
-description: "Zak Group: graphic design, branding and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023."
+description: "Zak Group: graphic design, branding and packaging practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/zak-group"
 ---
 
 # Zak Group
 
-Zak Group: graphic design, branding and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023.
+Zak Group: graphic design, branding and packaging practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding, Packaging
 - **City:** London

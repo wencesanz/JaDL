@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios · Just a Design List"
-description: "724 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city."
+description: "726 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Interactive/Digital
 
-724 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city.
+726 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
@@ -57,6 +57,7 @@ Discipline
 - [Ania et Lucie](https://justadesignlist.com/studio/ania-et-lucie) — New York, USA
 - [Anna Bosch](https://justadesignlist.com/studio/anna-bosch) — Banyoles, Spain
 - [Another Practice](https://justadesignlist.com/studio/another-practice) — Athens, Greece
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Anti Average®](https://justadesignlist.com/studio/anti-average) — Manchester, England
 - [Antoine Peltier](https://justadesignlist.com/studio/antoine-peltier) — Paris, France
 - [Anton Martinez](https://justadesignlist.com/studio/anton-martinez) — London, England
@@ -211,7 +212,6 @@ Discipline
 - [Essentis](https://justadesignlist.com/studio/essentis) — Porto Alegre, Brazil
 - [EST+6](https://justadesignlist.com/studio/est-6) — New York, Barcelona, USA, Spain
 - [ESTABLISHED.](https://justadesignlist.com/studio/established) — New York, Barcelona, USA, Spain
-- [ESTUDIO CRU](https://justadesignlist.com/studio/estudio-cru) — Rio de Janeiro, Brazil
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "Artofmany — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Artofmany: graphic design and branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Artofmany: graphic design and branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/artofmany"
 ---
 
 # Artofmany
 
-Artofmany: graphic design and branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Artofmany: graphic design and branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Barcelona, Dubai

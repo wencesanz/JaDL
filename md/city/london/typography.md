@@ -1,6 +1,6 @@
 ---
 title: "Typography design studios in London · Just a Design List"
-description: "26 independent studios working in typography in London, from the Just a Design List index."
+description: "27 independent studios working in typography in London, from the Just a Design List index."
 url: "https://justadesignlist.com/city/london/typography"
 ---
 
@@ -10,12 +10,13 @@ City · Typography
 
 # Typography in London
 
-26 independent studios working in typography in London, from the Just a Design List index.
+27 independent studios working in typography in London, from the Just a Design List index.
 
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
 - [A Practice for Everyday Life](https://justadesignlist.com/studio/a-practice-for-everyday-life) — London, England
 - [All Purpose](https://justadesignlist.com/studio/all-purpose) — London, England
 - [Alphabetical](https://justadesignlist.com/studio/alphabetical) — London, England
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [BD85BD85](https://justadesignlist.com/studio/bd85bd85) — Hong Kong, London, China, England
 - [Bibliothèque](https://justadesignlist.com/studio/bibliotheque) — London, England
 - [ffforum](https://justadesignlist.com/studio/ffforum) — London, England

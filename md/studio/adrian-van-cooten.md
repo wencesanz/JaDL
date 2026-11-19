@@ -1,12 +1,12 @@
 ---
 title: "Adrian Van Cooten — Interactive/Digital, London, England · Just a Design List"
-description: "Adrian Van Cooten: interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2026."
+description: "Adrian Van Cooten: interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/adrian-van-cooten"
 ---
 
 # Adrian Van Cooten
 
-Adrian Van Cooten: interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2026.
+Adrian Van Cooten: interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026.
 
 - **Discipline:** Interactive/Digital
 - **City:** London

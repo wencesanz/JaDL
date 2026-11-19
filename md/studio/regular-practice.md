@@ -1,12 +1,12 @@
 ---
 title: "Regular Practice — Branding, London, England · Just a Design List"
-description: "Regular Practice: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
+description: "Regular Practice: branding and graphic design practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/regular-practice"
 ---
 
 # Regular Practice
 
-Regular Practice: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
+Regular Practice: branding and graphic design practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** London

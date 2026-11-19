@@ -5,8 +5,20 @@
     <link>https://justadesignlist.com/region/iberia</link>
     <description>New additions to Just a Design List: design studios in Iberia.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 10:38:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:52:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/region/iberia.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pifarré–Vallejo Studio</title>
+      <link>https://justadesignlist.com/studio/pifarre-vallejo-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/pifarre-vallejo-studio</guid>
+      <pubDate>Thu, 19 Nov 2026 10:52:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital · Typography — Barcelona, Spain. https://www.pifarrevallejo.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+    </item>
     <item>
       <title>Anna Bosch</title>
       <link>https://justadesignlist.com/studio/anna-bosch</link>
@@ -309,17 +321,6 @@
       <description>Graphic Design · Branding — Malaga, Spain. https://free-practice.com/</description>
       <category>Graphic Design</category>
       <category>Branding</category>
-    </item>
-    <item>
-      <title>ORDRE</title>
-      <link>https://justadesignlist.com/studio/ordre</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/ordre</guid>
-      <pubDate>Thu, 23 Jul 2026 13:11:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Motion · Packaging — Barcelona, Spain. https://ordre.agency/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Motion</category>
-      <category>Packaging</category>
     </item>
   </channel>
 </rss>

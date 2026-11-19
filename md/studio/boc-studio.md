@@ -1,12 +1,12 @@
 ---
 title: "Boc.Studio — Branding, Barcelona, Spain · Just a Design List"
-description: "Boc.Studio: branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in July 2026."
+description: "Boc.Studio: branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/boc-studio"
 ---
 
 # Boc.Studio
 
-Boc.Studio: branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in July 2026.
+Boc.Studio: branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding
 - **City:** Barcelona

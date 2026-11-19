@@ -1,12 +1,12 @@
 ---
 title: "Querida — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Querida: graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Querida: graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/querida"
 ---
 
 # Querida
 
-Querida: graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Querida: graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Barcelona

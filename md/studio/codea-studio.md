@@ -1,12 +1,12 @@
 ---
 title: "Codea Studio — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Codea Studio: graphic design and branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Codea Studio: graphic design and branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/codea-studio"
 ---
 
 # Codea Studio
 
-Codea Studio: graphic design and branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Codea Studio: graphic design and branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Barcelona

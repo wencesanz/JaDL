@@ -1,12 +1,12 @@
 ---
 title: "Vasava — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Vasava: graphic design, branding and motion practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Vasava: graphic design, branding and motion practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/vasava"
 ---
 
 # Vasava
 
-Vasava: graphic design, branding and motion practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Vasava: graphic design, branding and motion practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding, Motion, Interactive/Digital, Typography
 - **City:** Barcelona

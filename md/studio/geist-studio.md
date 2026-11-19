@@ -1,12 +1,12 @@
 ---
 title: "Geist*Studio — Branding, London, England · Just a Design List"
-description: "Geist*Studio: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2026."
+description: "Geist*Studio: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/geist-studio"
 ---
 
 # Geist*Studio
 
-Geist*Studio: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2026.
+Geist*Studio: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** London

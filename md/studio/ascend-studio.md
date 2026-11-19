@@ -1,12 +1,12 @@
 ---
 title: "Ascend Studio — Branding, London, England · Just a Design List"
-description: "Ascend Studio: branding and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023."
+description: "Ascend Studio: branding and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/ascend-studio"
 ---
 
 # Ascend Studio
 
-Ascend Studio: branding and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023.
+Ascend Studio: branding and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** London

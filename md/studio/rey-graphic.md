@@ -1,12 +1,12 @@
 ---
 title: "Rey Graphic — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Rey Graphic: graphic design, branding and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in August 2024."
+description: "Rey Graphic: graphic design, branding and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in August 2024."
 url: "https://justadesignlist.com/studio/rey-graphic"
 ---
 
 # Rey Graphic
 
-Rey Graphic: graphic design, branding and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in August 2024.
+Rey Graphic: graphic design, branding and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in August 2024.
 
 - **Discipline:** Graphic Design, Branding, Interactive/Digital, Packaging, Typography
 - **City:** Barcelona

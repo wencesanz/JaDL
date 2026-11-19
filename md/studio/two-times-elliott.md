@@ -1,12 +1,12 @@
 ---
 title: "Two Times Elliott — Branding, London, England · Just a Design List"
-description: "Two Times Elliott: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
+description: "Two Times Elliott: branding and graphic design practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/two-times-elliott"
 ---
 
 # Two Times Elliott
 
-Two Times Elliott: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
+Two Times Elliott: branding and graphic design practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** London

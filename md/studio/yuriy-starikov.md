@@ -1,12 +1,12 @@
 ---
 title: "Yuriy Starikov — Branding, London, England · Just a Design List"
-description: "Yuriy Starikov: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026."
+description: "Yuriy Starikov: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/yuriy-starikov"
 ---
 
 # Yuriy Starikov
 
-Yuriy Starikov: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026.
+Yuriy Starikov: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** London

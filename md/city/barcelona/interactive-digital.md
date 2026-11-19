@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in Barcelona · Just a Design List"
-description: "31 independent studios working in interactive/digital in Barcelona, from the Just a Design List index."
+description: "32 independent studios working in interactive/digital in Barcelona, from the Just a Design List index."
 url: "https://justadesignlist.com/city/barcelona/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ City · Interactive/Digital
 
 # Interactive/Digital in Barcelona
 
-31 independent studios working in interactive/digital in Barcelona, from the Just a Design List index.
+32 independent studios working in interactive/digital in Barcelona, from the Just a Design List index.
 
 - [Bakken & Baeck](https://justadesignlist.com/studio/bakken-and-baeck) — Oslo, Amsterdam, Bonn, London, Barcelona, Norway, The Netherlands, Germany, England, Spain
 - [Blank Studio](https://justadesignlist.com/studio/blank-studio) — Barcelona, Spain
@@ -35,6 +35,7 @@ City · Interactive/Digital
 - [N.O.V.A. Lab](https://justadesignlist.com/studio/n-o-v-a-lab) — Barcelona, Spain
 - [North Kingdom](https://justadesignlist.com/studio/north-kingdom) — Skellefteå, Stockholm, Barcelona, Sweden, Spain
 - [PHANTASIA](https://justadesignlist.com/studio/phantasia) — Barcelona, Spain
+- [Pifarré–Vallejo Studio](https://justadesignlist.com/studio/pifarre-vallejo-studio) — Barcelona, Spain
 - [Rey Graphic](https://justadesignlist.com/studio/rey-graphic) — Barcelona, Spain
 - [SLAPS](https://justadesignlist.com/studio/slaps) — Barcelona, New York, Spain, USA
 - [Soluble](https://justadesignlist.com/studio/soluble) — Madrid, Barcelona, Spain

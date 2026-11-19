@@ -1,12 +1,12 @@
 ---
 title: "Lane + Co — Branding, London, England · Just a Design List"
-description: "Lane + Co: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024."
+description: "Lane + Co: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/lane-co"
 ---
 
 # Lane + Co
 
-Lane + Co: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024.
+Lane + Co: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2024.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** London

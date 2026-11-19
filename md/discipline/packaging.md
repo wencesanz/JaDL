@@ -1,6 +1,6 @@
 ---
 title: "Packaging design studios · Just a Design List"
-description: "467 independent studios and designers working in packaging, collected in the Just a Design List index. Browse by country and city."
+description: "469 independent studios and designers working in packaging, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/packaging"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Packaging
 
-467 independent studios and designers working in packaging, collected in the Just a Design List index. Browse by country and city.
+469 independent studios and designers working in packaging, collected in the Just a Design List index. Browse by country and city.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
@@ -39,6 +39,7 @@ Discipline
 - [Ania et Lucie](https://justadesignlist.com/studio/ania-et-lucie) — New York, USA
 - [Anna Bosch](https://justadesignlist.com/studio/anna-bosch) — Banyoles, Spain
 - [Another Practice](https://justadesignlist.com/studio/another-practice) — Athens, Greece
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara) — Toledo, Madrid, Spain
 - [Aperitif](https://justadesignlist.com/studio/aperitif) — Chicago, USA
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio) — Madrid, New York, Spain, USA
@@ -211,7 +212,6 @@ Discipline
 - [Infinito](https://justadesignlist.com/studio/infinito) — Lima, Madrid, Stockholm, Peru, Spain, Sweden
 - [Ingrid Picanyol Studio](https://justadesignlist.com/studio/ingrid-picanyol-studio) — Barcelona, Spain
 - [Inhouse](https://justadesignlist.com/studio/inhouse) — Auckland, New Zealand
-- [Irradié](https://justadesignlist.com/studio/irradie) — Paris, France
 
 ---
 

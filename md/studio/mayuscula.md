@@ -1,12 +1,12 @@
 ---
 title: "Mayúscula — Branding, Barcelona, Spain · Just a Design List"
-description: "Mayúscula: branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Mayúscula: branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/mayuscula"
 ---
 
 # Mayúscula
 
-Mayúscula: branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Mayúscula: branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding
 - **City:** Barcelona

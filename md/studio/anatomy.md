@@ -1,12 +1,12 @@
 ---
 title: "Anatomy — Branding, London, England · Just a Design List"
-description: "Anatomy: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026."
+description: "Anatomy: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 197 studios from London on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/anatomy"
 ---
 
 # Anatomy
 
-Anatomy: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026.
+Anatomy: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 197 studios from London on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Advertising/Campaigns
 - **City:** London

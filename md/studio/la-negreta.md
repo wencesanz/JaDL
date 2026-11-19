@@ -1,12 +1,12 @@
 ---
 title: "la Negreta — Branding, Barcelona, Spain · Just a Design List"
-description: "la Negreta: branding, graphic design and typography practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in May 2026."
+description: "la Negreta: branding, graphic design and typography practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/la-negreta"
 ---
 
 # la Negreta
 
-la Negreta: branding, graphic design and typography practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in May 2026.
+la Negreta: branding, graphic design and typography practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Typography, Packaging, Advertising/Campaigns
 - **City:** Barcelona

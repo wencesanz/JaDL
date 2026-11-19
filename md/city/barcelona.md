@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Barcelona · Just a Design List"
-description: "94 independent design studios based in Barcelona, from the Just a Design List index. Browse by discipline."
+description: "95 independent design studios based in Barcelona, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/barcelona"
 ---
 
@@ -10,9 +10,9 @@ City
 
 # Barcelona
 
-94 independent design studios based in Barcelona, from the Just a Design List index. Browse by discipline.
+95 independent design studios based in Barcelona, from the Just a Design List index. Browse by discipline.
 
-By discipline: [Branding design studios in Barcelona](https://justadesignlist.com/city/barcelona/branding) (73), [Graphic Design studios in Barcelona](https://justadesignlist.com/city/barcelona/graphic-design) (67), [Packaging design studios in Barcelona](https://justadesignlist.com/city/barcelona/packaging) (37), [Interactive/Digital design studios in Barcelona](https://justadesignlist.com/city/barcelona/interactive-digital) (31), [Typography design studios in Barcelona](https://justadesignlist.com/city/barcelona/typography) (15), [Motion design studios in Barcelona](https://justadesignlist.com/city/barcelona/motion) (12), [Advertising/Campaigns design studios in Barcelona](https://justadesignlist.com/city/barcelona/advertising-campaigns) (8), [Illustration design studios in Barcelona](https://justadesignlist.com/city/barcelona/illustration) (5)
+By discipline: [Branding design studios in Barcelona](https://justadesignlist.com/city/barcelona/branding) (74), [Graphic Design studios in Barcelona](https://justadesignlist.com/city/barcelona/graphic-design) (68), [Packaging design studios in Barcelona](https://justadesignlist.com/city/barcelona/packaging) (38), [Interactive/Digital design studios in Barcelona](https://justadesignlist.com/city/barcelona/interactive-digital) (32), [Typography design studios in Barcelona](https://justadesignlist.com/city/barcelona/typography) (16), [Motion design studios in Barcelona](https://justadesignlist.com/city/barcelona/motion) (12), [Advertising/Campaigns design studios in Barcelona](https://justadesignlist.com/city/barcelona/advertising-campaigns) (8), [Illustration design studios in Barcelona](https://justadesignlist.com/city/barcelona/illustration) (5)
 
 - [Andrei Robu Studio](https://justadesignlist.com/studio/andrei-robu-studio) — Barcelona, Spain
 - [Arnau Pi](https://justadesignlist.com/studio/arnau-pi) — Barcelona, Spain
@@ -81,6 +81,7 @@ By discipline: [Branding design studios in Barcelona](https://justadesignlist.co
 - [Parasol](https://justadesignlist.com/studio/parasol) — Stockholm, Barcelona, New York, Sweden, Spain, USA
 - [pfp, disseny](https://justadesignlist.com/studio/pfp-disseny) — Barcelona, Spain
 - [PHANTASIA](https://justadesignlist.com/studio/phantasia) — Barcelona, Spain
+- [Pifarré–Vallejo Studio](https://justadesignlist.com/studio/pifarre-vallejo-studio) — Barcelona, Spain
 - [Play&Type](https://justadesignlist.com/studio/playandtype) — Barcelona, Spain
 - [Querida](https://justadesignlist.com/studio/querida) — Barcelona, Spain
 - [Rafa Goicoechea](https://justadesignlist.com/studio/rafa-goicoechea) — Barcelona, Spain

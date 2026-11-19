@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios · Just a Design List"
-description: "904 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city."
+description: "906 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Graphic Design
 
-904 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city.
+906 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city.
 
 - [(Studio) Lotta Nieminen](https://justadesignlist.com/studio/studio-lotta-nieminen) — Helsinki, Finland
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
@@ -58,6 +58,7 @@ Discipline
 - [Anna Bosch](https://justadesignlist.com/studio/anna-bosch) — Banyoles, Spain
 - [Another Day](https://justadesignlist.com/studio/another-day) — Nijmegen, The Netherlands
 - [Another Practice](https://justadesignlist.com/studio/another-practice) — Athens, Greece
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Anti Average®](https://justadesignlist.com/studio/anti-average) — Manchester, England
 - [ANTIANTI](https://justadesignlist.com/studio/antianti) — New York, USA
 - [Antoine Peltier](https://justadesignlist.com/studio/antoine-peltier) — Paris, France
@@ -211,7 +212,6 @@ Discipline
 - [Cul De Sac Studio](https://justadesignlist.com/studio/cul-de-sac-studio) — Los Angeles, USA
 - [D. Kim](https://justadesignlist.com/studio/d-kim) — San Francisco, USA
 - [Dada Projects](https://justadesignlist.com/studio/dada-projects) — London, England
-- [Daikoku Design Institute](https://justadesignlist.com/studio/daikoku-design-institute) — Los Angeles, Tokyo, USA, Japan
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Design studios in the UK & Ireland · Just a Design List"
-description: "239 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline."
+description: "241 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/uk-and-ireland"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # UK & Ireland
 
-239 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline.
+241 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline.
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [20(SOMETHING)](https://justadesignlist.com/studio/20-something) — London, England
@@ -29,6 +29,7 @@ Region
 - [Anatomy](https://justadesignlist.com/studio/anatomy) — London, England
 - [Angel & Anchor](https://justadesignlist.com/studio/angel-and-anchor) — Belfast, Northern Ireland
 - [Angelina Pischikova](https://justadesignlist.com/studio/angelina-pischikova) — London, England
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Anti Average®](https://justadesignlist.com/studio/anti-average) — Manchester, England
 - [Anton Martinez](https://justadesignlist.com/studio/anton-martinez) — London, England
 - [ANY OTHER NAME](https://justadesignlist.com/studio/any-other-name) — London, England
@@ -86,6 +87,7 @@ Region
 - [February Agency](https://justadesignlist.com/studio/february-agency) — Newbury, England
 - [ffforum](https://justadesignlist.com/studio/ffforum) — London, England
 - [FIELD](https://justadesignlist.com/studio/field) — London, Berlin, England, Germany
+- [FLUORO®](https://justadesignlist.com/studio/fluoro) — London, England
 - [forpeople](https://justadesignlist.com/studio/forpeople) — London, Amsterdam, England, The Netherlands
 - [Forty Eight Point One](https://justadesignlist.com/studio/forty-eight-point-one) — London, England
 - [Found](https://justadesignlist.com/studio/found) — London, England
@@ -210,8 +212,6 @@ Region
 - [SOUP](https://justadesignlist.com/studio/soup) — London, England
 - [Spencer Fenton](https://justadesignlist.com/studio/spencer-fenton) — London, England
 - [SPIN](https://justadesignlist.com/studio/spin) — London, England
-- [Spy](https://justadesignlist.com/studio/spy) — London, England
-- [Standard Format](https://justadesignlist.com/studio/standard-format) — Edinburgh, Glasgow, Scotland
 
 ---
 

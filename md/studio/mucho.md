@@ -1,12 +1,12 @@
 ---
 title: "Mucho — Branding, Barcelona, Spain · Just a Design List"
-description: "Mucho: branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Mucho: branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/mucho"
 ---
 
 # Mucho
 
-Mucho: branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Mucho: branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding
 - **City:** Barcelona, Melbourne, Paris, San Francisco

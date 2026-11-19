@@ -1,12 +1,12 @@
 ---
 title: "All studios · Just a Design List"
-description: "Browse the full index of 1471 design studios and independent designers, A to Z."
+description: "Browse the full index of 1474 design studios and independent designers, A to Z."
 url: "https://justadesignlist.com/studios"
 ---
 
 The List
 
-# All 1471 studios and designers
+# All 1474 studios and designers
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China · Branding, Motion, Interactive/Digital, Typography, Packaging
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Slovenia · Paris, France · Branding, Interactive/Digital, Packaging, Motion
@@ -90,6 +90,7 @@ The List
 - [Another Collective](https://justadesignlist.com/studio/another-collective) — Porto, Portugal · Branding
 - [Another Day](https://justadesignlist.com/studio/another-day) — Nijmegen, The Netherlands · Graphic Design
 - [Another Practice](https://justadesignlist.com/studio/another-practice) — Athens, Greece · Branding, Interactive/Digital, Graphic Design, Advertising/Campaigns, Packaging
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, England · Madrid, Spain · Branding, Graphic Design, Interactive/Digital, Typography, Packaging
 - [Anti Average®](https://justadesignlist.com/studio/anti-average) — Manchester, England · Branding, Graphic Design, Typography, Interactive/Digital
 - [ANTIANTI](https://justadesignlist.com/studio/antianti) — New York, USA · Branding, Graphic Design
 - [Antoine Peltier](https://justadesignlist.com/studio/antoine-peltier) — Paris, France · Branding, Graphic Design, Interactive/Digital
@@ -480,6 +481,7 @@ The List
 - [flag](https://justadesignlist.com/studio/flag) — Zurich, Switzerland · Graphic Design
 - [Flat](https://justadesignlist.com/studio/flat) — Pamplona, Spain · Branding, Packaging
 - [FLOC*](https://justadesignlist.com/studio/floc) — Alicante, Spain · Branding, Interactive/Digital
+- [FLUORO®](https://justadesignlist.com/studio/fluoro) — London, England · Branding, Advertising/Campaigns
 - [Fol](https://justadesignlist.com/studio/fol) — Istanbul, Turkey · Branding, Graphic Design, Interactive/Digital, Motion
 - [Folch](https://justadesignlist.com/studio/folch) — Barcelona, Madrid, Spain · Graphic Design, Branding, Motion, Typography, Packaging
 - [Fontwerk](https://justadesignlist.com/studio/fontwerk) — Berlin, Germany · Typography
@@ -1000,6 +1002,7 @@ The List
 - [PHANTASIA](https://justadesignlist.com/studio/phantasia) — Barcelona, Spain · Branding, Graphic Design, Interactive/Digital, Packaging
 - [Phoney](https://justadesignlist.com/studio/phoney) — Rotterdam, The Netherlands · Branding, Interactive/Digital, Illustration, Graphic Design
 - [Pieter Riedel](https://justadesignlist.com/studio/pieter-riedel) — Munich, Germany · Interactive/Digital
+- [Pifarré–Vallejo Studio](https://justadesignlist.com/studio/pifarre-vallejo-studio) — Barcelona, Spain · Branding, Graphic Design, Packaging, Interactive/Digital, Typography
 - [Pitis e Associati](https://justadesignlist.com/studio/pitis-e-associati) — Milan, Italy · Paris, France · Branding, Graphic Design, Interactive/Digital, Typography
 - [Placeholder](https://justadesignlist.com/studio/placeholder) — New York, USA · Branding
 - [Planning Unit](https://justadesignlist.com/studio/planning-unit) — London, England · Branding, Interactive/Digital

@@ -1,12 +1,12 @@
 ---
 title: "Studio Posti — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Studio Posti: graphic design and illustration practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Studio Posti: graphic design and illustration practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/studio-posti"
 ---
 
 # Studio Posti
 
-Studio Posti: graphic design and illustration practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Studio Posti: graphic design and illustration practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Illustration
 - **City:** Barcelona

@@ -1,6 +1,6 @@
 ---
 title: "Typography design studios in Spain · Just a Design List"
-description: "22 independent studios working in typography in Spain, from the Just a Design List index."
+description: "24 independent studios working in typography in Spain, from the Just a Design List index."
 url: "https://justadesignlist.com/country/spain/typography"
 ---
 
@@ -10,9 +10,10 @@ Country · Typography
 
 # Typography in Spain
 
-22 independent studios working in typography in Spain, from the Just a Design List index.
+24 independent studios working in typography in Spain, from the Just a Design List index.
 
 - [Andrei Robu Studio](https://justadesignlist.com/studio/andrei-robu-studio) — Barcelona, Spain
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Casamira](https://justadesignlist.com/studio/casamira) — Barcelona, Spain
 - [Democràcia Studio](https://justadesignlist.com/studio/democracia-studio) — Valencia, Spain
 - [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cadiz, Madrid, Spain
@@ -25,6 +26,7 @@ Country · Typography
 - [N.O.V.A. Lab](https://justadesignlist.com/studio/n-o-v-a-lab) — Barcelona, Spain
 - [NM Type](https://justadesignlist.com/studio/nm-type) — Stockholm, Santiago de Compostela, Sweden, Spain
 - [NOHO](https://justadesignlist.com/studio/noho) — Madrid, Barcelona, London, Spain, England
+- [Pifarré–Vallejo Studio](https://justadesignlist.com/studio/pifarre-vallejo-studio) — Barcelona, Spain
 - [Rafa Goicoechea](https://justadesignlist.com/studio/rafa-goicoechea) — Barcelona, Spain
 - [Rey Graphic](https://justadesignlist.com/studio/rey-graphic) — Barcelona, Spain
 - [Samu Coronado](https://justadesignlist.com/studio/samu-coronado) — Madrid, Spain

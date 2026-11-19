@@ -1,6 +1,6 @@
 ---
 title: "Advertising/Campaigns design studios in London · Just a Design List"
-description: "28 independent studios working in advertising/campaigns in London, from the Just a Design List index."
+description: "29 independent studios working in advertising/campaigns in London, from the Just a Design List index."
 url: "https://justadesignlist.com/city/london/advertising-campaigns"
 ---
 
@@ -10,12 +10,13 @@ City · Advertising/Campaigns
 
 # Advertising/Campaigns in London
 
-28 independent studios working in advertising/campaigns in London, from the Just a Design List index.
+29 independent studios working in advertising/campaigns in London, from the Just a Design List index.
 
 - [20(SOMETHING)](https://justadesignlist.com/studio/20-something) — London, England
 - [Airborne Studio](https://justadesignlist.com/studio/airborne-studio) — London, England
 - [Anatomy](https://justadesignlist.com/studio/anatomy) — London, England
 - [Atelier Dyakova](https://justadesignlist.com/studio/atelier-dyakova) — London, England
+- [FLUORO®](https://justadesignlist.com/studio/fluoro) — London, England
 - [Found](https://justadesignlist.com/studio/found) — London, England
 - [Grace Margetson Studio](https://justadesignlist.com/studio/grace-margetson-studio) — London, Paris, England, France
 - [Gramática](https://justadesignlist.com/studio/gramatica) — London, Riga, England, Latvia

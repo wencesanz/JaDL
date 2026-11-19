@@ -1,12 +1,12 @@
 ---
 title: "STUDIO WAN — Branding, London, England · Just a Design List"
-description: "STUDIO WAN: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2026."
+description: "STUDIO WAN: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/studio-wan"
 ---
 
 # STUDIO WAN
 
-STUDIO WAN: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2026.
+STUDIO WAN: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging
 - **City:** London

@@ -1,12 +1,12 @@
 ---
 title: "N.O.V.A. Lab — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "N.O.V.A. Lab: graphic design, branding and advertising/campaigns practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in July 2026."
+description: "N.O.V.A. Lab: graphic design, branding and advertising/campaigns practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/n-o-v-a-lab"
 ---
 
 # N.O.V.A. Lab
 
-N.O.V.A. Lab: graphic design, branding and advertising/campaigns practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in July 2026.
+N.O.V.A. Lab: graphic design, branding and advertising/campaigns practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in July 2026.
 
 - **Discipline:** Graphic Design, Branding, Advertising/Campaigns, Typography, Interactive/Digital
 - **City:** Barcelona

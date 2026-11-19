@@ -1,12 +1,12 @@
 ---
 title: "New Genre — Branding, London, England · Just a Design List"
-description: "New Genre: branding, interactive/digital and illustration practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2026."
+description: "New Genre: branding, interactive/digital and illustration practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/new-genre"
 ---
 
 # New Genre
 
-New Genre: branding, interactive/digital and illustration practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2026.
+New Genre: branding, interactive/digital and illustration practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Illustration, Motion
 - **City:** London, San Francisco

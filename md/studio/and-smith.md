@@ -1,12 +1,12 @@
 ---
 title: "& Smith — Packaging, London, England · Just a Design List"
-description: "& Smith: packaging and branding practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
+description: "& Smith: packaging and branding practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/and-smith"
 ---
 
 # & Smith
 
-& Smith: packaging and branding practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
+& Smith: packaging and branding practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Packaging, Branding
 - **City:** London

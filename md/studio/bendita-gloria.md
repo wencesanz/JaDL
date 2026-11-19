@@ -1,12 +1,12 @@
 ---
 title: "Bendita Gloria — Branding, Barcelona, Spain · Just a Design List"
-description: "Bendita Gloria: branding, graphic design and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Bendita Gloria: branding, graphic design and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/bendita-gloria"
 ---
 
 # Bendita Gloria
 
-Bendita Gloria: branding, graphic design and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Bendita Gloria: branding, graphic design and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Graphic Design, Packaging
 - **City:** Barcelona

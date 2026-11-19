@@ -1,12 +1,12 @@
 ---
 title: "Studio Blup — Branding, London, England · Just a Design List"
-description: "Studio Blup: branding practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023."
+description: "Studio Blup: branding practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/studio-blup"
 ---
 
 # Studio Blup
 
-Studio Blup: branding practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023.
+Studio Blup: branding practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** London

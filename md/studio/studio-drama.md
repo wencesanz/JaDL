@@ -1,12 +1,12 @@
 ---
 title: "Studio DRAMA — Branding, London, England · Just a Design List"
-description: "Studio DRAMA: branding and typography practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026."
+description: "Studio DRAMA: branding and typography practice based in London, England. One of 197 studios from London on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/studio-drama"
 ---
 
 # Studio DRAMA
 
-Studio DRAMA: branding and typography practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026.
+Studio DRAMA: branding and typography practice based in London, England. One of 197 studios from London on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Typography
 - **City:** London

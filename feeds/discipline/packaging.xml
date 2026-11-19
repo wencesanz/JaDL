@@ -5,8 +5,32 @@
     <link>https://justadesignlist.com/discipline/packaging</link>
     <description>New additions to Just a Design List: Packaging studios.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 08:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:52:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/packaging.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pifarré–Vallejo Studio</title>
+      <link>https://justadesignlist.com/studio/pifarre-vallejo-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/pifarre-vallejo-studio</guid>
+      <pubDate>Thu, 19 Nov 2026 10:52:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital · Typography — Barcelona, Spain. https://www.pifarrevallejo.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Antennae Studio</title>
+      <link>https://justadesignlist.com/studio/antennae-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/antennae-studio</guid>
+      <pubDate>Thu, 19 Nov 2026 09:05:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Typography · Packaging — London, England. https://antennae.studio</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Roots</title>
       <link>https://justadesignlist.com/studio/roots</link>
@@ -322,30 +346,6 @@
       <description>Branding · Graphic Design · Packaging — Belo Horizonte, Brazil. https://rafael-cardoso.com/</description>
       <category>Branding</category>
       <category>Graphic Design</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Asketic</title>
-      <link>https://justadesignlist.com/studio/asketic</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/asketic</guid>
-      <pubDate>Mon, 19 Oct 2026 15:49:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Motion · Interactive/Digital — Riga, Latvia. https://asketic.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Murri Studio</title>
-      <link>https://justadesignlist.com/studio/murri-studio</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/murri-studio</guid>
-      <pubDate>Mon, 19 Oct 2026 09:37:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Typography · Packaging — Barcelona, Spain. https://murri.studio/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Typography</category>
       <category>Packaging</category>
     </item>
   </channel>

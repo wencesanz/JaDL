@@ -1,12 +1,12 @@
 ---
 title: "Brandson Digital Studio — Branding, Barcelona, Spain · Just a Design List"
-description: "Brandson Digital Studio: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in May 2026."
+description: "Brandson Digital Studio: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/brandson-digital-studio"
 ---
 
 # Brandson Digital Studio
 
-Brandson Digital Studio: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in May 2026.
+Brandson Digital Studio: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging
 - **City:** Barcelona

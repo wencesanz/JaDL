@@ -5,8 +5,20 @@
     <link>https://justadesignlist.com/city/barcelona</link>
     <description>New additions to Just a Design List: design studios in Barcelona.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:52:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/city/barcelona.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pifarré–Vallejo Studio</title>
+      <link>https://justadesignlist.com/studio/pifarre-vallejo-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/pifarre-vallejo-studio</guid>
+      <pubDate>Thu, 19 Nov 2026 10:52:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital · Typography — Barcelona, Spain. https://www.pifarrevallejo.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+    </item>
     <item>
       <title>Martillo Studio</title>
       <link>https://justadesignlist.com/studio/martillo-studio</link>
@@ -304,17 +316,6 @@
       <pubDate>Thu, 07 May 2026 10:47:00 GMT</pubDate>
       <description>Typography — Barcelona, Spain. https://www.laurameseguer.com/</description>
       <category>Typography</category>
-    </item>
-    <item>
-      <title>GATZARA Studio</title>
-      <link>https://justadesignlist.com/studio/gatzara-studio</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/gatzara-studio</guid>
-      <pubDate>Mon, 02 Feb 2026 14:44:00 GMT</pubDate>
-      <description>Branding · Motion · Interactive/Digital · Advertising/Campaigns — Barcelona, Spain. https://gatzara.studio/</description>
-      <category>Branding</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-      <category>Advertising/Campaigns</category>
     </item>
   </channel>
 </rss>

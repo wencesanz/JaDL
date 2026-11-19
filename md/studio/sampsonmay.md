@@ -1,12 +1,12 @@
 ---
 title: "SampsonMay — Branding, London, England · Just a Design List"
-description: "SampsonMay: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2026."
+description: "SampsonMay: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/sampsonmay"
 ---
 
 # SampsonMay
 
-SampsonMay: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2026.
+SampsonMay: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Motion, Illustration
 - **City:** London

@@ -1,12 +1,12 @@
 ---
 title: "pfp, disseny — Branding, Barcelona, Spain · Just a Design List"
-description: "pfp, disseny: branding and graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in May 2023."
+description: "pfp, disseny: branding and graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/pfp-disseny"
 ---
 
 # pfp, disseny
 
-pfp, disseny: branding and graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in May 2023.
+pfp, disseny: branding and graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** Barcelona

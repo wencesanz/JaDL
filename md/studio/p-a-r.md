@@ -1,12 +1,12 @@
 ---
 title: "P.A.R — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "P.A.R: graphic design and branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "P.A.R: graphic design and branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/p-a-r"
 ---
 
 # P.A.R
 
-P.A.R: graphic design and branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+P.A.R: graphic design and branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Barcelona

@@ -1,12 +1,12 @@
 ---
 title: "MultiAdaptor — Branding, London, England · Just a Design List"
-description: "MultiAdaptor: branding practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
+description: "MultiAdaptor: branding practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/multiadaptor"
 ---
 
 # MultiAdaptor
 
-MultiAdaptor: branding practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
+MultiAdaptor: branding practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding
 - **City:** London

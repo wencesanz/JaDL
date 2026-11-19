@@ -1,12 +1,12 @@
 ---
 title: "Anna Bosch — Graphic Design, Banyoles, Spain · Just a Design List"
-description: "Anna Bosch: graphic design, motion and interactive/digital practice based in Banyoles, Spain. The only studio from Banyoles, one of 199 from Spain on Just a Design List, added in November 2026."
+description: "Anna Bosch: graphic design, motion and interactive/digital practice based in Banyoles, Spain. The only studio from Banyoles, one of 201 from Spain on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/anna-bosch"
 ---
 
 # Anna Bosch
 
-Anna Bosch: graphic design, motion and interactive/digital practice based in Banyoles, Spain. The only studio from Banyoles, one of 199 from Spain on Just a Design List, added in November 2026.
+Anna Bosch: graphic design, motion and interactive/digital practice based in Banyoles, Spain. The only studio from Banyoles, one of 201 from Spain on Just a Design List, added in November 2026.
 
 - **Discipline:** Graphic Design, Motion, Interactive/Digital, Packaging
 - **City:** Banyoles

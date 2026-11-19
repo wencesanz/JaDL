@@ -1,12 +1,12 @@
 ---
 title: "Martillo Studio — Branding, Barcelona, Spain · Just a Design List"
-description: "Martillo Studio: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in October 2026."
+description: "Martillo Studio: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/martillo-studio"
 ---
 
 # Martillo Studio
 
-Martillo Studio: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in October 2026.
+Martillo Studio: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Motion
 - **City:** Barcelona, Lisbon

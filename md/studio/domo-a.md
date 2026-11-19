@@ -1,12 +1,12 @@
 ---
 title: "Domo-A — Branding, Barcelona, Spain · Just a Design List"
-description: "Domo-A: branding, interactive/digital and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Domo-A: branding, interactive/digital and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/domo-a"
 ---
 
 # Domo-A
 
-Domo-A: branding, interactive/digital and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Domo-A: branding, interactive/digital and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging
 - **City:** Barcelona

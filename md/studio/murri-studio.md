@@ -1,12 +1,12 @@
 ---
 title: "Murri Studio — Branding, Barcelona, Spain · Just a Design List"
-description: "Murri Studio: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in October 2026."
+description: "Murri Studio: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/murri-studio"
 ---
 
 # Murri Studio
 
-Murri Studio: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in October 2026.
+Murri Studio: branding, graphic design and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Typography, Packaging
 - **City:** Barcelona

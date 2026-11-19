@@ -1,12 +1,12 @@
 ---
 title: "Clara Xarrié Studio — Branding, Barcelona, Spain · Just a Design List"
-description: "Clara Xarrié Studio: branding, graphic design and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2026."
+description: "Clara Xarrié Studio: branding, graphic design and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/clara-xarrie-studio"
 ---
 
 # Clara Xarrié Studio
 
-Clara Xarrié Studio: branding, graphic design and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2026.
+Clara Xarrié Studio: branding, graphic design and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging
 - **City:** Barcelona

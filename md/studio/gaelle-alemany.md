@@ -1,12 +1,12 @@
 ---
 title: "Gaëlle Alemany — Branding, Barcelona, Spain · Just a Design List"
-description: "Gaëlle Alemany: branding, packaging and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Gaëlle Alemany: branding, packaging and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/gaelle-alemany"
 ---
 
 # Gaëlle Alemany
 
-Gaëlle Alemany: branding, packaging and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Gaëlle Alemany: branding, packaging and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Packaging, Interactive/Digital, Graphic Design
 - **City:** Barcelona

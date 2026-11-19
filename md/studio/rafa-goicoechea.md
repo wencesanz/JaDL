@@ -1,12 +1,12 @@
 ---
 title: "Rafa Goicoechea — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Rafa Goicoechea: graphic design and typography practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Rafa Goicoechea: graphic design and typography practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/rafa-goicoechea"
 ---
 
 # Rafa Goicoechea
 
-Rafa Goicoechea: graphic design and typography practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Rafa Goicoechea: graphic design and typography practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Typography
 - **City:** Barcelona

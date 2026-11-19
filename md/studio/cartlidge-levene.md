@@ -1,12 +1,12 @@
 ---
 title: "Cartlidge Levene — Branding, London, England · Just a Design List"
-description: "Cartlidge Levene: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026."
+description: "Cartlidge Levene: branding and graphic design practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/cartlidge-levene"
 ---
 
 # Cartlidge Levene
 
-Cartlidge Levene: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026.
+Cartlidge Levene: branding and graphic design practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** London

@@ -1,12 +1,12 @@
 ---
 title: "Fraser Muggeridge Studio — Graphic Design, London, England · Just a Design List"
-description: "Fraser Muggeridge Studio: graphic design and typography practice based in London, England. One of 195 studios from London on Just a Design List, added in September 2026."
+description: "Fraser Muggeridge Studio: graphic design and typography practice based in London, England. One of 197 studios from London on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/fraser-muggeridge-studio"
 ---
 
 # Fraser Muggeridge Studio
 
-Fraser Muggeridge Studio: graphic design and typography practice based in London, England. One of 195 studios from London on Just a Design List, added in September 2026.
+Fraser Muggeridge Studio: graphic design and typography practice based in London, England. One of 197 studios from London on Just a Design List, added in September 2026.
 
 - **Discipline:** Graphic Design, Typography
 - **City:** London

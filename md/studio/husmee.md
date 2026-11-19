@@ -1,12 +1,12 @@
 ---
 title: "Husmee — Graphic Design, Irun, Spain · Just a Design List"
-description: "Husmee: graphic design and branding practice based in Irun, Spain. The only studio from Irun, one of 199 from Spain on Just a Design List, added in June 2023."
+description: "Husmee: graphic design and branding practice based in Irun, Spain. The only studio from Irun, one of 201 from Spain on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/husmee"
 ---
 
 # Husmee
 
-Husmee: graphic design and branding practice based in Irun, Spain. The only studio from Irun, one of 199 from Spain on Just a Design List, added in June 2023.
+Husmee: graphic design and branding practice based in Irun, Spain. The only studio from Irun, one of 201 from Spain on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Irun

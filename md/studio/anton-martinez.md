@@ -1,12 +1,12 @@
 ---
 title: "Anton Martinez — Branding, London, England · Just a Design List"
-description: "Anton Martinez: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
+description: "Anton Martinez: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/anton-martinez"
 ---
 
 # Anton Martinez
 
-Anton Martinez: branding, graphic design and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
+Anton Martinez: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** London

@@ -1,12 +1,12 @@
 ---
 title: "Koln Studio — Graphic Design, Madrid, Spain · Just a Design List"
-description: "Koln Studio: graphic design and interactive/digital practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in June 2023."
+description: "Koln Studio: graphic design and interactive/digital practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/koln-studio"
 ---
 
 # Koln Studio
 
-Koln Studio: graphic design and interactive/digital practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in June 2023.
+Koln Studio: graphic design and interactive/digital practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Interactive/Digital
 - **City:** Madrid
@@ -22,11 +22,11 @@ Koln Studio: graphic design and interactive/digital practice based in Madrid, Sp
 ## More from Madrid
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one)
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio)
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara)
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio)
 - [Avellana Studio](https://justadesignlist.com/studio/avellana-studio)
 - [Bandiz](https://justadesignlist.com/studio/bandiz)
-- [Carlos Mayo](https://justadesignlist.com/studio/carlos-mayo)
 
 ---
 

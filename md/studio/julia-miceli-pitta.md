@@ -1,12 +1,12 @@
 ---
 title: "Julia Miceli Pitta — Graphic Design, London, England · Just a Design List"
-description: "Julia Miceli Pitta: graphic design, typography and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024."
+description: "Julia Miceli Pitta: graphic design, typography and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/julia-miceli-pitta"
 ---
 
 # Julia Miceli Pitta
 
-Julia Miceli Pitta: graphic design, typography and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024.
+Julia Miceli Pitta: graphic design, typography and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2024.
 
 - **Discipline:** Graphic Design, Typography, Interactive/Digital
 - **City:** London

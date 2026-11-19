@@ -1,12 +1,12 @@
 ---
 title: "Diatomic Studio — Motion, Barcelona, Spain · Just a Design List"
-description: "Diatomic Studio: motion and graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Diatomic Studio: motion and graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/diatomic-studio"
 ---
 
 # Diatomic Studio
 
-Diatomic Studio: motion and graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Diatomic Studio: motion and graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Motion, Graphic Design
 - **City:** Barcelona

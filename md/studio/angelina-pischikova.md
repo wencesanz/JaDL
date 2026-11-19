@@ -1,12 +1,12 @@
 ---
 title: "Angelina Pischikova — Branding, London, England · Just a Design List"
-description: "Angelina Pischikova: branding, graphic design and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026."
+description: "Angelina Pischikova: branding, graphic design and packaging practice based in London, England. One of 197 studios from London on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/angelina-pischikova"
 ---
 
 # Angelina Pischikova
 
-Angelina Pischikova: branding, graphic design and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026.
+Angelina Pischikova: branding, graphic design and packaging practice based in London, England. One of 197 studios from London on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging
 - **City:** London

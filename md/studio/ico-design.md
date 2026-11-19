@@ -1,12 +1,12 @@
 ---
 title: "Ico Design — Branding, London, England · Just a Design List"
-description: "Ico Design: branding practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023."
+description: "Ico Design: branding practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/ico-design"
 ---
 
 # Ico Design
 
-Ico Design: branding practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023.
+Ico Design: branding practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** London

@@ -5,8 +5,29 @@
     <link>https://justadesignlist.com/region/uk-and-ireland</link>
     <description>New additions to Just a Design List: design studios in UK &amp; Ireland.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 19:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:29:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/region/uk-and-ireland.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>FLUORO®</title>
+      <link>https://justadesignlist.com/studio/fluoro</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/fluoro</guid>
+      <pubDate>Thu, 19 Nov 2026 10:29:00 GMT</pubDate>
+      <description>Branding · Advertising/Campaigns — London, England. https://fluoro.london</description>
+      <category>Branding</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>Antennae Studio</title>
+      <link>https://justadesignlist.com/studio/antennae-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/antennae-studio</guid>
+      <pubDate>Thu, 19 Nov 2026 09:05:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Typography · Packaging — London, England. https://antennae.studio</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>THIRD HORIZON Studios®</title>
       <link>https://justadesignlist.com/studio/third-horizon-studios</link>
@@ -303,27 +324,6 @@
       <category>Packaging</category>
       <category>Graphic Design</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>B.A.M</title>
-      <link>https://justadesignlist.com/studio/b-a-m</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/b-a-m</guid>
-      <pubDate>Sun, 13 Sep 2026 14:57:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital — London, England. https://bamlondon.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Airborne Studio</title>
-      <link>https://justadesignlist.com/studio/airborne-studio</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/airborne-studio</guid>
-      <pubDate>Sun, 13 Sep 2026 14:50:00 GMT</pubDate>
-      <description>Branding · Motion · Interactive/Digital · Advertising/Campaigns — London, England. https://www.airborne.studio/</description>
-      <category>Branding</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-      <category>Advertising/Campaigns</category>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in England · Just a Design List"
-description: "137 independent studios working in graphic design in England, from the Just a Design List index."
+description: "138 independent studios working in graphic design in England, from the Just a Design List index."
 url: "https://justadesignlist.com/country/england/graphic-design"
 ---
 
@@ -10,13 +10,14 @@ Country · Graphic Design
 
 # Graphic Design in England
 
-137 independent studios working in graphic design in England, from the Just a Design List index.
+138 independent studios working in graphic design in England, from the Just a Design List index.
 
 - [21—87](https://justadesignlist.com/studio/21-87) — London, England
 - [A Practice for Everyday Life](https://justadesignlist.com/studio/a-practice-for-everyday-life) — London, England
 - [Alex Hunting Studio](https://justadesignlist.com/studio/alex-hunting-studio) — London, England
 - [All Purpose](https://justadesignlist.com/studio/all-purpose) — London, England
 - [Angelina Pischikova](https://justadesignlist.com/studio/angelina-pischikova) — London, England
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Anti Average®](https://justadesignlist.com/studio/anti-average) — Manchester, England
 - [Anton Martinez](https://justadesignlist.com/studio/anton-martinez) — London, England
 - [ANY OTHER NAME](https://justadesignlist.com/studio/any-other-name) — London, England

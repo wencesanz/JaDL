@@ -1,12 +1,12 @@
 ---
 title: "Bureau for Visual Affairs — Interactive/Digital, London, England · Just a Design List"
-description: "Bureau for Visual Affairs: interactive/digital and branding practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
+description: "Bureau for Visual Affairs: interactive/digital and branding practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/bureau-for-visual-affairs"
 ---
 
 # Bureau for Visual Affairs
 
-Bureau for Visual Affairs: interactive/digital and branding practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
+Bureau for Visual Affairs: interactive/digital and branding practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Interactive/Digital, Branding
 - **City:** London, Berlin

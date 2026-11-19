@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in Barcelona · Just a Design List"
-description: "73 independent studios working in branding in Barcelona, from the Just a Design List index."
+description: "74 independent studios working in branding in Barcelona, from the Just a Design List index."
 url: "https://justadesignlist.com/city/barcelona/branding"
 ---
 
@@ -10,7 +10,7 @@ City · Branding
 
 # Branding in Barcelona
 
-73 independent studios working in branding in Barcelona, from the Just a Design List index.
+74 independent studios working in branding in Barcelona, from the Just a Design List index.
 
 - [Artofmany](https://justadesignlist.com/studio/artofmany) — Barcelona, Dubai, Spain, United Arab Emirates
 - [Atipus Studio](https://justadesignlist.com/studio/atipus-studio) — Barcelona, Spain
@@ -68,6 +68,7 @@ City · Branding
 - [Parasol](https://justadesignlist.com/studio/parasol) — Stockholm, Barcelona, New York, Sweden, Spain, USA
 - [pfp, disseny](https://justadesignlist.com/studio/pfp-disseny) — Barcelona, Spain
 - [PHANTASIA](https://justadesignlist.com/studio/phantasia) — Barcelona, Spain
+- [Pifarré–Vallejo Studio](https://justadesignlist.com/studio/pifarre-vallejo-studio) — Barcelona, Spain
 - [Play&Type](https://justadesignlist.com/studio/playandtype) — Barcelona, Spain
 - [Requena ®](https://justadesignlist.com/studio/requena) — Barcelona, Spain
 - [Rey Graphic](https://justadesignlist.com/studio/rey-graphic) — Barcelona, Spain

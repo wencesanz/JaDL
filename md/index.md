@@ -1,10 +1,10 @@
 ---
 title: "Just a Design List — A curated directory of design practices"
-description: "A slow, curated index of design studios and independent designers. 1471 entries across 176 countries."
+description: "A slow, curated index of design studios and independent designers. 1474 entries across 176 countries."
 url: "https://justadesignlist.com/"
 ---
 
-# 1471 design studios and independent designers, collected without ranking.
+# 1474 design studios and independent designers, collected without ranking.
 
 A working index of studios and independent designers whose practice the editor finds worth returning to. Entries are collected slowly, without ranking, and each is kept short on purpose — a pointer, not a review. Navigate by discipline, geography, or simply read it as a list.
 
@@ -12,6 +12,9 @@ A working index of studios and independent designers whose practice the editor f
 
 ## Recent additions
 
+- [Pifarré–Vallejo Studio](https://justadesignlist.com/studio/pifarre-vallejo-studio) — Barcelona, Spain
+- [FLUORO®](https://justadesignlist.com/studio/fluoro) — London, England
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, England · Madrid, Spain
 - [Roots](https://justadesignlist.com/studio/roots) — Singapore
 - [Peltan-Brosz Studio](https://justadesignlist.com/studio/peltan-brosz-studio) — Budapest, Hungary
 - [Minimalist](https://justadesignlist.com/studio/minimalist) — Seoul, South Korea
@@ -29,26 +32,23 @@ A working index of studios and independent designers whose practice the editor f
 - [Grzegorz Sołowiński](https://justadesignlist.com/studio/grzegorz-so-owinski) — Warsaw, Poland
 - [XS](https://justadesignlist.com/studio/xs) — Seoul, South Korea
 - [Fabian Huber](https://justadesignlist.com/studio/fabian-huber) — Koln, Germany
-- [Lippert Studios](https://justadesignlist.com/studio/lippert-studios) — Berlin, Germany
-- [Convicts](https://justadesignlist.com/studio/convicts) — New York, Los Angeles, USA · Byron Bay, Australia
-- [Christopher A. Ritter](https://justadesignlist.com/studio/christopher-a-ritter) — Covington, USA
 
 ## By discipline
 
-- [Branding](https://justadesignlist.com/discipline/branding) (1173)
-- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (904)
-- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (724)
-- [Packaging](https://justadesignlist.com/discipline/packaging) (467)
+- [Branding](https://justadesignlist.com/discipline/branding) (1176)
+- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (906)
+- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (726)
+- [Packaging](https://justadesignlist.com/discipline/packaging) (469)
 - [Motion](https://justadesignlist.com/discipline/motion) (230)
-- [Typography](https://justadesignlist.com/discipline/typography) (193)
-- [Advertising/Campaigns](https://justadesignlist.com/discipline/advertising-campaigns) (141)
+- [Typography](https://justadesignlist.com/discipline/typography) (195)
+- [Advertising/Campaigns](https://justadesignlist.com/discipline/advertising-campaigns) (142)
 - [Illustration](https://justadesignlist.com/discipline/illustration) (115)
 - [Industrial Design](https://justadesignlist.com/discipline/industrial-design) (11)
 
 ## By region
 
-- [Iberia](https://justadesignlist.com/region/iberia) (202)
-- [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (239)
+- [Iberia](https://justadesignlist.com/region/iberia) (203)
+- [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (241)
 - [North America](https://justadesignlist.com/region/north-america) (345)
 - [Nordics](https://justadesignlist.com/region/nordics) (110)
 - [Oceania](https://justadesignlist.com/region/oceania) (93)
@@ -58,8 +58,8 @@ A working index of studios and independent designers whose practice the editor f
 ## Most represented countries
 
 - [USA](https://justadesignlist.com/country/usa) (333)
-- [England](https://justadesignlist.com/country/england) (242)
-- [Spain](https://justadesignlist.com/country/spain) (199)
+- [England](https://justadesignlist.com/country/england) (244)
+- [Spain](https://justadesignlist.com/country/spain) (201)
 - [Germany](https://justadesignlist.com/country/germany) (100)
 - [Australia](https://justadesignlist.com/country/australia) (91)
 - [France](https://justadesignlist.com/country/france) (84)

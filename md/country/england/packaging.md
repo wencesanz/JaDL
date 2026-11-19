@@ -1,6 +1,6 @@
 ---
 title: "Packaging design studios in England · Just a Design List"
-description: "62 independent studios working in packaging in England, from the Just a Design List index."
+description: "63 independent studios working in packaging in England, from the Just a Design List index."
 url: "https://justadesignlist.com/country/england/packaging"
 ---
 
@@ -10,12 +10,13 @@ Country · Packaging
 
 # Packaging in England
 
-62 independent studios working in packaging in England, from the Just a Design List index.
+63 independent studios working in packaging in England, from the Just a Design List index.
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [21—87](https://justadesignlist.com/studio/21-87) — London, England
 - [Alphabet](https://justadesignlist.com/studio/alphabet) — Manchester, England
 - [Angelina Pischikova](https://justadesignlist.com/studio/angelina-pischikova) — London, England
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Atelier Dyakova](https://justadesignlist.com/studio/atelier-dyakova) — London, England
 - [Atwork](https://justadesignlist.com/studio/atwork) — London, England
 - [BD85BD85](https://justadesignlist.com/studio/bd85bd85) — Hong Kong, London, China, England

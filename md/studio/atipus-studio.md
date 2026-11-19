@@ -1,12 +1,12 @@
 ---
 title: "Atipus Studio — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Atipus Studio: graphic design, branding and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Atipus Studio: graphic design, branding and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/atipus-studio"
 ---
 
 # Atipus Studio
 
-Atipus Studio: graphic design, branding and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Atipus Studio: graphic design, branding and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding, Packaging
 - **City:** Barcelona

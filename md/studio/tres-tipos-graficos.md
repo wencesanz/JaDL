@@ -1,12 +1,12 @@
 ---
 title: "Tres Tipos Gráficos — Graphic Design, Madrid, Spain · Just a Design List"
-description: "Tres Tipos Gráficos: graphic design, branding and interactive/digital practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in June 2023."
+description: "Tres Tipos Gráficos: graphic design, branding and interactive/digital practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/tres-tipos-graficos"
 ---
 
 # Tres Tipos Gráficos
 
-Tres Tipos Gráficos: graphic design, branding and interactive/digital practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in June 2023.
+Tres Tipos Gráficos: graphic design, branding and interactive/digital practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding, Interactive/Digital
 - **City:** Madrid
@@ -22,11 +22,11 @@ Tres Tipos Gráficos: graphic design, branding and interactive/digital practice 
 ## More from Madrid
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one)
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio)
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara)
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio)
 - [Avellana Studio](https://justadesignlist.com/studio/avellana-studio)
 - [Bandiz](https://justadesignlist.com/studio/bandiz)
-- [Carlos Mayo](https://justadesignlist.com/studio/carlos-mayo)
 
 ---
 

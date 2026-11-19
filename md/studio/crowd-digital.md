@@ -1,12 +1,12 @@
 ---
 title: "Crowd.Digital — Branding, Barcelona, Spain · Just a Design List"
-description: "Crowd.Digital: branding, graphic design and motion practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in September 2026."
+description: "Crowd.Digital: branding, graphic design and motion practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/crowd-digital"
 ---
 
 # Crowd.Digital
 
-Crowd.Digital: branding, graphic design and motion practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in September 2026.
+Crowd.Digital: branding, graphic design and motion practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Motion, Advertising/Campaigns, Interactive/Digital
 - **City:** Barcelona

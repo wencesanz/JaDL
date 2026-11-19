@@ -1,12 +1,12 @@
 ---
 title: "Estudio Mendue — Branding, Madrid, Spain · Just a Design List"
-description: "Estudio Mendue: branding, graphic design and interactive/digital practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in August 2026."
+description: "Estudio Mendue: branding, graphic design and interactive/digital practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/estudio-mendue"
 ---
 
 # Estudio Mendue
 
-Estudio Mendue: branding, graphic design and interactive/digital practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in August 2026.
+Estudio Mendue: branding, graphic design and interactive/digital practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** Madrid
@@ -22,11 +22,11 @@ Estudio Mendue: branding, graphic design and interactive/digital practice based 
 ## More from Madrid
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one)
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio)
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara)
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio)
 - [Avellana Studio](https://justadesignlist.com/studio/avellana-studio)
 - [Bandiz](https://justadesignlist.com/studio/bandiz)
-- [Carlos Mayo](https://justadesignlist.com/studio/carlos-mayo)
 
 ---
 

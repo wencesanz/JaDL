@@ -1,12 +1,12 @@
 ---
 title: "NSUE Studio — Motion, Madrid, Spain · Just a Design List"
-description: "NSUE Studio: motion practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in May 2026."
+description: "NSUE Studio: motion practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/nsue-studio"
 ---
 
 # NSUE Studio
 
-NSUE Studio: motion practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in May 2026.
+NSUE Studio: motion practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in May 2026.
 
 - **Discipline:** Motion
 - **City:** Madrid
@@ -22,11 +22,11 @@ NSUE Studio: motion practice based in Madrid, Spain. One of 51 studios from Madr
 ## More from Madrid
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one)
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio)
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara)
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio)
 - [Avellana Studio](https://justadesignlist.com/studio/avellana-studio)
 - [Bandiz](https://justadesignlist.com/studio/bandiz)
-- [Carlos Mayo](https://justadesignlist.com/studio/carlos-mayo)
 
 ---
 

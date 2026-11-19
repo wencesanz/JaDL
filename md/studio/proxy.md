@@ -1,12 +1,12 @@
 ---
 title: "Proxy — Branding, London, England · Just a Design List"
-description: "Proxy: branding, interactive/digital and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026."
+description: "Proxy: branding, interactive/digital and motion practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/proxy"
 ---
 
 # Proxy
 
-Proxy: branding, interactive/digital and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026.
+Proxy: branding, interactive/digital and motion practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Motion
 - **City:** London, Maharepa

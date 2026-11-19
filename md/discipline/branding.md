@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios · Just a Design List"
-description: "1173 independent studios and designers working in branding, collected in the Just a Design List index. Browse by country and city."
+description: "1176 independent studios and designers working in branding, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/branding"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Branding
 
-1173 independent studios and designers working in branding, collected in the Just a Design List index. Browse by country and city.
+1176 independent studios and designers working in branding, collected in the Just a Design List index. Browse by country and city.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
@@ -78,6 +78,7 @@ Discipline
 - [Ania et Lucie](https://justadesignlist.com/studio/ania-et-lucie) — New York, USA
 - [Another Collective](https://justadesignlist.com/studio/another-collective) — Porto, Portugal
 - [Another Practice](https://justadesignlist.com/studio/another-practice) — Athens, Greece
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Anti Average®](https://justadesignlist.com/studio/anti-average) — Manchester, England
 - [ANTIANTI](https://justadesignlist.com/studio/antianti) — New York, USA
 - [Antoine Peltier](https://justadesignlist.com/studio/antoine-peltier) — Paris, France
@@ -211,7 +212,6 @@ Discipline
 - [CASE Agency](https://justadesignlist.com/studio/case-agency) — New York, Los Angeles, USA
 - [Caserne](https://justadesignlist.com/studio/caserne) — Montreal, Canada
 - [CATK](https://justadesignlist.com/studio/catk) — Berlin, Germany
-- [CCRZ](https://justadesignlist.com/studio/ccrz) — Balerna, Anzano del Parco, Switzerland, Italy
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "Denomination — Branding, London, England · Just a Design List"
-description: "Denomination: branding and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in September 2026."
+description: "Denomination: branding and packaging practice based in London, England. One of 197 studios from London on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/denomination"
 ---
 
 # Denomination
 
-Denomination: branding and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in September 2026.
+Denomination: branding and packaging practice based in London, England. One of 197 studios from London on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Packaging
 - **City:** London, New York, Sydney, San Francisco

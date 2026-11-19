@@ -1,12 +1,12 @@
 ---
 title: "Browns — Branding, London, England · Just a Design List"
-description: "Browns: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026."
+description: "Browns: branding and graphic design practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/browns"
 ---
 
 # Browns
 
-Browns: branding and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026.
+Browns: branding and graphic design practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** London

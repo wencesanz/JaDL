@@ -5,8 +5,29 @@
     <link>https://justadesignlist.com/country/england</link>
     <description>New additions to Just a Design List: design studios in England.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 19:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:29:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/country/england.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>FLUORO®</title>
+      <link>https://justadesignlist.com/studio/fluoro</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/fluoro</guid>
+      <pubDate>Thu, 19 Nov 2026 10:29:00 GMT</pubDate>
+      <description>Branding · Advertising/Campaigns — London, England. https://fluoro.london</description>
+      <category>Branding</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>Antennae Studio</title>
+      <link>https://justadesignlist.com/studio/antennae-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/antennae-studio</guid>
+      <pubDate>Thu, 19 Nov 2026 09:05:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Typography · Packaging — London, England. https://antennae.studio</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>THIRD HORIZON Studios®</title>
       <link>https://justadesignlist.com/studio/third-horizon-studios</link>
@@ -301,28 +322,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Packaging</category>
-    </item>
-    <item>
-      <title>Eighth Day</title>
-      <link>https://justadesignlist.com/studio/eighth-day</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/eighth-day</guid>
-      <pubDate>Mon, 14 Sep 2026 08:44:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Brighton, England. https://eighthday.co.uk/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Studio Tyrell</title>
-      <link>https://justadesignlist.com/studio/studio-tyrell</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-tyrell</guid>
-      <pubDate>Mon, 14 Sep 2026 08:40:00 GMT</pubDate>
-      <description>Branding · Packaging · Graphic Design · Interactive/Digital — Brighton, England. https://www.studiotyrrell.com/</description>
-      <category>Branding</category>
-      <category>Packaging</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>

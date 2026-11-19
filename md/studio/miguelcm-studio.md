@@ -1,12 +1,12 @@
 ---
 title: "miguelcm studio — Graphic Design, Jabugo, Spain · Just a Design List"
-description: "miguelcm studio: graphic design and illustration practice based in Jabugo, Spain. The only studio from Jabugo, one of 199 from Spain on Just a Design List, added in May 2026."
+description: "miguelcm studio: graphic design and illustration practice based in Jabugo, Spain. The only studio from Jabugo, one of 201 from Spain on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/miguelcm-studio"
 ---
 
 # miguelcm studio
 
-miguelcm studio: graphic design and illustration practice based in Jabugo, Spain. The only studio from Jabugo, one of 199 from Spain on Just a Design List, added in May 2026.
+miguelcm studio: graphic design and illustration practice based in Jabugo, Spain. The only studio from Jabugo, one of 201 from Spain on Just a Design List, added in May 2026.
 
 - **Discipline:** Graphic Design, Illustration
 - **City:** Jabugo

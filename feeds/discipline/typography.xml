@@ -5,8 +5,32 @@
     <link>https://justadesignlist.com/discipline/typography</link>
     <description>New additions to Just a Design List: Typography studios.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 09:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:52:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/typography.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pifarré–Vallejo Studio</title>
+      <link>https://justadesignlist.com/studio/pifarre-vallejo-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/pifarre-vallejo-studio</guid>
+      <pubDate>Thu, 19 Nov 2026 10:52:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital · Typography — Barcelona, Spain. https://www.pifarrevallejo.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Antennae Studio</title>
+      <link>https://justadesignlist.com/studio/antennae-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/antennae-studio</guid>
+      <pubDate>Thu, 19 Nov 2026 09:05:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Typography · Packaging — London, England. https://antennae.studio</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Marinus Klinksik</title>
       <link>https://justadesignlist.com/studio/marinus-klinksik</link>
@@ -314,25 +338,6 @@
       <description>Graphic Design · Typography — London, England. https://muirmcneil.com/</description>
       <category>Graphic Design</category>
       <category>Typography</category>
-    </item>
-    <item>
-      <title>Extraset</title>
-      <link>https://justadesignlist.com/studio/extraset</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/extraset</guid>
-      <pubDate>Tue, 08 Sep 2026 14:33:00 GMT</pubDate>
-      <description>Typography — Genève, Switzerland. https://extraset.ch/</description>
-      <category>Typography</category>
-    </item>
-    <item>
-      <title>Satu Collective</title>
-      <link>https://justadesignlist.com/studio/satu-collective</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/satu-collective</guid>
-      <pubDate>Tue, 08 Sep 2026 10:20:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Typography · Packaging — Jakarta, Indonesia. https://satucollective.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Typography</category>
-      <category>Packaging</category>
     </item>
   </channel>
 </rss>

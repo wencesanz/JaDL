@@ -1,12 +1,12 @@
 ---
 title: "Atwork — Branding, London, England · Just a Design List"
-description: "Atwork: branding and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
+description: "Atwork: branding and packaging practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/atwork"
 ---
 
 # Atwork
 
-Atwork: branding and packaging practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
+Atwork: branding and packaging practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Packaging
 - **City:** London

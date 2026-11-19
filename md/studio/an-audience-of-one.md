@@ -1,12 +1,12 @@
 ---
 title: "An Audience of One — Branding, Madrid, Spain · Just a Design List"
-description: "An Audience of One: branding, graphic design and motion practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in June 2026."
+description: "An Audience of One: branding, graphic design and motion practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/an-audience-of-one"
 ---
 
 # An Audience of One
 
-An Audience of One: branding, graphic design and motion practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in June 2026.
+An Audience of One: branding, graphic design and motion practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Graphic Design, Motion, Interactive/Digital
 - **City:** Madrid
@@ -21,12 +21,12 @@ An Audience of One: branding, graphic design and motion practice based in Madrid
 
 ## More from Madrid
 
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio)
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara)
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio)
 - [Avellana Studio](https://justadesignlist.com/studio/avellana-studio)
 - [Bandiz](https://justadesignlist.com/studio/bandiz)
 - [Carlos Mayo](https://justadesignlist.com/studio/carlos-mayo)
-- [Cocota](https://justadesignlist.com/studio/cocota)
 
 ---
 

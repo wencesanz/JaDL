@@ -1,12 +1,12 @@
 ---
 title: "Hey — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Hey: graphic design, branding and illustration practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Hey: graphic design, branding and illustration practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/hey"
 ---
 
 # Hey
 
-Hey: graphic design, branding and illustration practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Hey: graphic design, branding and illustration practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding, Illustration, Packaging
 - **City:** Barcelona

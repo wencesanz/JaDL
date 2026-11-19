@@ -1,12 +1,12 @@
 ---
 title: "Gris — Branding, Barcelona, Spain · Just a Design List"
-description: "Gris: branding, graphic design and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in October 2026."
+description: "Gris: branding, graphic design and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/gris"
 ---
 
 # Gris
 
-Gris: branding, graphic design and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in October 2026.
+Gris: branding, graphic design and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Interactive/Digital
 - **City:** Barcelona

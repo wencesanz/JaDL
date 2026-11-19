@@ -1,12 +1,12 @@
 ---
 title: "Shoreditch Design — Branding, London, England · Just a Design List"
-description: "Shoreditch Design: branding and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024."
+description: "Shoreditch Design: branding and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/shoreditch-design"
 ---
 
 # Shoreditch Design
 
-Shoreditch Design: branding and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2024.
+Shoreditch Design: branding and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2024.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** London, Los Angeles, Melbourne

@@ -1,12 +1,12 @@
 ---
 title: "GATZARA Studio — Branding, Barcelona, Spain · Just a Design List"
-description: "GATZARA Studio: branding, motion and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in February 2026."
+description: "GATZARA Studio: branding, motion and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in February 2026."
 url: "https://justadesignlist.com/studio/gatzara-studio"
 ---
 
 # GATZARA Studio
 
-GATZARA Studio: branding, motion and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in February 2026.
+GATZARA Studio: branding, motion and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in February 2026.
 
 - **Discipline:** Branding, Motion, Interactive/Digital, Advertising/Campaigns
 - **City:** Barcelona

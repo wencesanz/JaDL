@@ -1,12 +1,12 @@
 ---
 title: "Clim Studio — Motion, Barcelona, Spain · Just a Design List"
-description: "Clim Studio: motion practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in July 2026."
+description: "Clim Studio: motion practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/clim-studio"
 ---
 
 # Clim Studio
 
-Clim Studio: motion practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in July 2026.
+Clim Studio: motion practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in July 2026.
 
 - **Discipline:** Motion
 - **City:** Barcelona

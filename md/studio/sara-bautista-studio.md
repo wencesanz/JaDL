@@ -1,12 +1,12 @@
 ---
 title: "Sara Bautista Studio — Branding, Madrid, Spain · Just a Design List"
-description: "Sara Bautista Studio: branding, graphic design and packaging practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in May 2026."
+description: "Sara Bautista Studio: branding, graphic design and packaging practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/sara-bautista-studio"
 ---
 
 # Sara Bautista Studio
 
-Sara Bautista Studio: branding, graphic design and packaging practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in May 2026.
+Sara Bautista Studio: branding, graphic design and packaging practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging
 - **City:** Madrid
@@ -22,11 +22,11 @@ Sara Bautista Studio: branding, graphic design and packaging practice based in M
 ## More from Madrid
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one)
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio)
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara)
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio)
 - [Avellana Studio](https://justadesignlist.com/studio/avellana-studio)
 - [Bandiz](https://justadesignlist.com/studio/bandiz)
-- [Carlos Mayo](https://justadesignlist.com/studio/carlos-mayo)
 
 ---
 

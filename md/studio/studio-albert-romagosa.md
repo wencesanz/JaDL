@@ -1,12 +1,12 @@
 ---
 title: "Studio Albert Romagosa — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Studio Albert Romagosa: graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Studio Albert Romagosa: graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/studio-albert-romagosa"
 ---
 
 # Studio Albert Romagosa
 
-Studio Albert Romagosa: graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Studio Albert Romagosa: graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Barcelona

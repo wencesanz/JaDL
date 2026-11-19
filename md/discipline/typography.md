@@ -1,6 +1,6 @@
 ---
 title: "Typography design studios · Just a Design List"
-description: "193 independent studios and designers working in typography, collected in the Just a Design List index. Browse by country and city."
+description: "195 independent studios and designers working in typography, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/typography"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Typography
 
-193 independent studios and designers working in typography, collected in the Just a Design List index. Browse by country and city.
+195 independent studios and designers working in typography, collected in the Just a Design List index. Browse by country and city.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -22,6 +22,7 @@ Discipline
 - [Alphabetical](https://justadesignlist.com/studio/alphabetical) — London, England
 - [Alvan](https://justadesignlist.com/studio/alvan) — Helsinki, Finland
 - [Andrei Robu Studio](https://justadesignlist.com/studio/andrei-robu-studio) — Barcelona, Spain
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Anti Average®](https://justadesignlist.com/studio/anti-average) — Manchester, England
 - [Aris Zenone](https://justadesignlist.com/studio/aris-zenone) — Lausanne, Switzerland
 - [Ayaka B. Ito](https://justadesignlist.com/studio/ayaka-b-ito) — New York, Tokyo, USA, Japan
@@ -143,6 +144,7 @@ Discipline
 - [Page](https://justadesignlist.com/studio/page) — Glasgow, Scotland
 - [Parker Studio](https://justadesignlist.com/studio/parker-studio) — Seattle, USA
 - [Partner & Partners](https://justadesignlist.com/studio/partner-and-partners) — New York, USA
+- [Pifarré–Vallejo Studio](https://justadesignlist.com/studio/pifarre-vallejo-studio) — Barcelona, Spain
 - [Pitis e Associati](https://justadesignlist.com/studio/pitis-e-associati) — Milan, Paris, Italy, France
 - [Play](https://justadesignlist.com/studio/play) — San Francisco, USA
 - [Polytechnic](https://justadesignlist.com/studio/polytechnic) — London, England

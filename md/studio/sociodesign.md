@@ -1,12 +1,12 @@
 ---
 title: "SocioDesign — Branding, London, England · Just a Design List"
-description: "SocioDesign: branding and typography practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023."
+description: "SocioDesign: branding and typography practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/sociodesign"
 ---
 
 # SocioDesign
 
-SocioDesign: branding and typography practice based in London, England. One of 195 studios from London on Just a Design List, added in June 2023.
+SocioDesign: branding and typography practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Typography
 - **City:** London

@@ -1,12 +1,12 @@
 ---
 title: "Run — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Run: graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Run: graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/run"
 ---
 
 # Run
 
-Run: graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Run: graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Barcelona

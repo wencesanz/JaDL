@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in Spain · Just a Design List"
-description: "143 independent studios working in graphic design in Spain, from the Just a Design List index."
+description: "145 independent studios working in graphic design in Spain, from the Just a Design List index."
 url: "https://justadesignlist.com/country/spain/graphic-design"
 ---
 
@@ -10,12 +10,13 @@ Country · Graphic Design
 
 # Graphic Design in Spain
 
-143 independent studios working in graphic design in Spain, from the Just a Design List index.
+145 independent studios working in graphic design in Spain, from the Just a Design List index.
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one) — Madrid, Spain
 - [Andrei Robu Studio](https://justadesignlist.com/studio/andrei-robu-studio) — Barcelona, Spain
 - [Ang Studio®](https://justadesignlist.com/studio/ang-studio) — Bilbao, Spain
 - [Anna Bosch](https://justadesignlist.com/studio/anna-bosch) — Banyoles, Spain
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara) — Toledo, Madrid, Spain
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio) — Madrid, New York, Spain, USA
 - [Arnau Pi](https://justadesignlist.com/studio/arnau-pi) — Barcelona, Spain
@@ -109,6 +110,7 @@ Country · Graphic Design
 - [Paseo](https://justadesignlist.com/studio/paseo) — Madrid, Utrecht, Spain, The Netherlands
 - [pfp, disseny](https://justadesignlist.com/studio/pfp-disseny) — Barcelona, Spain
 - [PHANTASIA](https://justadesignlist.com/studio/phantasia) — Barcelona, Spain
+- [Pifarré–Vallejo Studio](https://justadesignlist.com/studio/pifarre-vallejo-studio) — Barcelona, Spain
 - [Play&Type](https://justadesignlist.com/studio/playandtype) — Barcelona, Spain
 - [Point Of Reference](https://justadesignlist.com/studio/point-of-reference) — Madrid, Spain
 - [Positive Studio](https://justadesignlist.com/studio/positive-studio) — Palma de Mallorca, Spain

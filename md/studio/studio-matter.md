@@ -1,12 +1,12 @@
 ---
 title: "Studio Matter — Industrial Design, London, England · Just a Design List"
-description: "Studio Matter: industrial design practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2026."
+description: "Studio Matter: industrial design practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/studio-matter"
 ---
 
 # Studio Matter
 
-Studio Matter: industrial design practice based in London, England. One of 195 studios from London on Just a Design List, added in November 2026.
+Studio Matter: industrial design practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2026.
 
 - **Discipline:** Industrial Design
 - **City:** London

@@ -1,12 +1,12 @@
 ---
 title: "Oriol Corsà — Branding, Barcelona, Spain · Just a Design List"
-description: "Oriol Corsà: branding and graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in May 2026."
+description: "Oriol Corsà: branding and graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/oriol-corsa"
 ---
 
 # Oriol Corsà
 
-Oriol Corsà: branding and graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in May 2026.
+Oriol Corsà: branding and graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** Barcelona

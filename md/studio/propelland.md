@@ -1,12 +1,12 @@
 ---
 title: "Propelland — Branding, Madrid, Spain · Just a Design List"
-description: "Propelland: branding, interactive/digital and industrial design practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in October 2024."
+description: "Propelland: branding, interactive/digital and industrial design practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/propelland"
 ---
 
 # Propelland
 
-Propelland: branding, interactive/digital and industrial design practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in October 2024.
+Propelland: branding, interactive/digital and industrial design practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Interactive/Digital, Industrial Design
 - **City:** Madrid, San Francisco, New York
@@ -22,11 +22,11 @@ Propelland: branding, interactive/digital and industrial design practice based i
 ## More from Madrid
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one)
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio)
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara)
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio)
 - [Avellana Studio](https://justadesignlist.com/studio/avellana-studio)
 - [Bandiz](https://justadesignlist.com/studio/bandiz)
-- [Carlos Mayo](https://justadesignlist.com/studio/carlos-mayo)
 
 ---
 

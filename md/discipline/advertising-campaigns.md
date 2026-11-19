@@ -1,6 +1,6 @@
 ---
 title: "Advertising/Campaigns design studios · Just a Design List"
-description: "141 independent studios and designers working in advertising/campaigns, collected in the Just a Design List index. Browse by country and city."
+description: "142 independent studios and designers working in advertising/campaigns, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/advertising-campaigns"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Advertising/Campaigns
 
-141 independent studios and designers working in advertising/campaigns, collected in the Just a Design List index. Browse by country and city.
+142 independent studios and designers working in advertising/campaigns, collected in the Just a Design List index. Browse by country and city.
 
 - [1042](https://justadesignlist.com/studio/1042) — Düsseldorf, Germany
 - [20(SOMETHING)](https://justadesignlist.com/studio/20-something) — London, England
@@ -48,6 +48,7 @@ Discipline
 - [Fabian Huber](https://justadesignlist.com/studio/fabian-huber) — Koln, Germany
 - [Faculty](https://justadesignlist.com/studio/faculty) — Vancouver, Canada
 - [Filippos Fragkogiannis](https://justadesignlist.com/studio/filippos-fragkogiannis) — Athens, Greece
+- [FLUORO®](https://justadesignlist.com/studio/fluoro) — London, England
 - [Formatet](https://justadesignlist.com/studio/formatet) — Copenhagen, Denmark
 - [foster](https://justadesignlist.com/studio/foster) — Chicago, USA
 - [Found](https://justadesignlist.com/studio/found) — London, England

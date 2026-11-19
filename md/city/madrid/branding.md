@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in Madrid · Just a Design List"
-description: "38 independent studios working in branding in Madrid, from the Just a Design List index."
+description: "39 independent studios working in branding in Madrid, from the Just a Design List index."
 url: "https://justadesignlist.com/city/madrid/branding"
 ---
 
@@ -10,9 +10,10 @@ City · Branding
 
 # Branding in Madrid
 
-38 independent studios working in branding in Madrid, from the Just a Design List index.
+39 independent studios working in branding in Madrid, from the Just a Design List index.
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one) — Madrid, Spain
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara) — Toledo, Madrid, Spain
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio) — Madrid, New York, Spain, USA
 - [Avellana Studio](https://justadesignlist.com/studio/avellana-studio) — Madrid, Spain

@@ -1,12 +1,12 @@
 ---
 title: "Javier López — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Javier López: graphic design and branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in May 2023."
+description: "Javier López: graphic design and branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/javier-lopez"
 ---
 
 # Javier López
 
-Javier López: graphic design and branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in May 2023.
+Javier López: graphic design and branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Barcelona

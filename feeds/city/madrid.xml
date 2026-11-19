@@ -5,8 +5,20 @@
     <link>https://justadesignlist.com/city/madrid</link>
     <description>New additions to Just a Design List: design studios in Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:57:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:05:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/city/madrid.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Antennae Studio</title>
+      <link>https://justadesignlist.com/studio/antennae-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/antennae-studio</guid>
+      <pubDate>Thu, 19 Nov 2026 09:05:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Typography · Packaging — London, England. https://antennae.studio</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Infinito</title>
       <link>https://justadesignlist.com/studio/infinito</link>
@@ -302,14 +314,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Typography</category>
-    </item>
-    <item>
-      <title>Bandiz</title>
-      <link>https://justadesignlist.com/studio/bandiz</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/bandiz</guid>
-      <pubDate>Mon, 05 Jun 2023 13:06:00 GMT</pubDate>
-      <description>Graphic Design — Madrid, Spain. https://www.bandizstudio.com/</description>
-      <category>Graphic Design</category>
     </item>
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 ---
 title: "Sergio Juan Studio — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Sergio Juan Studio: graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Sergio Juan Studio: graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/sergio-juan-studio"
 ---
 
 # Sergio Juan Studio
 
-Sergio Juan Studio: graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Sergio Juan Studio: graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Barcelona

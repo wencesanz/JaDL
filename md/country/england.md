@@ -1,6 +1,6 @@
 ---
 title: "Design studios in England · Just a Design List"
-description: "242 independent design studios and practices based in England. A curated index — browse by city and discipline."
+description: "244 independent design studios and practices based in England. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/england"
 ---
 
@@ -10,9 +10,9 @@ Country
 
 # England
 
-242 independent design studios and practices based in England. A curated index — browse by city and discipline.
+244 independent design studios and practices based in England. A curated index — browse by city and discipline.
 
-By discipline: [Branding design studios in England](https://justadesignlist.com/country/england/branding) (208), [Graphic Design studios in England](https://justadesignlist.com/country/england/graphic-design) (137), [Interactive/Digital design studios in England](https://justadesignlist.com/country/england/interactive-digital) (129), [Packaging design studios in England](https://justadesignlist.com/country/england/packaging) (62), [Motion design studios in England](https://justadesignlist.com/country/england/motion) (49), [Advertising/Campaigns design studios in England](https://justadesignlist.com/country/england/advertising-campaigns) (35), [Typography design studios in England](https://justadesignlist.com/country/england/typography) (32), [Illustration design studios in England](https://justadesignlist.com/country/england/illustration) (18)
+By discipline: [Branding design studios in England](https://justadesignlist.com/country/england/branding) (210), [Graphic Design studios in England](https://justadesignlist.com/country/england/graphic-design) (138), [Interactive/Digital design studios in England](https://justadesignlist.com/country/england/interactive-digital) (130), [Packaging design studios in England](https://justadesignlist.com/country/england/packaging) (63), [Motion design studios in England](https://justadesignlist.com/country/england/motion) (49), [Advertising/Campaigns design studios in England](https://justadesignlist.com/country/england/advertising-campaigns) (36), [Typography design studios in England](https://justadesignlist.com/country/england/typography) (33), [Illustration design studios in England](https://justadesignlist.com/country/england/illustration) (18)
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -29,6 +29,7 @@ By discipline: [Branding design studios in England](https://justadesignlist.com/
 - [Alphabetical](https://justadesignlist.com/studio/alphabetical) — London, England
 - [Anatomy](https://justadesignlist.com/studio/anatomy) — London, England
 - [Angelina Pischikova](https://justadesignlist.com/studio/angelina-pischikova) — London, England
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Anti Average®](https://justadesignlist.com/studio/anti-average) — Manchester, England
 - [Anton Martinez](https://justadesignlist.com/studio/anton-martinez) — London, England
 - [ANY OTHER NAME](https://justadesignlist.com/studio/any-other-name) — London, England
@@ -93,6 +94,7 @@ By discipline: [Branding design studios in England](https://justadesignlist.com/
 - [ffforum](https://justadesignlist.com/studio/ffforum) — London, England
 - [FIELD](https://justadesignlist.com/studio/field) — London, Berlin, England, Germany
 - [Fieldwork](https://justadesignlist.com/studio/fieldwork) — Atlanta, London, USA, England
+- [FLUORO®](https://justadesignlist.com/studio/fluoro) — London, England
 - [forpeople](https://justadesignlist.com/studio/forpeople) — London, Amsterdam, England, The Netherlands
 - [Forty Eight Point One](https://justadesignlist.com/studio/forty-eight-point-one) — London, England
 - [Found](https://justadesignlist.com/studio/found) — London, England
@@ -212,8 +214,6 @@ By discipline: [Branding design studios in England](https://justadesignlist.com/
 - [SocioDesign](https://justadesignlist.com/studio/sociodesign) — London, England
 - [Sofia Pusa](https://justadesignlist.com/studio/sofia-pusa) — London, Helsinki, England, Finland
 - [Soft Power](https://justadesignlist.com/studio/soft-power) — London, England
-- [SOLV](https://justadesignlist.com/studio/solv) — Kyiv, London, Zurich, Ukraine, England, Switzerland
-- [Something](https://justadesignlist.com/studio/something) — London, New South Wales, England, Australia
 
 ---
 

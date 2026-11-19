@@ -1,12 +1,12 @@
 ---
 title: "Folch — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Folch: graphic design, branding and motion practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Folch: graphic design, branding and motion practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/folch"
 ---
 
 # Folch
 
-Folch: graphic design, branding and motion practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Folch: graphic design, branding and motion practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding, Motion, Typography, Packaging
 - **City:** Barcelona, Madrid

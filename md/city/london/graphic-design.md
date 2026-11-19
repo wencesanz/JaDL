@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in London · Just a Design List"
-description: "111 independent studios working in graphic design in London, from the Just a Design List index."
+description: "112 independent studios working in graphic design in London, from the Just a Design List index."
 url: "https://justadesignlist.com/city/london/graphic-design"
 ---
 
@@ -10,13 +10,14 @@ City · Graphic Design
 
 # Graphic Design in London
 
-111 independent studios working in graphic design in London, from the Just a Design List index.
+112 independent studios working in graphic design in London, from the Just a Design List index.
 
 - [21—87](https://justadesignlist.com/studio/21-87) — London, England
 - [A Practice for Everyday Life](https://justadesignlist.com/studio/a-practice-for-everyday-life) — London, England
 - [Alex Hunting Studio](https://justadesignlist.com/studio/alex-hunting-studio) — London, England
 - [All Purpose](https://justadesignlist.com/studio/all-purpose) — London, England
 - [Angelina Pischikova](https://justadesignlist.com/studio/angelina-pischikova) — London, England
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Anton Martinez](https://justadesignlist.com/studio/anton-martinez) — London, England
 - [ANY OTHER NAME](https://justadesignlist.com/studio/any-other-name) — London, England
 - [Atelier Dyakova](https://justadesignlist.com/studio/atelier-dyakova) — London, England

@@ -1,12 +1,12 @@
 ---
 title: "Found — Branding, London, England · Just a Design List"
-description: "Found: branding, graphic design and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026."
+description: "Found: branding, graphic design and motion practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/found"
 ---
 
 # Found
 
-Found: branding, graphic design and motion practice based in London, England. One of 195 studios from London on Just a Design List, added in August 2026.
+Found: branding, graphic design and motion practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Motion, Interactive/Digital, Advertising/Campaigns
 - **City:** London

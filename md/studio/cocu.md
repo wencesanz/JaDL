@@ -1,12 +1,12 @@
 ---
 title: "Cocu — Branding, Barcelona, Spain · Just a Design List"
-description: "Cocu: branding, packaging and graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Cocu: branding, packaging and graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/cocu"
 ---
 
 # Cocu
 
-Cocu: branding, packaging and graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Cocu: branding, packaging and graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Packaging, Graphic Design
 - **City:** Barcelona

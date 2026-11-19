@@ -1,12 +1,12 @@
 ---
 title: "Laura Meseguer Studio — Typography, Barcelona, Spain · Just a Design List"
-description: "Laura Meseguer Studio: typography practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in May 2026."
+description: "Laura Meseguer Studio: typography practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/laura-meseguer-studio"
 ---
 
 # Laura Meseguer Studio
 
-Laura Meseguer Studio: typography practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in May 2026.
+Laura Meseguer Studio: typography practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in May 2026.
 
 - **Discipline:** Typography
 - **City:** Barcelona

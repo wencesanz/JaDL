@@ -1,12 +1,12 @@
 ---
 title: "Summa Branding — Branding, Barcelona, Spain · Just a Design List"
-description: "Summa Branding: branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Summa Branding: branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/summa-branding"
 ---
 
 # Summa Branding
 
-Summa Branding: branding practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Summa Branding: branding practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding
 - **City:** Barcelona, Madrid, Lisbon

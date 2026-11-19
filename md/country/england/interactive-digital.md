@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in England · Just a Design List"
-description: "129 independent studios working in interactive/digital in England, from the Just a Design List index."
+description: "130 independent studios working in interactive/digital in England, from the Just a Design List index."
 url: "https://justadesignlist.com/country/england/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ Country · Interactive/Digital
 
 # Interactive/Digital in England
 
-129 independent studios working in interactive/digital in England, from the Just a Design List index.
+130 independent studios working in interactive/digital in England, from the Just a Design List index.
 
 - [21—87](https://justadesignlist.com/studio/21-87) — London, England
 - [ACRE](https://justadesignlist.com/studio/acre) — London, England
@@ -19,6 +19,7 @@ Country · Interactive/Digital
 - [Alphabet](https://justadesignlist.com/studio/alphabet) — Manchester, England
 - [Alphabetical](https://justadesignlist.com/studio/alphabetical) — London, England
 - [Anatomy](https://justadesignlist.com/studio/anatomy) — London, England
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Anti Average®](https://justadesignlist.com/studio/anti-average) — Manchester, England
 - [Anton Martinez](https://justadesignlist.com/studio/anton-martinez) — London, England
 - [Ascend Studio](https://justadesignlist.com/studio/ascend-studio) — London, England

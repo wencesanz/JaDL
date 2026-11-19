@@ -1,12 +1,12 @@
 ---
 title: "Casamira — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Casamira: graphic design, typography and illustration practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in July 2026."
+description: "Casamira: graphic design, typography and illustration practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/casamira"
 ---
 
 # Casamira
 
-Casamira: graphic design, typography and illustration practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in July 2026.
+Casamira: graphic design, typography and illustration practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in July 2026.
 
 - **Discipline:** Graphic Design, Typography, Illustration, Branding
 - **City:** Barcelona

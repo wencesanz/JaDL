@@ -1,6 +1,6 @@
 ---
 title: "Advertising/Campaigns design studios in England · Just a Design List"
-description: "35 independent studios working in advertising/campaigns in England, from the Just a Design List index."
+description: "36 independent studios working in advertising/campaigns in England, from the Just a Design List index."
 url: "https://justadesignlist.com/country/england/advertising-campaigns"
 ---
 
@@ -10,7 +10,7 @@ Country · Advertising/Campaigns
 
 # Advertising/Campaigns in England
 
-35 independent studios working in advertising/campaigns in England, from the Just a Design List index.
+36 independent studios working in advertising/campaigns in England, from the Just a Design List index.
 
 - [20(SOMETHING)](https://justadesignlist.com/studio/20-something) — London, England
 - [Airborne Studio](https://justadesignlist.com/studio/airborne-studio) — London, England
@@ -19,6 +19,7 @@ Country · Advertising/Campaigns
 - [Atelier Dyakova](https://justadesignlist.com/studio/atelier-dyakova) — London, England
 - [Believe In](https://justadesignlist.com/studio/believe-in) — Exeter, Mono, England, Canada
 - [CRV by Josiah Craven](https://justadesignlist.com/studio/crv-by-josiah-craven) — Manchester, England
+- [FLUORO®](https://justadesignlist.com/studio/fluoro) — London, England
 - [Found](https://justadesignlist.com/studio/found) — London, England
 - [Garriock & Co.](https://justadesignlist.com/studio/garriock-and-co) — England, Germany
 - [Grace Margetson Studio](https://justadesignlist.com/studio/grace-margetson-studio) — London, Paris, England, France

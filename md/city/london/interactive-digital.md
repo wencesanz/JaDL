@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in London · Just a Design List"
-description: "107 independent studios working in interactive/digital in London, from the Just a Design List index."
+description: "108 independent studios working in interactive/digital in London, from the Just a Design List index."
 url: "https://justadesignlist.com/city/london/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ City · Interactive/Digital
 
 # Interactive/Digital in London
 
-107 independent studios working in interactive/digital in London, from the Just a Design List index.
+108 independent studios working in interactive/digital in London, from the Just a Design List index.
 
 - [21—87](https://justadesignlist.com/studio/21-87) — London, England
 - [ACRE](https://justadesignlist.com/studio/acre) — London, England
@@ -18,6 +18,7 @@ City · Interactive/Digital
 - [Airborne Studio](https://justadesignlist.com/studio/airborne-studio) — London, England
 - [Alphabetical](https://justadesignlist.com/studio/alphabetical) — London, England
 - [Anatomy](https://justadesignlist.com/studio/anatomy) — London, England
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Anton Martinez](https://justadesignlist.com/studio/anton-martinez) — London, England
 - [Ascend Studio](https://justadesignlist.com/studio/ascend-studio) — London, England
 - [Atelier Dyakova](https://justadesignlist.com/studio/atelier-dyakova) — London, England

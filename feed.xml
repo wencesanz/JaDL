@@ -5,8 +5,41 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:01:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:26:56 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pifarré–Vallejo Studio</title>
+      <link>https://www.pifarrevallejo.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/pifarre-vallejo-studio</guid>
+      <pubDate>Thu, 19 Nov 2026 10:52:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital · Typography — Barcelona, Spain.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>FLUORO®</title>
+      <link>https://fluoro.london</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/fluoro</guid>
+      <pubDate>Thu, 19 Nov 2026 10:29:00 GMT</pubDate>
+      <description>Branding · Advertising/Campaigns — London, England.</description>
+      <category>Branding</category>
+      <category>Advertising/Campaigns</category>
+    </item>
+    <item>
+      <title>Antennae Studio</title>
+      <link>https://antennae.studio</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/antennae-studio</guid>
+      <pubDate>Thu, 19 Nov 2026 09:05:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Typography · Packaging — London, Madrid, England, Spain.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Roots</title>
       <link>https://www.whererootsare.com/</link>
@@ -302,35 +335,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Typography</category>
-    </item>
-    <item>
-      <title>SYNGG</title>
-      <link>https://www.syngg.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/syngg</guid>
-      <pubDate>Mon, 09 Nov 2026 21:14:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Typography — Melbourne, Australia.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Typography</category>
-    </item>
-    <item>
-      <title>Studio Matter</title>
-      <link>https://www.studiomatter.design/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-matter</guid>
-      <pubDate>Mon, 09 Nov 2026 21:13:00 GMT</pubDate>
-      <description>Industrial Design — London, England.</description>
-      <category>Industrial Design</category>
-    </item>
-    <item>
-      <title>From Form</title>
-      <link>https://fromform.nl/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/from-form</guid>
-      <pubDate>Mon, 09 Nov 2026 21:11:00 GMT</pubDate>
-      <description>Graphic Design · Advertising/Campaigns · Motion — Rotterdam, The Netherlands.</description>
-      <category>Graphic Design</category>
-      <category>Advertising/Campaigns</category>
-      <category>Motion</category>
     </item>
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 ---
 title: "Paul Belford Ltd — Branding, London, England · Just a Design List"
-description: "Paul Belford Ltd: branding, packaging and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2026."
+description: "Paul Belford Ltd: branding, packaging and graphic design practice based in London, England. One of 197 studios from London on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/paul-belford-ltd"
 ---
 
 # Paul Belford Ltd
 
-Paul Belford Ltd: branding, packaging and graphic design practice based in London, England. One of 195 studios from London on Just a Design List, added in October 2026.
+Paul Belford Ltd: branding, packaging and graphic design practice based in London, England. One of 197 studios from London on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Packaging, Graphic Design, Advertising/Campaigns
 - **City:** London

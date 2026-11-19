@@ -1,6 +1,6 @@
 ---
 title: "Packaging design studios in Madrid · Just a Design List"
-description: "16 independent studios working in packaging in Madrid, from the Just a Design List index."
+description: "17 independent studios working in packaging in Madrid, from the Just a Design List index."
 url: "https://justadesignlist.com/city/madrid/packaging"
 ---
 
@@ -10,8 +10,9 @@ City · Packaging
 
 # Packaging in Madrid
 
-16 independent studios working in packaging in Madrid, from the Just a Design List index.
+17 independent studios working in packaging in Madrid, from the Just a Design List index.
 
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara) — Toledo, Madrid, Spain
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio) — Madrid, New York, Spain, USA
 - [Avellana Studio](https://justadesignlist.com/studio/avellana-studio) — Madrid, Spain

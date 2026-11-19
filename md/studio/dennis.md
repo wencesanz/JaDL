@@ -1,12 +1,12 @@
 ---
 title: "Dennis — Branding, Barcelona, Spain · Just a Design List"
-description: "Dennis: branding and graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in November 2024."
+description: "Dennis: branding and graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/dennis"
 ---
 
 # Dennis
 
-Dennis: branding and graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in November 2024.
+Dennis: branding and graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in November 2024.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** Barcelona, London

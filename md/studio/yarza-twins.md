@@ -1,12 +1,12 @@
 ---
 title: "Yarza Twins — Graphic Design, London, England · Just a Design List"
-description: "Yarza Twins: graphic design, branding and illustration practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023."
+description: "Yarza Twins: graphic design, branding and illustration practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/yarza-twins"
 ---
 
 # Yarza Twins
 
-Yarza Twins: graphic design, branding and illustration practice based in London, England. One of 195 studios from London on Just a Design List, added in May 2023.
+Yarza Twins: graphic design, branding and illustration practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding, Illustration, Typography
 - **City:** London, Paris, Madrid

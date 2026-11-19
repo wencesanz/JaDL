@@ -1,12 +1,12 @@
 ---
 title: "THRU — Motion, Barcelona, Spain · Just a Design List"
-description: "THRU: motion practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in July 2026."
+description: "THRU: motion practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/thru"
 ---
 
 # THRU
 
-THRU: motion practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in July 2026.
+THRU: motion practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in July 2026.
 
 - **Discipline:** Motion
 - **City:** Barcelona

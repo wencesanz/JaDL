@@ -1,12 +1,12 @@
 ---
 title: "Mirats Studio — Branding, Barcelona, Spain · Just a Design List"
-description: "Mirats Studio: branding, graphic design and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in October 2026."
+description: "Mirats Studio: branding, graphic design and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/mirats-studio"
 ---
 
 # Mirats Studio
 
-Mirats Studio: branding, graphic design and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in October 2026.
+Mirats Studio: branding, graphic design and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Interactive/Digital
 - **City:** Barcelona

@@ -1,12 +1,12 @@
 ---
 title: "Greenspace — Branding, London, England · Just a Design List"
-description: "Greenspace: branding, advertising/campaigns and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026."
+description: "Greenspace: branding, advertising/campaigns and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/greenspace"
 ---
 
 # Greenspace
 
-Greenspace: branding, advertising/campaigns and interactive/digital practice based in London, England. One of 195 studios from London on Just a Design List, added in July 2026.
+Greenspace: branding, advertising/campaigns and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Advertising/Campaigns, Interactive/Digital
 - **City:** London

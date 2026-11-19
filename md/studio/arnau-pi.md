@@ -1,12 +1,12 @@
 ---
 title: "Arnau Pi — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Arnau Pi: graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Arnau Pi: graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/arnau-pi"
 ---
 
 # Arnau Pi
 
-Arnau Pi: graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Arnau Pi: graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Barcelona

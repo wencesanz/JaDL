@@ -1,12 +1,12 @@
 ---
 title: "Sofia Pusa — Branding, London, England · Just a Design List"
-description: "Sofia Pusa: branding and illustration practice based in London, England. One of 195 studios from London on Just a Design List, added in September 2026."
+description: "Sofia Pusa: branding and illustration practice based in London, England. One of 197 studios from London on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/sofia-pusa"
 ---
 
 # Sofia Pusa
 
-Sofia Pusa: branding and illustration practice based in London, England. One of 195 studios from London on Just a Design List, added in September 2026.
+Sofia Pusa: branding and illustration practice based in London, England. One of 197 studios from London on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Illustration
 - **City:** London, Helsinki

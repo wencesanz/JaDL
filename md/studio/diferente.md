@@ -1,12 +1,12 @@
 ---
 title: "Diferente — Branding, Barcelona, Spain · Just a Design List"
-description: "Diferente: branding, advertising/campaigns and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in September 2026."
+description: "Diferente: branding, advertising/campaigns and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/diferente"
 ---
 
 # Diferente
 
-Diferente: branding, advertising/campaigns and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in September 2026.
+Diferente: branding, advertising/campaigns and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Advertising/Campaigns, Packaging, Graphic Design, Interactive/Digital
 - **City:** Barcelona

@@ -1,12 +1,12 @@
 ---
 title: "Yonis — Branding, Barcelona, Spain · Just a Design List"
-description: "Yonis: branding, graphic design and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in November 2023."
+description: "Yonis: branding, graphic design and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in November 2023."
 url: "https://justadesignlist.com/studio/yonis"
 ---
 
 # Yonis
 
-Yonis: branding, graphic design and packaging practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in November 2023.
+Yonis: branding, graphic design and packaging practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in November 2023.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Interactive/Digital
 - **City:** Barcelona

@@ -1,6 +1,6 @@
 ---
 title: "Typography design studios in Barcelona · Just a Design List"
-description: "15 independent studios working in typography in Barcelona, from the Just a Design List index."
+description: "16 independent studios working in typography in Barcelona, from the Just a Design List index."
 url: "https://justadesignlist.com/city/barcelona/typography"
 ---
 
@@ -10,7 +10,7 @@ City · Typography
 
 # Typography in Barcelona
 
-15 independent studios working in typography in Barcelona, from the Just a Design List index.
+16 independent studios working in typography in Barcelona, from the Just a Design List index.
 
 - [Andrei Robu Studio](https://justadesignlist.com/studio/andrei-robu-studio) — Barcelona, Spain
 - [Casamira](https://justadesignlist.com/studio/casamira) — Barcelona, Spain
@@ -21,6 +21,7 @@ City · Typography
 - [Murri Studio](https://justadesignlist.com/studio/murri-studio) — Barcelona, Spain
 - [N.O.V.A. Lab](https://justadesignlist.com/studio/n-o-v-a-lab) — Barcelona, Spain
 - [NOHO](https://justadesignlist.com/studio/noho) — Madrid, Barcelona, London, Spain, England
+- [Pifarré–Vallejo Studio](https://justadesignlist.com/studio/pifarre-vallejo-studio) — Barcelona, Spain
 - [Rafa Goicoechea](https://justadesignlist.com/studio/rafa-goicoechea) — Barcelona, Spain
 - [Rey Graphic](https://justadesignlist.com/studio/rey-graphic) — Barcelona, Spain
 - [Treintayseis](https://justadesignlist.com/studio/treintayseis) — Barcelona, Spain

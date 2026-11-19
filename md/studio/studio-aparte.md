@@ -1,12 +1,12 @@
 ---
 title: "Studio Aparte — Graphic Design, Barcelona, Spain · Just a Design List"
-description: "Studio Aparte: graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Studio Aparte: graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/studio-aparte"
 ---
 
 # Studio Aparte
 
-Studio Aparte: graphic design practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Studio Aparte: graphic design practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Barcelona

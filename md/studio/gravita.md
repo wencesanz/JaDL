@@ -1,12 +1,12 @@
 ---
 title: "Grávita — Branding, Madrid, Spain · Just a Design List"
-description: "Grávita: branding, interactive/digital and packaging practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in November 2024."
+description: "Grávita: branding, interactive/digital and packaging practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/gravita"
 ---
 
 # Grávita
 
-Grávita: branding, interactive/digital and packaging practice based in Madrid, Spain. One of 51 studios from Madrid on Just a Design List, added in November 2024.
+Grávita: branding, interactive/digital and packaging practice based in Madrid, Spain. One of 52 studios from Madrid on Just a Design List, added in November 2024.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging
 - **City:** Madrid
@@ -22,11 +22,11 @@ Grávita: branding, interactive/digital and packaging practice based in Madrid, 
 ## More from Madrid
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one)
+- [Antennae Studio](https://justadesignlist.com/studio/antennae-studio)
 - [Antonio Lajara](https://justadesignlist.com/studio/antonio-lajara)
 - [Arce Studio](https://justadesignlist.com/studio/arce-studio)
 - [Avellana Studio](https://justadesignlist.com/studio/avellana-studio)
 - [Bandiz](https://justadesignlist.com/studio/bandiz)
-- [Carlos Mayo](https://justadesignlist.com/studio/carlos-mayo)
 
 ---
 

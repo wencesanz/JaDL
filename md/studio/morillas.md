@@ -1,12 +1,12 @@
 ---
 title: "Morillas — Branding, Barcelona, Spain · Just a Design List"
-description: "Morillas: branding, packaging and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023."
+description: "Morillas: branding, packaging and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/morillas"
 ---
 
 # Morillas
 
-Morillas: branding, packaging and interactive/digital practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in June 2023.
+Morillas: branding, packaging and interactive/digital practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Packaging, Interactive/Digital
 - **City:** Barcelona, Madrid, Guatemala

@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in Barcelona · Just a Design List"
-description: "67 independent studios working in graphic design in Barcelona, from the Just a Design List index."
+description: "68 independent studios working in graphic design in Barcelona, from the Just a Design List index."
 url: "https://justadesignlist.com/city/barcelona/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ City · Graphic Design
 
 # Graphic Design in Barcelona
 
-67 independent studios working in graphic design in Barcelona, from the Just a Design List index.
+68 independent studios working in graphic design in Barcelona, from the Just a Design List index.
 
 - [Andrei Robu Studio](https://justadesignlist.com/studio/andrei-robu-studio) — Barcelona, Spain
 - [Arnau Pi](https://justadesignlist.com/studio/arnau-pi) — Barcelona, Spain
@@ -61,6 +61,7 @@ City · Graphic Design
 - [P.A.R](https://justadesignlist.com/studio/p-a-r) — Barcelona, Spain
 - [pfp, disseny](https://justadesignlist.com/studio/pfp-disseny) — Barcelona, Spain
 - [PHANTASIA](https://justadesignlist.com/studio/phantasia) — Barcelona, Spain
+- [Pifarré–Vallejo Studio](https://justadesignlist.com/studio/pifarre-vallejo-studio) — Barcelona, Spain
 - [Play&Type](https://justadesignlist.com/studio/playandtype) — Barcelona, Spain
 - [Querida](https://justadesignlist.com/studio/querida) — Barcelona, Spain
 - [Rafa Goicoechea](https://justadesignlist.com/studio/rafa-goicoechea) — Barcelona, Spain

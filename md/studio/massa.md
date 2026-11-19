@@ -1,12 +1,12 @@
 ---
 title: "Massa — Branding, Barcelona, Spain · Just a Design List"
-description: "Massa: branding, packaging and advertising/campaigns practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in October 2026."
+description: "Massa: branding, packaging and advertising/campaigns practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/massa"
 ---
 
 # Massa
 
-Massa: branding, packaging and advertising/campaigns practice based in Barcelona, Spain. One of 94 studios from Barcelona on Just a Design List, added in October 2026.
+Massa: branding, packaging and advertising/campaigns practice based in Barcelona, Spain. One of 95 studios from Barcelona on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Packaging, Advertising/Campaigns, Graphic Design
 - **City:** Barcelona

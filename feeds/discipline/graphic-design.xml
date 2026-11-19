@@ -5,8 +5,32 @@
     <link>https://justadesignlist.com/discipline/graphic-design</link>
     <description>New additions to Just a Design List: Graphic Design studios.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 08:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:52:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/graphic-design.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pifarré–Vallejo Studio</title>
+      <link>https://justadesignlist.com/studio/pifarre-vallejo-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/pifarre-vallejo-studio</guid>
+      <pubDate>Thu, 19 Nov 2026 10:52:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital · Typography — Barcelona, Spain. https://www.pifarrevallejo.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+    </item>
+    <item>
+      <title>Antennae Studio</title>
+      <link>https://justadesignlist.com/studio/antennae-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/antennae-studio</guid>
+      <pubDate>Thu, 19 Nov 2026 09:05:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Typography · Packaging — London, England. https://antennae.studio</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Typography</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Roots</title>
       <link>https://justadesignlist.com/studio/roots</link>
@@ -313,29 +337,6 @@
       <category>Graphic Design</category>
       <category>Packaging</category>
       <category>Typography</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Studio, Lisa Fessl</title>
-      <link>https://justadesignlist.com/studio/studio-lisa-fessl</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-lisa-fessl</guid>
-      <pubDate>Tue, 03 Nov 2026 17:45:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Advertising/Campaigns · Interactive/Digital · Packaging — Berlin, Germany. https://lisamfessl.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Advertising/Campaigns</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>ESTUDIO CRU</title>
-      <link>https://justadesignlist.com/studio/estudio-cru</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/estudio-cru</guid>
-      <pubDate>Tue, 03 Nov 2026 17:43:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Motion · Interactive/Digital — Rio de Janeiro, Brazil. https://www.estudiocru.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Motion</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>
