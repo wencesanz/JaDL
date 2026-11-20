@@ -1,6 +1,6 @@
 ---
 title: "Motion design studios in USA · Just a Design List"
-description: "49 independent studios working in motion in USA, from the Just a Design List index."
+description: "50 independent studios working in motion in USA, from the Just a Design List index."
 url: "https://justadesignlist.com/country/usa/motion"
 ---
 
@@ -10,7 +10,7 @@ Country · Motion
 
 # Motion in USA
 
-49 independent studios working in motion in USA, from the Just a Design List index.
+50 independent studios working in motion in USA, from the Just a Design List index.
 
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
 - [Atla](https://justadesignlist.com/studio/atla) — Austin, Mexico City, Caracas, Lima, Tijuana, USA, Mexico, Venezuela, Peru
@@ -39,6 +39,7 @@ Country · Motion
 - [Laundry](https://justadesignlist.com/studio/laundry) — Los Angeles, San Francisco, New York, USA
 - [Los York](https://justadesignlist.com/studio/los-york) — Los Angeles, USA
 - [Manual](https://justadesignlist.com/studio/manual) — San Francisco, USA
+- [Massive](https://justadesignlist.com/studio/massive) — Los Angeles, USA
 - [Matt Wiley](https://justadesignlist.com/studio/matt-wiley) — New York, USA
 - [Melody Digital](https://justadesignlist.com/studio/melody-digital) — Los Angeles, USA
 - [Moment](https://justadesignlist.com/studio/moment) — San Francisco, USA

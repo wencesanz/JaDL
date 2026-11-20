@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/country/england</link>
     <description>New additions to Just a Design List: design studios in England.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:29:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:34:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/country/england.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tom Mussak</title>
+      <link>https://justadesignlist.com/studio/tom-mussak</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/tom-mussak</guid>
+      <pubDate>Fri, 20 Nov 2026 09:34:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — England. https://tommu.services/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>FLUORO®</title>
       <link>https://justadesignlist.com/studio/fluoro</link>
@@ -312,16 +322,6 @@
       <category>Branding</category>
       <category>Interactive/Digital</category>
       <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Escola</title>
-      <link>https://justadesignlist.com/studio/escola</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/escola</guid>
-      <pubDate>Mon, 14 Sep 2026 08:49:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging — Liverpool, England. https://escola.studio/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
     </item>
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 ---
 title: "Studio—Don — Branding, Sevenoaks, England · Just a Design List"
-description: "Studio—Don: branding, packaging and interactive/digital practice based in Sevenoaks, England. The only studio from Sevenoaks, one of 244 from England on Just a Design List, added in March 2025."
+description: "Studio—Don: branding, packaging and interactive/digital practice based in Sevenoaks, England. The only studio from Sevenoaks, one of 245 from England on Just a Design List, added in March 2025."
 url: "https://justadesignlist.com/studio/studio-don"
 ---
 
 # Studio—Don
 
-Studio—Don: branding, packaging and interactive/digital practice based in Sevenoaks, England. The only studio from Sevenoaks, one of 244 from England on Just a Design List, added in March 2025.
+Studio—Don: branding, packaging and interactive/digital practice based in Sevenoaks, England. The only studio from Sevenoaks, one of 245 from England on Just a Design List, added in March 2025.
 
 - **Discipline:** Branding, Packaging, Interactive/Digital
 - **City:** Sevenoaks

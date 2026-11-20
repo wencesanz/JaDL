@@ -1,6 +1,6 @@
 ---
 title: "Motion design studios in Los Angeles · Just a Design List"
-description: "16 independent studios working in motion in Los Angeles, from the Just a Design List index."
+description: "17 independent studios working in motion in Los Angeles, from the Just a Design List index."
 url: "https://justadesignlist.com/city/los-angeles/motion"
 ---
 
@@ -10,7 +10,7 @@ City · Motion
 
 # Motion in Los Angeles
 
-16 independent studios working in motion in Los Angeles, from the Just a Design List index.
+17 independent studios working in motion in Los Angeles, from the Just a Design List index.
 
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
 - [Brand New School](https://justadesignlist.com/studio/brand-new-school) — New York, Los Angeles, USA
@@ -23,6 +23,7 @@ City · Motion
 - [L’Étude](https://justadesignlist.com/studio/l-etude) — Los Angeles, USA
 - [Laundry](https://justadesignlist.com/studio/laundry) — Los Angeles, San Francisco, New York, USA
 - [Los York](https://justadesignlist.com/studio/los-york) — Los Angeles, USA
+- [Massive](https://justadesignlist.com/studio/massive) — Los Angeles, USA
 - [Melody Digital](https://justadesignlist.com/studio/melody-digital) — Los Angeles, USA
 - [Mouthwash Studio](https://justadesignlist.com/studio/mouthwash-studio) — Los Angeles, USA
 - [Object-Matter](https://justadesignlist.com/studio/object-matter) — Los Angeles, USA

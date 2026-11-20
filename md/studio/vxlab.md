@@ -1,12 +1,12 @@
 ---
 title: "VXLAB — Graphic Design, Castellon, Spain · Just a Design List"
-description: "VXLAB: graphic design and branding practice based in Castellon, Spain. The only studio from Castellon, one of 201 from Spain on Just a Design List, added in June 2023."
+description: "VXLAB: graphic design and branding practice based in Castellon, Spain. The only studio from Castellon, one of 202 from Spain on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/vxlab"
 ---
 
 # VXLAB
 
-VXLAB: graphic design and branding practice based in Castellon, Spain. The only studio from Castellon, one of 201 from Spain on Just a Design List, added in June 2023.
+VXLAB: graphic design and branding practice based in Castellon, Spain. The only studio from Castellon, one of 202 from Spain on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Castellon

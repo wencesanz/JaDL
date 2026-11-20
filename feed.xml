@@ -5,8 +5,37 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:24:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:03:18 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LOCO Studio</title>
+      <link>https://loco.studio</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/loco-studio</guid>
+      <pubDate>Fri, 20 Nov 2026 14:37:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Alicante, Spain.</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Massive</title>
+      <link>https://www.massive.work/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/massive</guid>
+      <pubDate>Fri, 20 Nov 2026 14:09:00 GMT</pubDate>
+      <description>Branding · Advertising/Campaigns · Motion — Los Angeles, USA.</description>
+      <category>Branding</category>
+      <category>Advertising/Campaigns</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>Tom Mussak</title>
+      <link>https://tommu.services/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/tom-mussak</guid>
+      <pubDate>Fri, 20 Nov 2026 09:34:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — England.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Pifarré–Vallejo Studio</title>
       <link>https://www.pifarrevallejo.com/</link>
@@ -301,40 +330,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Applied Archive Atelier</title>
-      <link>https://www.appliedarchiveatelier.com</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/applied-archive-atelier</guid>
-      <pubDate>Tue, 10 Nov 2026 07:30:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Illustration · Advertising/Campaigns · Motion · Interactive/Digital — Montreal, Canada.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Illustration</category>
-      <category>Advertising/Campaigns</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Figur</title>
-      <link>https://figur123.com</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/figur</guid>
-      <pubDate>Tue, 10 Nov 2026 07:16:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Stockholm, Sweden.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Democràcia Studio</title>
-      <link>https://democracia.studio/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/democracia-studio</guid>
-      <pubDate>Mon, 09 Nov 2026 21:18:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Typography — Valencia, Spain.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Typography</category>
     </item>
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 ---
 title: "DesignDept — Branding, Los Angeles, USA · Just a Design List"
-description: "DesignDept: branding and interactive/digital practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2026."
+description: "DesignDept: branding and interactive/digital practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/designdept"
 ---
 
 # DesignDept
 
-DesignDept: branding and interactive/digital practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2026.
+DesignDept: branding and interactive/digital practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** Los Angeles

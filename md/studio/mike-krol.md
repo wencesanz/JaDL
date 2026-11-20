@@ -1,12 +1,12 @@
 ---
 title: "Mike Krol — Graphic Design, Los Angeles, USA · Just a Design List"
-description: "Mike Krol: graphic design practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in October 2024."
+description: "Mike Krol: graphic design practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/mike-krol"
 ---
 
 # Mike Krol
 
-Mike Krol: graphic design practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in October 2024.
+Mike Krol: graphic design practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in October 2024.
 
 - **Discipline:** Graphic Design
 - **City:** Los Angeles

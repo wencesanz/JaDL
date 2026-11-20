@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/city/los-angeles</link>
     <description>New additions to Just a Design List: design studios in Los Angeles.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 10:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:09:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/city/los-angeles.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Massive</title>
+      <link>https://justadesignlist.com/studio/massive</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/massive</guid>
+      <pubDate>Fri, 20 Nov 2026 14:09:00 GMT</pubDate>
+      <description>Branding · Advertising/Campaigns · Motion — Los Angeles, USA. https://www.massive.work/</description>
+      <category>Branding</category>
+      <category>Advertising/Campaigns</category>
+      <category>Motion</category>
+    </item>
     <item>
       <title>Convicts</title>
       <link>https://justadesignlist.com/studio/convicts</link>
@@ -302,15 +312,6 @@
       <category>Branding</category>
       <category>Motion</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Brand New School</title>
-      <link>https://justadesignlist.com/studio/brand-new-school</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/brand-new-school</guid>
-      <pubDate>Thu, 22 Jun 2023 13:21:00 GMT</pubDate>
-      <description>Motion · Branding — New York, USA. https://www.brandnewschool.com/</description>
-      <category>Motion</category>
-      <category>Branding</category>
     </item>
   </channel>
 </rss>

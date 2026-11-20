@@ -1,12 +1,12 @@
 ---
 title: "Laundry — Motion, Los Angeles, USA · Just a Design List"
-description: "Laundry: motion practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in June 2023."
+description: "Laundry: motion practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/laundry"
 ---
 
 # Laundry
 
-Laundry: motion practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in June 2023.
+Laundry: motion practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in June 2023.
 
 - **Discipline:** Motion
 - **City:** Los Angeles, San Francisco, New York

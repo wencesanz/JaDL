@@ -1,6 +1,6 @@
 ---
 title: "Design studios in North America · Just a Design List"
-description: "345 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline."
+description: "346 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/north-america"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # North America
 
-345 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline.
+346 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline.
 
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
 - [2 x 4](https://justadesignlist.com/studio/2-x-4) — New York, Beijing, USA, China
@@ -202,6 +202,7 @@ Region
 - [Marek Nedelka](https://justadesignlist.com/studio/marek-nedelka) — New York, USA
 - [Margot Lévêque](https://justadesignlist.com/studio/margot-leveque) — New York, USA
 - [Marina Zertuche](https://justadesignlist.com/studio/marina-zertuche) — Austin, USA
+- [Massive](https://justadesignlist.com/studio/massive) — Los Angeles, USA
 - [Mast](https://justadesignlist.com/studio/mast) — Denver, USA
 - [Matchstic](https://justadesignlist.com/studio/matchstic) — Atlanta, USA
 - [Matey](https://justadesignlist.com/studio/matey) — Birmingham, USA
@@ -211,7 +212,6 @@ Region
 - [Mayda](https://justadesignlist.com/studio/mayda) — New York, USA
 - [Meat](https://justadesignlist.com/studio/meat) — Toronto, Beijing, Canada, China
 - [Melia Tandiono](https://justadesignlist.com/studio/melia-tandiono) — New York, USA
-- [Melody Digital](https://justadesignlist.com/studio/melody-digital) — Los Angeles, USA
 
 ---
 

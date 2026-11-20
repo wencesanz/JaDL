@@ -1,12 +1,12 @@
 ---
 title: "Tractorbeam — Branding, Dallas, USA · Just a Design List"
-description: "Tractorbeam: branding, graphic design and interactive/digital practice based in Dallas, USA. The only studio from Dallas, one of 333 from USA on Just a Design List, added in May 2026."
+description: "Tractorbeam: branding, graphic design and interactive/digital practice based in Dallas, USA. The only studio from Dallas, one of 334 from USA on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/tractorbeam"
 ---
 
 # Tractorbeam
 
-Tractorbeam: branding, graphic design and interactive/digital practice based in Dallas, USA. The only studio from Dallas, one of 333 from USA on Just a Design List, added in May 2026.
+Tractorbeam: branding, graphic design and interactive/digital practice based in Dallas, USA. The only studio from Dallas, one of 334 from USA on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Advertising/Campaigns
 - **City:** Dallas

@@ -1,12 +1,12 @@
 ---
 title: "Teresa Rofer — Motion, Spain · Just a Design List"
-description: "Teresa Rofer: motion practice based in Spain. One of 201 from Spain on Just a Design List, added in August 2026."
+description: "Teresa Rofer: motion practice based in Spain. One of 202 from Spain on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/teresa-rofer"
 ---
 
 # Teresa Rofer
 
-Teresa Rofer: motion practice based in Spain. One of 201 from Spain on Just a Design List, added in August 2026.
+Teresa Rofer: motion practice based in Spain. One of 202 from Spain on Just a Design List, added in August 2026.
 
 - **Discipline:** Motion
 - **Country:** Spain

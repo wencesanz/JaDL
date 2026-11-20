@@ -1,12 +1,12 @@
 ---
 title: "Bildi — Branding, Mediona, Spain · Just a Design List"
-description: "Bildi: branding and packaging practice based in Mediona, Spain. The only studio from Mediona, one of 201 from Spain on Just a Design List, added in June 2023."
+description: "Bildi: branding and packaging practice based in Mediona, Spain. The only studio from Mediona, one of 202 from Spain on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/bildi"
 ---
 
 # Bildi
 
-Bildi: branding and packaging practice based in Mediona, Spain. The only studio from Mediona, one of 201 from Spain on Just a Design List, added in June 2023.
+Bildi: branding and packaging practice based in Mediona, Spain. The only studio from Mediona, one of 202 from Spain on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Packaging
 - **City:** Mediona

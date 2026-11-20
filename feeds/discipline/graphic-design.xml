@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/discipline/graphic-design</link>
     <description>New additions to Just a Design List: Graphic Design studios.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:52:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:34:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/graphic-design.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tom Mussak</title>
+      <link>https://justadesignlist.com/studio/tom-mussak</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/tom-mussak</guid>
+      <pubDate>Fri, 20 Nov 2026 09:34:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — England. https://tommu.services/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Pifarré–Vallejo Studio</title>
       <link>https://justadesignlist.com/studio/pifarre-vallejo-studio</link>
@@ -326,18 +336,6 @@
       <category>Graphic Design</category>
       <category>Advertising/Campaigns</category>
       <category>Motion</category>
-    </item>
-    <item>
-      <title>Domino New York</title>
-      <link>https://justadesignlist.com/studio/domino-new-york</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/domino-new-york</guid>
-      <pubDate>Wed, 04 Nov 2026 09:27:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Typography · Interactive/Digital — New York, USA. https://www.dominony.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Typography</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>

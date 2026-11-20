@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in England · Just a Design List"
-description: "210 independent studios working in branding in England, from the Just a Design List index."
+description: "211 independent studios working in branding in England, from the Just a Design List index."
 url: "https://justadesignlist.com/country/england/branding"
 ---
 
@@ -10,7 +10,7 @@ Country · Branding
 
 # Branding in England
 
-210 independent studios working in branding in England, from the Just a Design List index.
+211 independent studios working in branding in England, from the Just a Design List index.
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -212,6 +212,7 @@ Country · Branding
 - [THIRD HORIZON Studios®](https://justadesignlist.com/studio/third-horizon-studios) — London, England
 - [TM — TsevdosMcNeil](https://justadesignlist.com/studio/tm-tsevdosmcneil) — London, England
 - [Together](https://justadesignlist.com/studio/together) — London, England
+- [Tom Mussak](https://justadesignlist.com/studio/tom-mussak) — England
 - [Turner Duckworth](https://justadesignlist.com/studio/turner-duckworth) — London, New York, San Francisco, England, USA
 - [Two Times Elliott](https://justadesignlist.com/studio/two-times-elliott) — London, England
 - [Village Green](https://justadesignlist.com/studio/village-green) — London, England

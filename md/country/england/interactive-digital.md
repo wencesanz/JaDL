@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in England · Just a Design List"
-description: "130 independent studios working in interactive/digital in England, from the Just a Design List index."
+description: "131 independent studios working in interactive/digital in England, from the Just a Design List index."
 url: "https://justadesignlist.com/country/england/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ Country · Interactive/Digital
 
 # Interactive/Digital in England
 
-130 independent studios working in interactive/digital in England, from the Just a Design List index.
+131 independent studios working in interactive/digital in England, from the Just a Design List index.
 
 - [21—87](https://justadesignlist.com/studio/21-87) — London, England
 - [ACRE](https://justadesignlist.com/studio/acre) — London, England
@@ -137,6 +137,7 @@ Country · Interactive/Digital
 - [THIRD HORIZON Studios®](https://justadesignlist.com/studio/third-horizon-studios) — London, England
 - [TM — TsevdosMcNeil](https://justadesignlist.com/studio/tm-tsevdosmcneil) — London, England
 - [Together](https://justadesignlist.com/studio/together) — London, England
+- [Tom Mussak](https://justadesignlist.com/studio/tom-mussak) — England
 - [Twomuch Studio](https://justadesignlist.com/studio/twomuch-studio) — London, Vancouver, England, Canada
 - [Voodoo Voodoo](https://justadesignlist.com/studio/voodoo-voodoo) — London, England
 - [Watson](https://justadesignlist.com/studio/watson) — New York, London, England, USA

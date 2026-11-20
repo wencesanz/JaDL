@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Los Angeles · Just a Design List"
-description: "55 independent design studios based in Los Angeles, from the Just a Design List index. Browse by discipline."
+description: "56 independent design studios based in Los Angeles, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/los-angeles"
 ---
 
@@ -10,9 +10,9 @@ City
 
 # Los Angeles
 
-55 independent design studios based in Los Angeles, from the Just a Design List index. Browse by discipline.
+56 independent design studios based in Los Angeles, from the Just a Design List index. Browse by discipline.
 
-By discipline: [Branding design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/branding) (43), [Graphic Design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/graphic-design) (31), [Interactive/Digital design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/interactive-digital) (22), [Packaging design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/packaging) (20), [Motion design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/motion) (16), [Advertising/Campaigns design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/advertising-campaigns) (6)
+By discipline: [Branding design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/branding) (44), [Graphic Design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/graphic-design) (31), [Interactive/Digital design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/interactive-digital) (22), [Packaging design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/packaging) (20), [Motion design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/motion) (17), [Advertising/Campaigns design studios in Los Angeles](https://justadesignlist.com/city/los-angeles/advertising-campaigns) (7)
 
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
 - [Andre do Amaral](https://justadesignlist.com/studio/andre-do-amaral) — Los Angeles, USA
@@ -46,6 +46,7 @@ By discipline: [Branding design studios in Los Angeles](https://justadesignlist.
 - [Look Look Studio](https://justadesignlist.com/studio/look-look-studio) — Los Angeles, USA
 - [Los York](https://justadesignlist.com/studio/los-york) — Los Angeles, USA
 - [Marc Atlan Design](https://justadesignlist.com/studio/marc-atlan-design) — Los Angeles, USA
+- [Massive](https://justadesignlist.com/studio/massive) — Los Angeles, USA
 - [Melody Digital](https://justadesignlist.com/studio/melody-digital) — Los Angeles, USA
 - [Mike Krol](https://justadesignlist.com/studio/mike-krol) — Los Angeles, USA
 - [Mouthwash Studio](https://justadesignlist.com/studio/mouthwash-studio) — Los Angeles, USA

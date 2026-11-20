@@ -1,12 +1,12 @@
 ---
 title: "FLOC* — Branding, Alicante, Spain · Just a Design List"
-description: "FLOC*: branding and interactive/digital practice based in Alicante, Spain. One of 3 studios from Alicante on Just a Design List, added in October 2024."
+description: "FLOC*: branding and interactive/digital practice based in Alicante, Spain. One of 4 studios from Alicante on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/floc"
 ---
 
 # FLOC*
 
-FLOC*: branding and interactive/digital practice based in Alicante, Spain. One of 3 studios from Alicante on Just a Design List, added in October 2024.
+FLOC*: branding and interactive/digital practice based in Alicante, Spain. One of 4 studios from Alicante on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** Alicante
@@ -21,6 +21,7 @@ FLOC*: branding and interactive/digital practice based in Alicante, Spain. One o
 
 ## More from Alicante
 
+- [LOCO Studio](https://justadesignlist.com/studio/loco-studio)
 - [Small](https://justadesignlist.com/studio/small)
 - [Utopicum](https://justadesignlist.com/studio/utopicum)
 

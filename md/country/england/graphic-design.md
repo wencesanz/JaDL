@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in England · Just a Design List"
-description: "138 independent studios working in graphic design in England, from the Just a Design List index."
+description: "139 independent studios working in graphic design in England, from the Just a Design List index."
 url: "https://justadesignlist.com/country/england/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ Country · Graphic Design
 
 # Graphic Design in England
 
-138 independent studios working in graphic design in England, from the Just a Design List index.
+139 independent studios working in graphic design in England, from the Just a Design List index.
 
 - [21—87](https://justadesignlist.com/studio/21-87) — London, England
 - [A Practice for Everyday Life](https://justadesignlist.com/studio/a-practice-for-everyday-life) — London, England
@@ -141,6 +141,7 @@ Country · Graphic Design
 - [The District](https://justadesignlist.com/studio/the-district) — Cambridge, England
 - [THIRD HORIZON Studios®](https://justadesignlist.com/studio/third-horizon-studios) — London, England
 - [TM — TsevdosMcNeil](https://justadesignlist.com/studio/tm-tsevdosmcneil) — London, England
+- [Tom Mussak](https://justadesignlist.com/studio/tom-mussak) — England
 - [Two Times Elliott](https://justadesignlist.com/studio/two-times-elliott) — London, England
 - [Village Green](https://justadesignlist.com/studio/village-green) — London, England
 - [Voodoo Voodoo](https://justadesignlist.com/studio/voodoo-voodoo) — London, England

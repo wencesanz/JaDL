@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Iberia · Just a Design List"
-description: "203 independent design studios and designers based in Iberia, from the Just a Design List index. Browse by country, city and discipline."
+description: "204 independent design studios and designers based in Iberia, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/iberia"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # Iberia
 
-203 independent design studios and designers based in Iberia, from the Just a Design List index. Browse by country, city and discipline.
+204 independent design studios and designers based in Iberia, from the Just a Design List index. Browse by country, city and discipline.
 
 - [327](https://justadesignlist.com/studio/327) — Porto, Portugal
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one) — Madrid, Spain
@@ -113,6 +113,7 @@ Region
 - [Lavernia & Cienfuegos](https://justadesignlist.com/studio/lavernia-and-cienfuegos) — Valencia, Spain
 - [Linus Lohoff](https://justadesignlist.com/studio/linus-lohoff) — Barcelona, Spain
 - [Lo Siento](https://justadesignlist.com/studio/lo-siento) — Barcelona, Spain
+- [LOCO Studio](https://justadesignlist.com/studio/loco-studio) — Alicante, Spain
 - [Love St.](https://justadesignlist.com/studio/love-st) — Lisbon, Portugal
 - [Made by Aran](https://justadesignlist.com/studio/made-by-aran) — Barcelona, Spain
 - [Mano a Mano](https://justadesignlist.com/studio/mano-a-mano) — Porto, Portugal
@@ -211,7 +212,6 @@ Region
 - [Vasava](https://justadesignlist.com/studio/vasava) — Barcelona, Spain
 - [vengavale](https://justadesignlist.com/studio/vengavale) — Madrid, Spain
 - [VRANDED Haus](https://justadesignlist.com/studio/vranded-haus) — Madrid, Spain
-- [VXLAB](https://justadesignlist.com/studio/vxlab) — Castellon, Spain
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "Aaron Lowell Denton — Graphic Design, Bloomington, USA · Just a Design List"
-description: "Aaron Lowell Denton: graphic design practice based in Bloomington, USA. The only studio from Bloomington, one of 333 from USA on Just a Design List, added in May 2023."
+description: "Aaron Lowell Denton: graphic design practice based in Bloomington, USA. The only studio from Bloomington, one of 334 from USA on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/aaron-lowell-denton"
 ---
 
 # Aaron Lowell Denton
 
-Aaron Lowell Denton: graphic design practice based in Bloomington, USA. The only studio from Bloomington, one of 333 from USA on Just a Design List, added in May 2023.
+Aaron Lowell Denton: graphic design practice based in Bloomington, USA. The only studio from Bloomington, one of 334 from USA on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Bloomington

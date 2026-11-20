@@ -11,9 +11,9 @@ Browse
 7 regions represented across the index.
 
 - [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (386)
-- [North America](https://justadesignlist.com/region/north-america) (345)
-- [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (241)
-- [Iberia](https://justadesignlist.com/region/iberia) (203)
+- [North America](https://justadesignlist.com/region/north-america) (346)
+- [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (242)
+- [Iberia](https://justadesignlist.com/region/iberia) (204)
 - [Nordics](https://justadesignlist.com/region/nordics) (110)
 - [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (95)
 - [Oceania](https://justadesignlist.com/region/oceania) (93)

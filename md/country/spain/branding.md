@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in Spain · Just a Design List"
-description: "155 independent studios working in branding in Spain, from the Just a Design List index."
+description: "156 independent studios working in branding in Spain, from the Just a Design List index."
 url: "https://justadesignlist.com/country/spain/branding"
 ---
 
@@ -10,7 +10,7 @@ Country · Branding
 
 # Branding in Spain
 
-155 independent studios working in branding in Spain, from the Just a Design List index.
+156 independent studios working in branding in Spain, from the Just a Design List index.
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one) — Madrid, Spain
 - [Ang Studio®](https://justadesignlist.com/studio/ang-studio) — Bilbao, Spain
@@ -93,6 +93,7 @@ Country · Branding
 - [la Negreta](https://justadesignlist.com/studio/la-negreta) — Barcelona, Spain
 - [Lavernia & Cienfuegos](https://justadesignlist.com/studio/lavernia-and-cienfuegos) — Valencia, Spain
 - [Lo Siento](https://justadesignlist.com/studio/lo-siento) — Barcelona, Spain
+- [LOCO Studio](https://justadesignlist.com/studio/loco-studio) — Alicante, Spain
 - [Made by Aran](https://justadesignlist.com/studio/made-by-aran) — Barcelona, Spain
 - [Martillo Studio](https://justadesignlist.com/studio/martillo-studio) — Barcelona, Lisbon, Spain, Portugal
 - [Massa](https://justadesignlist.com/studio/massa) — Barcelona, Spain

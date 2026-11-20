@@ -1,6 +1,6 @@
 ---
 title: "Design studios in England · Just a Design List"
-description: "244 independent design studios and practices based in England. A curated index — browse by city and discipline."
+description: "245 independent design studios and practices based in England. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/england"
 ---
 
@@ -10,9 +10,9 @@ Country
 
 # England
 
-244 independent design studios and practices based in England. A curated index — browse by city and discipline.
+245 independent design studios and practices based in England. A curated index — browse by city and discipline.
 
-By discipline: [Branding design studios in England](https://justadesignlist.com/country/england/branding) (210), [Graphic Design studios in England](https://justadesignlist.com/country/england/graphic-design) (138), [Interactive/Digital design studios in England](https://justadesignlist.com/country/england/interactive-digital) (130), [Packaging design studios in England](https://justadesignlist.com/country/england/packaging) (63), [Motion design studios in England](https://justadesignlist.com/country/england/motion) (49), [Advertising/Campaigns design studios in England](https://justadesignlist.com/country/england/advertising-campaigns) (36), [Typography design studios in England](https://justadesignlist.com/country/england/typography) (33), [Illustration design studios in England](https://justadesignlist.com/country/england/illustration) (18)
+By discipline: [Branding design studios in England](https://justadesignlist.com/country/england/branding) (211), [Graphic Design studios in England](https://justadesignlist.com/country/england/graphic-design) (139), [Interactive/Digital design studios in England](https://justadesignlist.com/country/england/interactive-digital) (131), [Packaging design studios in England](https://justadesignlist.com/country/england/packaging) (63), [Motion design studios in England](https://justadesignlist.com/country/england/motion) (49), [Advertising/Campaigns design studios in England](https://justadesignlist.com/country/england/advertising-campaigns) (36), [Typography design studios in England](https://justadesignlist.com/country/england/typography) (33), [Illustration design studios in England](https://justadesignlist.com/country/england/illustration) (18)
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England

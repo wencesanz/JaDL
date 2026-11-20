@@ -1,12 +1,12 @@
 ---
 title: "Instrument — Interactive/Digital, Los Angeles, USA · Just a Design List"
-description: "Instrument: interactive/digital and branding practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2023."
+description: "Instrument: interactive/digital and branding practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/instrument"
 ---
 
 # Instrument
 
-Instrument: interactive/digital and branding practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2023.
+Instrument: interactive/digital and branding practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023.
 
 - **Discipline:** Interactive/Digital, Branding
 - **City:** Los Angeles, New York, Portland

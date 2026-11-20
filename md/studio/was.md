@@ -1,12 +1,12 @@
 ---
 title: "WAS — Branding, Los Angeles, USA · Just a Design List"
-description: "WAS: branding, graphic design and packaging practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in August 2026."
+description: "WAS: branding, graphic design and packaging practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/was"
 ---
 
 # WAS
 
-WAS: branding, graphic design and packaging practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in August 2026.
+WAS: branding, graphic design and packaging practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Advertising/Campaigns, Interactive/Digital
 - **City:** Los Angeles

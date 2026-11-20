@@ -1,12 +1,12 @@
 ---
 title: "Look Look Studio — Packaging, Los Angeles, USA · Just a Design List"
-description: "Look Look Studio: packaging, branding and interactive/digital practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2023."
+description: "Look Look Studio: packaging, branding and interactive/digital practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/look-look-studio"
 ---
 
 # Look Look Studio
 
-Look Look Studio: packaging, branding and interactive/digital practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2023.
+Look Look Studio: packaging, branding and interactive/digital practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023.
 
 - **Discipline:** Packaging, Branding, Interactive/Digital
 - **City:** Los Angeles

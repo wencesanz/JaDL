@@ -1,12 +1,12 @@
 ---
 title: "Italic — Branding, Los Angeles, USA · Just a Design List"
-description: "Italic: branding and packaging practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2023."
+description: "Italic: branding and packaging practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/italic"
 ---
 
 # Italic
 
-Italic: branding and packaging practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2023.
+Italic: branding and packaging practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding, Packaging
 - **City:** Los Angeles

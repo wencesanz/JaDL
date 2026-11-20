@@ -1,12 +1,12 @@
 ---
 title: "Idol — Branding, Los Angeles, USA · Just a Design List"
-description: "Idol: branding, interactive/digital and packaging practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2026."
+description: "Idol: branding, interactive/digital and packaging practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/idol"
 ---
 
 # Idol
 
-Idol: branding, interactive/digital and packaging practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2026.
+Idol: branding, interactive/digital and packaging practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging
 - **City:** Los Angeles, San Francisco

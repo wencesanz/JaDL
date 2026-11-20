@@ -1,12 +1,12 @@
 ---
 title: "Moruba — Branding, Logroño, Spain · Just a Design List"
-description: "Moruba: branding and packaging practice based in Logroño, Spain. The only studio from Logroño, one of 201 from Spain on Just a Design List, added in June 2023."
+description: "Moruba: branding and packaging practice based in Logroño, Spain. The only studio from Logroño, one of 202 from Spain on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/moruba"
 ---
 
 # Moruba
 
-Moruba: branding and packaging practice based in Logroño, Spain. The only studio from Logroño, one of 201 from Spain on Just a Design List, added in June 2023.
+Moruba: branding and packaging practice based in Logroño, Spain. The only studio from Logroño, one of 202 from Spain on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Packaging
 - **City:** Logroño

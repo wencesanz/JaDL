@@ -1,12 +1,12 @@
 ---
 title: "Will Tuddenham — Branding, Los Angeles, USA · Just a Design List"
-description: "Will Tuddenham: branding, packaging and interactive/digital practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in October 2024."
+description: "Will Tuddenham: branding, packaging and interactive/digital practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/will-tuddenham"
 ---
 
 # Will Tuddenham
 
-Will Tuddenham: branding, packaging and interactive/digital practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in October 2024.
+Will Tuddenham: branding, packaging and interactive/digital practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Packaging, Interactive/Digital
 - **City:** Los Angeles

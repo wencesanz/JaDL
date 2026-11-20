@@ -1,12 +1,12 @@
 ---
 title: "itm.graphics — Graphic Design, USA · Just a Design List"
-description: "itm.graphics: graphic design practice based in USA. One of 333 from USA on Just a Design List, added in May 2023."
+description: "itm.graphics: graphic design practice based in USA. One of 334 from USA on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/itm-graphics"
 ---
 
 # itm.graphics
 
-itm.graphics: graphic design practice based in USA. One of 333 from USA on Just a Design List, added in May 2023.
+itm.graphics: graphic design practice based in USA. One of 334 from USA on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **Country:** USA

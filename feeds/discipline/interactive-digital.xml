@@ -5,8 +5,27 @@
     <link>https://justadesignlist.com/discipline/interactive-digital</link>
     <description>New additions to Just a Design List: Interactive/Digital studios.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:52:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:37:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/interactive-digital.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LOCO Studio</title>
+      <link>https://justadesignlist.com/studio/loco-studio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/loco-studio</guid>
+      <pubDate>Fri, 20 Nov 2026 14:37:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — Alicante, Spain. https://loco.studio</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Tom Mussak</title>
+      <link>https://justadesignlist.com/studio/tom-mussak</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/tom-mussak</guid>
+      <pubDate>Fri, 20 Nov 2026 09:34:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — England. https://tommu.services/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Pifarré–Vallejo Studio</title>
       <link>https://justadesignlist.com/studio/pifarre-vallejo-studio</link>
@@ -321,27 +340,6 @@
       <description>Branding · Graphic Design · Interactive/Digital — London, England. https://kevinhipke.com/</description>
       <category>Branding</category>
       <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Keita Takemura Studio</title>
-      <link>https://justadesignlist.com/studio/keita-takemura-studio</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/keita-takemura-studio</guid>
-      <pubDate>Thu, 29 Oct 2026 15:45:00 GMT</pubDate>
-      <description>Graphic Design · Packaging · Interactive/Digital — London, England. https://keitatakemura.com/</description>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>BLOND</title>
-      <link>https://justadesignlist.com/studio/blond</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/blond</guid>
-      <pubDate>Wed, 28 Oct 2026 13:56:00 GMT</pubDate>
-      <description>Industrial Design · Branding · Packaging · Interactive/Digital — London, England. https://www.blond.cc/</description>
-      <category>Industrial Design</category>
-      <category>Branding</category>
-      <category>Packaging</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>

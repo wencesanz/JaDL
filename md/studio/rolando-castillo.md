@@ -1,12 +1,12 @@
 ---
 title: "Rolando Castillo — Graphic Design, Los Angeles, USA · Just a Design List"
-description: "Rolando Castillo: graphic design practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2023."
+description: "Rolando Castillo: graphic design practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/rolando-castillo"
 ---
 
 # Rolando Castillo
 
-Rolando Castillo: graphic design practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2023.
+Rolando Castillo: graphic design practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Los Angeles

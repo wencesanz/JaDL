@@ -1,12 +1,12 @@
 ---
 title: "Antonio Lajara — Branding, Toledo, Spain · Just a Design List"
-description: "Antonio Lajara: branding, graphic design and interactive/digital practice based in Toledo, Spain. The only studio from Toledo, one of 201 from Spain on Just a Design List, added in July 2026."
+description: "Antonio Lajara: branding, graphic design and interactive/digital practice based in Toledo, Spain. The only studio from Toledo, one of 202 from Spain on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/antonio-lajara"
 ---
 
 # Antonio Lajara
 
-Antonio Lajara: branding, graphic design and interactive/digital practice based in Toledo, Spain. The only studio from Toledo, one of 201 from Spain on Just a Design List, added in July 2026.
+Antonio Lajara: branding, graphic design and interactive/digital practice based in Toledo, Spain. The only studio from Toledo, one of 202 from Spain on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging
 - **City:** Toledo, Madrid

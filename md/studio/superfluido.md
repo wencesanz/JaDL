@@ -1,12 +1,12 @@
 ---
 title: "Superfluido — Branding, Úbeda, Spain · Just a Design List"
-description: "Superfluido: branding, packaging and motion practice based in Úbeda, Spain. The only studio from Úbeda, one of 201 from Spain on Just a Design List, added in May 2026."
+description: "Superfluido: branding, packaging and motion practice based in Úbeda, Spain. The only studio from Úbeda, one of 202 from Spain on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/superfluido"
 ---
 
 # Superfluido
 
-Superfluido: branding, packaging and motion practice based in Úbeda, Spain. The only studio from Úbeda, one of 201 from Spain on Just a Design List, added in May 2026.
+Superfluido: branding, packaging and motion practice based in Úbeda, Spain. The only studio from Úbeda, one of 202 from Spain on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Packaging, Motion
 - **City:** Úbeda

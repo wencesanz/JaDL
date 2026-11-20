@@ -1,6 +1,6 @@
 ---
 title: "Advertising/Campaigns design studios in USA · Just a Design List"
-description: "33 independent studios working in advertising/campaigns in USA, from the Just a Design List index."
+description: "34 independent studios working in advertising/campaigns in USA, from the Just a Design List index."
 url: "https://justadesignlist.com/country/usa/advertising-campaigns"
 ---
 
@@ -10,7 +10,7 @@ Country · Advertising/Campaigns
 
 # Advertising/Campaigns in USA
 
-33 independent studios working in advertising/campaigns in USA, from the Just a Design List index.
+34 independent studios working in advertising/campaigns in USA, from the Just a Design List index.
 
 - [Better Half](https://justadesignlist.com/studio/better-half) — New York, USA
 - [Blurr Bureau](https://justadesignlist.com/studio/blurr-bureau) — New York, Melbourne, USA, Australia
@@ -31,6 +31,7 @@ Country · Advertising/Campaigns
 - [Manual](https://justadesignlist.com/studio/manual) — San Francisco, USA
 - [Marc Atlan Design](https://justadesignlist.com/studio/marc-atlan-design) — Los Angeles, USA
 - [Marina Zertuche](https://justadesignlist.com/studio/marina-zertuche) — Austin, USA
+- [Massive](https://justadesignlist.com/studio/massive) — Los Angeles, USA
 - [Mayda](https://justadesignlist.com/studio/mayda) — New York, USA
 - [monopo](https://justadesignlist.com/studio/monopo) — London, Tokyo, Paris, New York, England, Japan, France, USA
 - [Object-Matter](https://justadesignlist.com/studio/object-matter) — Los Angeles, USA

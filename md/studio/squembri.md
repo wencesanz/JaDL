@@ -1,12 +1,12 @@
 ---
 title: "Squembri — Branding, Málaga, Spain · Just a Design List"
-description: "Squembri: branding, graphic design and illustration practice based in Málaga, Spain. The only studio from Málaga, one of 201 from Spain on Just a Design List, added in June 2026."
+description: "Squembri: branding, graphic design and illustration practice based in Málaga, Spain. The only studio from Málaga, one of 202 from Spain on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/squembri"
 ---
 
 # Squembri
 
-Squembri: branding, graphic design and illustration practice based in Málaga, Spain. The only studio from Málaga, one of 201 from Spain on Just a Design List, added in June 2026.
+Squembri: branding, graphic design and illustration practice based in Málaga, Spain. The only studio from Málaga, one of 202 from Spain on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Graphic Design, Illustration, Packaging
 - **City:** Málaga, Granada

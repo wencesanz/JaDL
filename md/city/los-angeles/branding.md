@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in Los Angeles · Just a Design List"
-description: "43 independent studios working in branding in Los Angeles, from the Just a Design List index."
+description: "44 independent studios working in branding in Los Angeles, from the Just a Design List index."
 url: "https://justadesignlist.com/city/los-angeles/branding"
 ---
 
@@ -10,7 +10,7 @@ City · Branding
 
 # Branding in Los Angeles
 
-43 independent studios working in branding in Los Angeles, from the Just a Design List index.
+44 independent studios working in branding in Los Angeles, from the Just a Design List index.
 
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
 - [Applied arts](https://justadesignlist.com/studio/applied-arts) — Stevensville, New York, Chicago, Los Angeles, USA
@@ -37,6 +37,7 @@ City · Branding
 - [L’Étude](https://justadesignlist.com/studio/l-etude) — Los Angeles, USA
 - [Look Look Studio](https://justadesignlist.com/studio/look-look-studio) — Los Angeles, USA
 - [Marc Atlan Design](https://justadesignlist.com/studio/marc-atlan-design) — Los Angeles, USA
+- [Massive](https://justadesignlist.com/studio/massive) — Los Angeles, USA
 - [Melody Digital](https://justadesignlist.com/studio/melody-digital) — Los Angeles, USA
 - [Mouthwash Studio](https://justadesignlist.com/studio/mouthwash-studio) — Los Angeles, USA
 - [Object-Matter](https://justadesignlist.com/studio/object-matter) — Los Angeles, USA

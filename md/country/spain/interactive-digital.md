@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in Spain · Just a Design List"
-description: "76 independent studios working in interactive/digital in Spain, from the Just a Design List index."
+description: "77 independent studios working in interactive/digital in Spain, from the Just a Design List index."
 url: "https://justadesignlist.com/country/spain/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ Country · Interactive/Digital
 
 # Interactive/Digital in Spain
 
-76 independent studios working in interactive/digital in Spain, from the Just a Design List index.
+77 independent studios working in interactive/digital in Spain, from the Just a Design List index.
 
 - [An Audience of One](https://justadesignlist.com/studio/an-audience-of-one) — Madrid, Spain
 - [Anna Bosch](https://justadesignlist.com/studio/anna-bosch) — Banyoles, Spain
@@ -53,6 +53,7 @@ Country · Interactive/Digital
 - [Ingrid Picanyol Studio](https://justadesignlist.com/studio/ingrid-picanyol-studio) — Barcelona, Spain
 - [Javi Medialdea](https://justadesignlist.com/studio/javi-medialdea) — Malaga, Spain
 - [Koln Studio](https://justadesignlist.com/studio/koln-studio) — Madrid, Spain
+- [LOCO Studio](https://justadesignlist.com/studio/loco-studio) — Alicante, Spain
 - [Martillo Studio](https://justadesignlist.com/studio/martillo-studio) — Barcelona, Lisbon, Spain, Portugal
 - [mendesaltaren](https://justadesignlist.com/studio/mendesaltaren) — Madrid, Spain
 - [Mirats Studio](https://justadesignlist.com/studio/mirats-studio) — Barcelona, Spain

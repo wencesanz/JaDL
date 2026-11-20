@@ -1,12 +1,12 @@
 ---
 title: "Bakoom — Branding, Terrassa, Spain · Just a Design List"
-description: "Bakoom: branding, graphic design and interactive/digital practice based in Terrassa, Spain. The only studio from Terrassa, one of 201 from Spain on Just a Design List, added in August 2026."
+description: "Bakoom: branding, graphic design and interactive/digital practice based in Terrassa, Spain. The only studio from Terrassa, one of 202 from Spain on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/bakoom"
 ---
 
 # Bakoom
 
-Bakoom: branding, graphic design and interactive/digital practice based in Terrassa, Spain. The only studio from Terrassa, one of 201 from Spain on Just a Design List, added in August 2026.
+Bakoom: branding, graphic design and interactive/digital practice based in Terrassa, Spain. The only studio from Terrassa, one of 202 from Spain on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging
 - **City:** Terrassa

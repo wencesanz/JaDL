@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in USA · Just a Design List"
-description: "268 independent studios working in branding in USA, from the Just a Design List index."
+description: "269 independent studios working in branding in USA, from the Just a Design List index."
 url: "https://justadesignlist.com/country/usa/branding"
 ---
 
@@ -10,7 +10,7 @@ Country · Branding
 
 # Branding in USA
 
-268 independent studios working in branding in USA, from the Just a Design List index.
+269 independent studios working in branding in USA, from the Just a Design List index.
 
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -155,6 +155,7 @@ Country · Branding
 - [Marc Atlan Design](https://justadesignlist.com/studio/marc-atlan-design) — Los Angeles, USA
 - [Marek Nedelka](https://justadesignlist.com/studio/marek-nedelka) — New York, USA
 - [Marina Zertuche](https://justadesignlist.com/studio/marina-zertuche) — Austin, USA
+- [Massive](https://justadesignlist.com/studio/massive) — Los Angeles, USA
 - [Mast](https://justadesignlist.com/studio/mast) — Denver, USA
 - [Matchstic](https://justadesignlist.com/studio/matchstic) — Atlanta, USA
 - [Matey](https://justadesignlist.com/studio/matey) — Birmingham, USA

@@ -1,12 +1,12 @@
 ---
 title: "ENVOY — Branding, Irvine, USA · Just a Design List"
-description: "ENVOY: branding, interactive/digital and advertising/campaigns practice based in Irvine, USA. The only studio from Irvine, one of 333 from USA on Just a Design List, added in June 2026."
+description: "ENVOY: branding, interactive/digital and advertising/campaigns practice based in Irvine, USA. The only studio from Irvine, one of 334 from USA on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/envoy"
 ---
 
 # ENVOY
 
-ENVOY: branding, interactive/digital and advertising/campaigns practice based in Irvine, USA. The only studio from Irvine, one of 333 from USA on Just a Design List, added in June 2026.
+ENVOY: branding, interactive/digital and advertising/campaigns practice based in Irvine, USA. The only studio from Irvine, one of 334 from USA on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Advertising/Campaigns
 - **City:** Irvine

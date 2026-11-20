@@ -1,12 +1,12 @@
 ---
 title: "Andre do Amaral — Graphic Design, Los Angeles, USA · Just a Design List"
-description: "Andre do Amaral: graphic design and interactive/digital practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2023."
+description: "Andre do Amaral: graphic design and interactive/digital practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/andre-do-amaral"
 ---
 
 # Andre do Amaral
 
-Andre do Amaral: graphic design and interactive/digital practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2023.
+Andre do Amaral: graphic design and interactive/digital practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Interactive/Digital
 - **City:** Los Angeles

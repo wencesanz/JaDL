@@ -1,12 +1,12 @@
 ---
 title: "Hype Type Studio — Branding, Los Angeles, USA · Just a Design List"
-description: "Hype Type Studio: branding and graphic design practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2023."
+description: "Hype Type Studio: branding and graphic design practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/hype-type-studio"
 ---
 
 # Hype Type Studio
 
-Hype Type Studio: branding and graphic design practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2023.
+Hype Type Studio: branding and graphic design practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** Los Angeles

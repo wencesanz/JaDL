@@ -1,6 +1,6 @@
 ---
 title: "Design studios in the UK & Ireland · Just a Design List"
-description: "241 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline."
+description: "242 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/uk-and-ireland"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # UK & Ireland
 
-241 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline.
+242 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline.
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [20(SOMETHING)](https://justadesignlist.com/studio/20-something) — London, England

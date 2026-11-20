@@ -1,12 +1,12 @@
 ---
 title: "Public-Library — Graphic Design, Los Angeles, USA · Just a Design List"
-description: "Public-Library: graphic design and branding practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2023."
+description: "Public-Library: graphic design and branding practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/public-library"
 ---
 
 # Public-Library
 
-Public-Library: graphic design and branding practice based in Los Angeles, USA. One of 55 studios from Los Angeles on Just a Design List, added in May 2023.
+Public-Library: graphic design and branding practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Los Angeles
