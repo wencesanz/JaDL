@@ -1,12 +1,12 @@
 ---
 title: "SPGD — Branding, Melbourne, Australia · Just a Design List"
-description: "SPGD: branding practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2023."
+description: "SPGD: branding practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/spgd"
 ---
 
 # SPGD
 
-SPGD: branding practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2023.
+SPGD: branding practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** Melbourne

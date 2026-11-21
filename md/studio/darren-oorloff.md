@@ -1,12 +1,12 @@
 ---
 title: "Darren Oorloff — Graphic Design, Melbourne, Australia · Just a Design List"
-description: "Darren Oorloff: graphic design practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2023."
+description: "Darren Oorloff: graphic design practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/darren-oorloff"
 ---
 
 # Darren Oorloff
 
-Darren Oorloff: graphic design practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2023.
+Darren Oorloff: graphic design practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Melbourne

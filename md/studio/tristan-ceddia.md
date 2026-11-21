@@ -1,12 +1,12 @@
 ---
 title: "Tristan Ceddia — Branding, Melbourne, Australia · Just a Design List"
-description: "Tristan Ceddia: branding and graphic design practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in October 2024."
+description: "Tristan Ceddia: branding and graphic design practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/tristan-ceddia"
 ---
 
 # Tristan Ceddia
 
-Tristan Ceddia: branding and graphic design practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in October 2024.
+Tristan Ceddia: branding and graphic design practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** Melbourne

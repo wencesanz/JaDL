@@ -1,12 +1,12 @@
 ---
 title: "Tekni — Branding, Melbourne, Australia · Just a Design List"
-description: "Tekni: branding, interactive/digital and illustration practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in July 2026."
+description: "Tekni: branding, interactive/digital and illustration practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/tekni"
 ---
 
 # Tekni
 
-Tekni: branding, interactive/digital and illustration practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in July 2026.
+Tekni: branding, interactive/digital and illustration practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Illustration, Advertising/Campaigns, Graphic Design, Motion
 - **City:** Melbourne

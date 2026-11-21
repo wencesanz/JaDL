@@ -1,12 +1,12 @@
 ---
 title: "SouthSouthWest — Branding, Melbourne, Australia · Just a Design List"
-description: "SouthSouthWest: branding, motion and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in October 2024."
+description: "SouthSouthWest: branding, motion and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/southsouthwest"
 ---
 
 # SouthSouthWest
 
-SouthSouthWest: branding, motion and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in October 2024.
+SouthSouthWest: branding, motion and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Motion, Interactive/Digital
 - **City:** Melbourne, Noosa

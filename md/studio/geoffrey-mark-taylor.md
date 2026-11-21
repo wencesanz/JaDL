@@ -1,12 +1,12 @@
 ---
 title: "Geoffrey Mark Taylor — Branding, Melbourne, Australia · Just a Design List"
-description: "Geoffrey Mark Taylor: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in July 2026."
+description: "Geoffrey Mark Taylor: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/geoffrey-mark-taylor"
 ---
 
 # Geoffrey Mark Taylor
 
-Geoffrey Mark Taylor: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in July 2026.
+Geoffrey Mark Taylor: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** Melbourne

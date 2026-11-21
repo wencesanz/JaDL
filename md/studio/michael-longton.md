@@ -1,12 +1,12 @@
 ---
 title: "Michael Longton — Branding, Melbourne, Australia · Just a Design List"
-description: "Michael Longton: branding, graphic design and packaging practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in September 2026."
+description: "Michael Longton: branding, graphic design and packaging practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/michael-longton"
 ---
 
 # Michael Longton
 
-Michael Longton: branding, graphic design and packaging practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in September 2026.
+Michael Longton: branding, graphic design and packaging practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Interactive/Digital, Advertising/Campaigns
 - **City:** Melbourne

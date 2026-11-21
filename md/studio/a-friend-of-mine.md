@@ -1,12 +1,12 @@
 ---
 title: "A Friend of Mine — Branding, Melbourne, Australia · Just a Design List"
-description: "A Friend of Mine: branding, advertising/campaigns and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in October 2024."
+description: "A Friend of Mine: branding, advertising/campaigns and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/a-friend-of-mine"
 ---
 
 # A Friend of Mine
 
-A Friend of Mine: branding, advertising/campaigns and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in October 2024.
+A Friend of Mine: branding, advertising/campaigns and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Advertising/Campaigns, Interactive/Digital, Motion
 - **City:** Melbourne

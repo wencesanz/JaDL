@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Oceania · Just a Design List"
-description: "93 independent design studios and designers based in Oceania, from the Just a Design List index. Browse by country, city and discipline."
+description: "94 independent design studios and designers based in Oceania, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/oceania"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # Oceania
 
-93 independent design studios and designers based in Oceania, from the Just a Design List index. Browse by country, city and discipline.
+94 independent design studios and designers based in Oceania, from the Just a Design List index. Browse by country, city and discipline.
 
 - [1 of 1 Studio](https://justadesignlist.com/studio/1-of-1-studio) — Auckland, New Zealand
 - [A Friend of Mine](https://justadesignlist.com/studio/a-friend-of-mine) — Melbourne, Australia
@@ -97,6 +97,7 @@ Region
 - [Swear Words](https://justadesignlist.com/studio/swear-words) — Melbourne, Australia
 - [SYNGG](https://justadesignlist.com/studio/syngg) — Melbourne, Australia
 - [Tekni](https://justadesignlist.com/studio/tekni) — Melbourne, Australia
+- [TERMS](https://justadesignlist.com/studio/terms) — Melbourne, Australia
 - [The Bar Brand People](https://justadesignlist.com/studio/the-bar-brand-people) — Sydney, Australia
 - [The Colour Club](https://justadesignlist.com/studio/the-colour-club) — Sydney, Australia
 - [The Company You Keep](https://justadesignlist.com/studio/the-company-you-keep) — Melbourne, Australia

@@ -1,12 +1,12 @@
 ---
 title: "Something Great — Branding, Melbourne, Australia · Just a Design List"
-description: "Something Great: branding, graphic design and motion practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in June 2026."
+description: "Something Great: branding, graphic design and motion practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/something-great"
 ---
 
 # Something Great
 
-Something Great: branding, graphic design and motion practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in June 2026.
+Something Great: branding, graphic design and motion practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Graphic Design, Motion, Illustration, Interactive/Digital, Advertising/Campaigns
 - **City:** Melbourne

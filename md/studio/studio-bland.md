@@ -1,12 +1,12 @@
 ---
 title: "Studio Bland — Branding, Melbourne, Australia · Just a Design List"
-description: "Studio Bland: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in October 2026."
+description: "Studio Bland: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/studio-bland"
 ---
 
 # Studio Bland
 
-Studio Bland: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in October 2026.
+Studio Bland: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** Melbourne, Brisbane

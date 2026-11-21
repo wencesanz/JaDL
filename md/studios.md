@@ -1,12 +1,12 @@
 ---
 title: "All studios · Just a Design List"
-description: "Browse the full index of 1477 design studios and independent designers, A to Z."
+description: "Browse the full index of 1478 design studios and independent designers, A to Z."
 url: "https://justadesignlist.com/studios"
 ---
 
 The List
 
-# All 1477 studios and designers
+# All 1478 studios and designers
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China · Branding, Motion, Interactive/Digital, Typography, Packaging
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Slovenia · Paris, France · Branding, Interactive/Digital, Packaging, Motion
@@ -1346,6 +1346,7 @@ The List
 - [Tekni](https://justadesignlist.com/studio/tekni) — Melbourne, Australia · Branding, Interactive/Digital, Illustration, Advertising/Campaigns, Graphic Design, Motion
 - [TEMPLO](https://justadesignlist.com/studio/templo) — London, England · Branding
 - [Teresa Rofer](https://justadesignlist.com/studio/teresa-rofer) — Spain · Motion
+- [TERMS](https://justadesignlist.com/studio/terms) — Melbourne, Australia · Industrial Design
 - [Thank You](https://justadesignlist.com/studio/thank-you) — Reykjavik, Iceland · Copenhagen, Denmark · San Francisco, USA · Branding, Interactive/Digital, Packaging
 - [The Bar Brand People](https://justadesignlist.com/studio/the-bar-brand-people) — Sydney, Australia · Branding, Packaging, Graphic Design, Interactive/Digital
 - [The Collected Works](https://justadesignlist.com/studio/the-collected-works) — New York, New Orleans, USA · Branding, Graphic Design, Typography, Interactive/Digital

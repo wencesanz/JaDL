@@ -1,12 +1,12 @@
 ---
 title: "POC & PAC — Branding, Melbourne, Australia · Just a Design List"
-description: "POC & PAC: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in August 2026."
+description: "POC & PAC: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/poc-and-pac"
 ---
 
 # POC & PAC
 
-POC & PAC: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in August 2026.
+POC & PAC: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Illustration, Packaging
 - **City:** Melbourne

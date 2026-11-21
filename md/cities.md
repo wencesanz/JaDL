@@ -16,7 +16,7 @@ Browse
 - [Paris](https://justadesignlist.com/city/paris) (73)
 - [Los Angeles](https://justadesignlist.com/city/los-angeles) (56)
 - [Madrid](https://justadesignlist.com/city/madrid) (52)
-- [Melbourne](https://justadesignlist.com/city/melbourne) (51)
+- [Melbourne](https://justadesignlist.com/city/melbourne) (52)
 - [Berlin](https://justadesignlist.com/city/berlin) (46)
 - [Amsterdam](https://justadesignlist.com/city/amsterdam) (45)
 - [Stockholm](https://justadesignlist.com/city/stockholm) (41)

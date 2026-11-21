@@ -1,12 +1,12 @@
 ---
 title: "Mitchell Eaton Image Making — Motion, Melbourne, Australia · Just a Design List"
-description: "Mitchell Eaton Image Making: motion practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in October 2024."
+description: "Mitchell Eaton Image Making: motion practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/mitchell-eaton-image-making"
 ---
 
 # Mitchell Eaton Image Making
 
-Mitchell Eaton Image Making: motion practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in October 2024.
+Mitchell Eaton Image Making: motion practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in October 2024.
 
 - **Discipline:** Motion
 - **City:** Melbourne

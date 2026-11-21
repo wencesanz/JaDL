@@ -1,12 +1,12 @@
 ---
 title: "Atollon — Interactive/Digital, Melbourne, Australia · Just a Design List"
-description: "Atollon: interactive/digital, branding and advertising/campaigns practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in September 2026."
+description: "Atollon: interactive/digital, branding and advertising/campaigns practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/atollon"
 ---
 
 # Atollon
 
-Atollon: interactive/digital, branding and advertising/campaigns practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in September 2026.
+Atollon: interactive/digital, branding and advertising/campaigns practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in September 2026.
 
 - **Discipline:** Interactive/Digital, Branding, Advertising/Campaigns, Packaging
 - **City:** Melbourne

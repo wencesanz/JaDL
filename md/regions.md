@@ -16,7 +16,7 @@ Browse
 - [Iberia](https://justadesignlist.com/region/iberia) (204)
 - [Nordics](https://justadesignlist.com/region/nordics) (110)
 - [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (95)
-- [Oceania](https://justadesignlist.com/region/oceania) (93)
+- [Oceania](https://justadesignlist.com/region/oceania) (94)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Melbourne · Just a Design List"
-description: "51 independent design studios based in Melbourne, from the Just a Design List index. Browse by discipline."
+description: "52 independent design studios based in Melbourne, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/melbourne"
 ---
 
@@ -10,7 +10,7 @@ City
 
 # Melbourne
 
-51 independent design studios based in Melbourne, from the Just a Design List index. Browse by discipline.
+52 independent design studios based in Melbourne, from the Just a Design List index. Browse by discipline.
 
 By discipline: [Branding design studios in Melbourne](https://justadesignlist.com/city/melbourne/branding) (46), [Interactive/Digital design studios in Melbourne](https://justadesignlist.com/city/melbourne/interactive-digital) (31), [Graphic Design studios in Melbourne](https://justadesignlist.com/city/melbourne/graphic-design) (29), [Packaging design studios in Melbourne](https://justadesignlist.com/city/melbourne/packaging) (15), [Motion design studios in Melbourne](https://justadesignlist.com/city/melbourne/motion) (11), [Advertising/Campaigns design studios in Melbourne](https://justadesignlist.com/city/melbourne/advertising-campaigns) (10), [Illustration design studios in Melbourne](https://justadesignlist.com/city/melbourne/illustration) (5), [Typography design studios in Melbourne](https://justadesignlist.com/city/melbourne/typography) (5)
 
@@ -60,6 +60,7 @@ By discipline: [Branding design studios in Melbourne](https://justadesignlist.co
 - [Swear Words](https://justadesignlist.com/studio/swear-words) — Melbourne, Australia
 - [SYNGG](https://justadesignlist.com/studio/syngg) — Melbourne, Australia
 - [Tekni](https://justadesignlist.com/studio/tekni) — Melbourne, Australia
+- [TERMS](https://justadesignlist.com/studio/terms) — Melbourne, Australia
 - [The Company You Keep](https://justadesignlist.com/studio/the-company-you-keep) — Melbourne, Australia
 - [Thought & Found](https://justadesignlist.com/studio/thought-and-found) — Melbourne, Australia
 - [TRiC](https://justadesignlist.com/studio/tric) — Melbourne, Australia

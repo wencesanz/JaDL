@@ -18,7 +18,7 @@ Browse
 - [Typography](https://justadesignlist.com/discipline/typography) (195)
 - [Advertising/Campaigns](https://justadesignlist.com/discipline/advertising-campaigns) (143)
 - [Illustration](https://justadesignlist.com/discipline/illustration) (115)
-- [Industrial Design](https://justadesignlist.com/discipline/industrial-design) (11)
+- [Industrial Design](https://justadesignlist.com/discipline/industrial-design) (12)
 
 ---
 

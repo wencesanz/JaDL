@@ -1,12 +1,12 @@
 ---
 title: "Motherbird — Branding, Melbourne, Australia · Just a Design List"
-description: "Motherbird: branding practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2023."
+description: "Motherbird: branding practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/motherbird"
 ---
 
 # Motherbird
 
-Motherbird: branding practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2023.
+Motherbird: branding practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** Melbourne

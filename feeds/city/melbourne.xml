@@ -5,8 +5,16 @@
     <link>https://justadesignlist.com/city/melbourne</link>
     <description>New additions to Just a Design List: design studios in Melbourne.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 10:49:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 10:21:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/city/melbourne.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TERMS</title>
+      <link>https://justadesignlist.com/studio/terms</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/terms</guid>
+      <pubDate>Sat, 21 Nov 2026 10:21:00 GMT</pubDate>
+      <description>Industrial Design — Melbourne, Australia. https://www.terms.world</description>
+      <category>Industrial Design</category>
+    </item>
     <item>
       <title>HOT COTTAGE</title>
       <link>https://justadesignlist.com/studio/hot-cottage</link>
@@ -308,15 +316,6 @@
       <guid isPermaLink="true">https://justadesignlist.com/studio/new-association</guid>
       <pubDate>Wed, 16 Apr 2025 13:07:00 GMT</pubDate>
       <description>Branding · Interactive/Digital — Melbourne, Australia. https://newassoc.world/</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Shoreditch Design</title>
-      <link>https://justadesignlist.com/studio/shoreditch-design</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/shoreditch-design</guid>
-      <pubDate>Fri, 29 Nov 2024 15:07:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital — London, England. https://www.shoreditchdesign.com/</description>
       <category>Branding</category>
       <category>Interactive/Digital</category>
     </item>

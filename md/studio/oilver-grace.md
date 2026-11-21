@@ -1,12 +1,12 @@
 ---
 title: "OIlver Grace — Branding, Melbourne, Australia · Just a Design List"
-description: "OIlver Grace: branding, interactive/digital and advertising/campaigns practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2026."
+description: "OIlver Grace: branding, interactive/digital and advertising/campaigns practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/oilver-grace"
 ---
 
 # OIlver Grace
 
-OIlver Grace: branding, interactive/digital and advertising/campaigns practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2026.
+OIlver Grace: branding, interactive/digital and advertising/campaigns practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Advertising/Campaigns
 - **City:** Melbourne

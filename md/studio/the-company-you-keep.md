@@ -1,12 +1,12 @@
 ---
 title: "The Company You Keep — Branding, Melbourne, Australia · Just a Design List"
-description: "The Company You Keep: branding practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2023."
+description: "The Company You Keep: branding practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/the-company-you-keep"
 ---
 
 # The Company You Keep
 
-The Company You Keep: branding practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2023.
+The Company You Keep: branding practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** Melbourne

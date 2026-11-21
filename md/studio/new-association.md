@@ -1,12 +1,12 @@
 ---
 title: "New Association — Branding, Melbourne, Australia · Just a Design List"
-description: "New Association: branding and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in April 2025."
+description: "New Association: branding and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in April 2025."
 url: "https://justadesignlist.com/studio/new-association"
 ---
 
 # New Association
 
-New Association: branding and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in April 2025.
+New Association: branding and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in April 2025.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** Melbourne

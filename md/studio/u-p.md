@@ -1,12 +1,12 @@
 ---
 title: "U–P — Graphic Design, Melbourne, Australia · Just a Design List"
-description: "U–P: graphic design, branding and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2023."
+description: "U–P: graphic design, branding and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/u-p"
 ---
 
 # U–P
 
-U–P: graphic design, branding and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2023.
+U–P: graphic design, branding and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding, Interactive/Digital
 - **City:** Melbourne

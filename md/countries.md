@@ -14,7 +14,7 @@ Browse
 - [England](https://justadesignlist.com/country/england) (245)
 - [Spain](https://justadesignlist.com/country/spain) (202)
 - [Germany](https://justadesignlist.com/country/germany) (100)
-- [Australia](https://justadesignlist.com/country/australia) (91)
+- [Australia](https://justadesignlist.com/country/australia) (92)
 - [France](https://justadesignlist.com/country/france) (84)
 - [The Netherlands](https://justadesignlist.com/country/the-netherlands) (62)
 - [Canada](https://justadesignlist.com/country/canada) (58)

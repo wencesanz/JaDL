@@ -1,10 +1,10 @@
 ---
 title: "Just a Design List — A curated directory of design practices"
-description: "A slow, curated index of design studios and independent designers. 1477 entries across 176 countries."
+description: "A slow, curated index of design studios and independent designers. 1478 entries across 176 countries."
 url: "https://justadesignlist.com/"
 ---
 
-# 1477 design studios and independent designers, collected without ranking.
+# 1478 design studios and independent designers, collected without ranking.
 
 A working index of studios and independent designers whose practice the editor finds worth returning to. Entries are collected slowly, without ranking, and each is kept short on purpose — a pointer, not a review. Navigate by discipline, geography, or simply read it as a list.
 
@@ -12,6 +12,7 @@ A working index of studios and independent designers whose practice the editor f
 
 ## Recent additions
 
+- [TERMS](https://justadesignlist.com/studio/terms) — Melbourne, Australia
 - [LOCO Studio](https://justadesignlist.com/studio/loco-studio) — Alicante, Spain
 - [Massive](https://justadesignlist.com/studio/massive) — Los Angeles, USA
 - [Tom Mussak](https://justadesignlist.com/studio/tom-mussak) — England
@@ -31,7 +32,6 @@ A working index of studios and independent designers whose practice the editor f
 - [Michael Verze](https://justadesignlist.com/studio/michael-verze) — Sydney, Australia
 - [STUDIO WAN](https://justadesignlist.com/studio/studio-wan) — London, England
 - [Hispánica](https://justadesignlist.com/studio/hispanica) — Mexico City, Mexico
-- [Office of Joe Diver](https://justadesignlist.com/studio/office-of-joe-diver) — London, England
 
 ## By discipline
 
@@ -43,7 +43,7 @@ A working index of studios and independent designers whose practice the editor f
 - [Typography](https://justadesignlist.com/discipline/typography) (195)
 - [Advertising/Campaigns](https://justadesignlist.com/discipline/advertising-campaigns) (143)
 - [Illustration](https://justadesignlist.com/discipline/illustration) (115)
-- [Industrial Design](https://justadesignlist.com/discipline/industrial-design) (11)
+- [Industrial Design](https://justadesignlist.com/discipline/industrial-design) (12)
 
 ## By region
 
@@ -51,7 +51,7 @@ A working index of studios and independent designers whose practice the editor f
 - [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (242)
 - [North America](https://justadesignlist.com/region/north-america) (346)
 - [Nordics](https://justadesignlist.com/region/nordics) (110)
-- [Oceania](https://justadesignlist.com/region/oceania) (93)
+- [Oceania](https://justadesignlist.com/region/oceania) (94)
 - [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (386)
 - [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (95)
 
@@ -61,7 +61,7 @@ A working index of studios and independent designers whose practice the editor f
 - [England](https://justadesignlist.com/country/england) (245)
 - [Spain](https://justadesignlist.com/country/spain) (202)
 - [Germany](https://justadesignlist.com/country/germany) (100)
-- [Australia](https://justadesignlist.com/country/australia) (91)
+- [Australia](https://justadesignlist.com/country/australia) (92)
 - [France](https://justadesignlist.com/country/france) (84)
 - [The Netherlands](https://justadesignlist.com/country/the-netherlands) (62)
 - [Canada](https://justadesignlist.com/country/canada) (58)

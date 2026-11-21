@@ -1,12 +1,12 @@
 ---
 title: "SODAA — Branding, Melbourne, Australia · Just a Design List"
-description: "SODAA: branding, graphic design and packaging practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in July 2026."
+description: "SODAA: branding, graphic design and packaging practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/sodaa"
 ---
 
 # SODAA
 
-SODAA: branding, graphic design and packaging practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in July 2026.
+SODAA: branding, graphic design and packaging practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Interactive/Digital
 - **City:** Melbourne

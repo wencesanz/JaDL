@@ -1,12 +1,12 @@
 ---
 title: "Round — Branding, Melbourne, Australia · Just a Design List"
-description: "Round: branding, motion and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in October 2024."
+description: "Round: branding, motion and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/round"
 ---
 
 # Round
 
-Round: branding, motion and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in October 2024.
+Round: branding, motion and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Motion, Interactive/Digital, Graphic Design
 - **City:** Melbourne

@@ -1,12 +1,12 @@
 ---
 title: "Latitude — Branding, Melbourne, Australia · Just a Design List"
-description: "Latitude: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in September 2026."
+description: "Latitude: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/latitude"
 ---
 
 # Latitude
 
-Latitude: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in September 2026.
+Latitude: branding, graphic design and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging, Advertising/Campaigns
 - **City:** Melbourne

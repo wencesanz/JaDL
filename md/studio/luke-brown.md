@@ -1,12 +1,12 @@
 ---
 title: "Luke Brown — Graphic Design, Melbourne, Australia · Just a Design List"
-description: "Luke Brown: graphic design practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in June 2023."
+description: "Luke Brown: graphic design practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/luke-brown"
 ---
 
 # Luke Brown
 
-Luke Brown: graphic design practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in June 2023.
+Luke Brown: graphic design practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Melbourne

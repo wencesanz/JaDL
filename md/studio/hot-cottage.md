@@ -1,12 +1,12 @@
 ---
 title: "HOT COTTAGE — Branding, Melbourne, Australia · Just a Design List"
-description: "HOT COTTAGE: branding and graphic design practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in November 2026."
+description: "HOT COTTAGE: branding and graphic design practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/hot-cottage"
 ---
 
 # HOT COTTAGE
 
-HOT COTTAGE: branding and graphic design practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in November 2026.
+HOT COTTAGE: branding and graphic design practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** Melbourne

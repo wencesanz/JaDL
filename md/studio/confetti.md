@@ -1,12 +1,12 @@
 ---
 title: "Confetti — Graphic Design, Melbourne, Australia · Just a Design List"
-description: "Confetti: graphic design and branding practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2023."
+description: "Confetti: graphic design and branding practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/confetti"
 ---
 
 # Confetti
 
-Confetti: graphic design and branding practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2023.
+Confetti: graphic design and branding practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Melbourne

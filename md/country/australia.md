@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Australia · Just a Design List"
-description: "91 independent design studios and practices based in Australia. A curated index — browse by city and discipline."
+description: "92 independent design studios and practices based in Australia. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/australia"
 ---
 
@@ -10,7 +10,7 @@ Country
 
 # Australia
 
-91 independent design studios and practices based in Australia. A curated index — browse by city and discipline.
+92 independent design studios and practices based in Australia. A curated index — browse by city and discipline.
 
 By discipline: [Branding design studios in Australia](https://justadesignlist.com/country/australia/branding) (81), [Interactive/Digital design studios in Australia](https://justadesignlist.com/country/australia/interactive-digital) (51), [Graphic Design studios in Australia](https://justadesignlist.com/country/australia/graphic-design) (46), [Packaging design studios in Australia](https://justadesignlist.com/country/australia/packaging) (26), [Motion design studios in Australia](https://justadesignlist.com/country/australia/motion) (24), [Advertising/Campaigns design studios in Australia](https://justadesignlist.com/country/australia/advertising-campaigns) (14), [Illustration design studios in Australia](https://justadesignlist.com/country/australia/illustration) (9), [Typography design studios in Australia](https://justadesignlist.com/country/australia/typography) (6)
 
@@ -97,6 +97,7 @@ By discipline: [Branding design studios in Australia](https://justadesignlist.co
 - [Swear Words](https://justadesignlist.com/studio/swear-words) — Melbourne, Australia
 - [SYNGG](https://justadesignlist.com/studio/syngg) — Melbourne, Australia
 - [Tekni](https://justadesignlist.com/studio/tekni) — Melbourne, Australia
+- [TERMS](https://justadesignlist.com/studio/terms) — Melbourne, Australia
 - [The Bar Brand People](https://justadesignlist.com/studio/the-bar-brand-people) — Sydney, Australia
 - [The Colour Club](https://justadesignlist.com/studio/the-colour-club) — Sydney, Australia
 - [The Company You Keep](https://justadesignlist.com/studio/the-company-you-keep) — Melbourne, Australia

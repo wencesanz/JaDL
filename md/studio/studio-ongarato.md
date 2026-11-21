@@ -1,12 +1,12 @@
 ---
 title: "Studio Ongarato — Branding, Melbourne, Australia · Just a Design List"
-description: "Studio Ongarato: branding, interactive/digital and advertising/campaigns practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in September 2026."
+description: "Studio Ongarato: branding, interactive/digital and advertising/campaigns practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/studio-ongarato"
 ---
 
 # Studio Ongarato
 
-Studio Ongarato: branding, interactive/digital and advertising/campaigns practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in September 2026.
+Studio Ongarato: branding, interactive/digital and advertising/campaigns practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Advertising/Campaigns, Graphic Design
 - **City:** Melbourne

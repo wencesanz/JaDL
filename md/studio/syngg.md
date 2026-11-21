@@ -1,12 +1,12 @@
 ---
 title: "SYNGG — Branding, Melbourne, Australia · Just a Design List"
-description: "SYNGG: branding, graphic design and packaging practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in November 2026."
+description: "SYNGG: branding, graphic design and packaging practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/syngg"
 ---
 
 # SYNGG
 
-SYNGG: branding, graphic design and packaging practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in November 2026.
+SYNGG: branding, graphic design and packaging practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Typography
 - **City:** Melbourne

@@ -1,12 +1,12 @@
 ---
 title: "Both — Graphic Design, Melbourne, Australia · Just a Design List"
-description: "Both: graphic design and branding practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2023."
+description: "Both: graphic design and branding practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/both"
 ---
 
 # Both
 
-Both: graphic design and branding practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2023.
+Both: graphic design and branding practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Melbourne

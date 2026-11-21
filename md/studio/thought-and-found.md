@@ -1,12 +1,12 @@
 ---
 title: "Thought & Found — Branding, Melbourne, Australia · Just a Design List"
-description: "Thought & Found: branding, interactive/digital and illustration practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in November 2024."
+description: "Thought & Found: branding, interactive/digital and illustration practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/thought-and-found"
 ---
 
 # Thought & Found
 
-Thought & Found: branding, interactive/digital and illustration practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in November 2024.
+Thought & Found: branding, interactive/digital and illustration practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in November 2024.
 
 - **Discipline:** Branding, Interactive/Digital, Illustration, Packaging
 - **City:** Melbourne

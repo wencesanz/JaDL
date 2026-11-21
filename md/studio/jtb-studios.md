@@ -1,12 +1,12 @@
 ---
 title: "JTB Studios — Interactive/Digital, Melbourne, Australia · Just a Design List"
-description: "JTB Studios: interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2026."
+description: "JTB Studios: interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/jtb-studios"
 ---
 
 # JTB Studios
 
-JTB Studios: interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in May 2026.
+JTB Studios: interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in May 2026.
 
 - **Discipline:** Interactive/Digital
 - **City:** Melbourne

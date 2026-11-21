@@ -1,12 +1,12 @@
 ---
 title: "Alter — Branding, Melbourne, Australia · Just a Design List"
-description: "Alter: branding, motion and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in August 2026."
+description: "Alter: branding, motion and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/alter"
 ---
 
 # Alter
 
-Alter: branding, motion and interactive/digital practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in August 2026.
+Alter: branding, motion and interactive/digital practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Motion, Interactive/Digital, Packaging, Illustration
 - **City:** Melbourne

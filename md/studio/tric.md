@@ -1,12 +1,12 @@
 ---
 title: "TRiC — Branding, Melbourne, Australia · Just a Design List"
-description: "TRiC: branding, graphic design and packaging practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in October 2024."
+description: "TRiC: branding, graphic design and packaging practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/tric"
 ---
 
 # TRiC
 
-TRiC: branding, graphic design and packaging practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in October 2024.
+TRiC: branding, graphic design and packaging practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Interactive/Digital
 - **City:** Melbourne

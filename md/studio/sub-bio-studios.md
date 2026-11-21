@@ -1,12 +1,12 @@
 ---
 title: "SUB:BIO STUDIOS — Branding, Melbourne, Australia · Just a Design List"
-description: "SUB:BIO STUDIOS: branding, interactive/digital and advertising/campaigns practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in August 2026."
+description: "SUB:BIO STUDIOS: branding, interactive/digital and advertising/campaigns practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/sub-bio-studios"
 ---
 
 # SUB:BIO STUDIOS
 
-SUB:BIO STUDIOS: branding, interactive/digital and advertising/campaigns practice based in Melbourne, Australia. One of 51 studios from Melbourne on Just a Design List, added in August 2026.
+SUB:BIO STUDIOS: branding, interactive/digital and advertising/campaigns practice based in Melbourne, Australia. One of 52 studios from Melbourne on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Advertising/Campaigns, Motion
 - **City:** Melbourne

@@ -16,7 +16,7 @@ Categories
 - [Typography](https://justadesignlist.com/discipline/typography) (195) — Type design, custom lettering, and the specimen as a medium.
 - [Advertising/Campaigns](https://justadesignlist.com/discipline/advertising-campaigns) (143)
 - [Illustration](https://justadesignlist.com/discipline/illustration) (115) — Drawing as a discipline, alone or alongside design.
-- [Industrial Design](https://justadesignlist.com/discipline/industrial-design) (11) — Objects, furniture, and the three-dimensional edge of the field.
+- [Industrial Design](https://justadesignlist.com/discipline/industrial-design) (12) — Objects, furniture, and the three-dimensional edge of the field.
 
 ---
 
