@@ -1688,13 +1688,6 @@ html { overflow-x: clip; }
 .rg-chip { display: inline-flex; align-items: center; gap: 8px; padding: 5px 10px 5px 8px; border-radius: 999px; color: #0F0F0E; letter-spacing: .06em; align-self: center; }
 .rg-chip i { width: 8px; height: 8px; border-radius: 50%; background: #0F0F0E; opacity: .55; display: block; }
 
-/* --- announcement bar above the top navigation --- */
-.ann { display: flex; justify-content: center; align-items: center; gap: 14px; padding: 9px 16px; background: #0F0F0E; color: #FBFBFA; font-family: var(--mono); font-size: 11.5px; letter-spacing: .06em; text-transform: uppercase; text-decoration: none; text-align: center; }
-.ann b { font-weight: 500; color: #C9C9C4; }
-.ann u { text-decoration: none; border-bottom: 1px solid #F95721; }
-.ann:hover u { color: #F95721; }
-[data-theme="dark"] .ann { background: #1C1C1A; }
-
 /* --- "Follow the list" band on the index page --- */
 .follow-wrap { margin-top: 56px; }
 .follow-band { display: grid; grid-template-columns: 1.6fr 1fr 1fr; gap: 10px; }
@@ -1724,7 +1717,6 @@ html { overflow-x: clip; }
   .follow-band > div { min-height: 0; }
   .fb-a h3 { font-size: 34px; }
   .fb-leg { grid-template-columns: 1fr 1fr; }
-  .ann { font-size: 10px; gap: 8px; flex-wrap: wrap; }
 }
 
 /* --- geography: region filter above the map legend --- */

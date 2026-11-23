@@ -93,13 +93,6 @@
   var IG = "https://www.instagram.com/justadesignlist/";
   var X = "https://x.com/justadesignlist";
   var h = function () { return React.createElement.apply(React, arguments); };
-  // Thin bar above the top navigation.
-  window.AnnounceBar = function () {
-    return h("aside", { "aria-label": "Announcement" }, h("a", { className: "ann", href: IG, target: "_blank", rel: "noopener" },
-      h("b", null, "New"),
-      h("span", null, "From the list, every week on Instagram and X"),
-      h("u", null, "@justadesignlist \u2192")));
-  };
   // Three tiles on the index page, after "Today's discovery".
   window.FollowBand = function () {
     return h("section", { className: "wrap follow-wrap" },

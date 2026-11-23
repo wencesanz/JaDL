@@ -547,7 +547,7 @@ function App() {
   return React.createElement("div", {
     className: "page",
     "data-screen-label": route.view
-  }, window.AnnounceBar ? React.createElement(window.AnnounceBar, null) : null, React.createElement(TopBar, {
+  }, React.createElement(TopBar, {
     view: route.view,
     go: go
   }), React.createElement("main", null, body), React.createElement(Footer, {
