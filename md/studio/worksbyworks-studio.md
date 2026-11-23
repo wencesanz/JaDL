@@ -1,12 +1,12 @@
 ---
 title: "Worksbyworks Studio — Branding, New York, USA · Just a Design List"
-description: "Worksbyworks Studio: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2024."
+description: "Worksbyworks Studio: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2024."
 url: "https://justadesignlist.com/studio/worksbyworks-studio"
 ---
 
 # Worksbyworks Studio
 
-Worksbyworks Studio: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2024.
+Worksbyworks Studio: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2024.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging
 - **City:** New York, ShangHai

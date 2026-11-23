@@ -1,12 +1,12 @@
 ---
 title: "Marinus Klinksik — Graphic Design, Hamburg, Germany · Just a Design List"
-description: "Marinus Klinksik: graphic design, typography and motion practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in November 2026."
+description: "Marinus Klinksik: graphic design, typography and motion practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/marinus-klinksik"
 ---
 
 # Marinus Klinksik
 
-Marinus Klinksik: graphic design, typography and motion practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in November 2026.
+Marinus Klinksik: graphic design, typography and motion practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in November 2026.
 
 - **Discipline:** Graphic Design, Typography, Motion
 - **City:** Hamburg

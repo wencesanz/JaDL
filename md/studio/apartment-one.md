@@ -1,12 +1,12 @@
 ---
 title: "Apartment One — Branding, New York, USA · Just a Design List"
-description: "Apartment One: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Apartment One: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/apartment-one"
 ---
 
 # Apartment One
 
-Apartment One: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Apartment One: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** New York

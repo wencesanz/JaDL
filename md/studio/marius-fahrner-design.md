@@ -1,12 +1,12 @@
 ---
 title: "Marius Fahrner Design — Branding, Hamburg, Germany · Just a Design List"
-description: "Marius Fahrner Design: branding, interactive/digital and graphic design practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in October 2026."
+description: "Marius Fahrner Design: branding, interactive/digital and graphic design practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/marius-fahrner-design"
 ---
 
 # Marius Fahrner Design
 
-Marius Fahrner Design: branding, interactive/digital and graphic design practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in October 2026.
+Marius Fahrner Design: branding, interactive/digital and graphic design practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Graphic Design, Packaging
 - **City:** Hamburg

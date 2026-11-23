@@ -1,12 +1,12 @@
 ---
 title: "Eddie Mandell — Graphic Design, New York, USA · Just a Design List"
-description: "Eddie Mandell: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026."
+description: "Eddie Mandell: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/eddie-mandell"
 ---
 
 # Eddie Mandell
 
-Eddie Mandell: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026.
+Eddie Mandell: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026.
 
 - **Discipline:** Graphic Design
 - **City:** New York

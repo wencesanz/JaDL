@@ -1,12 +1,12 @@
 ---
 title: "Marcel Häusler — Graphic Design, Hamburg, Germany · Just a Design List"
-description: "Marcel Häusler: graphic design, branding and typography practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in May 2023."
+description: "Marcel Häusler: graphic design, branding and typography practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/marcel-hausler"
 ---
 
 # Marcel Häusler
 
-Marcel Häusler: graphic design, branding and typography practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in May 2023.
+Marcel Häusler: graphic design, branding and typography practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding, Typography
 - **City:** Hamburg, Paris

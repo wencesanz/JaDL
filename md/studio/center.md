@@ -1,12 +1,12 @@
 ---
 title: "CENTER — Branding, New York, USA · Just a Design List"
-description: "CENTER: branding and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2024."
+description: "CENTER: branding and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/center"
 ---
 
 # CENTER
 
-CENTER: branding and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2024.
+CENTER: branding and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Packaging
 - **City:** New York

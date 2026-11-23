@@ -1,12 +1,12 @@
 ---
 title: "YummyColours — Branding, New York, USA · Just a Design List"
-description: "YummyColours: branding, graphic design and motion practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2026."
+description: "YummyColours: branding, graphic design and motion practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/yummycolours"
 ---
 
 # YummyColours
 
-YummyColours: branding, graphic design and motion practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2026.
+YummyColours: branding, graphic design and motion practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Graphic Design, Motion, Interactive/Digital, Typography, Packaging
 - **City:** New York, Copenhagen

@@ -1,12 +1,12 @@
 ---
 title: "Fix Studio — Graphic Design, New York, USA · Just a Design List"
-description: "Fix Studio: graphic design, branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Fix Studio: graphic design, branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/fix-studio"
 ---
 
 # Fix Studio
 
-Fix Studio: graphic design, branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Fix Studio: graphic design, branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding, Interactive/Digital
 - **City:** New York

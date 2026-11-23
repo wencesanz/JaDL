@@ -1,12 +1,12 @@
 ---
 title: "Mantis — Branding, New York, USA · Just a Design List"
-description: "Mantis: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in November 2026."
+description: "Mantis: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/mantis"
 ---
 
 # Mantis
 
-Mantis: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in November 2026.
+Mantis: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** New York

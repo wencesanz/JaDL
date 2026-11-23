@@ -1,12 +1,12 @@
 ---
 title: "Noah Baker Studio — Graphic Design, New York, USA · Just a Design List"
-description: "Noah Baker Studio: graphic design, branding and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Noah Baker Studio: graphic design, branding and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/noah-baker-studio"
 ---
 
 # Noah Baker Studio
 
-Noah Baker Studio: graphic design, branding and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Noah Baker Studio: graphic design, branding and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding, Packaging
 - **City:** New York

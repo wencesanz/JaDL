@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in Hamburg · Just a Design List"
-description: "8 independent studios working in interactive/digital in Hamburg, from the Just a Design List index."
+description: "9 independent studios working in interactive/digital in Hamburg, from the Just a Design List index."
 url: "https://justadesignlist.com/city/hamburg/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ City · Interactive/Digital
 
 # Interactive/Digital in Hamburg
 
-8 independent studios working in interactive/digital in Hamburg, from the Just a Design List index.
+9 independent studios working in interactive/digital in Hamburg, from the Just a Design List index.
 
 - [Bareis + Nicolaus](https://justadesignlist.com/studio/bareis-nicolaus) — Hamburg, Stuttgart, Germany
 - [EIGA](https://justadesignlist.com/studio/eiga) — Hamburg, Germany
@@ -20,6 +20,7 @@ City · Interactive/Digital
 - [Mutabor](https://justadesignlist.com/studio/mutabor) — Hamburg, Munich, Germany
 - [Rocket & Wing](https://justadesignlist.com/studio/rocket-and-wing) — Hamburg, Germany
 - [Rogge und Pott Design](https://justadesignlist.com/studio/rogge-und-pott-design) — Hamburg, Germany
+- [Studio Chapeaux](https://justadesignlist.com/studio/studio-chapeaux) — Hamburg, Germany
 
 ---
 

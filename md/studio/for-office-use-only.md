@@ -1,12 +1,12 @@
 ---
 title: "For Office Use Only — Branding, New York, USA · Just a Design List"
-description: "For Office Use Only: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "For Office Use Only: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/for-office-use-only"
 ---
 
 # For Office Use Only
 
-For Office Use Only: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+For Office Use Only: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** New York

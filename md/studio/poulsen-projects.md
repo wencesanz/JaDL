@@ -1,12 +1,12 @@
 ---
 title: "Poulsen Projects — Branding, New York, USA · Just a Design List"
-description: "Poulsen Projects: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Poulsen Projects: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/poulsen-projects"
 ---
 
 # Poulsen Projects
 
-Poulsen Projects: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Poulsen Projects: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** New York, Copenhagen

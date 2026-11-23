@@ -1,12 +1,12 @@
 ---
 title: "STAGECREW — Branding, USA · Just a Design List"
-description: "STAGECREW: branding, graphic design and packaging practice based in USA. One of 334 from USA on Just a Design List, added in June 2026."
+description: "STAGECREW: branding, graphic design and packaging practice based in USA. One of 335 from USA on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/stagecrew"
 ---
 
 # STAGECREW
 
-STAGECREW: branding, graphic design and packaging practice based in USA. One of 334 from USA on Just a Design List, added in June 2026.
+STAGECREW: branding, graphic design and packaging practice based in USA. One of 335 from USA on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Interactive/Digital
 - **Country:** USA

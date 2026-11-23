@@ -1,12 +1,12 @@
 ---
 title: "Grace Margetson Studio — Branding, London, England · Just a Design List"
-description: "Grace Margetson Studio: branding, advertising/campaigns and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in July 2026."
+description: "Grace Margetson Studio: branding, advertising/campaigns and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/grace-margetson-studio"
 ---
 
 # Grace Margetson Studio
 
-Grace Margetson Studio: branding, advertising/campaigns and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in July 2026.
+Grace Margetson Studio: branding, advertising/campaigns and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Advertising/Campaigns, Interactive/Digital
 - **City:** London, Paris

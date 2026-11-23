@@ -1,12 +1,12 @@
 ---
 title: "Mucca — Branding, New York, USA · Just a Design List"
-description: "Mucca: branding, packaging and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in November 2024."
+description: "Mucca: branding, packaging and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/mucca"
 ---
 
 # Mucca
 
-Mucca: branding, packaging and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in November 2024.
+Mucca: branding, packaging and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in November 2024.
 
 - **Discipline:** Branding, Packaging, Typography
 - **City:** New York

@@ -1,12 +1,12 @@
 ---
 title: "Stefanie Brückler Studio — Branding, New York, USA · Just a Design List"
-description: "Stefanie Brückler Studio: branding, graphic design and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026."
+description: "Stefanie Brückler Studio: branding, graphic design and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/stefanie-bruckler-studio"
 ---
 
 # Stefanie Brückler Studio
 
-Stefanie Brückler Studio: branding, graphic design and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026.
+Stefanie Brückler Studio: branding, graphic design and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Interactive/Digital
 - **City:** New York

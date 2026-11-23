@@ -1,12 +1,12 @@
 ---
 title: "Watson — Branding, London, England · Just a Design List"
-description: "Watson: branding, graphic design and interactive/digital practice based in London, England. One of 171 studios from New York on Just a Design List, added in May 2026."
+description: "Watson: branding, graphic design and interactive/digital practice based in London, England. One of 172 studios from New York on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/watson"
 ---
 
 # Watson
 
-Watson: branding, graphic design and interactive/digital practice based in London, England. One of 171 studios from New York on Just a Design List, added in May 2026.
+Watson: branding, graphic design and interactive/digital practice based in London, England. One of 172 studios from New York on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** New York, London

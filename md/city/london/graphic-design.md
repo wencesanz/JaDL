@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in London · Just a Design List"
-description: "112 independent studios working in graphic design in London, from the Just a Design List index."
+description: "113 independent studios working in graphic design in London, from the Just a Design List index."
 url: "https://justadesignlist.com/city/london/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ City · Graphic Design
 
 # Graphic Design in London
 
-112 independent studios working in graphic design in London, from the Just a Design List index.
+113 independent studios working in graphic design in London, from the Just a Design List index.
 
 - [21—87](https://justadesignlist.com/studio/21-87) — London, England
 - [A Practice for Everyday Life](https://justadesignlist.com/studio/a-practice-for-everyday-life) — London, England
@@ -84,6 +84,7 @@ City · Graphic Design
 - [Nomad Studio](https://justadesignlist.com/studio/nomad-studio) — London, England
 - [Nomis Creative](https://justadesignlist.com/studio/nomis-creative) — London, England
 - [Nonoia](https://justadesignlist.com/studio/nonoia) — London, England
+- [North](https://justadesignlist.com/studio/north) — London, England
 - [Odd works](https://justadesignlist.com/studio/odd-works) — Lisbon, London, Portugal, England
 - [Office of Overview](https://justadesignlist.com/studio/office-of-overview) — London, England
 - [OK-RM](https://justadesignlist.com/studio/ok-rm) — London, England

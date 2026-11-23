@@ -1,6 +1,6 @@
 ---
 title: "Design studios in England · Just a Design List"
-description: "245 independent design studios and practices based in England. A curated index — browse by city and discipline."
+description: "246 independent design studios and practices based in England. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/england"
 ---
 
@@ -10,9 +10,9 @@ Country
 
 # England
 
-245 independent design studios and practices based in England. A curated index — browse by city and discipline.
+246 independent design studios and practices based in England. A curated index — browse by city and discipline.
 
-By discipline: [Branding design studios in England](https://justadesignlist.com/country/england/branding) (211), [Graphic Design studios in England](https://justadesignlist.com/country/england/graphic-design) (139), [Interactive/Digital design studios in England](https://justadesignlist.com/country/england/interactive-digital) (131), [Packaging design studios in England](https://justadesignlist.com/country/england/packaging) (63), [Motion design studios in England](https://justadesignlist.com/country/england/motion) (49), [Advertising/Campaigns design studios in England](https://justadesignlist.com/country/england/advertising-campaigns) (36), [Typography design studios in England](https://justadesignlist.com/country/england/typography) (33), [Illustration design studios in England](https://justadesignlist.com/country/england/illustration) (18)
+By discipline: [Branding design studios in England](https://justadesignlist.com/country/england/branding) (212), [Graphic Design studios in England](https://justadesignlist.com/country/england/graphic-design) (140), [Interactive/Digital design studios in England](https://justadesignlist.com/country/england/interactive-digital) (132), [Packaging design studios in England](https://justadesignlist.com/country/england/packaging) (63), [Motion design studios in England](https://justadesignlist.com/country/england/motion) (50), [Advertising/Campaigns design studios in England](https://justadesignlist.com/country/england/advertising-campaigns) (36), [Typography design studios in England](https://justadesignlist.com/country/england/typography) (33), [Illustration design studios in England](https://justadesignlist.com/country/england/illustration) (18)
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -173,6 +173,7 @@ By discipline: [Branding design studios in England](https://justadesignlist.com/
 - [Nomad Studio](https://justadesignlist.com/studio/nomad-studio) — London, England
 - [Nomis Creative](https://justadesignlist.com/studio/nomis-creative) — London, England
 - [Nonoia](https://justadesignlist.com/studio/nonoia) — London, England
+- [North](https://justadesignlist.com/studio/north) — London, England
 - [Odd works](https://justadesignlist.com/studio/odd-works) — Lisbon, London, Portugal, England
 - [Office of Joe Diver](https://justadesignlist.com/studio/office-of-joe-diver) — London, England
 - [Office of Overview](https://justadesignlist.com/studio/office-of-overview) — London, England
@@ -213,7 +214,6 @@ By discipline: [Branding design studios in England](https://justadesignlist.com/
 - [Smiling Wolf](https://justadesignlist.com/studio/smiling-wolf) — Liverpool, England
 - [SocioDesign](https://justadesignlist.com/studio/sociodesign) — London, England
 - [Sofia Pusa](https://justadesignlist.com/studio/sofia-pusa) — London, Helsinki, England, Finland
-- [Soft Power](https://justadesignlist.com/studio/soft-power) — London, England
 
 ---
 

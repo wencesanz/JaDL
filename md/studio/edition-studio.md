@@ -1,12 +1,12 @@
 ---
 title: "edition.studio — Graphic Design, New York, USA · Just a Design List"
-description: "edition.studio: graphic design, interactive/digital and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026."
+description: "edition.studio: graphic design, interactive/digital and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/edition-studio"
 ---
 
 # edition.studio
 
-edition.studio: graphic design, interactive/digital and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026.
+edition.studio: graphic design, interactive/digital and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026.
 
 - **Discipline:** Graphic Design, Interactive/Digital, Typography
 - **City:** New York

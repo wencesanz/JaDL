@@ -1,12 +1,12 @@
 ---
 title: "Chermayeff & Geismar & Haviv — Branding, New York, USA · Just a Design List"
-description: "Chermayeff & Geismar & Haviv: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "Chermayeff & Geismar & Haviv: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/chermayeff-and-geismar-and-haviv"
 ---
 
 # Chermayeff & Geismar & Haviv
 
-Chermayeff & Geismar & Haviv: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+Chermayeff & Geismar & Haviv: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding
 - **City:** New York

@@ -1,12 +1,12 @@
 ---
 title: "Pedro Del Corro — Graphic Design, New York, USA · Just a Design List"
-description: "Pedro Del Corro: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Pedro Del Corro: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/pedro-del-corro"
 ---
 
 # Pedro Del Corro
 
-Pedro Del Corro: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Pedro Del Corro: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** New York

@@ -1,12 +1,12 @@
 ---
 title: "Yihuang Zhou — Graphic Design, New York, USA · Just a Design List"
-description: "Yihuang Zhou: graphic design, typography and branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in August 2026."
+description: "Yihuang Zhou: graphic design, typography and branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/yihuang-zhou"
 ---
 
 # Yihuang Zhou
 
-Yihuang Zhou: graphic design, typography and branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in August 2026.
+Yihuang Zhou: graphic design, typography and branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in August 2026.
 
 - **Discipline:** Graphic Design, Typography, Branding
 - **City:** New York

@@ -1,12 +1,12 @@
 ---
 title: "Big Active — Graphic Design, London, England · Just a Design List"
-description: "Big Active: graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in October 2026."
+description: "Big Active: graphic design and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/big-active"
 ---
 
 # Big Active
 
-Big Active: graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in October 2026.
+Big Active: graphic design and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in October 2026.
 
 - **Discipline:** Graphic Design, Interactive/Digital
 - **City:** London

@@ -1,6 +1,6 @@
 ---
 title: "Motion design studios in London · Just a Design List"
-description: "42 independent studios working in motion in London, from the Just a Design List index."
+description: "43 independent studios working in motion in London, from the Just a Design List index."
 url: "https://justadesignlist.com/city/london/motion"
 ---
 
@@ -10,7 +10,7 @@ City · Motion
 
 # Motion in London
 
-42 independent studios working in motion in London, from the Just a Design List index.
+43 independent studios working in motion in London, from the Just a Design List index.
 
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
 - [20(SOMETHING)](https://justadesignlist.com/studio/20-something) — London, England
@@ -39,6 +39,7 @@ City · Motion
 - [New Genre](https://justadesignlist.com/studio/new-genre) — London, San Francisco, England, USA
 - [Nomad Studio](https://justadesignlist.com/studio/nomad-studio) — London, England
 - [Nonoia](https://justadesignlist.com/studio/nonoia) — London, England
+- [North](https://justadesignlist.com/studio/north) — London, England
 - [Odd works](https://justadesignlist.com/studio/odd-works) — Lisbon, London, Portugal, England
 - [OneLeft](https://justadesignlist.com/studio/oneleft) — London, England
 - [Output](https://justadesignlist.com/studio/output) — London, England

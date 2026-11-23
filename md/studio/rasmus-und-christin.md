@@ -1,12 +1,12 @@
 ---
 title: "rasmus und christin — Branding, Hamburg, Germany · Just a Design List"
-description: "rasmus und christin: branding and graphic design practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in September 2026."
+description: "rasmus und christin: branding and graphic design practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/rasmus-und-christin"
 ---
 
 # rasmus und christin
 
-rasmus und christin: branding and graphic design practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in September 2026.
+rasmus und christin: branding and graphic design practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** Hamburg

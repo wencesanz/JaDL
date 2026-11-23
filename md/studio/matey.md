@@ -1,12 +1,12 @@
 ---
 title: "Matey — Branding, Birmingham, USA · Just a Design List"
-description: "Matey: branding, packaging and interactive/digital practice based in Birmingham, USA. The only studio from Birmingham, one of 334 from USA on Just a Design List, added in November 2025."
+description: "Matey: branding, packaging and interactive/digital practice based in Birmingham, USA. The only studio from Birmingham, one of 335 from USA on Just a Design List, added in November 2025."
 url: "https://justadesignlist.com/studio/matey"
 ---
 
 # Matey
 
-Matey: branding, packaging and interactive/digital practice based in Birmingham, USA. The only studio from Birmingham, one of 334 from USA on Just a Design List, added in November 2025.
+Matey: branding, packaging and interactive/digital practice based in Birmingham, USA. The only studio from Birmingham, one of 335 from USA on Just a Design List, added in November 2025.
 
 - **Discipline:** Branding, Packaging, Interactive/Digital
 - **City:** Birmingham

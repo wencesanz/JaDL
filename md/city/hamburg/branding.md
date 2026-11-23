@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in Hamburg · Just a Design List"
-description: "12 independent studios working in branding in Hamburg, from the Just a Design List index."
+description: "13 independent studios working in branding in Hamburg, from the Just a Design List index."
 url: "https://justadesignlist.com/city/hamburg/branding"
 ---
 
@@ -10,7 +10,7 @@ City · Branding
 
 # Branding in Hamburg
 
-12 independent studios working in branding in Hamburg, from the Just a Design List index.
+13 independent studios working in branding in Hamburg, from the Just a Design List index.
 
 - [Bareis + Nicolaus](https://justadesignlist.com/studio/bareis-nicolaus) — Hamburg, Stuttgart, Germany
 - [EIGA](https://justadesignlist.com/studio/eiga) — Hamburg, Germany
@@ -23,6 +23,7 @@ City · Branding
 - [rasmus und christin](https://justadesignlist.com/studio/rasmus-und-christin) — Hamburg, Germany
 - [Rocket & Wing](https://justadesignlist.com/studio/rocket-and-wing) — Hamburg, Germany
 - [Rogge und Pott Design](https://justadesignlist.com/studio/rogge-und-pott-design) — Hamburg, Germany
+- [Studio Chapeaux](https://justadesignlist.com/studio/studio-chapeaux) — Hamburg, Germany
 - [TwoPoints.Net](https://justadesignlist.com/studio/twopoints-net) — Barcelona, Hamburg, Spain, Germany
 
 ---

@@ -1,12 +1,12 @@
 ---
 title: "Driftime — Interactive/Digital, London, England · Just a Design List"
-description: "Driftime: interactive/digital and branding practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026."
+description: "Driftime: interactive/digital and branding practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/driftime"
 ---
 
 # Driftime
 
-Driftime: interactive/digital and branding practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026.
+Driftime: interactive/digital and branding practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2026.
 
 - **Discipline:** Interactive/Digital, Branding
 - **City:** London

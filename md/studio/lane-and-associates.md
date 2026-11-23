@@ -1,12 +1,12 @@
 ---
 title: "Lane & Associates — Packaging, London, England · Just a Design List"
-description: "Lane & Associates: packaging, graphic design and branding practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2023."
+description: "Lane & Associates: packaging, graphic design and branding practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/lane-and-associates"
 ---
 
 # Lane & Associates
 
-Lane & Associates: packaging, graphic design and branding practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2023.
+Lane & Associates: packaging, graphic design and branding practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Packaging, Graphic Design, Branding, Interactive/Digital
 - **City:** London

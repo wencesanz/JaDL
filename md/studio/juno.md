@@ -1,12 +1,12 @@
 ---
 title: "JUNO — Branding, Hamburg, Germany · Just a Design List"
-description: "JUNO: branding, interactive/digital and advertising/campaigns practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in August 2026."
+description: "JUNO: branding, interactive/digital and advertising/campaigns practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/juno"
 ---
 
 # JUNO
 
-JUNO: branding, interactive/digital and advertising/campaigns practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in August 2026.
+JUNO: branding, interactive/digital and advertising/campaigns practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Advertising/Campaigns
 - **City:** Hamburg

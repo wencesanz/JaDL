@@ -1,12 +1,12 @@
 ---
 title: "Brand New School — Motion, New York, USA · Just a Design List"
-description: "Brand New School: motion and branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "Brand New School: motion and branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/brand-new-school"
 ---
 
 # Brand New School
 
-Brand New School: motion and branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+Brand New School: motion and branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Motion, Branding
 - **City:** New York, Los Angeles

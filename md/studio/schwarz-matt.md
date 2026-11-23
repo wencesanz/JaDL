@@ -1,12 +1,12 @@
 ---
 title: "Schwarz+Matt — Branding, Dortmund, Germany · Just a Design List"
-description: "Schwarz+Matt: branding, graphic design and interactive/digital practice based in Dortmund, Germany. The only studio from Dortmund, one of 100 from Germany on Just a Design List, added in May 2026."
+description: "Schwarz+Matt: branding, graphic design and interactive/digital practice based in Dortmund, Germany. The only studio from Dortmund, one of 101 from Germany on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/schwarz-matt"
 ---
 
 # Schwarz+Matt
 
-Schwarz+Matt: branding, graphic design and interactive/digital practice based in Dortmund, Germany. The only studio from Dortmund, one of 100 from Germany on Just a Design List, added in May 2026.
+Schwarz+Matt: branding, graphic design and interactive/digital practice based in Dortmund, Germany. The only studio from Dortmund, one of 101 from Germany on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** Dortmund

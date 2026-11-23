@@ -1,12 +1,12 @@
 ---
 title: "All studios · Just a Design List"
-description: "Browse the full index of 1478 design studios and independent designers, A to Z."
+description: "Browse the full index of 1481 design studios and independent designers, A to Z."
 url: "https://justadesignlist.com/studios"
 ---
 
 The List
 
-# All 1478 studios and designers
+# All 1481 studios and designers
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China · Branding, Motion, Interactive/Digital, Typography, Packaging
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Slovenia · Paris, France · Branding, Interactive/Digital, Packaging, Motion
@@ -242,6 +242,7 @@ The List
 - [C100 Studio](https://justadesignlist.com/studio/c100-studio) — Munich, Germany · Graphic Design, Branding
 - [C2F](https://justadesignlist.com/studio/c2f) — Luzern, Switzerland · Graphic Design
 - [Calibro](https://justadesignlist.com/studio/calibro) — Milan, Italy · Interactive/Digital
+- [Callum Abbott](https://justadesignlist.com/studio/callum-abbott) — New York, USA · Graphic Design
 - [Canefantasma](https://justadesignlist.com/studio/canefantasma) — Cambridge, England · Graphic Design, Branding
 - [Carla Palette](https://justadesignlist.com/studio/carla-palette) — Berlin, Germany · Branding, Graphic Design
 - [Carles Rodrigo](https://justadesignlist.com/studio/carles-rodrigo) — Valencia, Spain · Graphic Design, Branding
@@ -909,6 +910,7 @@ The List
 - [NORD ID](https://justadesignlist.com/studio/nord-id) — Stockholm, Sweden · Branding, Packaging, Interactive/Digital
 - [Nordost](https://justadesignlist.com/studio/nordost) — Vienna, Austria · Salzburg, Germany · Branding, Interactive/Digital, Motion
 - [Norgram](https://justadesignlist.com/studio/norgram) — Copenhagen, Aarhus, Denmark · Branding, Interactive/Digital
+- [North](https://justadesignlist.com/studio/north) — London, England · Branding, Graphic Design, Interactive/Digital, Motion
 - [North Kingdom](https://justadesignlist.com/studio/north-kingdom) — Skellefteå, Stockholm, Sweden · Barcelona, Spain · Interactive/Digital
 - [Nothin’](https://justadesignlist.com/studio/nothin) — Paris, France · Branding, Advertising/Campaigns, Interactive/Digital
 - [Notter + Vigne](https://justadesignlist.com/studio/notter-vigne) — Lausanne, Switzerland · Graphic Design
@@ -1239,6 +1241,7 @@ The List
 - [Studio Bruch](https://justadesignlist.com/studio/studio-bruch) — Graz, Austria · Graphic Design, Branding, Packaging
 - [Studio C](https://justadesignlist.com/studio/studio-c) — Copenhagen, Denmark · Graphic Design, Branding
 - [Studio Carreras](https://justadesignlist.com/studio/studio-carreras) — Girona, Spain · Graphic Design, Illustration
+- [Studio Chapeaux](https://justadesignlist.com/studio/studio-chapeaux) — Hamburg, Germany · Branding, Graphic Design, Packaging, Interactive/Digital
 - [Studio Claus Due](https://justadesignlist.com/studio/studio-claus-due) — Copenhagen, Denmark · Graphic Design
 - [Studio Coralie Wipf](https://justadesignlist.com/studio/studio-coralie-wipf) — Zurich, Switzerland · Graphic Design, Motion, Interactive/Digital, Branding
 - [Studio Czarnecki](https://justadesignlist.com/studio/studio-czarnecki) — Stockholm, Sweden · Branding, Packaging, Graphic Design

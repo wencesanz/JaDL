@@ -1,12 +1,12 @@
 ---
 title: "Matt Wiley — Graphic Design, New York, USA · Just a Design List"
-description: "Matt Wiley: graphic design, motion and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "Matt Wiley: graphic design, motion and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/matt-wiley"
 ---
 
 # Matt Wiley
 
-Matt Wiley: graphic design, motion and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+Matt Wiley: graphic design, motion and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Motion, Typography
 - **City:** New York

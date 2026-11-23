@@ -1,12 +1,12 @@
 ---
 title: "Studio Gonzalo Hergueta — Graphic Design, New York, USA · Just a Design List"
-description: "Studio Gonzalo Hergueta: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Studio Gonzalo Hergueta: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/studio-gonzalo-hergueta"
 ---
 
 # Studio Gonzalo Hergueta
 
-Studio Gonzalo Hergueta: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Studio Gonzalo Hergueta: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** New York

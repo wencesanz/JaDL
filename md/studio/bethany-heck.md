@@ -1,12 +1,12 @@
 ---
 title: "Bethany Heck — Typography, New York, USA · Just a Design List"
-description: "Bethany Heck: typography and graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Bethany Heck: typography and graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/bethany-heck"
 ---
 
 # Bethany Heck
 
-Bethany Heck: typography and graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Bethany Heck: typography and graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Typography, Graphic Design
 - **City:** New York

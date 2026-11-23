@@ -1,12 +1,12 @@
 ---
 title: "Domino New York — Branding, New York, USA · Just a Design List"
-description: "Domino New York: branding, graphic design and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in November 2026."
+description: "Domino New York: branding, graphic design and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/domino-new-york"
 ---
 
 # Domino New York
 
-Domino New York: branding, graphic design and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in November 2026.
+Domino New York: branding, graphic design and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Typography, Interactive/Digital
 - **City:** New York

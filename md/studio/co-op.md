@@ -1,12 +1,12 @@
 ---
 title: "CO OP — Branding, New York, USA · Just a Design List"
-description: "CO OP: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2024."
+description: "CO OP: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/co-op"
 ---
 
 # CO OP
 
-CO OP: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2024.
+CO OP: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding
 - **City:** New York, Los Angeles, Miami, Tel Aviv

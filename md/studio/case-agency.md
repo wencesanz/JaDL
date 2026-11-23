@@ -1,12 +1,12 @@
 ---
 title: "CASE Agency — Branding, New York, USA · Just a Design List"
-description: "CASE Agency: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2026."
+description: "CASE Agency: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/case-agency"
 ---
 
 # CASE Agency
 
-CASE Agency: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2026.
+CASE Agency: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging, Motion, Advertising/Campaigns
 - **City:** New York, Los Angeles

@@ -1,12 +1,12 @@
 ---
 title: "Everything Studio — Graphic Design, New York, USA · Just a Design List"
-description: "Everything Studio: graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "Everything Studio: graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/everything-studio"
 ---
 
 # Everything Studio
 
-Everything Studio: graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+Everything Studio: graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Interactive/Digital
 - **City:** New York

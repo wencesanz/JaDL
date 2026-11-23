@@ -1,12 +1,12 @@
 ---
 title: "Rogge und Pott Design — Branding, Hamburg, Germany · Just a Design List"
-description: "Rogge und Pott Design: branding, graphic design and interactive/digital practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in May 2026."
+description: "Rogge und Pott Design: branding, graphic design and interactive/digital practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/rogge-und-pott-design"
 ---
 
 # Rogge und Pott Design
 
-Rogge und Pott Design: branding, graphic design and interactive/digital practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in May 2026.
+Rogge und Pott Design: branding, graphic design and interactive/digital practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging
 - **City:** Hamburg

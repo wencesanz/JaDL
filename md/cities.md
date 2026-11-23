@@ -10,8 +10,8 @@ Browse
 
 316 cities represented across the index.
 
-- [London](https://justadesignlist.com/city/london) (197)
-- [New York](https://justadesignlist.com/city/new-york) (171)
+- [London](https://justadesignlist.com/city/london) (198)
+- [New York](https://justadesignlist.com/city/new-york) (172)
 - [Barcelona](https://justadesignlist.com/city/barcelona) (95)
 - [Paris](https://justadesignlist.com/city/paris) (73)
 - [Los Angeles](https://justadesignlist.com/city/los-angeles) (56)
@@ -27,8 +27,8 @@ Browse
 - [Oslo](https://justadesignlist.com/city/oslo) (21)
 - [Zurich](https://justadesignlist.com/city/zurich) (21)
 - [Helsinki](https://justadesignlist.com/city/helsinki) (20)
+- [Hamburg](https://justadesignlist.com/city/hamburg) (16)
 - [Milan](https://justadesignlist.com/city/milan) (16)
-- [Hamburg](https://justadesignlist.com/city/hamburg) (15)
 - [Munich](https://justadesignlist.com/city/munich) (15)
 - [Toronto](https://justadesignlist.com/city/toronto) (15)
 - [Vancouver](https://justadesignlist.com/city/vancouver) (15)

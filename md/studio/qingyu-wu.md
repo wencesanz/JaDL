@@ -1,12 +1,12 @@
 ---
 title: "Qingyu Wu — Graphic Design, New York, USA · Just a Design List"
-description: "Qingyu Wu: graphic design and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Qingyu Wu: graphic design and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/qingyu-wu"
 ---
 
 # Qingyu Wu
 
-Qingyu Wu: graphic design and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Qingyu Wu: graphic design and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Packaging
 - **City:** New York, ShangHai

@@ -1,12 +1,12 @@
 ---
 title: "Tolleson — Branding, Sausalito, USA · Just a Design List"
-description: "Tolleson: branding, interactive/digital and packaging practice based in Sausalito, USA. The only studio from Sausalito, one of 334 from USA on Just a Design List, added in July 2023."
+description: "Tolleson: branding, interactive/digital and packaging practice based in Sausalito, USA. The only studio from Sausalito, one of 335 from USA on Just a Design List, added in July 2023."
 url: "https://justadesignlist.com/studio/tolleson"
 ---
 
 # Tolleson
 
-Tolleson: branding, interactive/digital and packaging practice based in Sausalito, USA. The only studio from Sausalito, one of 334 from USA on Just a Design List, added in July 2023.
+Tolleson: branding, interactive/digital and packaging practice based in Sausalito, USA. The only studio from Sausalito, one of 335 from USA on Just a Design List, added in July 2023.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging
 - **City:** Sausalito

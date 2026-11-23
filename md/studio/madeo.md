@@ -1,12 +1,12 @@
 ---
 title: "Madeo — Branding, New York, USA · Just a Design List"
-description: "Madeo: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2026."
+description: "Madeo: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/madeo"
 ---
 
 # Madeo
 
-Madeo: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2026.
+Madeo: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** New York

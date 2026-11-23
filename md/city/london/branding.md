@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in London · Just a Design List"
-description: "169 independent studios working in branding in London, from the Just a Design List index."
+description: "170 independent studios working in branding in London, from the Just a Design List index."
 url: "https://justadesignlist.com/city/london/branding"
 ---
 
@@ -10,7 +10,7 @@ City · Branding
 
 # Branding in London
 
-169 independent studios working in branding in London, from the Just a Design List index.
+170 independent studios working in branding in London, from the Just a Design List index.
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -121,6 +121,7 @@ City · Branding
 - [Nomad Studio](https://justadesignlist.com/studio/nomad-studio) — London, England
 - [Nomis Creative](https://justadesignlist.com/studio/nomis-creative) — London, England
 - [Nonoia](https://justadesignlist.com/studio/nonoia) — London, England
+- [North](https://justadesignlist.com/studio/north) — London, England
 - [Odd works](https://justadesignlist.com/studio/odd-works) — Lisbon, London, Portugal, England
 - [Office of Joe Diver](https://justadesignlist.com/studio/office-of-joe-diver) — London, England
 - [Office of Overview](https://justadesignlist.com/studio/office-of-overview) — London, England

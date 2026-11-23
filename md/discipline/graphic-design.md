@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios · Just a Design List"
-description: "907 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city."
+description: "910 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Graphic Design
 
-907 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city.
+910 independent studios and designers working in graphic design, collected in the Just a Design List index. Browse by country and city.
 
 - [(Studio) Lotta Nieminen](https://justadesignlist.com/studio/studio-lotta-nieminen) — Helsinki, Finland
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
@@ -150,6 +150,7 @@ Discipline
 - [BY-ENJOY](https://justadesignlist.com/studio/by-enjoy) — China
 - [C100 Studio](https://justadesignlist.com/studio/c100-studio) — Munich, Germany
 - [C2F](https://justadesignlist.com/studio/c2f) — Luzern, Switzerland
+- [Callum Abbott](https://justadesignlist.com/studio/callum-abbott) — New York, USA
 - [Canefantasma](https://justadesignlist.com/studio/canefantasma) — Cambridge, England
 - [Carla Palette](https://justadesignlist.com/studio/carla-palette) — Berlin, Germany
 - [Carles Rodrigo](https://justadesignlist.com/studio/carles-rodrigo) — Valencia, Spain
@@ -211,7 +212,6 @@ Discipline
 - [Cuchillo©](https://justadesignlist.com/studio/cuchillo) — Bilbao, Spain
 - [Cul De Sac Studio](https://justadesignlist.com/studio/cul-de-sac-studio) — Los Angeles, USA
 - [D. Kim](https://justadesignlist.com/studio/d-kim) — San Francisco, USA
-- [Dada Projects](https://justadesignlist.com/studio/dada-projects) — London, England
 
 ---
 

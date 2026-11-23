@@ -1,12 +1,12 @@
 ---
 title: "Good Habit — Branding, London, England · Just a Design List"
-description: "Good Habit: branding and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in July 2026."
+description: "Good Habit: branding and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/good-habit"
 ---
 
 # Good Habit
 
-Good Habit: branding and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in July 2026.
+Good Habit: branding and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** London

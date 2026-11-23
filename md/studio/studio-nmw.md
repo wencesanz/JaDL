@@ -1,12 +1,12 @@
 ---
 title: "Studio NMW — Graphic Design, New York, USA · Just a Design List"
-description: "Studio NMW: graphic design, branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026."
+description: "Studio NMW: graphic design, branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/studio-nmw"
 ---
 
 # Studio NMW
 
-Studio NMW: graphic design, branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026.
+Studio NMW: graphic design, branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026.
 
 - **Discipline:** Graphic Design, Branding, Interactive/Digital, Motion
 - **City:** New York

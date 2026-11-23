@@ -1,12 +1,12 @@
 ---
 title: "&Walsh — Graphic Design, New York, USA · Just a Design List"
-description: "&Walsh: graphic design and branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "&Walsh: graphic design and branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/andwalsh"
 ---
 
 # &Walsh
 
-&Walsh: graphic design and branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+&Walsh: graphic design and branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** New York

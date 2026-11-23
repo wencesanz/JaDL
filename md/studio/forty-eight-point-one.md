@@ -1,12 +1,12 @@
 ---
 title: "Forty Eight Point One — Branding, London, England · Just a Design List"
-description: "Forty Eight Point One: branding and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026."
+description: "Forty Eight Point One: branding and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/forty-eight-point-one"
 ---
 
 # Forty Eight Point One
 
-Forty Eight Point One: branding and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026.
+Forty Eight Point One: branding and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** London

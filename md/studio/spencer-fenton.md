@@ -1,12 +1,12 @@
 ---
 title: "Spencer Fenton — Branding, London, England · Just a Design List"
-description: "Spencer Fenton: branding, graphic design and typography practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023."
+description: "Spencer Fenton: branding, graphic design and typography practice based in London, England. One of 198 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/spencer-fenton"
 ---
 
 # Spencer Fenton
 
-Spencer Fenton: branding, graphic design and typography practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023.
+Spencer Fenton: branding, graphic design and typography practice based in London, England. One of 198 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Graphic Design, Typography, Packaging
 - **City:** London

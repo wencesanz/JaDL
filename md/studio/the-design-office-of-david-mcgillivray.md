@@ -1,12 +1,12 @@
 ---
 title: "The Design Office of David McGillivray — Branding, New York, USA · Just a Design List"
-description: "The Design Office of David McGillivray: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2026."
+description: "The Design Office of David McGillivray: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/the-design-office-of-david-mcgillivray"
 ---
 
 # The Design Office of David McGillivray
 
-The Design Office of David McGillivray: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2026.
+The Design Office of David McGillivray: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** New York

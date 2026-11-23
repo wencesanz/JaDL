@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in England · Just a Design List"
-description: "131 independent studios working in interactive/digital in England, from the Just a Design List index."
+description: "132 independent studios working in interactive/digital in England, from the Just a Design List index."
 url: "https://justadesignlist.com/country/england/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ Country · Interactive/Digital
 
 # Interactive/Digital in England
 
-131 independent studios working in interactive/digital in England, from the Just a Design List index.
+132 independent studios working in interactive/digital in England, from the Just a Design List index.
 
 - [21—87](https://justadesignlist.com/studio/21-87) — London, England
 - [ACRE](https://justadesignlist.com/studio/acre) — London, England
@@ -102,6 +102,7 @@ Country · Interactive/Digital
 - [Nomad Studio](https://justadesignlist.com/studio/nomad-studio) — London, England
 - [Nomis Creative](https://justadesignlist.com/studio/nomis-creative) — London, England
 - [Nonoia](https://justadesignlist.com/studio/nonoia) — London, England
+- [North](https://justadesignlist.com/studio/north) — London, England
 - [Office of Joe Diver](https://justadesignlist.com/studio/office-of-joe-diver) — London, England
 - [OHMY](https://justadesignlist.com/studio/ohmy) — Leamington Spa, England
 - [Oil Studio](https://justadesignlist.com/studio/oil-studio) — Amsterdam, London, The Netherlands, England

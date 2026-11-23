@@ -1,12 +1,12 @@
 ---
 title: "Maiarelli Studio — Branding, New York, USA · Just a Design List"
-description: "Maiarelli Studio: branding, advertising/campaigns and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in December 2024."
+description: "Maiarelli Studio: branding, advertising/campaigns and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in December 2024."
 url: "https://justadesignlist.com/studio/maiarelli-studio"
 ---
 
 # Maiarelli Studio
 
-Maiarelli Studio: branding, advertising/campaigns and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in December 2024.
+Maiarelli Studio: branding, advertising/campaigns and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in December 2024.
 
 - **Discipline:** Branding, Advertising/Campaigns, Interactive/Digital
 - **City:** New York

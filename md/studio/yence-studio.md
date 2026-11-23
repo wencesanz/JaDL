@@ -1,12 +1,12 @@
 ---
 title: "YENCE Studio — Graphic Design, Tübingen, Germany · Just a Design List"
-description: "YENCE Studio: graphic design, motion and typography practice based in Tübingen, Germany. The only studio from Tübingen, one of 100 from Germany on Just a Design List, added in August 2026."
+description: "YENCE Studio: graphic design, motion and typography practice based in Tübingen, Germany. The only studio from Tübingen, one of 101 from Germany on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/yence-studio"
 ---
 
 # YENCE Studio
 
-YENCE Studio: graphic design, motion and typography practice based in Tübingen, Germany. The only studio from Tübingen, one of 100 from Germany on Just a Design List, added in August 2026.
+YENCE Studio: graphic design, motion and typography practice based in Tübingen, Germany. The only studio from Tübingen, one of 101 from Germany on Just a Design List, added in August 2026.
 
 - **Discipline:** Graphic Design, Motion, Typography
 - **City:** Tübingen, Los Angeles

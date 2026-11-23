@@ -1,12 +1,12 @@
 ---
 title: "ESTABLISHED. — Branding, New York, USA · Just a Design List"
-description: "ESTABLISHED.: branding, interactive/digital and advertising/campaigns practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026."
+description: "ESTABLISHED.: branding, interactive/digital and advertising/campaigns practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/established"
 ---
 
 # ESTABLISHED.
 
-ESTABLISHED.: branding, interactive/digital and advertising/campaigns practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026.
+ESTABLISHED.: branding, interactive/digital and advertising/campaigns practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Advertising/Campaigns, Packaging
 - **City:** New York, Barcelona

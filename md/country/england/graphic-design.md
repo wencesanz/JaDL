@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in England · Just a Design List"
-description: "139 independent studios working in graphic design in England, from the Just a Design List index."
+description: "140 independent studios working in graphic design in England, from the Just a Design List index."
 url: "https://justadesignlist.com/country/england/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ Country · Graphic Design
 
 # Graphic Design in England
 
-139 independent studios working in graphic design in England, from the Just a Design List index.
+140 independent studios working in graphic design in England, from the Just a Design List index.
 
 - [21—87](https://justadesignlist.com/studio/21-87) — London, England
 - [A Practice for Everyday Life](https://justadesignlist.com/studio/a-practice-for-everyday-life) — London, England
@@ -99,6 +99,7 @@ Country · Graphic Design
 - [Nomad Studio](https://justadesignlist.com/studio/nomad-studio) — London, England
 - [Nomis Creative](https://justadesignlist.com/studio/nomis-creative) — London, England
 - [Nonoia](https://justadesignlist.com/studio/nonoia) — London, England
+- [North](https://justadesignlist.com/studio/north) — London, England
 - [Odd works](https://justadesignlist.com/studio/odd-works) — Lisbon, London, Portugal, England
 - [Office of Overview](https://justadesignlist.com/studio/office-of-overview) — London, England
 - [OHMY](https://justadesignlist.com/studio/ohmy) — Leamington Spa, England

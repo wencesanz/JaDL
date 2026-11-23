@@ -1,6 +1,6 @@
 ---
 title: "Packaging design studios in Germany · Just a Design List"
-description: "21 independent studios working in packaging in Germany, from the Just a Design List index."
+description: "22 independent studios working in packaging in Germany, from the Just a Design List index."
 url: "https://justadesignlist.com/country/germany/packaging"
 ---
 
@@ -10,7 +10,7 @@ Country · Packaging
 
 # Packaging in Germany
 
-21 independent studios working in packaging in Germany, from the Just a Design List index.
+22 independent studios working in packaging in Germany, from the Just a Design List index.
 
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
 - [buero ®S](https://justadesignlist.com/studio/buero-s) — Düsseldorf, Germany
@@ -31,6 +31,7 @@ Country · Packaging
 - [Rogge und Pott Design](https://justadesignlist.com/studio/rogge-und-pott-design) — Hamburg, Germany
 - [Ruska Martín Associates](https://justadesignlist.com/studio/ruska-martin-associates) — Berlin, Valencia, Germany, Spain
 - [Stan Hema](https://justadesignlist.com/studio/stan-hema) — Berlin, Germany
+- [Studio Chapeaux](https://justadesignlist.com/studio/studio-chapeaux) — Hamburg, Germany
 - [Studio Jacob Lindblad](https://justadesignlist.com/studio/studio-jacob-lindblad) — Berlin, Germany
 - [Studio, Lisa Fessl](https://justadesignlist.com/studio/studio-lisa-fessl) — Berlin, Germany
 

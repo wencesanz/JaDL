@@ -1,12 +1,12 @@
 ---
 title: "Hoodzpah — Branding, Anaheim, USA · Just a Design List"
-description: "Hoodzpah: branding and typography practice based in Anaheim, USA. The only studio from Anaheim, one of 334 from USA on Just a Design List, added in October 2024."
+description: "Hoodzpah: branding and typography practice based in Anaheim, USA. The only studio from Anaheim, one of 335 from USA on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/hoodzpah"
 ---
 
 # Hoodzpah
 
-Hoodzpah: branding and typography practice based in Anaheim, USA. The only studio from Anaheim, one of 334 from USA on Just a Design List, added in October 2024.
+Hoodzpah: branding and typography practice based in Anaheim, USA. The only studio from Anaheim, one of 335 from USA on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Typography
 - **City:** Anaheim

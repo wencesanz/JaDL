@@ -1,12 +1,12 @@
 ---
 title: "Reaktor — Interactive/Digital, New York, USA · Just a Design List"
-description: "Reaktor: interactive/digital and branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in April 2025."
+description: "Reaktor: interactive/digital and branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in April 2025."
 url: "https://justadesignlist.com/studio/reaktor"
 ---
 
 # Reaktor
 
-Reaktor: interactive/digital and branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in April 2025.
+Reaktor: interactive/digital and branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in April 2025.
 
 - **Discipline:** Interactive/Digital, Branding
 - **City:** New York, Lisbon, Amsterdam, Helsinki, Seinäjoki, Turku, Tampere, Stockholm, Tokyo

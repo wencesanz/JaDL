@@ -1,12 +1,12 @@
 ---
 title: "Matt van Leeuwen — Branding, New York, USA · Just a Design List"
-description: "Matt van Leeuwen: branding, graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2026."
+description: "Matt van Leeuwen: branding, graphic design and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/matt-van-leeuwen"
 ---
 
 # Matt van Leeuwen
 
-Matt van Leeuwen: branding, graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2026.
+Matt van Leeuwen: branding, graphic design and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Typography
 - **City:** New York

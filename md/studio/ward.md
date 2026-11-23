@@ -1,12 +1,12 @@
 ---
 title: "Ward — Branding, New York, USA · Just a Design List"
-description: "Ward: branding and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Ward: branding and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/ward"
 ---
 
 # Ward
 
-Ward: branding and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Ward: branding and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding, Typography
 - **City:** New York

@@ -1,12 +1,12 @@
 ---
 title: "Relays — Branding, Ithaca, USA · Just a Design List"
-description: "Relays: branding practice based in Ithaca, USA. The only studio from Ithaca, one of 334 from USA on Just a Design List, added in May 2026."
+description: "Relays: branding practice based in Ithaca, USA. The only studio from Ithaca, one of 335 from USA on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/relays"
 ---
 
 # Relays
 
-Relays: branding practice based in Ithaca, USA. The only studio from Ithaca, one of 334 from USA on Just a Design List, added in May 2026.
+Relays: branding practice based in Ithaca, USA. The only studio from Ithaca, one of 335 from USA on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding
 - **City:** Ithaca

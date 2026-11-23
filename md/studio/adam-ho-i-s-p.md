@@ -1,12 +1,12 @@
 ---
 title: "Adam Ho, I.S.P. — Branding, New York, USA · Just a Design List"
-description: "Adam Ho, I.S.P.: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in November 2026."
+description: "Adam Ho, I.S.P.: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/adam-ho-i-s-p"
 ---
 
 # Adam Ho, I.S.P.
 
-Adam Ho, I.S.P.: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in November 2026.
+Adam Ho, I.S.P.: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** New York

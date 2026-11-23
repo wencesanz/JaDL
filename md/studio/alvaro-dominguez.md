@@ -1,12 +1,12 @@
 ---
 title: "Alvaro Dominguez — Graphic Design, New York, USA · Just a Design List"
-description: "Alvaro Dominguez: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Alvaro Dominguez: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/alvaro-dominguez"
 ---
 
 # Alvaro Dominguez
 
-Alvaro Dominguez: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Alvaro Dominguez: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** New York

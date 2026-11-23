@@ -1,12 +1,12 @@
 ---
 title: "GrandArmy — Branding, New York, USA · Just a Design List"
-description: "GrandArmy: branding, advertising/campaigns and motion practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in August 2026."
+description: "GrandArmy: branding, advertising/campaigns and motion practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/grandarmy"
 ---
 
 # GrandArmy
 
-GrandArmy: branding, advertising/campaigns and motion practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in August 2026.
+GrandArmy: branding, advertising/campaigns and motion practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Advertising/Campaigns, Motion, Illustration, Packaging, Interactive/Digital
 - **City:** New York, Los Angeles

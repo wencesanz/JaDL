@@ -1,12 +1,12 @@
 ---
 title: "Convicts — Branding, New York, USA · Just a Design List"
-description: "Convicts: branding, graphic design and motion practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in November 2026."
+description: "Convicts: branding, graphic design and motion practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/convicts"
 ---
 
 # Convicts
 
-Convicts: branding, graphic design and motion practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in November 2026.
+Convicts: branding, graphic design and motion practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Graphic Design, Motion
 - **City:** New York, Los Angeles, Byron Bay

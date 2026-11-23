@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in New York · Just a Design List"
-description: "94 independent studios working in graphic design in New York, from the Just a Design List index."
+description: "95 independent studios working in graphic design in New York, from the Just a Design List index."
 url: "https://justadesignlist.com/city/new-york/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ City · Graphic Design
 
 # Graphic Design in New York
 
-94 independent studios working in graphic design in New York, from the Just a Design List index.
+95 independent studios working in graphic design in New York, from the Just a Design List index.
 
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
 - [Adam Ho, I.S.P.](https://justadesignlist.com/studio/adam-ho-i-s-p) — New York, USA
@@ -26,6 +26,7 @@ City · Graphic Design
 - [Bethany Heck](https://justadesignlist.com/studio/bethany-heck) — New York, USA
 - [Better Half](https://justadesignlist.com/studio/better-half) — New York, USA
 - [Blurr Bureau](https://justadesignlist.com/studio/blurr-bureau) — New York, Melbourne, USA, Australia
+- [Callum Abbott](https://justadesignlist.com/studio/callum-abbott) — New York, USA
 - [CASE Agency](https://justadesignlist.com/studio/case-agency) — New York, Los Angeles, USA
 - [Chaoqun Wang](https://justadesignlist.com/studio/chaoqun-wang) — New York, USA
 - [Clay](https://justadesignlist.com/studio/clay) — San Francisco, New York, Austin, Denver, Lisbon, Belgrade, USA, Portugal, Serbia

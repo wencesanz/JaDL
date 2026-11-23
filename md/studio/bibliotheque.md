@@ -1,12 +1,12 @@
 ---
 title: "Bibliothèque — Graphic Design, London, England · Just a Design List"
-description: "Bibliothèque: graphic design, branding and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023."
+description: "Bibliothèque: graphic design, branding and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/bibliotheque"
 ---
 
 # Bibliothèque
 
-Bibliothèque: graphic design, branding and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023.
+Bibliothèque: graphic design, branding and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding, Interactive/Digital, Typography, Packaging
 - **City:** London

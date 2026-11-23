@@ -1,12 +1,12 @@
 ---
 title: "Studio & Marie — Branding, New York, USA · Just a Design List"
-description: "Studio & Marie: branding, interactive/digital and motion practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "Studio & Marie: branding, interactive/digital and motion practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/studio-and-marie"
 ---
 
 # Studio & Marie
 
-Studio & Marie: branding, interactive/digital and motion practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+Studio & Marie: branding, interactive/digital and motion practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Interactive/Digital, Motion, Packaging, Graphic Design, Advertising/Campaigns
 - **City:** New York

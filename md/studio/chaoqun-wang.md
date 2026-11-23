@@ -1,12 +1,12 @@
 ---
 title: "Chaoqun Wang — Graphic Design, New York, USA · Just a Design List"
-description: "Chaoqun Wang: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Chaoqun Wang: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/chaoqun-wang"
 ---
 
 # Chaoqun Wang
 
-Chaoqun Wang: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Chaoqun Wang: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** New York

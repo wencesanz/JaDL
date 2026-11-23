@@ -1,12 +1,12 @@
 ---
 title: "Eric Hu studio — Graphic Design, New York, USA · Just a Design List"
-description: "Eric Hu studio: graphic design, typography and branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Eric Hu studio: graphic design, typography and branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/eric-hu-studio"
 ---
 
 # Eric Hu studio
 
-Eric Hu studio: graphic design, typography and branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Eric Hu studio: graphic design, typography and branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Typography, Branding
 - **City:** New York

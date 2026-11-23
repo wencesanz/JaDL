@@ -1,12 +1,12 @@
 ---
 title: "Hyperfocus — Branding, Hamburg, Germany · Just a Design List"
-description: "Hyperfocus: branding, interactive/digital and typography practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in December 2024."
+description: "Hyperfocus: branding, interactive/digital and typography practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in December 2024."
 url: "https://justadesignlist.com/studio/hyperfocus"
 ---
 
 # Hyperfocus
 
-Hyperfocus: branding, interactive/digital and typography practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in December 2024.
+Hyperfocus: branding, interactive/digital and typography practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in December 2024.
 
 - **Discipline:** Branding, Interactive/Digital, Typography, Motion
 - **City:** Hamburg

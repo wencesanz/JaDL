@@ -1,12 +1,12 @@
 ---
 title: "Office of Joe Diver — Branding, London, England · Just a Design List"
-description: "Office of Joe Diver: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2026."
+description: "Office of Joe Diver: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 198 studios from London on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/office-of-joe-diver"
 ---
 
 # Office of Joe Diver
 
-Office of Joe Diver: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2026.
+Office of Joe Diver: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 198 studios from London on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Advertising/Campaigns
 - **City:** London

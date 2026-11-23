@@ -1,12 +1,12 @@
 ---
 title: "High Tide — Branding, New York, USA · Just a Design List"
-description: "High Tide: branding and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "High Tide: branding and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/high-tide"
 ---
 
 # High Tide
 
-High Tide: branding and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+High Tide: branding and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding, Packaging
 - **City:** New York

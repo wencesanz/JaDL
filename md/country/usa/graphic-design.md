@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in USA · Just a Design List"
-description: "178 independent studios working in graphic design in USA, from the Just a Design List index."
+description: "179 independent studios working in graphic design in USA, from the Just a Design List index."
 url: "https://justadesignlist.com/country/usa/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ Country · Graphic Design
 
 # Graphic Design in USA
 
-178 independent studios working in graphic design in USA, from the Just a Design List index.
+179 independent studios working in graphic design in USA, from the Just a Design List index.
 
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
 - [7D8](https://justadesignlist.com/studio/7d8) — Salt Lake City, USA
@@ -34,6 +34,7 @@ Country · Graphic Design
 - [Bethany Heck](https://justadesignlist.com/studio/bethany-heck) — New York, USA
 - [Better Half](https://justadesignlist.com/studio/better-half) — New York, USA
 - [Blurr Bureau](https://justadesignlist.com/studio/blurr-bureau) — New York, Melbourne, USA, Australia
+- [Callum Abbott](https://justadesignlist.com/studio/callum-abbott) — New York, USA
 - [Carpenter Collective](https://justadesignlist.com/studio/carpenter-collective) — Kansas City, USA
 - [CASE Agency](https://justadesignlist.com/studio/case-agency) — New York, Los Angeles, USA
 - [Chaoqun Wang](https://justadesignlist.com/studio/chaoqun-wang) — New York, USA

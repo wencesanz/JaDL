@@ -1,12 +1,12 @@
 ---
 title: "SPIN — Graphic Design, London, England · Just a Design List"
-description: "SPIN: graphic design and branding practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023."
+description: "SPIN: graphic design and branding practice based in London, England. One of 198 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/spin"
 ---
 
 # SPIN
 
-SPIN: graphic design and branding practice based in London, England. One of 197 studios from London on Just a Design List, added in June 2023.
+SPIN: graphic design and branding practice based in London, England. One of 198 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** London

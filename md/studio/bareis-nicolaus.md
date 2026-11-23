@@ -1,12 +1,12 @@
 ---
 title: "Bareis + Nicolaus — Branding, Hamburg, Germany · Just a Design List"
-description: "Bareis + Nicolaus: branding, graphic design and interactive/digital practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in July 2026."
+description: "Bareis + Nicolaus: branding, graphic design and interactive/digital practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/bareis-nicolaus"
 ---
 
 # Bareis + Nicolaus
 
-Bareis + Nicolaus: branding, graphic design and interactive/digital practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in July 2026.
+Bareis + Nicolaus: branding, graphic design and interactive/digital practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Illustration, Typography
 - **City:** Hamburg, Stuttgart

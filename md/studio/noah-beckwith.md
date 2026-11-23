@@ -1,12 +1,12 @@
 ---
 title: "Noah Beckwith — Graphic Design, New York, USA · Just a Design List"
-description: "Noah Beckwith: graphic design, packaging and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026."
+description: "Noah Beckwith: graphic design, packaging and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/noah-beckwith"
 ---
 
 # Noah Beckwith
 
-Noah Beckwith: graphic design, packaging and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026.
+Noah Beckwith: graphic design, packaging and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026.
 
 - **Discipline:** Graphic Design, Packaging, Interactive/Digital
 - **City:** New York

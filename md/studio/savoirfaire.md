@@ -1,12 +1,12 @@
 ---
 title: "SavoirFaire© — Interactive/Digital, New York, USA · Just a Design List"
-description: "SavoirFaire©: interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2026."
+description: "SavoirFaire©: interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/savoirfaire"
 ---
 
 # SavoirFaire©
 
-SavoirFaire©: interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2026.
+SavoirFaire©: interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2026.
 
 - **Discipline:** Interactive/Digital
 - **City:** New York

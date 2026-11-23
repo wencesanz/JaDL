@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in Germany · Just a Design List"
-description: "64 independent studios working in graphic design in Germany, from the Just a Design List index."
+description: "65 independent studios working in graphic design in Germany, from the Just a Design List index."
 url: "https://justadesignlist.com/country/germany/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ Country · Graphic Design
 
 # Graphic Design in Germany
 
-64 independent studios working in graphic design in Germany, from the Just a Design List index.
+65 independent studios working in graphic design in Germany, from the Just a Design List index.
 
 - [1042](https://justadesignlist.com/studio/1042) — Düsseldorf, Germany
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
@@ -65,6 +65,7 @@ Country · Graphic Design
 - [Sometimes Always](https://justadesignlist.com/studio/sometimes-always) — Berlin, Germany
 - [stapelberg&fritz](https://justadesignlist.com/studio/stapelbergandfritz) — Stuttgart, Germany
 - [strobo B M](https://justadesignlist.com/studio/strobo-b-m) — Munich, Germany
+- [Studio Chapeaux](https://justadesignlist.com/studio/studio-chapeaux) — Hamburg, Germany
 - [Studio Gruhl](https://justadesignlist.com/studio/studio-gruhl) — Berlin, Germany
 - [Studio Jacob Lindblad](https://justadesignlist.com/studio/studio-jacob-lindblad) — Berlin, Germany
 - [Studio Tillack Knöll](https://justadesignlist.com/studio/studio-tillack-knoll) — Stuttgart, Germany

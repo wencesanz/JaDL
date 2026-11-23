@@ -1,12 +1,12 @@
 ---
 title: "EST+6 — Branding, New York, USA · Just a Design List"
-description: "EST+6: branding, interactive/digital and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2026."
+description: "EST+6: branding, interactive/digital and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/est-6"
 ---
 
 # EST+6
 
-EST+6: branding, interactive/digital and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2026.
+EST+6: branding, interactive/digital and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging, Motion
 - **City:** New York, Barcelona

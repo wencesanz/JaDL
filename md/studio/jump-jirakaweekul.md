@@ -1,12 +1,12 @@
 ---
 title: "Jump Jirakaweekul — Branding, New York, USA · Just a Design List"
-description: "Jump Jirakaweekul: branding, graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in April 2026."
+description: "Jump Jirakaweekul: branding, graphic design and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in April 2026."
 url: "https://justadesignlist.com/studio/jump-jirakaweekul"
 ---
 
 # Jump Jirakaweekul
 
-Jump Jirakaweekul: branding, graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in April 2026.
+Jump Jirakaweekul: branding, graphic design and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in April 2026.
 
 - **Discipline:** Branding, Graphic Design, Typography
 - **City:** New York

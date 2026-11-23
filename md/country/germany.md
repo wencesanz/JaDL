@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Germany · Just a Design List"
-description: "100 independent design studios and practices based in Germany. A curated index — browse by city and discipline."
+description: "101 independent design studios and practices based in Germany. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/germany"
 ---
 
@@ -10,9 +10,9 @@ Country
 
 # Germany
 
-100 independent design studios and practices based in Germany. A curated index — browse by city and discipline.
+101 independent design studios and practices based in Germany. A curated index — browse by city and discipline.
 
-By discipline: [Branding design studios in Germany](https://justadesignlist.com/country/germany/branding) (70), [Graphic Design studios in Germany](https://justadesignlist.com/country/germany/graphic-design) (64), [Interactive/Digital design studios in Germany](https://justadesignlist.com/country/germany/interactive-digital) (52), [Typography design studios in Germany](https://justadesignlist.com/country/germany/typography) (22), [Packaging design studios in Germany](https://justadesignlist.com/country/germany/packaging) (21), [Motion design studios in Germany](https://justadesignlist.com/country/germany/motion) (14), [Advertising/Campaigns design studios in Germany](https://justadesignlist.com/country/germany/advertising-campaigns) (12), [Illustration design studios in Germany](https://justadesignlist.com/country/germany/illustration) (8)
+By discipline: [Branding design studios in Germany](https://justadesignlist.com/country/germany/branding) (71), [Graphic Design studios in Germany](https://justadesignlist.com/country/germany/graphic-design) (65), [Interactive/Digital design studios in Germany](https://justadesignlist.com/country/germany/interactive-digital) (53), [Packaging design studios in Germany](https://justadesignlist.com/country/germany/packaging) (22), [Typography design studios in Germany](https://justadesignlist.com/country/germany/typography) (22), [Motion design studios in Germany](https://justadesignlist.com/country/germany/motion) (14), [Advertising/Campaigns design studios in Germany](https://justadesignlist.com/country/germany/advertising-campaigns) (12), [Illustration design studios in Germany](https://justadesignlist.com/country/germany/illustration) (8)
 
 - [1042](https://justadesignlist.com/studio/1042) — Düsseldorf, Germany
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
@@ -98,6 +98,7 @@ By discipline: [Branding design studios in Germany](https://justadesignlist.com/
 - [Stan Hema](https://justadesignlist.com/studio/stan-hema) — Berlin, Germany
 - [stapelberg&fritz](https://justadesignlist.com/studio/stapelbergandfritz) — Stuttgart, Germany
 - [strobo B M](https://justadesignlist.com/studio/strobo-b-m) — Munich, Germany
+- [Studio Chapeaux](https://justadesignlist.com/studio/studio-chapeaux) — Hamburg, Germany
 - [Studio Gruhl](https://justadesignlist.com/studio/studio-gruhl) — Berlin, Germany
 - [Studio Jacob Lindblad](https://justadesignlist.com/studio/studio-jacob-lindblad) — Berlin, Germany
 - [Studio Jarvis](https://justadesignlist.com/studio/studio-jarvis) — Berlin, Paris, Germany, France

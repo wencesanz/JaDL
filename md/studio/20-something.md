@@ -1,12 +1,12 @@
 ---
 title: "20(SOMETHING) — Branding, London, England · Just a Design List"
-description: "20(SOMETHING): branding, motion and advertising/campaigns practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026."
+description: "20(SOMETHING): branding, motion and advertising/campaigns practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/20-something"
 ---
 
 # 20(SOMETHING)
 
-20(SOMETHING): branding, motion and advertising/campaigns practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026.
+20(SOMETHING): branding, motion and advertising/campaigns practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Motion, Advertising/Campaigns
 - **City:** London

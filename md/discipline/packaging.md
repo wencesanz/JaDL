@@ -1,6 +1,6 @@
 ---
 title: "Packaging design studios · Just a Design List"
-description: "469 independent studios and designers working in packaging, collected in the Just a Design List index. Browse by country and city."
+description: "470 independent studios and designers working in packaging, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/packaging"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Packaging
 
-469 independent studios and designers working in packaging, collected in the Just a Design List index. Browse by country and city.
+470 independent studios and designers working in packaging, collected in the Just a Design List index. Browse by country and city.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France

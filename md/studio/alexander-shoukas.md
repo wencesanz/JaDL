@@ -1,12 +1,12 @@
 ---
 title: "Alexander Shoukas — Graphic Design, New York, USA · Just a Design List"
-description: "Alexander Shoukas: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "Alexander Shoukas: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/alexander-shoukas"
 ---
 
 # Alexander Shoukas
 
-Alexander Shoukas: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+Alexander Shoukas: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design
 - **City:** New York

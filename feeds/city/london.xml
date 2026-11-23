@@ -5,8 +5,19 @@
     <link>https://justadesignlist.com/city/london</link>
     <description>New additions to Just a Design List: design studios in London.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:29:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:44:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/city/london.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>North</title>
+      <link>https://justadesignlist.com/studio/north</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/north</guid>
+      <pubDate>Mon, 23 Nov 2026 09:44:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Motion — London, England. https://northdesign.com</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+    </item>
     <item>
       <title>FLUORO®</title>
       <link>https://justadesignlist.com/studio/fluoro</link>
@@ -307,17 +318,6 @@
       <category>Motion</category>
       <category>Interactive/Digital</category>
       <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>Output</title>
-      <link>https://justadesignlist.com/studio/output</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/output</guid>
-      <pubDate>Thu, 10 Sep 2026 08:42:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Motion · Interactive/Digital — London, England. https://www.studio-output.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>

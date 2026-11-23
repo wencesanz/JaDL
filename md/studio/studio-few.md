@@ -1,12 +1,12 @@
 ---
 title: "Studio Few — Branding, Cheltenham, England · Just a Design List"
-description: "Studio Few: branding and typography practice based in Cheltenham, England. The only studio from Cheltenham, one of 245 from England on Just a Design List, added in August 2026."
+description: "Studio Few: branding and typography practice based in Cheltenham, England. The only studio from Cheltenham, one of 246 from England on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/studio-few"
 ---
 
 # Studio Few
 
-Studio Few: branding and typography practice based in Cheltenham, England. The only studio from Cheltenham, one of 245 from England on Just a Design List, added in August 2026.
+Studio Few: branding and typography practice based in Cheltenham, England. The only studio from Cheltenham, one of 246 from England on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Typography
 - **City:** Cheltenham

@@ -1,12 +1,12 @@
 ---
 title: "AHOY — Branding, New York, USA · Just a Design List"
-description: "AHOY: branding and graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "AHOY: branding and graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/ahoy"
 ---
 
 # AHOY
 
-AHOY: branding and graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+AHOY: branding and graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** New York, Zurich

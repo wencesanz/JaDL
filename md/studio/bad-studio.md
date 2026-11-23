@@ -1,12 +1,12 @@
 ---
 title: "BAD Studio — Graphic Design, New York, USA · Just a Design List"
-description: "BAD Studio: graphic design and illustration practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "BAD Studio: graphic design and illustration practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/bad-studio"
 ---
 
 # BAD Studio
 
-BAD Studio: graphic design and illustration practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+BAD Studio: graphic design and illustration practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Illustration
 - **City:** New York

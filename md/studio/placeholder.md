@@ -1,12 +1,12 @@
 ---
 title: "Placeholder — Branding, New York, USA · Just a Design List"
-description: "Placeholder: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026."
+description: "Placeholder: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/placeholder"
 ---
 
 # Placeholder
 
-Placeholder: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026.
+Placeholder: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding
 - **City:** New York

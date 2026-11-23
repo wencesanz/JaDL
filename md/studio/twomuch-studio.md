@@ -1,12 +1,12 @@
 ---
 title: "Twomuch Studio — Interactive/Digital, London, England · Just a Design List"
-description: "Twomuch Studio: interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026."
+description: "Twomuch Studio: interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/twomuch-studio"
 ---
 
 # Twomuch Studio
 
-Twomuch Studio: interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026.
+Twomuch Studio: interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Interactive/Digital
 - **City:** London, Vancouver

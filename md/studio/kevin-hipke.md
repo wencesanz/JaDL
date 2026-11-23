@@ -1,12 +1,12 @@
 ---
 title: "Kevin Hipke — Branding, London, England · Just a Design List"
-description: "Kevin Hipke: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in October 2026."
+description: "Kevin Hipke: branding, graphic design and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/kevin-hipke"
 ---
 
 # Kevin Hipke
 
-Kevin Hipke: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in October 2026.
+Kevin Hipke: branding, graphic design and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** London

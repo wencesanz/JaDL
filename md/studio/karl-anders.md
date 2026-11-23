@@ -1,12 +1,12 @@
 ---
 title: "Karl Anders — Branding, Hamburg, Germany · Just a Design List"
-description: "Karl Anders: branding practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in May 2023."
+description: "Karl Anders: branding practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/karl-anders"
 ---
 
 # Karl Anders
 
-Karl Anders: branding practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in May 2023.
+Karl Anders: branding practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** Hamburg

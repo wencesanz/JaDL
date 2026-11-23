@@ -1,12 +1,12 @@
 ---
 title: "Kiku Obata & Company — Branding, St. Louis, USA · Just a Design List"
-description: "Kiku Obata & Company: branding, graphic design and interactive/digital practice based in St. Louis, USA. The only studio from St. Louis, one of 334 from USA on Just a Design List, added in August 2026."
+description: "Kiku Obata & Company: branding, graphic design and interactive/digital practice based in St. Louis, USA. The only studio from St. Louis, one of 335 from USA on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/kiku-obata-and-company"
 ---
 
 # Kiku Obata & Company
 
-Kiku Obata & Company: branding, graphic design and interactive/digital practice based in St. Louis, USA. The only studio from St. Louis, one of 334 from USA on Just a Design List, added in August 2026.
+Kiku Obata & Company: branding, graphic design and interactive/digital practice based in St. Louis, USA. The only studio from St. Louis, one of 335 from USA on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging, Advertising/Campaigns
 - **City:** St. Louis, London

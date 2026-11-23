@@ -5,8 +5,38 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:32:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:35:05 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>North</title>
+      <link>https://northdesign.com</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/north</guid>
+      <pubDate>Mon, 23 Nov 2026 09:44:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Motion — London, England.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>Callum Abbott</title>
+      <link>https://callumabbott.info/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/callum-abbott</guid>
+      <pubDate>Mon, 23 Nov 2026 09:41:00 GMT</pubDate>
+      <description>Graphic Design — New York, USA.</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Studio Chapeaux</title>
+      <link>https://studiochapeaux.com</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-chapeaux</guid>
+      <pubDate>Mon, 23 Nov 2026 08:29:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Hamburg, Germany.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>TERMS</title>
       <link>https://www.terms.world</link>
@@ -297,37 +327,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Typography</category>
-    </item>
-    <item>
-      <title>HOT COTTAGE</title>
-      <link>https://www.hotcottage.earth/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/hot-cottage</guid>
-      <pubDate>Tue, 10 Nov 2026 10:49:00 GMT</pubDate>
-      <description>Branding · Graphic Design — Melbourne, Australia.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Anna Bosch</title>
-      <link>https://annaboschstudio.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/anna-bosch</guid>
-      <pubDate>Tue, 10 Nov 2026 10:38:00 GMT</pubDate>
-      <description>Graphic Design · Motion · Interactive/Digital · Packaging — Banyoles, Spain.</description>
-      <category>Graphic Design</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>AKLR</title>
-      <link>https://www.aklr.xyz/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/aklr</guid>
-      <pubDate>Tue, 10 Nov 2026 10:24:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Melbourne, Australia.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
     </item>
   </channel>
 </rss>

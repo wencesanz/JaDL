@@ -1,6 +1,6 @@
 ---
 title: "Motion design studios in England · Just a Design List"
-description: "49 independent studios working in motion in England, from the Just a Design List index."
+description: "50 independent studios working in motion in England, from the Just a Design List index."
 url: "https://justadesignlist.com/country/england/motion"
 ---
 
@@ -10,7 +10,7 @@ Country · Motion
 
 # Motion in England
 
-49 independent studios working in motion in England, from the Just a Design List index.
+50 independent studios working in motion in England, from the Just a Design List index.
 
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
 - [20(SOMETHING)](https://justadesignlist.com/studio/20-something) — London, England
@@ -43,6 +43,7 @@ Country · Motion
 - [New Genre](https://justadesignlist.com/studio/new-genre) — London, San Francisco, England, USA
 - [Nomad Studio](https://justadesignlist.com/studio/nomad-studio) — London, England
 - [Nonoia](https://justadesignlist.com/studio/nonoia) — London, England
+- [North](https://justadesignlist.com/studio/north) — London, England
 - [Odd works](https://justadesignlist.com/studio/odd-works) — Lisbon, London, Portugal, England
 - [OneLeft](https://justadesignlist.com/studio/oneleft) — London, England
 - [OTTO Creative Studio](https://justadesignlist.com/studio/otto-creative-studio) — Leeds, England

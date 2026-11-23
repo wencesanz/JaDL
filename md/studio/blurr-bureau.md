@@ -1,12 +1,12 @@
 ---
 title: "Blurr Bureau — Branding, New York, USA · Just a Design List"
-description: "Blurr Bureau: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026."
+description: "Blurr Bureau: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/blurr-bureau"
 ---
 
 # Blurr Bureau
 
-Blurr Bureau: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026.
+Blurr Bureau: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Motion, Advertising/Campaigns
 - **City:** New York, Melbourne

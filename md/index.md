@@ -1,10 +1,10 @@
 ---
 title: "Just a Design List — A curated directory of design practices"
-description: "A slow, curated index of design studios and independent designers. 1478 entries across 176 countries."
+description: "A slow, curated index of design studios and independent designers. 1481 entries across 176 countries."
 url: "https://justadesignlist.com/"
 ---
 
-# 1478 design studios and independent designers, collected without ranking.
+# 1481 design studios and independent designers, collected without ranking.
 
 A working index of studios and independent designers whose practice the editor finds worth returning to. Entries are collected slowly, without ranking, and each is kept short on purpose — a pointer, not a review. Navigate by discipline, geography, or simply read it as a list.
 
@@ -12,6 +12,9 @@ A working index of studios and independent designers whose practice the editor f
 
 ## Recent additions
 
+- [North](https://justadesignlist.com/studio/north) — London, England
+- [Callum Abbott](https://justadesignlist.com/studio/callum-abbott) — New York, USA
+- [Studio Chapeaux](https://justadesignlist.com/studio/studio-chapeaux) — Hamburg, Germany
 - [TERMS](https://justadesignlist.com/studio/terms) — Melbourne, Australia
 - [LOCO Studio](https://justadesignlist.com/studio/loco-studio) — Alicante, Spain
 - [Massive](https://justadesignlist.com/studio/massive) — Los Angeles, USA
@@ -29,17 +32,14 @@ A working index of studios and independent designers whose practice the editor f
 - [Dum Dum Studio ®](https://justadesignlist.com/studio/dum-dum-studio) — Monterrey, Mexico
 - [Oleg Vishnevsky](https://justadesignlist.com/studio/oleg-vishnevsky) — Tbilisi, Georgia
 - [adaaap](https://justadesignlist.com/studio/adaaap) — Bordeaux, France
-- [Michael Verze](https://justadesignlist.com/studio/michael-verze) — Sydney, Australia
-- [STUDIO WAN](https://justadesignlist.com/studio/studio-wan) — London, England
-- [Hispánica](https://justadesignlist.com/studio/hispanica) — Mexico City, Mexico
 
 ## By discipline
 
-- [Branding](https://justadesignlist.com/discipline/branding) (1179)
-- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (907)
-- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (728)
-- [Packaging](https://justadesignlist.com/discipline/packaging) (469)
-- [Motion](https://justadesignlist.com/discipline/motion) (231)
+- [Branding](https://justadesignlist.com/discipline/branding) (1181)
+- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (910)
+- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (730)
+- [Packaging](https://justadesignlist.com/discipline/packaging) (470)
+- [Motion](https://justadesignlist.com/discipline/motion) (232)
 - [Typography](https://justadesignlist.com/discipline/typography) (195)
 - [Advertising/Campaigns](https://justadesignlist.com/discipline/advertising-campaigns) (143)
 - [Illustration](https://justadesignlist.com/discipline/illustration) (115)
@@ -48,19 +48,19 @@ A working index of studios and independent designers whose practice the editor f
 ## By region
 
 - [Iberia](https://justadesignlist.com/region/iberia) (204)
-- [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (242)
-- [North America](https://justadesignlist.com/region/north-america) (346)
+- [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (243)
+- [North America](https://justadesignlist.com/region/north-america) (347)
 - [Nordics](https://justadesignlist.com/region/nordics) (110)
 - [Oceania](https://justadesignlist.com/region/oceania) (94)
-- [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (386)
+- [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (387)
 - [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (95)
 
 ## Most represented countries
 
-- [USA](https://justadesignlist.com/country/usa) (334)
-- [England](https://justadesignlist.com/country/england) (245)
+- [USA](https://justadesignlist.com/country/usa) (335)
+- [England](https://justadesignlist.com/country/england) (246)
 - [Spain](https://justadesignlist.com/country/spain) (202)
-- [Germany](https://justadesignlist.com/country/germany) (100)
+- [Germany](https://justadesignlist.com/country/germany) (101)
 - [Australia](https://justadesignlist.com/country/australia) (92)
 - [France](https://justadesignlist.com/country/france) (84)
 - [The Netherlands](https://justadesignlist.com/country/the-netherlands) (62)

@@ -1,6 +1,6 @@
 ---
 title: "Design studios in North America · Just a Design List"
-description: "346 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline."
+description: "347 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/north-america"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # North America
 
-346 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline.
+347 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline.
 
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
 - [2 x 4](https://justadesignlist.com/studio/2-x-4) — New York, Beijing, USA, China
@@ -61,6 +61,7 @@ Region
 - [Bruce Mau Design](https://justadesignlist.com/studio/bruce-mau-design) — Toronto, Canada
 - [BUCK](https://justadesignlist.com/studio/buck) — Los Angeles, New York, London, Amsterdam, Sydney, USA, England, The Netherlands, Australia
 - [Buddy-Buddy](https://justadesignlist.com/studio/buddy-buddy) — Minneapolis, USA
+- [Callum Abbott](https://justadesignlist.com/studio/callum-abbott) — New York, USA
 - [Carolanebel](https://justadesignlist.com/studio/carolanebel) — Montreal, Canada
 - [Carpenter Collective](https://justadesignlist.com/studio/carpenter-collective) — Kansas City, USA
 - [CASE Agency](https://justadesignlist.com/studio/case-agency) — New York, Los Angeles, USA
@@ -211,7 +212,6 @@ Region
 - [Matt Wiley](https://justadesignlist.com/studio/matt-wiley) — New York, USA
 - [Mayda](https://justadesignlist.com/studio/mayda) — New York, USA
 - [Meat](https://justadesignlist.com/studio/meat) — Toronto, Beijing, Canada, China
-- [Melia Tandiono](https://justadesignlist.com/studio/melia-tandiono) — New York, USA
 
 ---
 

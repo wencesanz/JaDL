@@ -1,12 +1,12 @@
 ---
 title: "Melia Tandiono — Branding, New York, USA · Just a Design List"
-description: "Melia Tandiono: branding, graphic design and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2026."
+description: "Melia Tandiono: branding, graphic design and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/melia-tandiono"
 ---
 
 # Melia Tandiono
 
-Melia Tandiono: branding, graphic design and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2026.
+Melia Tandiono: branding, graphic design and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging
 - **City:** New York

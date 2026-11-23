@@ -1,12 +1,12 @@
 ---
 title: "Together — Branding, London, England · Just a Design List"
-description: "Together: branding and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026."
+description: "Together: branding and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/together"
 ---
 
 # Together
 
-Together: branding and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026.
+Together: branding and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** London

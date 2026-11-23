@@ -1,12 +1,12 @@
 ---
 title: "Airborne Studio — Branding, London, England · Just a Design List"
-description: "Airborne Studio: branding, motion and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in September 2026."
+description: "Airborne Studio: branding, motion and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/airborne-studio"
 ---
 
 # Airborne Studio
 
-Airborne Studio: branding, motion and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in September 2026.
+Airborne Studio: branding, motion and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Motion, Interactive/Digital, Advertising/Campaigns
 - **City:** London

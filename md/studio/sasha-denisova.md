@@ -1,12 +1,12 @@
 ---
 title: "Sasha Denisova — Branding, New York, USA · Just a Design List"
-description: "Sasha Denisova: branding, graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026."
+description: "Sasha Denisova: branding, graphic design and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/sasha-denisova"
 ---
 
 # Sasha Denisova
 
-Sasha Denisova: branding, graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026.
+Sasha Denisova: branding, graphic design and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Typography, Packaging, Illustration, Motion
 - **City:** New York

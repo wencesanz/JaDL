@@ -1,12 +1,12 @@
 ---
 title: "Mutabor — Branding, Hamburg, Germany · Just a Design List"
-description: "Mutabor: branding, packaging and interactive/digital practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in June 2023."
+description: "Mutabor: branding, packaging and interactive/digital practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/mutabor"
 ---
 
 # Mutabor
 
-Mutabor: branding, packaging and interactive/digital practice based in Hamburg, Germany. One of 15 studios from Hamburg on Just a Design List, added in June 2023.
+Mutabor: branding, packaging and interactive/digital practice based in Hamburg, Germany. One of 16 studios from Hamburg on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Packaging, Interactive/Digital
 - **City:** Hamburg, Munich

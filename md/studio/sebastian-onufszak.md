@@ -1,12 +1,12 @@
 ---
 title: "Sebastian Onufszak — Graphic Design, Augsburg, Germany · Just a Design List"
-description: "Sebastian Onufszak: graphic design, motion and illustration practice based in Augsburg, Germany. The only studio from Augsburg, one of 100 from Germany on Just a Design List, added in October 2024."
+description: "Sebastian Onufszak: graphic design, motion and illustration practice based in Augsburg, Germany. The only studio from Augsburg, one of 101 from Germany on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/sebastian-onufszak"
 ---
 
 # Sebastian Onufszak
 
-Sebastian Onufszak: graphic design, motion and illustration practice based in Augsburg, Germany. The only studio from Augsburg, one of 100 from Germany on Just a Design List, added in October 2024.
+Sebastian Onufszak: graphic design, motion and illustration practice based in Augsburg, Germany. The only studio from Augsburg, one of 101 from Germany on Just a Design List, added in October 2024.
 
 - **Discipline:** Graphic Design, Motion, Illustration
 - **City:** Augsburg

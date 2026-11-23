@@ -1,12 +1,12 @@
 ---
 title: "Joyce N. Ho — Graphic Design, New York, USA · Just a Design List"
-description: "Joyce N. Ho: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026."
+description: "Joyce N. Ho: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/joyce-n-ho"
 ---
 
 # Joyce N. Ho
 
-Joyce N. Ho: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026.
+Joyce N. Ho: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026.
 
 - **Discipline:** Graphic Design
 - **City:** New York

@@ -1,12 +1,12 @@
 ---
 title: "Baron & Baron — Branding, New York, USA · Just a Design List"
-description: "Baron & Baron: branding and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "Baron & Baron: branding and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/baron-and-baron"
 ---
 
 # Baron & Baron
 
-Baron & Baron: branding and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+Baron & Baron: branding and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Packaging
 - **City:** New York, Paris

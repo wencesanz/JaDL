@@ -1,12 +1,12 @@
 ---
 title: "Rachel Quan — Graphic Design, New York, USA · Just a Design List"
-description: "Rachel Quan: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2024."
+description: "Rachel Quan: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/rachel-quan"
 ---
 
 # Rachel Quan
 
-Rachel Quan: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2024.
+Rachel Quan: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2024.
 
 - **Discipline:** Graphic Design
 - **City:** New York

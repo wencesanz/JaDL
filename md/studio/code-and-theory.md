@@ -1,12 +1,12 @@
 ---
 title: "Code and Theory — Interactive/Digital, New York, USA · Just a Design List"
-description: "Code and Theory: interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "Code and Theory: interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/code-and-theory"
 ---
 
 # Code and Theory
 
-Code and Theory: interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+Code and Theory: interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Interactive/Digital
 - **City:** New York

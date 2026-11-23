@@ -1,6 +1,6 @@
 ---
 title: "Design studios in the UK & Ireland · Just a Design List"
-description: "242 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline."
+description: "243 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/uk-and-ireland"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # UK & Ireland
 
-242 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline.
+243 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline.
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [20(SOMETHING)](https://justadesignlist.com/studio/20-something) — London, England
@@ -164,6 +164,7 @@ Region
 - [Nomad Studio](https://justadesignlist.com/studio/nomad-studio) — London, England
 - [Nomis Creative](https://justadesignlist.com/studio/nomis-creative) — London, England
 - [Nonoia](https://justadesignlist.com/studio/nonoia) — London, England
+- [North](https://justadesignlist.com/studio/north) — London, England
 - [O Street](https://justadesignlist.com/studio/o-street) — Glasgow, Scotland
 - [Office of Joe Diver](https://justadesignlist.com/studio/office-of-joe-diver) — London, England
 - [Office of Overview](https://justadesignlist.com/studio/office-of-overview) — London, England
@@ -211,7 +212,6 @@ Region
 - [Sophie O’Connor](https://justadesignlist.com/studio/sophie-o-connor) — Manchester, England
 - [SOUP](https://justadesignlist.com/studio/soup) — London, England
 - [Spencer Fenton](https://justadesignlist.com/studio/spencer-fenton) — London, England
-- [SPIN](https://justadesignlist.com/studio/spin) — London, England
 
 ---
 

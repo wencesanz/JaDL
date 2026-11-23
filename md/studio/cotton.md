@@ -1,12 +1,12 @@
 ---
 title: "Cotton — Branding, New York, USA · Just a Design List"
-description: "Cotton: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2024."
+description: "Cotton: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2024."
 url: "https://justadesignlist.com/studio/cotton"
 ---
 
 # Cotton
 
-Cotton: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2024.
+Cotton: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2024.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** New York

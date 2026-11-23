@@ -1,12 +1,12 @@
 ---
 title: "Garrett Elizabeth Office — Graphic Design, New York, USA · Just a Design List"
-description: "Garrett Elizabeth Office: graphic design, branding and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "Garrett Elizabeth Office: graphic design, branding and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/garrett-elizabeth-office"
 ---
 
 # Garrett Elizabeth Office
 
-Garrett Elizabeth Office: graphic design, branding and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+Garrett Elizabeth Office: graphic design, branding and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding, Packaging, Interactive/Digital
 - **City:** New York

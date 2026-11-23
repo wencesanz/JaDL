@@ -1,12 +1,12 @@
 ---
 title: "Creech — Branding, New York, USA · Just a Design List"
-description: "Creech: branding and advertising/campaigns practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in December 2024."
+description: "Creech: branding and advertising/campaigns practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in December 2024."
 url: "https://justadesignlist.com/studio/creech"
 ---
 
 # Creech
 
-Creech: branding and advertising/campaigns practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in December 2024.
+Creech: branding and advertising/campaigns practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in December 2024.
 
 - **Discipline:** Branding, Advertising/Campaigns
 - **City:** New York

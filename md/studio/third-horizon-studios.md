@@ -1,12 +1,12 @@
 ---
 title: "THIRD HORIZON Studios® — Branding, London, England · Just a Design List"
-description: "THIRD HORIZON Studios®: branding, graphic design and motion practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2026."
+description: "THIRD HORIZON Studios®: branding, graphic design and motion practice based in London, England. One of 198 studios from London on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/third-horizon-studios"
 ---
 
 # THIRD HORIZON Studios®
 
-THIRD HORIZON Studios®: branding, graphic design and motion practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2026.
+THIRD HORIZON Studios®: branding, graphic design and motion practice based in London, England. One of 198 studios from London on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Graphic Design, Motion, Interactive/Digital
 - **City:** London

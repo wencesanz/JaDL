@@ -1,12 +1,12 @@
 ---
 title: "Duzi Studio — Branding, London, England · Just a Design List"
-description: "Duzi Studio: branding, packaging and illustration practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2025."
+description: "Duzi Studio: branding, packaging and illustration practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2025."
 url: "https://justadesignlist.com/studio/duzi-studio"
 ---
 
 # Duzi Studio
 
-Duzi Studio: branding, packaging and illustration practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2025.
+Duzi Studio: branding, packaging and illustration practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2025.
 
 - **Discipline:** Branding, Packaging, Illustration, Interactive/Digital
 - **City:** London

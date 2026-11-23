@@ -1,12 +1,12 @@
 ---
 title: "The Future Forward — Branding, New York, USA · Just a Design List"
-description: "The Future Forward: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026."
+description: "The Future Forward: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/the-future-forward"
 ---
 
 # The Future Forward
 
-The Future Forward: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026.
+The Future Forward: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** New York, Miami

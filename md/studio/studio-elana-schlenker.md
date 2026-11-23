@@ -1,12 +1,12 @@
 ---
 title: "Studio Elana Schlenker — Graphic Design, New York, USA · Just a Design List"
-description: "Studio Elana Schlenker: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "Studio Elana Schlenker: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/studio-elana-schlenker"
 ---
 
 # Studio Elana Schlenker
 
-Studio Elana Schlenker: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+Studio Elana Schlenker: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design
 - **City:** New York

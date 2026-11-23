@@ -1,12 +1,12 @@
 ---
 title: "AUFI — Branding, London, England · Just a Design List"
-description: "AUFI: branding and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2024."
+description: "AUFI: branding and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/aufi"
 ---
 
 # AUFI
 
-AUFI: branding and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2024.
+AUFI: branding and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in November 2024.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** London

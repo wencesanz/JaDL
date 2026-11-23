@@ -1,12 +1,12 @@
 ---
 title: "Sunny Tianqing Li — Graphic Design, Santa Clara, USA · Just a Design List"
-description: "Sunny Tianqing Li: graphic design practice based in Santa Clara, USA. The only studio from Santa Clara, one of 334 from USA on Just a Design List, added in May 2023."
+description: "Sunny Tianqing Li: graphic design practice based in Santa Clara, USA. The only studio from Santa Clara, one of 335 from USA on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/sunny-tianqing-li"
 ---
 
 # Sunny Tianqing Li
 
-Sunny Tianqing Li: graphic design practice based in Santa Clara, USA. The only studio from Santa Clara, one of 334 from USA on Just a Design List, added in May 2023.
+Sunny Tianqing Li: graphic design practice based in Santa Clara, USA. The only studio from Santa Clara, one of 335 from USA on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Santa Clara

@@ -1,12 +1,12 @@
 ---
 title: "Decimal — Branding, New York, USA · Just a Design List"
-description: "Decimal: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026."
+description: "Decimal: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/decimal"
 ---
 
 # Decimal
 
-Decimal: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026.
+Decimal: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** New York

@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in Germany · Just a Design List"
-description: "52 independent studios working in interactive/digital in Germany, from the Just a Design List index."
+description: "53 independent studios working in interactive/digital in Germany, from the Just a Design List index."
 url: "https://justadesignlist.com/country/germany/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ Country · Interactive/Digital
 
 # Interactive/Digital in Germany
 
-52 independent studios working in interactive/digital in Germany, from the Just a Design List index.
+53 independent studios working in interactive/digital in Germany, from the Just a Design List index.
 
 - [1042](https://justadesignlist.com/studio/1042) — Düsseldorf, Germany
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
@@ -56,6 +56,7 @@ Country · Interactive/Digital
 - [Serve and Volley](https://justadesignlist.com/studio/serve-and-volley) — Cologne, Germany
 - [Shuka](https://justadesignlist.com/studio/shuka) — Berlin, Sydney, Almaty, Germany, Australia, Kazakhstan
 - [Stan Hema](https://justadesignlist.com/studio/stan-hema) — Berlin, Germany
+- [Studio Chapeaux](https://justadesignlist.com/studio/studio-chapeaux) — Hamburg, Germany
 - [Studio Jacob Lindblad](https://justadesignlist.com/studio/studio-jacob-lindblad) — Berlin, Germany
 - [Studio Jarvis](https://justadesignlist.com/studio/studio-jarvis) — Berlin, Paris, Germany, France
 - [Studio zur Strassen](https://justadesignlist.com/studio/studio-zur-strassen) — Munich, Germany

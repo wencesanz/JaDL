@@ -1,12 +1,12 @@
 ---
 title: "Hatch — Interactive/Digital, London, England · Just a Design List"
-description: "Hatch: interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026."
+description: "Hatch: interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/hatch"
 ---
 
 # Hatch
 
-Hatch: interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2026.
+Hatch: interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2026.
 
 - **Discipline:** Interactive/Digital
 - **City:** London

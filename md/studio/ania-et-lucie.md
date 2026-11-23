@@ -1,12 +1,12 @@
 ---
 title: "Ania et Lucie — Branding, New York, USA · Just a Design List"
-description: "Ania et Lucie: branding, interactive/digital and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "Ania et Lucie: branding, interactive/digital and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/ania-et-lucie"
 ---
 
 # Ania et Lucie
 
-Ania et Lucie: branding, interactive/digital and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+Ania et Lucie: branding, interactive/digital and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging
 - **City:** New York

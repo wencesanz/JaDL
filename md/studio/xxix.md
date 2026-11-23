@@ -1,12 +1,12 @@
 ---
 title: "XXIX — Branding, New York, USA · Just a Design List"
-description: "XXIX: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "XXIX: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/xxix"
 ---
 
 # XXIX
 
-XXIX: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+XXIX: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** New York, Chicago, Berlin

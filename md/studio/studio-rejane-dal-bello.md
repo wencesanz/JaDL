@@ -1,12 +1,12 @@
 ---
 title: "Studio Rejane Dal Bello — Branding, London, England · Just a Design List"
-description: "Studio Rejane Dal Bello: branding, graphic design and motion practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026."
+description: "Studio Rejane Dal Bello: branding, graphic design and motion practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/studio-rejane-dal-bello"
 ---
 
 # Studio Rejane Dal Bello
 
-Studio Rejane Dal Bello: branding, graphic design and motion practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026.
+Studio Rejane Dal Bello: branding, graphic design and motion practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Motion, Interactive/Digital, Illustration, Packaging
 - **City:** London

@@ -5,8 +5,38 @@
     <link>https://justadesignlist.com/discipline/graphic-design</link>
     <description>New additions to Just a Design List: Graphic Design studios.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 09:34:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:44:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/graphic-design.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>North</title>
+      <link>https://justadesignlist.com/studio/north</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/north</guid>
+      <pubDate>Mon, 23 Nov 2026 09:44:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Motion — London, England. https://northdesign.com</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>Callum Abbott</title>
+      <link>https://justadesignlist.com/studio/callum-abbott</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/callum-abbott</guid>
+      <pubDate>Mon, 23 Nov 2026 09:41:00 GMT</pubDate>
+      <description>Graphic Design — New York, USA. https://callumabbott.info/</description>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Studio Chapeaux</title>
+      <link>https://justadesignlist.com/studio/studio-chapeaux</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-chapeaux</guid>
+      <pubDate>Mon, 23 Nov 2026 08:29:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Hamburg, Germany. https://studiochapeaux.com</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Tom Mussak</title>
       <link>https://justadesignlist.com/studio/tom-mussak</link>
@@ -305,37 +335,6 @@
       <category>Graphic Design</category>
       <category>Interactive/Digital</category>
       <category>Packaging</category>
-    </item>
-    <item>
-      <title>Democràcia Studio</title>
-      <link>https://justadesignlist.com/studio/democracia-studio</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/democracia-studio</guid>
-      <pubDate>Mon, 09 Nov 2026 21:18:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Typography — Valencia, Spain. https://democracia.studio/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Typography</category>
-    </item>
-    <item>
-      <title>SYNGG</title>
-      <link>https://justadesignlist.com/studio/syngg</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/syngg</guid>
-      <pubDate>Mon, 09 Nov 2026 21:14:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Typography — Melbourne, Australia. https://www.syngg.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Typography</category>
-    </item>
-    <item>
-      <title>From Form</title>
-      <link>https://justadesignlist.com/studio/from-form</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/from-form</guid>
-      <pubDate>Mon, 09 Nov 2026 21:11:00 GMT</pubDate>
-      <description>Graphic Design · Advertising/Campaigns · Motion — Rotterdam, The Netherlands. https://fromform.nl/</description>
-      <category>Graphic Design</category>
-      <category>Advertising/Campaigns</category>
-      <category>Motion</category>
     </item>
   </channel>
 </rss>

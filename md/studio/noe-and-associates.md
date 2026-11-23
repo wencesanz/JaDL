@@ -1,12 +1,12 @@
 ---
 title: "Noë & Associates — Branding, New York, USA · Just a Design List"
-description: "Noë & Associates: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2026."
+description: "Noë & Associates: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/noe-and-associates"
 ---
 
 # Noë & Associates
 
-Noë & Associates: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2026.
+Noë & Associates: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** New York, London, Dubai

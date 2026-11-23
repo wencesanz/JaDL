@@ -1,12 +1,12 @@
 ---
 title: "Special Offer, Inc — Branding, New York, USA · Just a Design List"
-description: "Special Offer, Inc: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2026."
+description: "Special Offer, Inc: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/special-offer-inc"
 ---
 
 # Special Offer, Inc
 
-Special Offer, Inc: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2026.
+Special Offer, Inc: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** New York

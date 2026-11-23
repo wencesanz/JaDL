@@ -1,12 +1,12 @@
 ---
 title: "Elizabeth Goodspeed — Branding, New York, USA · Just a Design List"
-description: "Elizabeth Goodspeed: branding and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Elizabeth Goodspeed: branding and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/elizabeth-goodspeed"
 ---
 
 # Elizabeth Goodspeed
 
-Elizabeth Goodspeed: branding and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Elizabeth Goodspeed: branding and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding, Packaging
 - **City:** New York

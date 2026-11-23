@@ -1,12 +1,12 @@
 ---
 title: "Milkshake — Branding, New York, USA · Just a Design List"
-description: "Milkshake: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026."
+description: "Milkshake: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/milkshake"
 ---
 
 # Milkshake
 
-Milkshake: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026.
+Milkshake: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** New York

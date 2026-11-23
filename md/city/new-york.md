@@ -1,6 +1,6 @@
 ---
 title: "Design studios in New York · Just a Design List"
-description: "171 independent design studios based in New York, from the Just a Design List index. Browse by discipline."
+description: "172 independent design studios based in New York, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/new-york"
 ---
 
@@ -10,9 +10,9 @@ City
 
 # New York
 
-171 independent design studios based in New York, from the Just a Design List index. Browse by discipline.
+172 independent design studios based in New York, from the Just a Design List index. Browse by discipline.
 
-By discipline: [Branding design studios in New York](https://justadesignlist.com/city/new-york/branding) (139), [Graphic Design studios in New York](https://justadesignlist.com/city/new-york/graphic-design) (94), [Interactive/Digital design studios in New York](https://justadesignlist.com/city/new-york/interactive-digital) (84), [Packaging design studios in New York](https://justadesignlist.com/city/new-york/packaging) (49), [Motion design studios in New York](https://justadesignlist.com/city/new-york/motion) (28), [Typography design studios in New York](https://justadesignlist.com/city/new-york/typography) (27), [Advertising/Campaigns design studios in New York](https://justadesignlist.com/city/new-york/advertising-campaigns) (14), [Illustration design studios in New York](https://justadesignlist.com/city/new-york/illustration) (8)
+By discipline: [Branding design studios in New York](https://justadesignlist.com/city/new-york/branding) (139), [Graphic Design studios in New York](https://justadesignlist.com/city/new-york/graphic-design) (95), [Interactive/Digital design studios in New York](https://justadesignlist.com/city/new-york/interactive-digital) (84), [Packaging design studios in New York](https://justadesignlist.com/city/new-york/packaging) (49), [Motion design studios in New York](https://justadesignlist.com/city/new-york/motion) (28), [Typography design studios in New York](https://justadesignlist.com/city/new-york/typography) (27), [Advertising/Campaigns design studios in New York](https://justadesignlist.com/city/new-york/advertising-campaigns) (14), [Illustration design studios in New York](https://justadesignlist.com/city/new-york/illustration) (8)
 
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -46,6 +46,7 @@ By discipline: [Branding design studios in New York](https://justadesignlist.com
 - [Brand New School](https://justadesignlist.com/studio/brand-new-school) — New York, Los Angeles, USA
 - [Brooklyn Digital Foundry](https://justadesignlist.com/studio/brooklyn-digital-foundry) — New York, USA
 - [BUCK](https://justadesignlist.com/studio/buck) — Los Angeles, New York, London, Amsterdam, Sydney, USA, England, The Netherlands, Australia
+- [Callum Abbott](https://justadesignlist.com/studio/callum-abbott) — New York, USA
 - [CASE Agency](https://justadesignlist.com/studio/case-agency) — New York, Los Angeles, USA
 - [CENTER](https://justadesignlist.com/studio/center) — New York, USA
 - [Champions Design](https://justadesignlist.com/studio/champions-design) — New York, Cupertino, USA

@@ -5,8 +5,19 @@
     <link>https://justadesignlist.com/discipline/motion</link>
     <description>New additions to Just a Design List: Motion studios.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 14:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:44:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/motion.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>North</title>
+      <link>https://justadesignlist.com/studio/north</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/north</guid>
+      <pubDate>Mon, 23 Nov 2026 09:44:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Motion — London, England. https://northdesign.com</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+    </item>
     <item>
       <title>Massive</title>
       <link>https://justadesignlist.com/studio/massive</link>
@@ -342,17 +353,6 @@
       <description>Branding · Interactive/Digital · Motion — Stockholm, Sweden. https://moststudios.com/</description>
       <category>Branding</category>
       <category>Interactive/Digital</category>
-      <category>Motion</category>
-    </item>
-    <item>
-      <title>.raw</title>
-      <link>https://justadesignlist.com/studio/raw</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/raw</guid>
-      <pubDate>Tue, 15 Sep 2026 10:11:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital · Packaging · Motion — Ljubljana, Slovenia. https://www.rawlab.co/</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
       <category>Motion</category>
     </item>
   </channel>

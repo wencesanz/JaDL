@@ -1,12 +1,12 @@
 ---
 title: "FAY — Branding, New York, USA · Just a Design List"
-description: "FAY: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026."
+description: "FAY: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/fay"
 ---
 
 # FAY
 
-FAY: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026.
+FAY: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging, Motion
 - **City:** New York

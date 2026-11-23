@@ -1,12 +1,12 @@
 ---
 title: "Graphis Dept. — Branding, New York, USA · Just a Design List"
-description: "Graphis Dept.: branding, motion and graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026."
+description: "Graphis Dept.: branding, motion and graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/graphis-dept"
 ---
 
 # Graphis Dept.
 
-Graphis Dept.: branding, motion and graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026.
+Graphis Dept.: branding, motion and graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Motion, Graphic Design, Packaging, Interactive/Digital
 - **City:** New York

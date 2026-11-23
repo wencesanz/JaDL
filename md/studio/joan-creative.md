@@ -1,12 +1,12 @@
 ---
 title: "Joan Creative — Branding, New York, USA · Just a Design List"
-description: "Joan Creative: branding, advertising/campaigns and illustration practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026."
+description: "Joan Creative: branding, advertising/campaigns and illustration practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/joan-creative"
 ---
 
 # Joan Creative
 
-Joan Creative: branding, advertising/campaigns and illustration practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026.
+Joan Creative: branding, advertising/campaigns and illustration practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Advertising/Campaigns, Illustration, Packaging
 - **City:** New York, Berlin, London

@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in Germany · Just a Design List"
-description: "70 independent studios working in branding in Germany, from the Just a Design List index."
+description: "71 independent studios working in branding in Germany, from the Just a Design List index."
 url: "https://justadesignlist.com/country/germany/branding"
 ---
 
@@ -10,7 +10,7 @@ Country · Branding
 
 # Branding in Germany
 
-70 independent studios working in branding in Germany, from the Just a Design List index.
+71 independent studios working in branding in Germany, from the Just a Design List index.
 
 - [1042](https://justadesignlist.com/studio/1042) — Düsseldorf, Germany
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
@@ -70,6 +70,7 @@ Country · Branding
 - [Spark Studio](https://justadesignlist.com/studio/spark-studio) — Berlin, Germany
 - [Stan Hema](https://justadesignlist.com/studio/stan-hema) — Berlin, Germany
 - [stapelberg&fritz](https://justadesignlist.com/studio/stapelbergandfritz) — Stuttgart, Germany
+- [Studio Chapeaux](https://justadesignlist.com/studio/studio-chapeaux) — Hamburg, Germany
 - [Studio Gruhl](https://justadesignlist.com/studio/studio-gruhl) — Berlin, Germany
 - [Studio Jacob Lindblad](https://justadesignlist.com/studio/studio-jacob-lindblad) — Berlin, Germany
 - [Studio Jarvis](https://justadesignlist.com/studio/studio-jarvis) — Berlin, Paris, Germany, France

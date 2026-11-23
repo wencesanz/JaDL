@@ -5,8 +5,30 @@
     <link>https://justadesignlist.com/discipline/interactive-digital</link>
     <description>New additions to Just a Design List: Interactive/Digital studios.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 14:37:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:44:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/interactive-digital.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>North</title>
+      <link>https://justadesignlist.com/studio/north</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/north</guid>
+      <pubDate>Mon, 23 Nov 2026 09:44:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital · Motion — London, England. https://northdesign.com</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+      <category>Motion</category>
+    </item>
+    <item>
+      <title>Studio Chapeaux</title>
+      <link>https://justadesignlist.com/studio/studio-chapeaux</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-chapeaux</guid>
+      <pubDate>Mon, 23 Nov 2026 08:29:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Packaging · Interactive/Digital — Hamburg, Germany. https://studiochapeaux.com</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>LOCO Studio</title>
       <link>https://justadesignlist.com/studio/loco-studio</link>
@@ -321,25 +343,6 @@
       <category>Illustration</category>
       <category>Typography</category>
       <category>Packaging</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Big Active</title>
-      <link>https://justadesignlist.com/studio/big-active</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/big-active</guid>
-      <pubDate>Fri, 30 Oct 2026 09:49:00 GMT</pubDate>
-      <description>Graphic Design · Interactive/Digital — London, England. https://bigactive.com/</description>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Kevin Hipke</title>
-      <link>https://justadesignlist.com/studio/kevin-hipke</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/kevin-hipke</guid>
-      <pubDate>Thu, 29 Oct 2026 15:49:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital — London, England. https://kevinhipke.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>

@@ -1,12 +1,12 @@
 ---
 title: "Studio FAX — Branding, London, England · Just a Design List"
-description: "Studio FAX: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in September 2026."
+description: "Studio FAX: branding, graphic design and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/studio-fax"
 ---
 
 # Studio FAX
 
-Studio FAX: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in September 2026.
+Studio FAX: branding, graphic design and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Typography
 - **City:** London

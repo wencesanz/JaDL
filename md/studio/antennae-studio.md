@@ -1,12 +1,12 @@
 ---
 title: "Antennae Studio — Branding, London, England · Just a Design List"
-description: "Antennae Studio: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2026."
+description: "Antennae Studio: branding, graphic design and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/antennae-studio"
 ---
 
 # Antennae Studio
 
-Antennae Studio: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2026.
+Antennae Studio: branding, graphic design and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Typography, Packaging
 - **City:** London, Madrid

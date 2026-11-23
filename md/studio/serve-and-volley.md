@@ -1,12 +1,12 @@
 ---
 title: "Serve and Volley — Graphic Design, Cologne, Germany · Just a Design List"
-description: "Serve and Volley: graphic design and interactive/digital practice based in Cologne, Germany. The only studio from Cologne, one of 100 from Germany on Just a Design List, added in May 2023."
+description: "Serve and Volley: graphic design and interactive/digital practice based in Cologne, Germany. The only studio from Cologne, one of 101 from Germany on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/serve-and-volley"
 ---
 
 # Serve and Volley
 
-Serve and Volley: graphic design and interactive/digital practice based in Cologne, Germany. The only studio from Cologne, one of 100 from Germany on Just a Design List, added in May 2023.
+Serve and Volley: graphic design and interactive/digital practice based in Cologne, Germany. The only studio from Cologne, one of 101 from Germany on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Interactive/Digital
 - **City:** Cologne

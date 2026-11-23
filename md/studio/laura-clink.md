@@ -1,12 +1,12 @@
 ---
 title: "Laura Clink — Branding, London, England · Just a Design List"
-description: "Laura Clink: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026."
+description: "Laura Clink: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/laura-clink"
 ---
 
 # Laura Clink
 
-Laura Clink: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026.
+Laura Clink: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Advertising/Campaigns, Packaging
 - **City:** London

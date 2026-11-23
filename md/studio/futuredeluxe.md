@@ -1,12 +1,12 @@
 ---
 title: "FutureDeluxe — Motion, London, England · Just a Design List"
-description: "FutureDeluxe: motion and branding practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026."
+description: "FutureDeluxe: motion and branding practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/futuredeluxe"
 ---
 
 # FutureDeluxe
 
-FutureDeluxe: motion and branding practice based in London, England. One of 197 studios from London on Just a Design List, added in August 2026.
+FutureDeluxe: motion and branding practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Motion, Branding
 - **City:** London, Los Angeles, New York, Sydney

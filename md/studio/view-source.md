@@ -1,12 +1,12 @@
 ---
 title: "View Source — Branding, New York, USA · Just a Design List"
-description: "View Source: branding, packaging and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2026."
+description: "View Source: branding, packaging and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/view-source"
 ---
 
 # View Source
 
-View Source: branding, packaging and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2026.
+View Source: branding, packaging and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Packaging, Interactive/Digital
 - **City:** New York

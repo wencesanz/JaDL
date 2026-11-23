@@ -1,12 +1,12 @@
 ---
 title: "Margot Lévêque — Graphic Design, New York, USA · Just a Design List"
-description: "Margot Lévêque: graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Margot Lévêque: graphic design and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/margot-leveque"
 ---
 
 # Margot Lévêque
 
-Margot Lévêque: graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Margot Lévêque: graphic design and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Typography
 - **City:** New York

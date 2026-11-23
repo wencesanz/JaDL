@@ -1,12 +1,12 @@
 ---
 title: "The Collected Works — Branding, New York, USA · Just a Design List"
-description: "The Collected Works: branding, graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in December 2024."
+description: "The Collected Works: branding, graphic design and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in December 2024."
 url: "https://justadesignlist.com/studio/the-collected-works"
 ---
 
 # The Collected Works
 
-The Collected Works: branding, graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in December 2024.
+The Collected Works: branding, graphic design and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in December 2024.
 
 - **Discipline:** Branding, Graphic Design, Typography, Interactive/Digital
 - **City:** New York, New Orleans

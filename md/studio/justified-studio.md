@@ -1,12 +1,12 @@
 ---
 title: "Justified Studio — Branding, London, England · Just a Design List"
-description: "Justified Studio: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2024."
+description: "Justified Studio: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 198 studios from London on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/justified-studio"
 ---
 
 # Justified Studio
 
-Justified Studio: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2024.
+Justified Studio: branding, interactive/digital and advertising/campaigns practice based in London, England. One of 198 studios from London on Just a Design List, added in November 2024.
 
 - **Discipline:** Branding, Interactive/Digital, Advertising/Campaigns
 - **City:** London

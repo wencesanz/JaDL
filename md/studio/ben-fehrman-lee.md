@@ -1,12 +1,12 @@
 ---
 title: "Ben Fehrman-Lee — Graphic Design, New York, USA · Just a Design List"
-description: "Ben Fehrman-Lee: graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026."
+description: "Ben Fehrman-Lee: graphic design and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/ben-fehrman-lee"
 ---
 
 # Ben Fehrman-Lee
 
-Ben Fehrman-Lee: graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026.
+Ben Fehrman-Lee: graphic design and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026.
 
 - **Discipline:** Graphic Design, Typography
 - **City:** New York

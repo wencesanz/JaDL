@@ -1,12 +1,12 @@
 ---
 title: "Fabian Huber — Branding, Koln, Germany · Just a Design List"
-description: "Fabian Huber: branding, graphic design and interactive/digital practice based in Koln, Germany. The only studio from Koln, one of 100 from Germany on Just a Design List, added in November 2026."
+description: "Fabian Huber: branding, graphic design and interactive/digital practice based in Koln, Germany. The only studio from Koln, one of 101 from Germany on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/fabian-huber"
 ---
 
 # Fabian Huber
 
-Fabian Huber: branding, graphic design and interactive/digital practice based in Koln, Germany. The only studio from Koln, one of 100 from Germany on Just a Design List, added in November 2026.
+Fabian Huber: branding, graphic design and interactive/digital practice based in Koln, Germany. The only studio from Koln, one of 101 from Germany on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Motion, Packaging, Advertising/Campaigns
 - **City:** Koln

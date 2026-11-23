@@ -1,12 +1,12 @@
 ---
 title: "Athletics — Branding, New York, USA · Just a Design List"
-description: "Athletics: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Athletics: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/athletics"
 ---
 
 # Athletics
 
-Athletics: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Athletics: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** New York

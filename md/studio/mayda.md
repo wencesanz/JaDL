@@ -1,12 +1,12 @@
 ---
 title: "Mayda — Advertising/Campaigns, New York, USA · Just a Design List"
-description: "Mayda: advertising/campaigns and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2024."
+description: "Mayda: advertising/campaigns and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/mayda"
 ---
 
 # Mayda
 
-Mayda: advertising/campaigns and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2024.
+Mayda: advertising/campaigns and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2024.
 
 - **Discipline:** Advertising/Campaigns, Interactive/Digital
 - **City:** New York

@@ -1,12 +1,12 @@
 ---
 title: "WØRKS — Graphic Design, New York, USA · Just a Design List"
-description: "WØRKS: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "WØRKS: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/w-rks"
 ---
 
 # WØRKS
 
-WØRKS: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+WØRKS: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** New York

@@ -1,6 +1,6 @@
 ---
 title: "Motion design studios · Just a Design List"
-description: "231 independent studios and designers working in motion, collected in the Just a Design List index. Browse by country and city."
+description: "232 independent studios and designers working in motion, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/motion"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Motion
 
-231 independent studios and designers working in motion, collected in the Just a Design List index. Browse by country and city.
+232 independent studios and designers working in motion, collected in the Just a Design List index. Browse by country and city.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
@@ -154,6 +154,7 @@ Discipline
 - [Nomad Studio](https://justadesignlist.com/studio/nomad-studio) — London, England
 - [Nonoia](https://justadesignlist.com/studio/nonoia) — London, England
 - [Nordost](https://justadesignlist.com/studio/nordost) — Vienna, Salzburg, Austria, Germany
+- [North](https://justadesignlist.com/studio/north) — London, England
 - [NSUE Studio](https://justadesignlist.com/studio/nsue-studio) — Madrid, Spain
 - [Object-Matter](https://justadesignlist.com/studio/object-matter) — Los Angeles, USA
 - [Obys Agency](https://justadesignlist.com/studio/obys-agency) — Amsterdam, Warsaw, Berlin, The Netherlands, Poland, Germany
@@ -211,7 +212,6 @@ Discipline
 - [Studio Miko](https://justadesignlist.com/studio/studio-miko) — Norwich, England
 - [Studio NMW](https://justadesignlist.com/studio/studio-nmw) — New York, USA
 - [Studio Odea](https://justadesignlist.com/studio/studio-odea) — Sydney, Brisbane, Australia
-- [Studio Rejane Dal Bello](https://justadesignlist.com/studio/studio-rejane-dal-bello) — London, England
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "Crown Creative — Branding, New York, USA · Just a Design List"
-description: "Crown Creative: branding, interactive/digital and illustration practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026."
+description: "Crown Creative: branding, interactive/digital and illustration practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/crown-creative"
 ---
 
 # Crown Creative
 
-Crown Creative: branding, interactive/digital and illustration practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026.
+Crown Creative: branding, interactive/digital and illustration practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Illustration, Graphic Design
 - **City:** New York, London, Belfast

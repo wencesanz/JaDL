@@ -1,12 +1,12 @@
 ---
 title: "Studia Studio — Branding, Jersey City, USA · Just a Design List"
-description: "Studia Studio: branding, packaging and graphic design practice based in Jersey City, USA. The only studio from Jersey City, one of 334 from USA on Just a Design List, added in July 2026."
+description: "Studia Studio: branding, packaging and graphic design practice based in Jersey City, USA. The only studio from Jersey City, one of 335 from USA on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/studia-studio"
 ---
 
 # Studia Studio
 
-Studia Studio: branding, packaging and graphic design practice based in Jersey City, USA. The only studio from Jersey City, one of 334 from USA on Just a Design List, added in July 2026.
+Studia Studio: branding, packaging and graphic design practice based in Jersey City, USA. The only studio from Jersey City, one of 335 from USA on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Packaging, Graphic Design, Interactive/Digital
 - **City:** Jersey City

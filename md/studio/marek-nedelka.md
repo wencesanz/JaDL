@@ -1,12 +1,12 @@
 ---
 title: "Marek Nedelka — Graphic Design, New York, USA · Just a Design List"
-description: "Marek Nedelka: graphic design and branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Marek Nedelka: graphic design and branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/marek-nedelka"
 ---
 
 # Marek Nedelka
 
-Marek Nedelka: graphic design and branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Marek Nedelka: graphic design and branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** New York

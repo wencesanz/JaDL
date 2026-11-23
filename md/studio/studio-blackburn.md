@@ -1,12 +1,12 @@
 ---
 title: "Studio Blackburn — Branding, London, England · Just a Design List"
-description: "Studio Blackburn: branding practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2023."
+description: "Studio Blackburn: branding practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/studio-blackburn"
 ---
 
 # Studio Blackburn
 
-Studio Blackburn: branding practice based in London, England. One of 197 studios from London on Just a Design List, added in May 2023.
+Studio Blackburn: branding practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** London

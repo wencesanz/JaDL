@@ -5,8 +5,16 @@
     <link>https://justadesignlist.com/city/new-york</link>
     <description>New additions to Just a Design List: design studios in New York.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 10:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:41:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/city/new-york.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Callum Abbott</title>
+      <link>https://justadesignlist.com/studio/callum-abbott</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/callum-abbott</guid>
+      <pubDate>Mon, 23 Nov 2026 09:41:00 GMT</pubDate>
+      <description>Graphic Design — New York, USA. https://callumabbott.info/</description>
+      <category>Graphic Design</category>
+    </item>
     <item>
       <title>Convicts</title>
       <link>https://justadesignlist.com/studio/convicts</link>
@@ -310,15 +318,6 @@
       <category>Illustration</category>
       <category>Packaging</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>FutureDeluxe</title>
-      <link>https://justadesignlist.com/studio/futuredeluxe</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/futuredeluxe</guid>
-      <pubDate>Tue, 25 Aug 2026 08:37:00 GMT</pubDate>
-      <description>Motion · Branding — London, England. https://futuredeluxe.com/</description>
-      <category>Motion</category>
-      <category>Branding</category>
     </item>
   </channel>
 </rss>

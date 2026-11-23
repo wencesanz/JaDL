@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios · Just a Design List"
-description: "728 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city."
+description: "730 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Interactive/Digital
 
-728 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city.
+730 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France

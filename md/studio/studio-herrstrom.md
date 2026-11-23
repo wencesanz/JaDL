@@ -1,12 +1,12 @@
 ---
 title: "Studio Herrström — Branding, New York, USA · Just a Design List"
-description: "Studio Herrström: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Studio Herrström: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/studio-herrstrom"
 ---
 
 # Studio Herrström
 
-Studio Herrström: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Studio Herrström: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** New York

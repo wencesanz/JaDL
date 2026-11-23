@@ -1,12 +1,12 @@
 ---
 title: "Daniel Brokstad — Graphic Design, New York, USA · Just a Design List"
-description: "Daniel Brokstad: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Daniel Brokstad: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/daniel-brokstad"
 ---
 
 # Daniel Brokstad
 
-Daniel Brokstad: graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Daniel Brokstad: graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** New York

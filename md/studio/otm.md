@@ -1,12 +1,12 @@
 ---
 title: "OTM© — Graphic Design, New York, USA · Just a Design List"
-description: "OTM©: graphic design, branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2024."
+description: "OTM©: graphic design, branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2024."
 url: "https://justadesignlist.com/studio/otm"
 ---
 
 # OTM©
 
-OTM©: graphic design, branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2024.
+OTM©: graphic design, branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2024.
 
 - **Discipline:** Graphic Design, Branding, Interactive/Digital
 - **City:** New York

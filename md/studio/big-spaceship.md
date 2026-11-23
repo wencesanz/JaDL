@@ -1,12 +1,12 @@
 ---
 title: "Big Spaceship — Branding, New York, USA · Just a Design List"
-description: "Big Spaceship: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "Big Spaceship: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/big-spaceship"
 ---
 
 # Big Spaceship
 
-Big Spaceship: branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+Big Spaceship: branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** New York, Seattle

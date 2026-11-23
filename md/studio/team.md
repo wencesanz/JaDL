@@ -1,12 +1,12 @@
 ---
 title: "Team — Branding, New York, USA · Just a Design List"
-description: "Team: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in August 2026."
+description: "Team: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/team"
 ---
 
 # Team
 
-Team: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in August 2026.
+Team: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Advertising/Campaigns
 - **City:** New York

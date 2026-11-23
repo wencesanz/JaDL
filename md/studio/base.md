@@ -1,12 +1,12 @@
 ---
 title: "Base — Branding, New York, USA · Just a Design List"
-description: "Base: branding, interactive/digital and graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "Base: branding, interactive/digital and graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/base"
 ---
 
 # Base
 
-Base: branding, interactive/digital and graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+Base: branding, interactive/digital and graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Interactive/Digital, Graphic Design, Packaging, Motion, Typography
 - **City:** New York, Brussels, Genève, Melbourne, Saigon

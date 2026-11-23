@@ -1,12 +1,12 @@
 ---
 title: "Company Policy — Branding, New York, USA · Just a Design List"
-description: "Company Policy: branding, motion and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in November 2024."
+description: "Company Policy: branding, motion and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/company-policy"
 ---
 
 # Company Policy
 
-Company Policy: branding, motion and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in November 2024.
+Company Policy: branding, motion and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in November 2024.
 
 - **Discipline:** Branding, Motion, Interactive/Digital, Packaging, Graphic Design
 - **City:** New York

@@ -1,12 +1,12 @@
 ---
 title: "Kristina Bartošová — Branding, New York, USA · Just a Design List"
-description: "Kristina Bartošová: branding, graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Kristina Bartošová: branding, graphic design and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/kristina-bartosova"
 ---
 
 # Kristina Bartošová
 
-Kristina Bartošová: branding, graphic design and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Kristina Bartošová: branding, graphic design and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding, Graphic Design, Typography
 - **City:** New York

@@ -1,12 +1,12 @@
 ---
 title: "Gander — Branding, New York, USA · Just a Design List"
-description: "Gander: branding, packaging and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in December 2024."
+description: "Gander: branding, packaging and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in December 2024."
 url: "https://justadesignlist.com/studio/gander"
 ---
 
 # Gander
 
-Gander: branding, packaging and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in December 2024.
+Gander: branding, packaging and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in December 2024.
 
 - **Discipline:** Branding, Packaging, Interactive/Digital
 - **City:** New York

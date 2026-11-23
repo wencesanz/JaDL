@@ -1,12 +1,12 @@
 ---
 title: "Applied arts — Branding, Stevensville, USA · Just a Design List"
-description: "Applied arts: branding practice based in Stevensville, USA. The only studio from Stevensville, one of 334 from USA on Just a Design List, added in May 2026."
+description: "Applied arts: branding practice based in Stevensville, USA. The only studio from Stevensville, one of 335 from USA on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/applied-arts"
 ---
 
 # Applied arts
 
-Applied arts: branding practice based in Stevensville, USA. The only studio from Stevensville, one of 334 from USA on Just a Design List, added in May 2026.
+Applied arts: branding practice based in Stevensville, USA. The only studio from Stevensville, one of 335 from USA on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding
 - **City:** Stevensville, New York, Chicago, Los Angeles

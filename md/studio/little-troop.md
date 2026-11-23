@@ -1,12 +1,12 @@
 ---
 title: "Little Troop — Branding, New York, USA · Just a Design List"
-description: "Little Troop: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2024."
+description: "Little Troop: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/little-troop"
 ---
 
 # Little Troop
 
-Little Troop: branding practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2024.
+Little Troop: branding practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding
 - **City:** New York

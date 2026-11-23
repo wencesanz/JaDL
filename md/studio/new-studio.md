@@ -1,12 +1,12 @@
 ---
 title: "New Studio — Branding, New York, USA · Just a Design List"
-description: "New Studio: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026."
+description: "New Studio: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/new-studio"
 ---
 
 # New Studio
 
-New Studio: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026.
+New Studio: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging
 - **City:** New York, Miami

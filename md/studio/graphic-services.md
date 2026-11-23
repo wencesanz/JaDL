@@ -1,12 +1,12 @@
 ---
 title: "Graphic Services — Graphic Design, New York, USA · Just a Design List"
-description: "Graphic Services: graphic design, branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in December 2024."
+description: "Graphic Services: graphic design, branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in December 2024."
 url: "https://justadesignlist.com/studio/graphic-services"
 ---
 
 # Graphic Services
 
-Graphic Services: graphic design, branding and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in December 2024.
+Graphic Services: graphic design, branding and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in December 2024.
 
 - **Discipline:** Graphic Design, Branding, Interactive/Digital, Advertising/Campaigns
 - **City:** New York

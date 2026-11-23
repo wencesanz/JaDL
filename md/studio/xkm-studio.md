@@ -1,12 +1,12 @@
 ---
 title: "XKM Studio — Branding, New York, USA · Just a Design List"
-description: "XKM Studio: branding, interactive/digital and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2024."
+description: "XKM Studio: branding, interactive/digital and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/xkm-studio"
 ---
 
 # XKM Studio
 
-XKM Studio: branding, interactive/digital and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2024.
+XKM Studio: branding, interactive/digital and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging, Graphic Design
 - **City:** New York

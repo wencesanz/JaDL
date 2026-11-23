@@ -1,12 +1,12 @@
 ---
 title: "ANTIANTI — Branding, New York, USA · Just a Design List"
-description: "ANTIANTI: branding and graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "ANTIANTI: branding and graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/antianti"
 ---
 
 # ANTIANTI
 
-ANTIANTI: branding and graphic design practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+ANTIANTI: branding and graphic design practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** New York

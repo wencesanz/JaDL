@@ -1,12 +1,12 @@
 ---
 title: "Cold Cuts — Branding, New York, USA · Just a Design List"
-description: "Cold Cuts: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2026."
+description: "Cold Cuts: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/cold-cuts"
 ---
 
 # Cold Cuts
 
-Cold Cuts: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2026.
+Cold Cuts: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging
 - **City:** New York

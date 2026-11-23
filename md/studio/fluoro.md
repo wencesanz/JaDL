@@ -1,12 +1,12 @@
 ---
 title: "FLUORO® — Branding, London, England · Just a Design List"
-description: "FLUORO®: branding and advertising/campaigns practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2026."
+description: "FLUORO®: branding and advertising/campaigns practice based in London, England. One of 198 studios from London on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/fluoro"
 ---
 
 # FLUORO®
 
-FLUORO®: branding and advertising/campaigns practice based in London, England. One of 197 studios from London on Just a Design List, added in November 2026.
+FLUORO®: branding and advertising/campaigns practice based in London, England. One of 198 studios from London on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Advertising/Campaigns
 - **City:** London

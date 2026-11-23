@@ -1,12 +1,12 @@
 ---
 title: "Super Keen — Branding, New York, USA · Just a Design List"
-description: "Super Keen: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026."
+description: "Super Keen: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/super-keen"
 ---
 
 # Super Keen
 
-Super Keen: branding, graphic design and interactive/digital practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026.
+Super Keen: branding, graphic design and interactive/digital practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging, Typography, Motion
 - **City:** New York

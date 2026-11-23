@@ -1,12 +1,12 @@
 ---
 title: "RoAndCo — Branding, New York, USA · Just a Design List"
-description: "RoAndCo: branding, interactive/digital and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2026."
+description: "RoAndCo: branding, interactive/digital and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/roandco"
 ---
 
 # RoAndCo
 
-RoAndCo: branding, interactive/digital and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in October 2026.
+RoAndCo: branding, interactive/digital and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging, Graphic Design
 - **City:** New York, Los Angeles

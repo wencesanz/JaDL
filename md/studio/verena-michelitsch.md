@@ -1,12 +1,12 @@
 ---
 title: "Verena Michelitsch — Branding, New York, USA · Just a Design List"
-description: "Verena Michelitsch: branding, graphic design and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026."
+description: "Verena Michelitsch: branding, graphic design and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/verena-michelitsch"
 ---
 
 # Verena Michelitsch
 
-Verena Michelitsch: branding, graphic design and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026.
+Verena Michelitsch: branding, graphic design and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging
 - **City:** New York

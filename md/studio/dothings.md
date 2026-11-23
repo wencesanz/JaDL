@@ -1,12 +1,12 @@
 ---
 title: "DoThings — Graphic Design, New York, USA · Just a Design List"
-description: "DoThings: graphic design, branding and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023."
+description: "DoThings: graphic design, branding and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/dothings"
 ---
 
 # DoThings
 
-DoThings: graphic design, branding and packaging practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in June 2023.
+DoThings: graphic design, branding and packaging practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding, Packaging
 - **City:** New York, Los Angeles, Paris

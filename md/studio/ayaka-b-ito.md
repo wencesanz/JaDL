@@ -1,12 +1,12 @@
 ---
 title: "Ayaka B. Ito — Branding, New York, USA · Just a Design List"
-description: "Ayaka B. Ito: branding, illustration and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023."
+description: "Ayaka B. Ito: branding, illustration and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/ayaka-b-ito"
 ---
 
 # Ayaka B. Ito
 
-Ayaka B. Ito: branding, illustration and typography practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in May 2023.
+Ayaka B. Ito: branding, illustration and typography practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding, Illustration, Typography
 - **City:** New York, Tokyo

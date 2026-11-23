@@ -1,12 +1,12 @@
 ---
 title: "Synchronized — Branding, New York, USA · Just a Design List"
-description: "Synchronized: branding, interactive/digital and motion practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026."
+description: "Synchronized: branding, interactive/digital and motion practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/synchronized"
 ---
 
 # Synchronized
 
-Synchronized: branding, interactive/digital and motion practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in July 2026.
+Synchronized: branding, interactive/digital and motion practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Motion
 - **City:** New York

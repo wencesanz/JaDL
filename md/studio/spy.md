@@ -1,12 +1,12 @@
 ---
 title: "Spy — Branding, London, England · Just a Design List"
-description: "Spy: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in September 2026."
+description: "Spy: branding, graphic design and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/spy"
 ---
 
 # Spy
 
-Spy: branding, graphic design and interactive/digital practice based in London, England. One of 197 studios from London on Just a Design List, added in September 2026.
+Spy: branding, graphic design and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging, Advertising/Campaigns
 - **City:** London

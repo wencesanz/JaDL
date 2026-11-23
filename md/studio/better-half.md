@@ -1,12 +1,12 @@
 ---
 title: "Better Half — Branding, New York, USA · Just a Design List"
-description: "Better Half: branding, graphic design and advertising/campaigns practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026."
+description: "Better Half: branding, graphic design and advertising/campaigns practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/better-half"
 ---
 
 # Better Half
 
-Better Half: branding, graphic design and advertising/campaigns practice based in New York, USA. One of 171 studios from New York on Just a Design List, added in September 2026.
+Better Half: branding, graphic design and advertising/campaigns practice based in New York, USA. One of 172 studios from New York on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Advertising/Campaigns, Motion
 - **City:** New York
