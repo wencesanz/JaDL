@@ -1,12 +1,12 @@
 ---
 title: "Multi Form — Branding, Udine, Italy · Just a Design List"
-description: "Multi Form: branding and graphic design practice based in Udine, Italy. The only studio from Udine, one of 32 from Italy on Just a Design List, added in June 2024."
+description: "Multi Form: branding and graphic design practice based in Udine, Italy. The only studio from Udine, one of 33 from Italy on Just a Design List, added in June 2024."
 url: "https://justadesignlist.com/studio/multi-form"
 ---
 
 # Multi Form
 
-Multi Form: branding and graphic design practice based in Udine, Italy. The only studio from Udine, one of 32 from Italy on Just a Design List, added in June 2024.
+Multi Form: branding and graphic design practice based in Udine, Italy. The only studio from Udine, one of 33 from Italy on Just a Design List, added in June 2024.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** Udine

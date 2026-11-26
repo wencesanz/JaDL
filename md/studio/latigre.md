@@ -1,12 +1,12 @@
 ---
 title: "LaTigre — Branding, Milan, Italy · Just a Design List"
-description: "LaTigre: branding and packaging practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in May 2023."
+description: "LaTigre: branding and packaging practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/latigre"
 ---
 
 # LaTigre
 
-LaTigre: branding and packaging practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in May 2023.
+LaTigre: branding and packaging practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding, Packaging
 - **City:** Milan

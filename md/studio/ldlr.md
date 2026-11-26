@@ -1,12 +1,12 @@
 ---
 title: "LDLR — Branding, San Jose, USA · Just a Design List"
-description: "LDLR: branding, graphic design and interactive/digital practice based in San Jose, USA. The only studio from San Jose, one of 335 from USA on Just a Design List, added in August 2026."
+description: "LDLR: branding, graphic design and interactive/digital practice based in San Jose, USA. The only studio from San Jose, one of 336 from USA on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/ldlr"
 ---
 
 # LDLR
 
-LDLR: branding, graphic design and interactive/digital practice based in San Jose, USA. The only studio from San Jose, one of 335 from USA on Just a Design List, added in August 2026.
+LDLR: branding, graphic design and interactive/digital practice based in San Jose, USA. The only studio from San Jose, one of 336 from USA on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Illustration, Typography
 - **City:** San Jose

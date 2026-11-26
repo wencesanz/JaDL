@@ -1,12 +1,12 @@
 ---
 title: "Circular Agency — Branding, Milan, Italy · Just a Design List"
-description: "Circular Agency: branding, graphic design and interactive/digital practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in July 2026."
+description: "Circular Agency: branding, graphic design and interactive/digital practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/circular-agency"
 ---
 
 # Circular Agency
 
-Circular Agency: branding, graphic design and interactive/digital practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in July 2026.
+Circular Agency: branding, graphic design and interactive/digital practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** Milan

@@ -1,12 +1,12 @@
 ---
 title: "Walter Santomauro — Branding, Turin, Italy · Just a Design List"
-description: "Walter Santomauro: branding, graphic design and typography practice based in Turin, Italy. The only studio from Turin, one of 32 from Italy on Just a Design List, added in July 2026."
+description: "Walter Santomauro: branding, graphic design and typography practice based in Turin, Italy. The only studio from Turin, one of 33 from Italy on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/walter-santomauro"
 ---
 
 # Walter Santomauro
 
-Walter Santomauro: branding, graphic design and typography practice based in Turin, Italy. The only studio from Turin, one of 32 from Italy on Just a Design List, added in July 2026.
+Walter Santomauro: branding, graphic design and typography practice based in Turin, Italy. The only studio from Turin, one of 33 from Italy on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Typography
 - **City:** Turin

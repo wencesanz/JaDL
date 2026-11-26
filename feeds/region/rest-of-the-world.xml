@@ -5,8 +5,16 @@
     <link>https://justadesignlist.com/region/rest-of-the-world</link>
     <description>New additions to Just a Design List: design studios in Rest of the world.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 08:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:12:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/region/rest-of-the-world.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Formeta Design</title>
+      <link>https://justadesignlist.com/studio/formeta-design</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/formeta-design</guid>
+      <pubDate>Thu, 26 Nov 2026 15:12:00 GMT</pubDate>
+      <description>Industrial Design — Istanbul, Turkey. https://formetadesign.com/</description>
+      <category>Industrial Design</category>
+    </item>
     <item>
       <title>Roots</title>
       <link>https://justadesignlist.com/studio/roots</link>
@@ -313,17 +321,6 @@
       <category>Advertising/Campaigns</category>
       <category>Packaging</category>
       <category>Motion</category>
-    </item>
-    <item>
-      <title>Monumento</title>
-      <link>https://justadesignlist.com/studio/monumento</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/monumento</guid>
-      <pubDate>Tue, 18 Aug 2026 14:09:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital · Packaging · Graphic Design — Monterrey, Mexico. https://monumento.co/</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-      <category>Graphic Design</category>
     </item>
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 ---
 title: "Matteo Gualandris — Graphic Design, Milan, Italy · Just a Design List"
-description: "Matteo Gualandris: graphic design practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in May 2023."
+description: "Matteo Gualandris: graphic design practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/matteo-gualandris"
 ---
 
 # Matteo Gualandris
 
-Matteo Gualandris: graphic design practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in May 2023.
+Matteo Gualandris: graphic design practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Milan

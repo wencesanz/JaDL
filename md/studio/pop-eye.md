@@ -1,12 +1,12 @@
 ---
 title: "Pop-eye — Branding, Milan, Italy · Just a Design List"
-description: "Pop-eye: branding, graphic design and interactive/digital practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in May 2026."
+description: "Pop-eye: branding, graphic design and interactive/digital practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/pop-eye"
 ---
 
 # Pop-eye
 
-Pop-eye: branding, graphic design and interactive/digital practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in May 2026.
+Pop-eye: branding, graphic design and interactive/digital practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging, Illustration, Motion
 - **City:** Milan

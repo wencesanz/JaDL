@@ -1,10 +1,10 @@
 ---
 title: "Just a Design List — A curated directory of design practices"
-description: "A slow, curated index of design studios and independent designers. 1484 entries across 176 countries."
+description: "A slow, curated index of design studios and independent designers. 1487 entries across 176 countries."
 url: "https://justadesignlist.com/"
 ---
 
-# 1484 design studios and independent designers, collected without ranking.
+# 1487 design studios and independent designers, collected without ranking.
 
 A working index of studios and independent designers whose practice the editor finds worth returning to. Entries are collected slowly, without ranking, and each is kept short on purpose — a pointer, not a review. Navigate by discipline, geography, or simply read it as a list.
 
@@ -12,6 +12,9 @@ A working index of studios and independent designers whose practice the editor f
 
 ## Recent additions
 
+- [Studio Klass](https://justadesignlist.com/studio/studio-klass) — Milan, Italy
+- [Patrick Johnson](https://justadesignlist.com/studio/patrick-johnson) — New Orleans, USA
+- [Formeta Design](https://justadesignlist.com/studio/formeta-design) — Istanbul, Turkey
 - [Jeremy Matthews design](https://justadesignlist.com/studio/jeremy-matthews-design) — Sydney, Australia
 - [Cyphr](https://justadesignlist.com/studio/cyphr) — London, England
 - [Herendi Artemisio](https://justadesignlist.com/studio/herendi-artemisio) — Zurich, Switzerland
@@ -29,35 +32,32 @@ A working index of studios and independent designers whose practice the editor f
 - [Peltan-Brosz Studio](https://justadesignlist.com/studio/peltan-brosz-studio) — Budapest, Hungary
 - [Minimalist](https://justadesignlist.com/studio/minimalist) — Seoul, South Korea
 - [Marina Zertuche](https://justadesignlist.com/studio/marina-zertuche) — Austin, USA
-- [Marinus Klinksik](https://justadesignlist.com/studio/marinus-klinksik) — Hamburg, Germany
-- [THIRD HORIZON Studios®](https://justadesignlist.com/studio/third-horizon-studios) — London, England
-- [eTypes](https://justadesignlist.com/studio/etypes) — Copenhagen, Denmark
 
 ## By discipline
 
-- [Branding](https://justadesignlist.com/discipline/branding) (1183)
-- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (912)
-- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (732)
+- [Branding](https://justadesignlist.com/discipline/branding) (1184)
+- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (914)
+- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (733)
 - [Packaging](https://justadesignlist.com/discipline/packaging) (470)
 - [Motion](https://justadesignlist.com/discipline/motion) (232)
 - [Typography](https://justadesignlist.com/discipline/typography) (195)
 - [Advertising/Campaigns](https://justadesignlist.com/discipline/advertising-campaigns) (143)
 - [Illustration](https://justadesignlist.com/discipline/illustration) (115)
-- [Industrial Design](https://justadesignlist.com/discipline/industrial-design) (12)
+- [Industrial Design](https://justadesignlist.com/discipline/industrial-design) (14)
 
 ## By region
 
 - [Iberia](https://justadesignlist.com/region/iberia) (204)
 - [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (244)
-- [North America](https://justadesignlist.com/region/north-america) (347)
+- [North America](https://justadesignlist.com/region/north-america) (348)
 - [Nordics](https://justadesignlist.com/region/nordics) (110)
 - [Oceania](https://justadesignlist.com/region/oceania) (95)
-- [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (388)
-- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (95)
+- [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (389)
+- [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (96)
 
 ## Most represented countries
 
-- [USA](https://justadesignlist.com/country/usa) (335)
+- [USA](https://justadesignlist.com/country/usa) (336)
 - [England](https://justadesignlist.com/country/england) (247)
 - [Spain](https://justadesignlist.com/country/spain) (202)
 - [Germany](https://justadesignlist.com/country/germany) (101)
@@ -68,7 +68,7 @@ A working index of studios and independent designers whose practice the editor f
 - [Canada](https://justadesignlist.com/country/canada) (58)
 - [Sweden](https://justadesignlist.com/country/sweden) (48)
 - [Denmark](https://justadesignlist.com/country/denmark) (33)
-- [Italy](https://justadesignlist.com/country/italy) (32)
+- [Italy](https://justadesignlist.com/country/italy) (33)
 
 ## Note
 

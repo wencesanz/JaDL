@@ -10,7 +10,7 @@ Browse
 
 64 countries represented across the index.
 
-- [USA](https://justadesignlist.com/country/usa) (335)
+- [USA](https://justadesignlist.com/country/usa) (336)
 - [England](https://justadesignlist.com/country/england) (247)
 - [Spain](https://justadesignlist.com/country/spain) (202)
 - [Germany](https://justadesignlist.com/country/germany) (101)
@@ -21,7 +21,7 @@ Browse
 - [Canada](https://justadesignlist.com/country/canada) (58)
 - [Sweden](https://justadesignlist.com/country/sweden) (48)
 - [Denmark](https://justadesignlist.com/country/denmark) (33)
-- [Italy](https://justadesignlist.com/country/italy) (32)
+- [Italy](https://justadesignlist.com/country/italy) (33)
 - [Norway](https://justadesignlist.com/country/norway) (26)
 - [Portugal](https://justadesignlist.com/country/portugal) (23)
 - [Austria](https://justadesignlist.com/country/austria) (21)
@@ -43,8 +43,8 @@ Browse
 - [Hungary](https://justadesignlist.com/country/hungary) (6)
 - [Northern Ireland](https://justadesignlist.com/country/northern-ireland) (5)
 - [Romania](https://justadesignlist.com/country/romania) (5)
+- [Turkey](https://justadesignlist.com/country/turkey) (5)
 - [Ukraine](https://justadesignlist.com/country/ukraine) (5)
-- [Turkey](https://justadesignlist.com/country/turkey) (4)
 - [Croatia](https://justadesignlist.com/country/croatia) (3)
 - [Ireland](https://justadesignlist.com/country/ireland) (3)
 - [Latvia](https://justadesignlist.com/country/latvia) (3)

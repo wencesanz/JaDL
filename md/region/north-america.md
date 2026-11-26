@@ -1,6 +1,6 @@
 ---
 title: "Design studios in North America · Just a Design List"
-description: "347 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline."
+description: "348 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/north-america"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # North America
 
-347 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline.
+348 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline.
 
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
 - [2 x 4](https://justadesignlist.com/studio/2-x-4) — New York, Beijing, USA, China

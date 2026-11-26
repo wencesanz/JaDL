@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Milan · Just a Design List"
-description: "16 independent design studios based in Milan, from the Just a Design List index. Browse by discipline."
+description: "17 independent design studios based in Milan, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/milan"
 ---
 
@@ -10,9 +10,9 @@ City
 
 # Milan
 
-16 independent design studios based in Milan, from the Just a Design List index. Browse by discipline.
+17 independent design studios based in Milan, from the Just a Design List index. Browse by discipline.
 
-By discipline: [Branding design studios in Milan](https://justadesignlist.com/city/milan/branding) (14), [Graphic Design studios in Milan](https://justadesignlist.com/city/milan/graphic-design) (12), [Interactive/Digital design studios in Milan](https://justadesignlist.com/city/milan/interactive-digital) (10), [Packaging design studios in Milan](https://justadesignlist.com/city/milan/packaging) (8)
+By discipline: [Branding design studios in Milan](https://justadesignlist.com/city/milan/branding) (14), [Graphic Design studios in Milan](https://justadesignlist.com/city/milan/graphic-design) (13), [Interactive/Digital design studios in Milan](https://justadesignlist.com/city/milan/interactive-digital) (10), [Packaging design studios in Milan](https://justadesignlist.com/city/milan/packaging) (8)
 
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
 - [Apart](https://justadesignlist.com/studio/apart) — Milan, Italy
@@ -27,6 +27,7 @@ By discipline: [Branding design studios in Milan](https://justadesignlist.com/ci
 - [Pitis e Associati](https://justadesignlist.com/studio/pitis-e-associati) — Milan, Paris, Italy, France
 - [Pop-eye](https://justadesignlist.com/studio/pop-eye) — Milan, Italy
 - [studio FM milano](https://justadesignlist.com/studio/studio-fm-milano) — Milan, Italy
+- [Studio Klass](https://justadesignlist.com/studio/studio-klass) — Milan, Italy
 - [Studio Vedèt](https://justadesignlist.com/studio/studio-vedet) — Milan, Italy
 - [TOMO TOMO](https://justadesignlist.com/studio/tomo-tomo) — Milan, Italy
 - [Velvele](https://justadesignlist.com/studio/velvele) — Milan, Italy

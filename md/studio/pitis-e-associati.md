@@ -1,12 +1,12 @@
 ---
 title: "Pitis e Associati — Branding, Milan, Italy · Just a Design List"
-description: "Pitis e Associati: branding, graphic design and interactive/digital practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in September 2026."
+description: "Pitis e Associati: branding, graphic design and interactive/digital practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/pitis-e-associati"
 ---
 
 # Pitis e Associati
 
-Pitis e Associati: branding, graphic design and interactive/digital practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in September 2026.
+Pitis e Associati: branding, graphic design and interactive/digital practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Typography
 - **City:** Milan, Paris

@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/country/usa</link>
     <description>New additions to Just a Design List: design studios in USA.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:17:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/country/usa.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Patrick Johnson</title>
+      <link>https://justadesignlist.com/studio/patrick-johnson</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/patrick-johnson</guid>
+      <pubDate>Thu, 26 Nov 2026 15:17:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — New Orleans, USA. https://patrickjohnson.work/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Callum Abbott</title>
       <link>https://justadesignlist.com/studio/callum-abbott</link>
@@ -304,14 +314,6 @@
       <category>Branding</category>
       <category>Interactive/Digital</category>
       <category>Motion</category>
-    </item>
-    <item>
-      <title>Placeholder</title>
-      <link>https://justadesignlist.com/studio/placeholder</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/placeholder</guid>
-      <pubDate>Fri, 18 Sep 2026 10:27:00 GMT</pubDate>
-      <description>Branding — New York, USA. https://www.placeholder.nyc/</description>
-      <category>Branding</category>
     </item>
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 ---
 title: "Nicolas Zanella — Branding, Treviso, Italy · Just a Design List"
-description: "Nicolas Zanella: branding, graphic design and interactive/digital practice based in Treviso, Italy. The only studio from Treviso, one of 32 from Italy on Just a Design List, added in July 2026."
+description: "Nicolas Zanella: branding, graphic design and interactive/digital practice based in Treviso, Italy. The only studio from Treviso, one of 33 from Italy on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/nicolas-zanella"
 ---
 
 # Nicolas Zanella
 
-Nicolas Zanella: branding, graphic design and interactive/digital practice based in Treviso, Italy. The only studio from Treviso, one of 32 from Italy on Just a Design List, added in July 2026.
+Nicolas Zanella: branding, graphic design and interactive/digital practice based in Treviso, Italy. The only studio from Treviso, one of 33 from Italy on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging
 - **City:** Treviso

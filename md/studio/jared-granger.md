@@ -1,12 +1,12 @@
 ---
 title: "Jared Granger — Branding, Pensacola, USA · Just a Design List"
-description: "Jared Granger: branding, interactive/digital and packaging practice based in Pensacola, USA. The only studio from Pensacola, one of 335 from USA on Just a Design List, added in August 2026."
+description: "Jared Granger: branding, interactive/digital and packaging practice based in Pensacola, USA. The only studio from Pensacola, one of 336 from USA on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/jared-granger"
 ---
 
 # Jared Granger
 
-Jared Granger: branding, interactive/digital and packaging practice based in Pensacola, USA. The only studio from Pensacola, one of 335 from USA on Just a Design List, added in August 2026.
+Jared Granger: branding, interactive/digital and packaging practice based in Pensacola, USA. The only studio from Pensacola, one of 336 from USA on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging
 - **City:** Pensacola

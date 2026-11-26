@@ -1,12 +1,12 @@
 ---
 title: "Studio Mut — Graphic Design, Bozen, Italy · Just a Design List"
-description: "Studio Mut: graphic design, branding and interactive/digital practice based in Bozen, Italy. The only studio from Bozen, one of 32 from Italy on Just a Design List, added in June 2023."
+description: "Studio Mut: graphic design, branding and interactive/digital practice based in Bozen, Italy. The only studio from Bozen, one of 33 from Italy on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/studio-mut"
 ---
 
 # Studio Mut
 
-Studio Mut: graphic design, branding and interactive/digital practice based in Bozen, Italy. The only studio from Bozen, one of 32 from Italy on Just a Design List, added in June 2023.
+Studio Mut: graphic design, branding and interactive/digital practice based in Bozen, Italy. The only studio from Bozen, one of 33 from Italy on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding, Interactive/Digital
 - **City:** Bozen

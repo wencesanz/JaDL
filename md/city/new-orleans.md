@@ -1,6 +1,6 @@
 ---
 title: "Design studios in New Orleans · Just a Design List"
-description: "2 independent design studios based in New Orleans, from the Just a Design List index. Browse by discipline."
+description: "3 independent design studios based in New Orleans, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/new-orleans"
 ---
 
@@ -10,8 +10,9 @@ City
 
 # New Orleans
 
-2 independent design studios based in New Orleans, from the Just a Design List index. Browse by discipline.
+3 independent design studios based in New Orleans, from the Just a Design List index. Browse by discipline.
 
+- [Patrick Johnson](https://justadesignlist.com/studio/patrick-johnson) — New Orleans, USA
 - [The Collected Works](https://justadesignlist.com/studio/the-collected-works) — New York, New Orleans, USA
 - [Thought Partner](https://justadesignlist.com/studio/thought-partner) — New Orleans, USA
 

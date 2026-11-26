@@ -1,12 +1,12 @@
 ---
 title: "Gionatan Nese — Branding, Cernusco Lombardone, Italy · Just a Design List"
-description: "Gionatan Nese: branding, graphic design and interactive/digital practice based in Cernusco Lombardone, Italy. The only studio from Cernusco Lombardone, one of 32 from Italy on Just a Design List, added in September 2026."
+description: "Gionatan Nese: branding, graphic design and interactive/digital practice based in Cernusco Lombardone, Italy. The only studio from Cernusco Lombardone, one of 33 from Italy on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/gionatan-nese"
 ---
 
 # Gionatan Nese
 
-Gionatan Nese: branding, graphic design and interactive/digital practice based in Cernusco Lombardone, Italy. The only studio from Cernusco Lombardone, one of 32 from Italy on Just a Design List, added in September 2026.
+Gionatan Nese: branding, graphic design and interactive/digital practice based in Cernusco Lombardone, Italy. The only studio from Cernusco Lombardone, one of 33 from Italy on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Motion, Packaging
 - **City:** Cernusco Lombardone

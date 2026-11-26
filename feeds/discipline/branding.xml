@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/discipline/branding</link>
     <description>New additions to Just a Design List: Branding studios.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 22:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:17:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/branding.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Patrick Johnson</title>
+      <link>https://justadesignlist.com/studio/patrick-johnson</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/patrick-johnson</guid>
+      <pubDate>Thu, 26 Nov 2026 15:17:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — New Orleans, USA. https://patrickjohnson.work/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Jeremy Matthews design</title>
       <link>https://justadesignlist.com/studio/jeremy-matthews-design</link>
@@ -319,15 +329,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Typography</category>
-    </item>
-    <item>
-      <title>HOT COTTAGE</title>
-      <link>https://justadesignlist.com/studio/hot-cottage</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/hot-cottage</guid>
-      <pubDate>Tue, 10 Nov 2026 10:49:00 GMT</pubDate>
-      <description>Branding · Graphic Design — Melbourne, Australia. https://www.hotcottage.earth/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
     </item>
   </channel>
 </rss>

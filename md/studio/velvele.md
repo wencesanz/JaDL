@@ -1,12 +1,12 @@
 ---
 title: "Velvele — Branding, Milan, Italy · Just a Design List"
-description: "Velvele: branding, graphic design and packaging practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in August 2026."
+description: "Velvele: branding, graphic design and packaging practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/velvele"
 ---
 
 # Velvele
 
-Velvele: branding, graphic design and packaging practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in August 2026.
+Velvele: branding, graphic design and packaging practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Typography
 - **City:** Milan

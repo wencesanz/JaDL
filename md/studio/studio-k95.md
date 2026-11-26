@@ -1,12 +1,12 @@
 ---
 title: "Studio K95 — Branding, Catania, Italy · Just a Design List"
-description: "Studio K95: branding, packaging and graphic design practice based in Catania, Italy. The only studio from Catania, one of 32 from Italy on Just a Design List, added in August 2026."
+description: "Studio K95: branding, packaging and graphic design practice based in Catania, Italy. The only studio from Catania, one of 33 from Italy on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/studio-k95"
 ---
 
 # Studio K95
 
-Studio K95: branding, packaging and graphic design practice based in Catania, Italy. The only studio from Catania, one of 32 from Italy on Just a Design List, added in August 2026.
+Studio K95: branding, packaging and graphic design practice based in Catania, Italy. The only studio from Catania, one of 33 from Italy on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Packaging, Graphic Design, Interactive/Digital, Typography
 - **City:** Catania

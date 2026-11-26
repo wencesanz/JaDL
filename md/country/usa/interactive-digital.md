@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in USA · Just a Design List"
-description: "158 independent studios working in interactive/digital in USA, from the Just a Design List index."
+description: "159 independent studios working in interactive/digital in USA, from the Just a Design List index."
 url: "https://justadesignlist.com/country/usa/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ Country · Interactive/Digital
 
 # Interactive/Digital in USA
 
-158 independent studios working in interactive/digital in USA, from the Just a Design List index.
+159 independent studios working in interactive/digital in USA, from the Just a Design List index.
 
 - [Adam Ho, I.S.P.](https://justadesignlist.com/studio/adam-ho-i-s-p) — New York, USA
 - [All True](https://justadesignlist.com/studio/all-true) — Springfield, USA
@@ -110,6 +110,7 @@ Country · Interactive/Digital
 - [Overline](https://justadesignlist.com/studio/overline) — Moscow, USA
 - [Parker Studio](https://justadesignlist.com/studio/parker-studio) — Seattle, USA
 - [Partner & Partners](https://justadesignlist.com/studio/partner-and-partners) — New York, USA
+- [Patrick Johnson](https://justadesignlist.com/studio/patrick-johnson) — New Orleans, USA
 - [Perky Bros](https://justadesignlist.com/studio/perky-bros) — Nashville, USA
 - [Playlist Studio](https://justadesignlist.com/studio/playlist-studio) — New York, USA
 - [Porto Rocha](https://justadesignlist.com/studio/porto-rocha) — New York, USA

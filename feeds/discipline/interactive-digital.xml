@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/discipline/interactive-digital</link>
     <description>New additions to Just a Design List: Interactive/Digital studios.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 22:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:17:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/interactive-digital.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Patrick Johnson</title>
+      <link>https://justadesignlist.com/studio/patrick-johnson</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/patrick-johnson</guid>
+      <pubDate>Thu, 26 Nov 2026 15:17:00 GMT</pubDate>
+      <description>Branding · Graphic Design · Interactive/Digital — New Orleans, USA. https://patrickjohnson.work/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Cyphr</title>
       <link>https://justadesignlist.com/studio/cyphr</link>
@@ -328,15 +338,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Motion</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Mantis</title>
-      <link>https://justadesignlist.com/studio/mantis</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/mantis</guid>
-      <pubDate>Tue, 03 Nov 2026 15:03:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital — New York, USA. https://www.mantis.works/</description>
-      <category>Branding</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>

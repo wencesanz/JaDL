@@ -1,12 +1,12 @@
 ---
 title: "Due Studio — Graphic Design, Perugia, Italy · Just a Design List"
-description: "Due Studio: graphic design and typography practice based in Perugia, Italy. The only studio from Perugia, one of 32 from Italy on Just a Design List, added in June 2023."
+description: "Due Studio: graphic design and typography practice based in Perugia, Italy. The only studio from Perugia, one of 33 from Italy on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/due-studio"
 ---
 
 # Due Studio
 
-Due Studio: graphic design and typography practice based in Perugia, Italy. The only studio from Perugia, one of 32 from Italy on Just a Design List, added in June 2023.
+Due Studio: graphic design and typography practice based in Perugia, Italy. The only studio from Perugia, one of 33 from Italy on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Typography
 - **City:** Perugia

@@ -1,6 +1,6 @@
 ---
 title: "Design studios in the rest of the world · Just a Design List"
-description: "95 independent design studios and designers based in the rest of the world, from the Just a Design List index. Browse by country, city and discipline."
+description: "96 independent design studios and designers based in the rest of the world, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/rest-of-the-world"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # Rest of the world
 
-95 independent design studios and designers based in the rest of the world, from the Just a Design List index. Browse by country, city and discipline.
+96 independent design studios and designers based in the rest of the world, from the Just a Design List index. Browse by country, city and discipline.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [++hellohello](https://justadesignlist.com/studio/hellohello) — Montevideo, Uruguay
@@ -48,6 +48,7 @@ Region
 - [Firmalt](https://justadesignlist.com/studio/firmalt) — Monterrey, Mexico
 - [Fol](https://justadesignlist.com/studio/fol) — Istanbul, Turkey
 - [Foreign Policy](https://justadesignlist.com/studio/foreign-policy) — Singapore, Singapore
+- [Formeta Design](https://justadesignlist.com/studio/formeta-design) — Istanbul, Turkey
 - [Futura](https://justadesignlist.com/studio/futura) — Mexico City, Mexico
 - [Glauber Sampaio](https://justadesignlist.com/studio/glauber-sampaio) — Sao Paulo, Brazil
 - [Gustavo Faria](https://justadesignlist.com/studio/gustavo-faria) — Sao Paulo, Brazil

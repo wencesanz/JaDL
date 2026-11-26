@@ -1,12 +1,12 @@
 ---
 title: "Mors — Branding, Milan, Italy · Just a Design List"
-description: "Mors: branding, interactive/digital and packaging practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in July 2026."
+description: "Mors: branding, interactive/digital and packaging practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/mors"
 ---
 
 # Mors
 
-Mors: branding, interactive/digital and packaging practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in July 2026.
+Mors: branding, interactive/digital and packaging practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging
 - **City:** Milan

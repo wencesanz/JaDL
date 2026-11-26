@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Turkey · Just a Design List"
-description: "4 independent design studios and practices based in Turkey. A curated index — browse by city and discipline."
+description: "5 independent design studios and practices based in Turkey. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/turkey"
 ---
 
@@ -10,9 +10,10 @@ Country
 
 # Turkey
 
-4 independent design studios and practices based in Turkey. A curated index — browse by city and discipline.
+5 independent design studios and practices based in Turkey. A curated index — browse by city and discipline.
 
 - [Fol](https://justadesignlist.com/studio/fol) — Istanbul, Turkey
+- [Formeta Design](https://justadesignlist.com/studio/formeta-design) — Istanbul, Turkey
 - [Saffron](https://justadesignlist.com/studio/saffron) — Madrid, London, Vienna, Istanbul, Spain, England, Austria, Turkey
 - [W Design Studio](https://justadesignlist.com/studio/w-design-studio) — Istanbul, Turkey
 - [William Hall](https://justadesignlist.com/studio/william-hall) — London, Los Angeles, New York, Istanbul, England, USA, Turkey

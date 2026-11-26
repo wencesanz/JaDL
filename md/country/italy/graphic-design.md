@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in Italy · Just a Design List"
-description: "24 independent studios working in graphic design in Italy, from the Just a Design List index."
+description: "25 independent studios working in graphic design in Italy, from the Just a Design List index."
 url: "https://justadesignlist.com/country/italy/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ Country · Graphic Design
 
 # Graphic Design in Italy
 
-24 independent studios working in graphic design in Italy, from the Just a Design List index.
+25 independent studios working in graphic design in Italy, from the Just a Design List index.
 
 - [2VSN Studio](https://justadesignlist.com/studio/2vsn-studio) — Brescia, Italy
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
@@ -30,6 +30,7 @@ Country · Graphic Design
 - [Pop-eye](https://justadesignlist.com/studio/pop-eye) — Milan, Italy
 - [studio FM milano](https://justadesignlist.com/studio/studio-fm-milano) — Milan, Italy
 - [Studio K95](https://justadesignlist.com/studio/studio-k95) — Catania, Italy
+- [Studio Klass](https://justadesignlist.com/studio/studio-klass) — Milan, Italy
 - [Studio Mut](https://justadesignlist.com/studio/studio-mut) — Bozen, Italy
 - [Studio Vedèt](https://justadesignlist.com/studio/studio-vedet) — Milan, Italy
 - [TOMO TOMO](https://justadesignlist.com/studio/tomo-tomo) — Milan, Italy

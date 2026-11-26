@@ -1,12 +1,12 @@
 ---
 title: "Leftloft — Branding, Milan, Italy · Just a Design List"
-description: "Leftloft: branding practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in October 2024."
+description: "Leftloft: branding practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/leftloft"
 ---
 
 # Leftloft
 
-Leftloft: branding practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in October 2024.
+Leftloft: branding practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding
 - **City:** Milan

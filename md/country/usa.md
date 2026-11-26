@@ -1,6 +1,6 @@
 ---
 title: "Design studios in USA · Just a Design List"
-description: "335 independent design studios and practices based in USA. A curated index — browse by city and discipline."
+description: "336 independent design studios and practices based in USA. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/usa"
 ---
 
@@ -10,9 +10,9 @@ Country
 
 # USA
 
-335 independent design studios and practices based in USA. A curated index — browse by city and discipline.
+336 independent design studios and practices based in USA. A curated index — browse by city and discipline.
 
-By discipline: [Branding design studios in USA](https://justadesignlist.com/country/usa/branding) (269), [Graphic Design studios in USA](https://justadesignlist.com/country/usa/graphic-design) (179), [Interactive/Digital design studios in USA](https://justadesignlist.com/country/usa/interactive-digital) (158), [Packaging design studios in USA](https://justadesignlist.com/country/usa/packaging) (110), [Motion design studios in USA](https://justadesignlist.com/country/usa/motion) (50), [Typography design studios in USA](https://justadesignlist.com/country/usa/typography) (49), [Advertising/Campaigns design studios in USA](https://justadesignlist.com/country/usa/advertising-campaigns) (34), [Illustration design studios in USA](https://justadesignlist.com/country/usa/illustration) (30)
+By discipline: [Branding design studios in USA](https://justadesignlist.com/country/usa/branding) (270), [Graphic Design studios in USA](https://justadesignlist.com/country/usa/graphic-design) (180), [Interactive/Digital design studios in USA](https://justadesignlist.com/country/usa/interactive-digital) (159), [Packaging design studios in USA](https://justadesignlist.com/country/usa/packaging) (110), [Motion design studios in USA](https://justadesignlist.com/country/usa/motion) (50), [Typography design studios in USA](https://justadesignlist.com/country/usa/typography) (49), [Advertising/Campaigns design studios in USA](https://justadesignlist.com/country/usa/advertising-campaigns) (34), [Illustration design studios in USA](https://justadesignlist.com/country/usa/illustration) (30)
 
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England

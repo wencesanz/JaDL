@@ -1,12 +1,12 @@
 ---
 title: "Artiva Design — Graphic Design, Genoa, Italy · Just a Design List"
-description: "Artiva Design: graphic design and branding practice based in Genoa, Italy. The only studio from Genoa, one of 32 from Italy on Just a Design List, added in June 2023."
+description: "Artiva Design: graphic design and branding practice based in Genoa, Italy. The only studio from Genoa, one of 33 from Italy on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/artiva-design"
 ---
 
 # Artiva Design
 
-Artiva Design: graphic design and branding practice based in Genoa, Italy. The only studio from Genoa, one of 32 from Italy on Just a Design List, added in June 2023.
+Artiva Design: graphic design and branding practice based in Genoa, Italy. The only studio from Genoa, one of 33 from Italy on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Genoa

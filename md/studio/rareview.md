@@ -1,12 +1,12 @@
 ---
 title: "Rareview® — Branding, San Clemente, USA · Just a Design List"
-description: "Rareview®: branding, graphic design and motion practice based in San Clemente, USA. The only studio from San Clemente, one of 335 from USA on Just a Design List, added in June 2026."
+description: "Rareview®: branding, graphic design and motion practice based in San Clemente, USA. The only studio from San Clemente, one of 336 from USA on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/rareview"
 ---
 
 # Rareview®
 
-Rareview®: branding, graphic design and motion practice based in San Clemente, USA. The only studio from San Clemente, one of 335 from USA on Just a Design List, added in June 2026.
+Rareview®: branding, graphic design and motion practice based in San Clemente, USA. The only studio from San Clemente, one of 336 from USA on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Graphic Design, Motion, Interactive/Digital, Advertising/Campaigns
 - **City:** San Clemente

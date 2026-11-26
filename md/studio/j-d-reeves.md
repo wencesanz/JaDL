@@ -1,12 +1,12 @@
 ---
 title: "J.D. Reeves — Branding, Tulsa, USA · Just a Design List"
-description: "J.D. Reeves: branding practice based in Tulsa, USA. The only studio from Tulsa, one of 335 from USA on Just a Design List, added in July 2026."
+description: "J.D. Reeves: branding practice based in Tulsa, USA. The only studio from Tulsa, one of 336 from USA on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/j-d-reeves"
 ---
 
 # J.D. Reeves
 
-J.D. Reeves: branding practice based in Tulsa, USA. The only studio from Tulsa, one of 335 from USA on Just a Design List, added in July 2026.
+J.D. Reeves: branding practice based in Tulsa, USA. The only studio from Tulsa, one of 336 from USA on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding
 - **City:** Tulsa

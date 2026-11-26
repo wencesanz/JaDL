@@ -1,12 +1,12 @@
 ---
 title: "Studio Vedèt — Graphic Design, Milan, Italy · Just a Design List"
-description: "Studio Vedèt: graphic design, interactive/digital and branding practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in July 2026."
+description: "Studio Vedèt: graphic design, interactive/digital and branding practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/studio-vedet"
 ---
 
 # Studio Vedèt
 
-Studio Vedèt: graphic design, interactive/digital and branding practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in July 2026.
+Studio Vedèt: graphic design, interactive/digital and branding practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in July 2026.
 
 - **Discipline:** Graphic Design, Interactive/Digital, Branding, Packaging, Motion
 - **City:** Milan

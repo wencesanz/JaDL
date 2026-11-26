@@ -1,12 +1,12 @@
 ---
 title: "Calibro — Interactive/Digital, Milan, Italy · Just a Design List"
-description: "Calibro: interactive/digital practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in June 2023."
+description: "Calibro: interactive/digital practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/calibro"
 ---
 
 # Calibro
 
-Calibro: interactive/digital practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in June 2023.
+Calibro: interactive/digital practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in June 2023.
 
 - **Discipline:** Interactive/Digital
 - **City:** Milan

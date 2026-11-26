@@ -1,12 +1,12 @@
 ---
 title: "All studios · Just a Design List"
-description: "Browse the full index of 1484 design studios and independent designers, A to Z."
+description: "Browse the full index of 1487 design studios and independent designers, A to Z."
 url: "https://justadesignlist.com/studios"
 ---
 
 The List
 
-# All 1484 studios and designers
+# All 1487 studios and designers
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China · Branding, Motion, Interactive/Digital, Typography, Packaging
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Slovenia · Paris, France · Branding, Interactive/Digital, Packaging, Motion
@@ -496,6 +496,7 @@ The List
 - [Forma](https://justadesignlist.com/studio/forma) — Barcelona, Spain · Graphic Design, Illustration
 - [Format](https://justadesignlist.com/studio/format) — Vincennes, France · Branding, Graphic Design, Interactive/Digital, Packaging
 - [Formatet](https://justadesignlist.com/studio/formatet) — Copenhagen, Denmark · Branding, Graphic Design, Advertising/Campaigns, Interactive/Digital
+- [Formeta Design](https://justadesignlist.com/studio/formeta-design) — Istanbul, Turkey · Industrial Design
 - [Formo](https://justadesignlist.com/studio/formo) — Valencia, Spain · Graphic Design
 - [Forner](https://justadesignlist.com/studio/forner) — Los Angeles, USA · Branding, Packaging
 - [forpeople](https://justadesignlist.com/studio/forpeople) — London, England · Amsterdam, The Netherlands · Branding, Motion, Interactive/Digital
@@ -996,6 +997,7 @@ The List
 - [Paseo](https://justadesignlist.com/studio/paseo) — Madrid, Spain · Utrecht, The Netherlands · Branding, Graphic Design, Interactive/Digital
 - [Path](https://justadesignlist.com/studio/path) — London, England · Branding, Packaging
 - [Patrick Fry Studio](https://justadesignlist.com/studio/patrick-fry-studio) — London, England · Graphic Design, Branding
+- [Patrick Johnson](https://justadesignlist.com/studio/patrick-johnson) — New Orleans, USA · Branding, Graphic Design, Interactive/Digital
 - [Paul Belford Ltd](https://justadesignlist.com/studio/paul-belford-ltd) — London, England · Branding, Packaging, Graphic Design, Advertising/Campaigns
 - [PDB](https://justadesignlist.com/studio/pdb) — Berlin, Germany · Branding, Graphic Design, Packaging, Illustration
 - [Pearlfisher](https://justadesignlist.com/studio/pearlfisher) — London, England · New York, USA · Branding, Packaging
@@ -1279,6 +1281,7 @@ The List
 - [Studio Joost Grootens](https://justadesignlist.com/studio/studio-joost-grootens) — Amsterdam, The Netherlands · Graphic Design
 - [Studio K95](https://justadesignlist.com/studio/studio-k95) — Catania, Italy · Branding, Packaging, Graphic Design, Interactive/Digital, Typography
 - [Studio Kiln](https://justadesignlist.com/studio/studio-kiln) — Cornwall, London, England · Branding, Graphic Design, Motion, Advertising/Campaigns, Interactive/Digital
+- [Studio Klass](https://justadesignlist.com/studio/studio-klass) — Milan, Italy · Graphic Design, Industrial Design
 - [Studio Leichtfried](https://justadesignlist.com/studio/studio-leichtfried) — Vienna, Austria · Branding, Graphic Design, Packaging, Interactive/Digital
 - [Studio Little Nice Things](https://justadesignlist.com/studio/studio-little-nice-things) — Amsterdam, The Netherlands · Interactive/Digital
 - [studio marcus kraft](https://justadesignlist.com/studio/studio-marcus-kraft) — Zurich, Switzerland · Branding, Graphic Design, Interactive/Digital, Packaging, Motion

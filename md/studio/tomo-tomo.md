@@ -1,12 +1,12 @@
 ---
 title: "TOMO TOMO — Graphic Design, Milan, Italy · Just a Design List"
-description: "TOMO TOMO: graphic design and branding practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in May 2023."
+description: "TOMO TOMO: graphic design and branding practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/tomo-tomo"
 ---
 
 # TOMO TOMO
 
-TOMO TOMO: graphic design and branding practice based in Milan, Italy. One of 16 studios from Milan on Just a Design List, added in May 2023.
+TOMO TOMO: graphic design and branding practice based in Milan, Italy. One of 17 studios from Milan on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Milan

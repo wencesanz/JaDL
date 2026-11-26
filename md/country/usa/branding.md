@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in USA · Just a Design List"
-description: "269 independent studios working in branding in USA, from the Just a Design List index."
+description: "270 independent studios working in branding in USA, from the Just a Design List index."
 url: "https://justadesignlist.com/country/usa/branding"
 ---
 
@@ -10,7 +10,7 @@ Country · Branding
 
 # Branding in USA
 
-269 independent studios working in branding in USA, from the Just a Design List index.
+270 independent studios working in branding in USA, from the Just a Design List index.
 
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -192,6 +192,7 @@ Country · Branding
 - [Parasol](https://justadesignlist.com/studio/parasol) — Stockholm, Barcelona, New York, Sweden, Spain, USA
 - [Parker Studio](https://justadesignlist.com/studio/parker-studio) — Seattle, USA
 - [Partner & Partners](https://justadesignlist.com/studio/partner-and-partners) — New York, USA
+- [Patrick Johnson](https://justadesignlist.com/studio/patrick-johnson) — New Orleans, USA
 - [Pearlfisher](https://justadesignlist.com/studio/pearlfisher) — London, New York, England, USA
 - [Perky Bros](https://justadesignlist.com/studio/perky-bros) — Nashville, USA
 - [Perron](https://justadesignlist.com/studio/perron) — Los Angeles, USA

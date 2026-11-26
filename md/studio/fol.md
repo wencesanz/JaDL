@@ -1,12 +1,12 @@
 ---
 title: "Fol — Branding, Istanbul, Turkey · Just a Design List"
-description: "Fol: branding, graphic design and interactive/digital practice based in Istanbul, Turkey. One of 4 studios from Istanbul on Just a Design List, added in May 2026."
+description: "Fol: branding, graphic design and interactive/digital practice based in Istanbul, Turkey. One of 5 studios from Istanbul on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/fol"
 ---
 
 # Fol
 
-Fol: branding, graphic design and interactive/digital practice based in Istanbul, Turkey. One of 4 studios from Istanbul on Just a Design List, added in May 2026.
+Fol: branding, graphic design and interactive/digital practice based in Istanbul, Turkey. One of 5 studios from Istanbul on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Motion
 - **City:** Istanbul
@@ -21,6 +21,7 @@ Fol: branding, graphic design and interactive/digital practice based in Istanbul
 
 ## More from Istanbul
 
+- [Formeta Design](https://justadesignlist.com/studio/formeta-design)
 - [Saffron](https://justadesignlist.com/studio/saffron)
 - [W Design Studio](https://justadesignlist.com/studio/w-design-studio)
 - [William Hall](https://justadesignlist.com/studio/william-hall)

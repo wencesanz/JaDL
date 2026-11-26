@@ -1,12 +1,12 @@
 ---
 title: "W Design Studio — Branding, Istanbul, Turkey · Just a Design List"
-description: "W Design Studio: branding practice based in Istanbul, Turkey. One of 4 studios from Istanbul on Just a Design List, added in June 2023."
+description: "W Design Studio: branding practice based in Istanbul, Turkey. One of 5 studios from Istanbul on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/w-design-studio"
 ---
 
 # W Design Studio
 
-W Design Studio: branding practice based in Istanbul, Turkey. One of 4 studios from Istanbul on Just a Design List, added in June 2023.
+W Design Studio: branding practice based in Istanbul, Turkey. One of 5 studios from Istanbul on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding
 - **City:** Istanbul
@@ -22,6 +22,7 @@ W Design Studio: branding practice based in Istanbul, Turkey. One of 4 studios f
 ## More from Istanbul
 
 - [Fol](https://justadesignlist.com/studio/fol)
+- [Formeta Design](https://justadesignlist.com/studio/formeta-design)
 - [Saffron](https://justadesignlist.com/studio/saffron)
 - [William Hall](https://justadesignlist.com/studio/william-hall)
 

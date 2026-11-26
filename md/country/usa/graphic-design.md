@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in USA · Just a Design List"
-description: "179 independent studios working in graphic design in USA, from the Just a Design List index."
+description: "180 independent studios working in graphic design in USA, from the Just a Design List index."
 url: "https://justadesignlist.com/country/usa/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ Country · Graphic Design
 
 # Graphic Design in USA
 
-179 independent studios working in graphic design in USA, from the Just a Design List index.
+180 independent studios working in graphic design in USA, from the Just a Design List index.
 
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
 - [7D8](https://justadesignlist.com/studio/7d8) — Salt Lake City, USA
@@ -129,6 +129,7 @@ Country · Graphic Design
 - [P – K](https://justadesignlist.com/studio/p-k) — Los Angeles, Seoul, USA, South Korea
 - [Parámetro Studio](https://justadesignlist.com/studio/parametro-studio) — Monterrey, New York, Paris, Madrid, Mexico, USA, France, Spain
 - [Partner & Partners](https://justadesignlist.com/studio/partner-and-partners) — New York, USA
+- [Patrick Johnson](https://justadesignlist.com/studio/patrick-johnson) — New Orleans, USA
 - [Pedro Del Corro](https://justadesignlist.com/studio/pedro-del-corro) — New York, USA
 - [Perky Bros](https://justadesignlist.com/studio/perky-bros) — Nashville, USA
 - [Perron](https://justadesignlist.com/studio/perron) — Los Angeles, USA

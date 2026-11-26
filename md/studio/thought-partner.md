@@ -1,12 +1,12 @@
 ---
 title: "Thought Partner — Branding, New Orleans, USA · Just a Design List"
-description: "Thought Partner: branding practice based in New Orleans, USA. One of 2 studios from New Orleans on Just a Design List, added in May 2026."
+description: "Thought Partner: branding practice based in New Orleans, USA. One of 3 studios from New Orleans on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/thought-partner"
 ---
 
 # Thought Partner
 
-Thought Partner: branding practice based in New Orleans, USA. One of 2 studios from New Orleans on Just a Design List, added in May 2026.
+Thought Partner: branding practice based in New Orleans, USA. One of 3 studios from New Orleans on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding
 - **City:** New Orleans
@@ -21,6 +21,7 @@ Thought Partner: branding practice based in New Orleans, USA. One of 2 studios f
 
 ## More from New Orleans
 
+- [Patrick Johnson](https://justadesignlist.com/studio/patrick-johnson)
 - [The Collected Works](https://justadesignlist.com/studio/the-collected-works)
 
 ---

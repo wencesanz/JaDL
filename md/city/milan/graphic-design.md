@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in Milan · Just a Design List"
-description: "12 independent studios working in graphic design in Milan, from the Just a Design List index."
+description: "13 independent studios working in graphic design in Milan, from the Just a Design List index."
 url: "https://justadesignlist.com/city/milan/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ City · Graphic Design
 
 # Graphic Design in Milan
 
-12 independent studios working in graphic design in Milan, from the Just a Design List index.
+13 independent studios working in graphic design in Milan, from the Just a Design List index.
 
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
 - [Apart](https://justadesignlist.com/studio/apart) — Milan, Italy
@@ -21,6 +21,7 @@ City · Graphic Design
 - [Pitis e Associati](https://justadesignlist.com/studio/pitis-e-associati) — Milan, Paris, Italy, France
 - [Pop-eye](https://justadesignlist.com/studio/pop-eye) — Milan, Italy
 - [studio FM milano](https://justadesignlist.com/studio/studio-fm-milano) — Milan, Italy
+- [Studio Klass](https://justadesignlist.com/studio/studio-klass) — Milan, Italy
 - [Studio Vedèt](https://justadesignlist.com/studio/studio-vedet) — Milan, Italy
 - [TOMO TOMO](https://justadesignlist.com/studio/tomo-tomo) — Milan, Italy
 - [Velvele](https://justadesignlist.com/studio/velvele) — Milan, Italy

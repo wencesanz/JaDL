@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Italy · Just a Design List"
-description: "32 independent design studios and practices based in Italy. A curated index — browse by city and discipline."
+description: "33 independent design studios and practices based in Italy. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/italy"
 ---
 
@@ -10,9 +10,9 @@ Country
 
 # Italy
 
-32 independent design studios and practices based in Italy. A curated index — browse by city and discipline.
+33 independent design studios and practices based in Italy. A curated index — browse by city and discipline.
 
-By discipline: [Branding design studios in Italy](https://justadesignlist.com/country/italy/branding) (29), [Graphic Design studios in Italy](https://justadesignlist.com/country/italy/graphic-design) (24), [Interactive/Digital design studios in Italy](https://justadesignlist.com/country/italy/interactive-digital) (21), [Packaging design studios in Italy](https://justadesignlist.com/country/italy/packaging) (15), [Typography design studios in Italy](https://justadesignlist.com/country/italy/typography) (6)
+By discipline: [Branding design studios in Italy](https://justadesignlist.com/country/italy/branding) (29), [Graphic Design studios in Italy](https://justadesignlist.com/country/italy/graphic-design) (25), [Interactive/Digital design studios in Italy](https://justadesignlist.com/country/italy/interactive-digital) (21), [Packaging design studios in Italy](https://justadesignlist.com/country/italy/packaging) (15), [Typography design studios in Italy](https://justadesignlist.com/country/italy/typography) (6)
 
 - [2VSN Studio](https://justadesignlist.com/studio/2vsn-studio) — Brescia, Italy
 - [Abc&D](https://justadesignlist.com/studio/abcandd) — Munich, Athens, Milan, Germany, Greece, Italy
@@ -39,6 +39,7 @@ By discipline: [Branding design studios in Italy](https://justadesignlist.com/co
 - [Pop-eye](https://justadesignlist.com/studio/pop-eye) — Milan, Italy
 - [studio FM milano](https://justadesignlist.com/studio/studio-fm-milano) — Milan, Italy
 - [Studio K95](https://justadesignlist.com/studio/studio-k95) — Catania, Italy
+- [Studio Klass](https://justadesignlist.com/studio/studio-klass) — Milan, Italy
 - [Studio Mut](https://justadesignlist.com/studio/studio-mut) — Bozen, Italy
 - [Studio Vedèt](https://justadesignlist.com/studio/studio-vedet) — Milan, Italy
 - [Sublimio](https://justadesignlist.com/studio/sublimio) — Rome, Italy
