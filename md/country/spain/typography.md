@@ -16,7 +16,7 @@ Country · Typography
 - [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
 - [Casamira](https://justadesignlist.com/studio/casamira) — Barcelona, Spain
 - [Democràcia Studio](https://justadesignlist.com/studio/democracia-studio) — Valencia, Spain
-- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cadiz, Madrid, Spain
+- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cádiz, Madrid, Spain
 - [FAAADE](https://justadesignlist.com/studio/faaade) — Madrid, Spain
 - [Folch](https://justadesignlist.com/studio/folch) — Barcelona, Madrid, Spain
 - [la Negreta](https://justadesignlist.com/studio/la-negreta) — Barcelona, Spain

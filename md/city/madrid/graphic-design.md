@@ -20,7 +20,7 @@ City · Graphic Design
 - [Bandiz](https://justadesignlist.com/studio/bandiz) — Madrid, Spain
 - [Carlos Mayo](https://justadesignlist.com/studio/carlos-mayo) — Madrid, Spain
 - [Cocota](https://justadesignlist.com/studio/cocota) — Madrid, Spain
-- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cadiz, Madrid, Spain
+- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cádiz, Madrid, Spain
 - [Estudio Mendue](https://justadesignlist.com/studio/estudio-mendue) — Madrid, Spain
 - [FAAADE](https://justadesignlist.com/studio/faaade) — Madrid, Spain
 - [Folch](https://justadesignlist.com/studio/folch) — Barcelona, Madrid, Spain

@@ -13,7 +13,7 @@ City
 4 independent design studios based in Pamplona, from the Just a Design List index. Browse by discipline.
 
 - [Bonita](https://justadesignlist.com/studio/bonita) — Pamplona, Spain
-- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cadiz, Madrid, Spain
+- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cádiz, Madrid, Spain
 - [Flat](https://justadesignlist.com/studio/flat) — Pamplona, Spain
 - [Silencio](https://justadesignlist.com/studio/silencio) — Pamplona, Spain
 

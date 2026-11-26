@@ -1,12 +1,12 @@
 ---
 title: "Tiquismiquis — Branding, Malaga, Spain · Just a Design List"
-description: "Tiquismiquis: branding and graphic design practice based in Malaga, Spain. One of 7 studios from Malaga on Just a Design List, added in June 2023."
+description: "Tiquismiquis: branding and graphic design practice based in Malaga, Spain. One of 8 studios from Malaga on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/tiquismiquis"
 ---
 
 # Tiquismiquis
 
-Tiquismiquis: branding and graphic design practice based in Malaga, Spain. One of 7 studios from Malaga on Just a Design List, added in June 2023.
+Tiquismiquis: branding and graphic design practice based in Malaga, Spain. One of 8 studios from Malaga on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** Malaga

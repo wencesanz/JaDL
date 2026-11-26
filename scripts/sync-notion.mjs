@@ -337,6 +337,41 @@ ${items}
 // ---------------------------------------------------------------------------
 // http -> https
 // ---------------------------------------------------------------------------
+// The same place written two ways in Notion ("Malaga" / "Málaga",
+// "St.Gallen" / "St. Gallen") would give two collections with one address:
+// the prerendered page shows one, the app the other, and Google sees a
+// "soft 404". Use one spelling per place: the most common one; on a tie, the
+// one with accents or spaces (usually the correct one).
+function unifySpellings(studios) {
+  const slug = (v) => String(v || '').toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '')
+    .replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+  const parts = (v) => String(v || '').split(',').map((x) => x.trim()).filter(Boolean);
+  for (const field of ['city', 'country', 'category']) {
+    const seen = new Map();
+    for (const s of studios) for (const v of parts(s[field])) {
+      const k = slug(v);
+      if (!seen.has(k)) seen.set(k, new Map());
+      seen.get(k).set(v, (seen.get(k).get(v) || 0) + 1);
+    }
+    const best = new Map();
+    for (const [k, forms] of seen) {
+      if (forms.size < 2) continue;
+      const score = (v) => [forms.get(v), (v.match(/[^\x00-\x7F]/g) || []).length, (v.match(/ /g) || []).length];
+      const pick = [...forms.keys()].sort((a, b) => {
+        const A = score(a), B = score(b);
+        return B[0] - A[0] || B[1] - A[1] || B[2] - A[2] || a.localeCompare(b);
+      })[0];
+      best.set(k, pick);
+      console.log(`Spelling: ${[...forms.keys()].join(' / ')} -> ${pick} (${field})`);
+    }
+    if (!best.size) continue;
+    for (const s of studios) {
+      if (!s[field]) continue;
+      s[field] = parts(s[field]).map((v) => best.get(slug(v)) || v).join(', ');
+    }
+  }
+}
+
 async function upgradeToHttps(studios) {
   const todo = studios.filter((s) => /^http:\/\//i.test(s.url || ''));
   if (!todo.length) return;
@@ -392,6 +427,7 @@ async function upgradeToHttps(studios) {
   // Show http:// websites as https:// when the https version works and stays
   // on the same site. Notion keeps whatever was typed; only the site changes.
   await upgradeToHttps(studios);
+  unifySpellings(studios);
 
   // Write JSON (compact-ish: one studio per line via indent 2)
   const { writeFile } = await import('node:fs/promises');

@@ -8,7 +8,7 @@ Browse
 
 # Cities
 
-316 cities represented across the index.
+313 cities represented across the index.
 
 - [London](https://justadesignlist.com/city/london) (199)
 - [New York](https://justadesignlist.com/city/new-york) (172)
@@ -50,10 +50,10 @@ Browse
 - [Singapore](https://justadesignlist.com/city/singapore) (9)
 - [Antwerp](https://justadesignlist.com/city/antwerp) (8)
 - [Lausanne](https://justadesignlist.com/city/lausanne) (8)
+- [Malaga](https://justadesignlist.com/city/malaga) (8)
 - [Stuttgart](https://justadesignlist.com/city/stuttgart) (8)
 - [Warsaw](https://justadesignlist.com/city/warsaw) (8)
 - [Hong Kong](https://justadesignlist.com/city/hong-kong) (7)
-- [Malaga](https://justadesignlist.com/city/malaga) (7)
 - [Sao Paulo](https://justadesignlist.com/city/sao-paulo) (7)
 - [Austin](https://justadesignlist.com/city/austin) (6)
 - [Brussels](https://justadesignlist.com/city/brussels) (6)
@@ -102,6 +102,7 @@ Browse
 - [Riga](https://justadesignlist.com/city/riga) (3)
 - [San Diego](https://justadesignlist.com/city/san-diego) (3)
 - [St. Petersburg](https://justadesignlist.com/city/st-petersburg) (3)
+- [St.Gallen](https://justadesignlist.com/city/st-gallen) (3)
 - [Thessaloniki](https://justadesignlist.com/city/thessaloniki) (3)
 - [Utrecht](https://justadesignlist.com/city/utrecht) (3)
 - [Zagreb](https://justadesignlist.com/city/zagreb) (3)
@@ -113,6 +114,7 @@ Browse
 - [Boulder](https://justadesignlist.com/city/boulder) (2)
 - [Bournemouth](https://justadesignlist.com/city/bournemouth) (2)
 - [Bristol](https://justadesignlist.com/city/bristol) (2)
+- [Cádiz](https://justadesignlist.com/city/cadiz) (2)
 - [Cambridge](https://justadesignlist.com/city/cambridge) (2)
 - [Cardiff](https://justadesignlist.com/city/cardiff) (2)
 - [Christchurch](https://justadesignlist.com/city/christchurch) (2)
@@ -147,7 +149,6 @@ Browse
 - [Salt Lake City](https://justadesignlist.com/city/salt-lake-city) (2)
 - [Santiago de Chile](https://justadesignlist.com/city/santiago-de-chile) (2)
 - [Shenzhen](https://justadesignlist.com/city/shenzhen) (2)
-- [St.Gallen](https://justadesignlist.com/city/st-gallen) (2)
 - [Tallinn](https://justadesignlist.com/city/tallinn) (2)
 - [Toulouse](https://justadesignlist.com/city/toulouse) (2)
 - [Valladolid](https://justadesignlist.com/city/valladolid) (2)
@@ -184,8 +185,6 @@ Browse
 - [Brno](https://justadesignlist.com/city/brno) (1)
 - [Brugge](https://justadesignlist.com/city/brugge) (1)
 - [Byron Bay](https://justadesignlist.com/city/byron-bay) (1)
-- [Cadiz](https://justadesignlist.com/city/cadiz) (1)
-- [Cádiz](https://justadesignlist.com/city/cadiz) (1)
 - [Caen](https://justadesignlist.com/city/caen) (1)
 - [Calgary](https://justadesignlist.com/city/calgary) (1)
 - [Caracas](https://justadesignlist.com/city/caracas) (1)
@@ -245,7 +244,6 @@ Browse
 - [Lviv](https://justadesignlist.com/city/lviv) (1)
 - [Macau](https://justadesignlist.com/city/macau) (1)
 - [Maharepa](https://justadesignlist.com/city/maharepa) (1)
-- [Málaga](https://justadesignlist.com/city/malaga) (1)
 - [Malmö](https://justadesignlist.com/city/malmo) (1)
 - [Mannheim](https://justadesignlist.com/city/mannheim) (1)
 - [Mar del Plata](https://justadesignlist.com/city/mar-del-plata) (1)
@@ -298,7 +296,6 @@ Browse
 - [Skopje](https://justadesignlist.com/city/skopje) (1)
 - [Springfield](https://justadesignlist.com/city/springfield) (1)
 - [Squamish](https://justadesignlist.com/city/squamish) (1)
-- [St. Gallen](https://justadesignlist.com/city/st-gallen) (1)
 - [St. Louis](https://justadesignlist.com/city/st-louis) (1)
 - [Stavanger](https://justadesignlist.com/city/stavanger) (1)
 - [Stevensville](https://justadesignlist.com/city/stevensville) (1)

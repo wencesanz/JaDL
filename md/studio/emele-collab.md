@@ -1,12 +1,12 @@
 ---
 title: "Emele Collab — Branding, Malaga, Spain · Just a Design List"
-description: "Emele Collab: branding, interactive/digital and graphic design practice based in Malaga, Spain. One of 7 studios from Malaga on Just a Design List, added in October 2024."
+description: "Emele Collab: branding, interactive/digital and graphic design practice based in Malaga, Spain. One of 8 studios from Malaga on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/emele-collab"
 ---
 
 # Emele Collab
 
-Emele Collab: branding, interactive/digital and graphic design practice based in Malaga, Spain. One of 7 studios from Malaga on Just a Design List, added in October 2024.
+Emele Collab: branding, interactive/digital and graphic design practice based in Malaga, Spain. One of 8 studios from Malaga on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Interactive/Digital, Graphic Design
 - **City:** Malaga
@@ -26,7 +26,7 @@ Emele Collab: branding, interactive/digital and graphic design practice based in
 - [Estudio Republica](https://justadesignlist.com/studio/estudio-republica)
 - [FREE PRACTICE](https://justadesignlist.com/studio/free-practice)
 - [Javi Medialdea](https://justadesignlist.com/studio/javi-medialdea)
-- [Tiquismiquis](https://justadesignlist.com/studio/tiquismiquis)
+- [Squembri](https://justadesignlist.com/studio/squembri)
 
 ---
 

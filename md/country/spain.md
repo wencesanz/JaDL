@@ -66,7 +66,7 @@ By discipline: [Branding design studios in Spain](https://justadesignlist.com/co
 - [Domo-A](https://justadesignlist.com/studio/domo-a) — Barcelona, Spain
 - [dous.studio](https://justadesignlist.com/studio/dous-studio) — Madrid, Spain
 - [Emele Collab](https://justadesignlist.com/studio/emele-collab) — Malaga, Spain
-- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cadiz, Madrid, Spain
+- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cádiz, Madrid, Spain
 - [Erretres](https://justadesignlist.com/studio/erretres) — Madrid, Brussels, Spain, Belgium
 - [Escola](https://justadesignlist.com/studio/escola) — Liverpool, Barcelona, England, Spain
 - [Esiete](https://justadesignlist.com/studio/esiete) — Barcelona, Spain
@@ -184,7 +184,7 @@ By discipline: [Branding design studios in Spain](https://justadesignlist.com/co
 - [Soluble](https://justadesignlist.com/studio/soluble) — Madrid, Barcelona, Spain
 - [Sonia Castillo Studio](https://justadesignlist.com/studio/sonia-castillo-studio) — Madrid, Spain
 - [Soon In Tokyo](https://justadesignlist.com/studio/soon-in-tokyo) — Barcelona, Spain
-- [Squembri](https://justadesignlist.com/studio/squembri) — Málaga, Granada, Spain
+- [Squembri](https://justadesignlist.com/studio/squembri) — Malaga, Granada, Spain
 - [Studio Albert Romagosa](https://justadesignlist.com/studio/studio-albert-romagosa) — Barcelona, Spain
 - [Studio Aparte](https://justadesignlist.com/studio/studio-aparte) — Barcelona, Spain
 - [Studio Banana](https://justadesignlist.com/studio/studio-banana) — London, Lausanne, Basel, Madrid, England, Spain, Switzerland

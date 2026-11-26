@@ -1,12 +1,12 @@
 ---
 title: "FREE PRACTICE — Graphic Design, Malaga, Spain · Just a Design List"
-description: "FREE PRACTICE: graphic design and branding practice based in Malaga, Spain. One of 7 studios from Malaga on Just a Design List, added in July 2026."
+description: "FREE PRACTICE: graphic design and branding practice based in Malaga, Spain. One of 8 studios from Malaga on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/free-practice"
 ---
 
 # FREE PRACTICE
 
-FREE PRACTICE: graphic design and branding practice based in Malaga, Spain. One of 7 studios from Malaga on Just a Design List, added in July 2026.
+FREE PRACTICE: graphic design and branding practice based in Malaga, Spain. One of 8 studios from Malaga on Just a Design List, added in July 2026.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Malaga
@@ -26,7 +26,7 @@ FREE PRACTICE: graphic design and branding practice based in Malaga, Spain. One 
 - [Emele Collab](https://justadesignlist.com/studio/emele-collab)
 - [Estudio Republica](https://justadesignlist.com/studio/estudio-republica)
 - [Javi Medialdea](https://justadesignlist.com/studio/javi-medialdea)
-- [Tiquismiquis](https://justadesignlist.com/studio/tiquismiquis)
+- [Squembri](https://justadesignlist.com/studio/squembri)
 
 ---
 

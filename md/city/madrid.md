@@ -23,7 +23,7 @@ By discipline: [Branding design studios in Madrid](https://justadesignlist.com/c
 - [Carlos Mayo](https://justadesignlist.com/studio/carlos-mayo) — Madrid, Spain
 - [Cocota](https://justadesignlist.com/studio/cocota) — Madrid, Spain
 - [dous.studio](https://justadesignlist.com/studio/dous-studio) — Madrid, Spain
-- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cadiz, Madrid, Spain
+- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cádiz, Madrid, Spain
 - [Erretres](https://justadesignlist.com/studio/erretres) — Madrid, Brussels, Spain, Belgium
 - [Estudio Mendue](https://justadesignlist.com/studio/estudio-mendue) — Madrid, Spain
 - [FAAADE](https://justadesignlist.com/studio/faaade) — Madrid, Spain

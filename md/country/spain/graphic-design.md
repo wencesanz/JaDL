@@ -53,7 +53,7 @@ Country · Graphic Design
 - [Diferente](https://justadesignlist.com/studio/diferente) — Barcelona, Spain
 - [DOMINGO](https://justadesignlist.com/studio/domingo) — Barcelona, Spain
 - [Emele Collab](https://justadesignlist.com/studio/emele-collab) — Malaga, Spain
-- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cadiz, Madrid, Spain
+- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cádiz, Madrid, Spain
 - [Escola](https://justadesignlist.com/studio/escola) — Liverpool, Barcelona, England, Spain
 - [Estudio Mendue](https://justadesignlist.com/studio/estudio-mendue) — Madrid, Spain
 - [Estudio Republica](https://justadesignlist.com/studio/estudio-republica) — Malaga, Spain
@@ -133,7 +133,7 @@ Country · Graphic Design
 - [Sergio Abstracts](https://justadesignlist.com/studio/sergio-abstracts) — Murcia, Spain
 - [Sergio Juan Studio](https://justadesignlist.com/studio/sergio-juan-studio) — Barcelona, Spain
 - [Sonia Castillo Studio](https://justadesignlist.com/studio/sonia-castillo-studio) — Madrid, Spain
-- [Squembri](https://justadesignlist.com/studio/squembri) — Málaga, Granada, Spain
+- [Squembri](https://justadesignlist.com/studio/squembri) — Malaga, Granada, Spain
 - [Studio Albert Romagosa](https://justadesignlist.com/studio/studio-albert-romagosa) — Barcelona, Spain
 - [Studio Aparte](https://justadesignlist.com/studio/studio-aparte) — Barcelona, Spain
 - [Studio Banana](https://justadesignlist.com/studio/studio-banana) — London, Lausanne, Basel, Madrid, England, Spain, Switzerland

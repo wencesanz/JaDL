@@ -64,7 +64,7 @@ Discipline
 - [Emi Takahashi](https://justadesignlist.com/studio/emi-takahashi) — Montreal, Canada
 - [Emily Klaebe](https://justadesignlist.com/studio/emily-klaebe) — Portland, USA
 - [Eric Hu studio](https://justadesignlist.com/studio/eric-hu-studio) — New York, USA
-- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cadiz, Madrid, Spain
+- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cádiz, Madrid, Spain
 - [eTypes](https://justadesignlist.com/studio/etypes) — Copenhagen, Denmark
 - [Extraset](https://justadesignlist.com/studio/extraset) — Genève, Switzerland
 - [Extreme Present](https://justadesignlist.com/studio/extreme-present) — Amsterdam, The Netherlands

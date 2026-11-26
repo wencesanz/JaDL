@@ -146,7 +146,7 @@ Country · Branding
 - [Soluble](https://justadesignlist.com/studio/soluble) — Madrid, Barcelona, Spain
 - [Sonia Castillo Studio](https://justadesignlist.com/studio/sonia-castillo-studio) — Madrid, Spain
 - [Soon In Tokyo](https://justadesignlist.com/studio/soon-in-tokyo) — Barcelona, Spain
-- [Squembri](https://justadesignlist.com/studio/squembri) — Málaga, Granada, Spain
+- [Squembri](https://justadesignlist.com/studio/squembri) — Malaga, Granada, Spain
 - [Studio Banana](https://justadesignlist.com/studio/studio-banana) — London, Lausanne, Basel, Madrid, England, Spain, Switzerland
 - [Suki Design Studio](https://justadesignlist.com/studio/suki-design-studio) — Vic, Spain
 - [Summa Branding](https://justadesignlist.com/studio/summa-branding) — Barcelona, Madrid, Lisbon, Spain, Portugal

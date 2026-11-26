@@ -69,7 +69,7 @@ By discipline: [Graphic Design studios in Switzerland](https://justadesignlist.c
 - [Studio Feixen](https://justadesignlist.com/studio/studio-feixen) — Lucerne, Switzerland
 - [studio marcus kraft](https://justadesignlist.com/studio/studio-marcus-kraft) — Zurich, Switzerland
 - [TM](https://justadesignlist.com/studio/tm) — Genève, Switzerland
-- [Union Union](https://justadesignlist.com/studio/union-union) — St. Gallen, Switzerland
+- [Union Union](https://justadesignlist.com/studio/union-union) — St.Gallen, Switzerland
 - [W—E studio](https://justadesignlist.com/studio/w-e-studio) — Zurich, New York, Switzerland, USA
 - [Yucca Studio](https://justadesignlist.com/studio/yucca-studio) — Zurich, Switzerland
 - [z creative labs](https://justadesignlist.com/studio/z-creative-labs) — Zurich, Switzerland

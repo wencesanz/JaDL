@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Malaga · Just a Design List"
-description: "7 independent design studios based in Malaga, from the Just a Design List index. Browse by discipline."
+description: "8 independent design studios based in Malaga, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/malaga"
 ---
 
@@ -10,9 +10,9 @@ City
 
 # Malaga
 
-7 independent design studios based in Malaga, from the Just a Design List index. Browse by discipline.
+8 independent design studios based in Malaga, from the Just a Design List index. Browse by discipline.
 
-By discipline: [Graphic Design studios in Malaga](https://justadesignlist.com/city/malaga/graphic-design) (6), [Branding design studios in Malaga](https://justadesignlist.com/city/malaga/branding) (5)
+By discipline: [Graphic Design studios in Malaga](https://justadesignlist.com/city/malaga/graphic-design) (7), [Branding design studios in Malaga](https://justadesignlist.com/city/malaga/branding) (6)
 
 - [bRIDA®](https://justadesignlist.com/studio/brida) — Malaga, Spain
 - [creanet](https://justadesignlist.com/studio/creanet) — Malaga, Spain
@@ -20,6 +20,7 @@ By discipline: [Graphic Design studios in Malaga](https://justadesignlist.com/ci
 - [Estudio Republica](https://justadesignlist.com/studio/estudio-republica) — Malaga, Spain
 - [FREE PRACTICE](https://justadesignlist.com/studio/free-practice) — Malaga, Spain
 - [Javi Medialdea](https://justadesignlist.com/studio/javi-medialdea) — Malaga, Spain
+- [Squembri](https://justadesignlist.com/studio/squembri) — Malaga, Granada, Spain
 - [Tiquismiquis](https://justadesignlist.com/studio/tiquismiquis) — Malaga, Spain
 
 ---

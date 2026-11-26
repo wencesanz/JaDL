@@ -1,23 +1,32 @@
 ---
-title: "Squembri — Branding, Málaga, Spain · Just a Design List"
-description: "Squembri: branding, graphic design and illustration practice based in Málaga, Spain. The only studio from Málaga, one of 202 from Spain on Just a Design List, added in June 2026."
+title: "Squembri — Branding, Malaga, Spain · Just a Design List"
+description: "Squembri: branding, graphic design and illustration practice based in Malaga, Spain. One of 8 studios from Malaga on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/squembri"
 ---
 
 # Squembri
 
-Squembri: branding, graphic design and illustration practice based in Málaga, Spain. The only studio from Málaga, one of 202 from Spain on Just a Design List, added in June 2026.
+Squembri: branding, graphic design and illustration practice based in Malaga, Spain. One of 8 studios from Malaga on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Graphic Design, Illustration, Packaging
-- **City:** Málaga, Granada
+- **City:** Malaga, Granada
 - **Country:** Spain
 
 [Visit Squembri ↗](https://www.squembri.com/)
 
 - [Branding](https://justadesignlist.com/discipline/branding)
-- [Málaga](https://justadesignlist.com/city/malaga)
+- [Malaga](https://justadesignlist.com/city/malaga)
 - [Spain](https://justadesignlist.com/country/spain)
 - [Iberia](https://justadesignlist.com/region/iberia)
+
+## More from Malaga
+
+- [bRIDA®](https://justadesignlist.com/studio/brida)
+- [creanet](https://justadesignlist.com/studio/creanet)
+- [Emele Collab](https://justadesignlist.com/studio/emele-collab)
+- [Estudio Republica](https://justadesignlist.com/studio/estudio-republica)
+- [FREE PRACTICE](https://justadesignlist.com/studio/free-practice)
+- [Javi Medialdea](https://justadesignlist.com/studio/javi-medialdea)
 
 ---
 

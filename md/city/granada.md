@@ -13,7 +13,7 @@ City
 
 1 independent design studio based in Granada, from the Just a Design List index. Browse by discipline.
 
-- [Squembri](https://justadesignlist.com/studio/squembri) — Málaga, Granada, Spain
+- [Squembri](https://justadesignlist.com/studio/squembri) — Malaga, Granada, Spain
 
 ---
 

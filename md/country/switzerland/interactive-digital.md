@@ -32,7 +32,7 @@ Country · Interactive/Digital
 - [SOLV](https://justadesignlist.com/studio/solv) — Kyiv, London, Zurich, Ukraine, England, Switzerland
 - [Studio Coralie Wipf](https://justadesignlist.com/studio/studio-coralie-wipf) — Zurich, Switzerland
 - [studio marcus kraft](https://justadesignlist.com/studio/studio-marcus-kraft) — Zurich, Switzerland
-- [Union Union](https://justadesignlist.com/studio/union-union) — St. Gallen, Switzerland
+- [Union Union](https://justadesignlist.com/studio/union-union) — St.Gallen, Switzerland
 - [W—E studio](https://justadesignlist.com/studio/w-e-studio) — Zurich, New York, Switzerland, USA
 - [Yucca Studio](https://justadesignlist.com/studio/yucca-studio) — Zurich, Switzerland
 - [z creative labs](https://justadesignlist.com/studio/z-creative-labs) — Zurich, Switzerland

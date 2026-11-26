@@ -25,7 +25,7 @@ Country · Illustration
 - [Rubio & Del Amo](https://justadesignlist.com/studio/rubio-and-del-amo) — Murcia, Spain
 - [Samu Coronado](https://justadesignlist.com/studio/samu-coronado) — Madrid, Spain
 - [Sonia Castillo Studio](https://justadesignlist.com/studio/sonia-castillo-studio) — Madrid, Spain
-- [Squembri](https://justadesignlist.com/studio/squembri) — Málaga, Granada, Spain
+- [Squembri](https://justadesignlist.com/studio/squembri) — Malaga, Granada, Spain
 - [Studio Carreras](https://justadesignlist.com/studio/studio-carreras) — Girona, Spain
 - [Studio Posti](https://justadesignlist.com/studio/studio-posti) — Barcelona, Spain
 - [vengavale](https://justadesignlist.com/studio/vengavale) — Madrid, Spain

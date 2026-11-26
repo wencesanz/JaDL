@@ -107,7 +107,7 @@ Discipline
 - [Sonia Castillo Studio](https://justadesignlist.com/studio/sonia-castillo-studio) — Madrid, Spain
 - [Sonny & Biddy](https://justadesignlist.com/studio/sonny-and-biddy) — Sydney, Australia
 - [Span](https://justadesignlist.com/studio/span) — Chicago, USA
-- [Squembri](https://justadesignlist.com/studio/squembri) — Málaga, Granada, Spain
+- [Squembri](https://justadesignlist.com/studio/squembri) — Malaga, Granada, Spain
 - [Stout Design, Inc.](https://justadesignlist.com/studio/stout-design-inc) — San Francisco, USA
 - [Studio Carreras](https://justadesignlist.com/studio/studio-carreras) — Girona, Spain
 - [Studio MPLS](https://justadesignlist.com/studio/studio-mpls) — Minneapolis, USA

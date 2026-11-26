@@ -1920,6 +1920,9 @@
   <url><loc>https://justadesignlist.com/city/antwerp/packaging</loc><lastmod>2026-09-22</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/lausanne</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/lausanne/graphic-design</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/city/malaga</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/city/malaga/branding</loc><lastmod>2026-08-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/city/malaga/graphic-design</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/stuttgart</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/stuttgart/branding</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/stuttgart/graphic-design</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -1929,9 +1932,6 @@
   <url><loc>https://justadesignlist.com/city/hong-kong</loc><lastmod>2026-08-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/hong-kong/branding</loc><lastmod>2026-08-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/hong-kong/packaging</loc><lastmod>2026-08-18</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/city/malaga</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/city/malaga/branding</loc><lastmod>2026-08-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/city/malaga/graphic-design</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/sao-paulo</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/sao-paulo/branding</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/sao-paulo/packaging</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -1999,6 +1999,7 @@
   <url><loc>https://justadesignlist.com/city/riga</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/san-diego</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/st-petersburg</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/city/st-gallen</loc><lastmod>2026-08-21</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/thessaloniki</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/utrecht</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/zagreb</loc><lastmod>2026-09-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -2010,6 +2011,7 @@
   <url><loc>https://justadesignlist.com/city/boulder</loc><lastmod>2026-09-23</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/bournemouth</loc><lastmod>2026-08-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/bristol</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://justadesignlist.com/city/cadiz</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/cambridge</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/cardiff</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/christchurch</loc><lastmod>2026-08-19</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -2044,7 +2046,6 @@
   <url><loc>https://justadesignlist.com/city/salt-lake-city</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/santiago-de-chile</loc><lastmod>2026-10-16</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/shenzhen</loc><lastmod>2026-08-31</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://justadesignlist.com/city/st-gallen</loc><lastmod>2026-08-21</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/tallinn</loc><lastmod>2026-08-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/toulouse</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://justadesignlist.com/city/valladolid</loc><lastmod>2026-08-13</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>

@@ -9,7 +9,7 @@ url: "https://justadesignlist.com/studio/errea"
 Errea: graphic design and typography practice based in Pamplona, Spain. One of 4 studios from Pamplona on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Typography
-- **City:** Pamplona, Cadiz, Madrid
+- **City:** Pamplona, Cádiz, Madrid
 - **Country:** Spain
 
 [Visit Errea ↗](https://www.somoserrea.es/)

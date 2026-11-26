@@ -1,12 +1,12 @@
 ---
 title: "Die Gestalter — Branding, St.Gallen, Switzerland · Just a Design List"
-description: "Die Gestalter: branding, graphic design and interactive/digital practice based in St.Gallen, Switzerland. One of 2 studios from St.Gallen on Just a Design List, added in August 2026."
+description: "Die Gestalter: branding, graphic design and interactive/digital practice based in St.Gallen, Switzerland. One of 3 studios from St.Gallen on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/die-gestalter"
 ---
 
 # Die Gestalter
 
-Die Gestalter: branding, graphic design and interactive/digital practice based in St.Gallen, Switzerland. One of 2 studios from St.Gallen on Just a Design List, added in August 2026.
+Die Gestalter: branding, graphic design and interactive/digital practice based in St.Gallen, Switzerland. One of 3 studios from St.Gallen on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** St.Gallen
@@ -22,6 +22,7 @@ Die Gestalter: branding, graphic design and interactive/digital practice based i
 ## More from St.Gallen
 
 - [Bureau Collective](https://justadesignlist.com/studio/bureau-collective)
+- [Union Union](https://justadesignlist.com/studio/union-union)
 
 ---
 

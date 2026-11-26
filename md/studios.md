@@ -419,7 +419,7 @@ The List
 - [Eremo](https://justadesignlist.com/studio/eremo) — Milan, Italy · Branding, Graphic Design, Packaging, Interactive/Digital
 - [Eric Hu studio](https://justadesignlist.com/studio/eric-hu-studio) — New York, USA · Graphic Design, Typography, Branding
 - [Erik Jonsson](https://justadesignlist.com/studio/erik-jonsson) — San Francisco, USA · Graphic Design, Interactive/Digital
-- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cadiz, Madrid, Spain · Graphic Design, Typography
+- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cádiz, Madrid, Spain · Graphic Design, Typography
 - [Erretres](https://justadesignlist.com/studio/erretres) — Madrid, Spain · Brussels, Belgium · Branding, Interactive/Digital
 - [Escola](https://justadesignlist.com/studio/escola) — Liverpool, England · Barcelona, Spain · Branding, Graphic Design, Packaging
 - [Esiete](https://justadesignlist.com/studio/esiete) — Barcelona, Spain · Branding, Interactive/Digital, Illustration
@@ -1213,7 +1213,7 @@ The List
 - [SPGD](https://justadesignlist.com/studio/spgd) — Melbourne, Australia · Branding
 - [SPIN](https://justadesignlist.com/studio/spin) — London, England · Graphic Design, Branding
 - [Spy](https://justadesignlist.com/studio/spy) — London, England · Branding, Graphic Design, Interactive/Digital, Packaging, Advertising/Campaigns
-- [Squembri](https://justadesignlist.com/studio/squembri) — Málaga, Granada, Spain · Branding, Graphic Design, Illustration, Packaging
+- [Squembri](https://justadesignlist.com/studio/squembri) — Malaga, Granada, Spain · Branding, Graphic Design, Illustration, Packaging
 - [ssnn](https://justadesignlist.com/studio/ssnn) — Antwerp, Belgium · Branding, Graphic Design, Packaging, Interactive/Digital, Typography
 - [STAGECREW](https://justadesignlist.com/studio/stagecrew) — USA · Branding, Graphic Design, Packaging, Interactive/Digital
 - [STALA](https://justadesignlist.com/studio/stala) — Poland · Branding, Motion, Interactive/Digital
@@ -1418,7 +1418,7 @@ The List
 - [UNFOUND Studio](https://justadesignlist.com/studio/unfound-studio) — Warsaw, Poland · Athens, Greece · Branding, Graphic Design, Motion, Interactive/Digital
 - [unfun](https://justadesignlist.com/studio/unfun) — Berlin, Germany · New York, USA · Graphic Design
 - [Uniforma Studio](https://justadesignlist.com/studio/uniforma-studio) — Poznan, Poland · Branding, Interactive/Digital
-- [Union Union](https://justadesignlist.com/studio/union-union) — St. Gallen, Switzerland · Branding, Interactive/Digital, Graphic Design
+- [Union Union](https://justadesignlist.com/studio/union-union) — St.Gallen, Switzerland · Branding, Interactive/Digital, Graphic Design
 - [Universal Favourite](https://justadesignlist.com/studio/universal-favourite) — Sydney, Australia · Branding
 - [Urgent.Agency](https://justadesignlist.com/studio/urgent-agency) — Copenhagen, Denmark · Branding, Motion, Interactive/Digital, Advertising/Campaigns
 - [Utopicum](https://justadesignlist.com/studio/utopicum) — Alicante, Spain · Branding, Graphic Design, Packaging, Advertising/Campaigns

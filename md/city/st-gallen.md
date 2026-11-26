@@ -1,6 +1,6 @@
 ---
 title: "Design studios in St.Gallen · Just a Design List"
-description: "2 independent design studios based in St.Gallen, from the Just a Design List index. Browse by discipline."
+description: "3 independent design studios based in St.Gallen, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/st-gallen"
 ---
 
@@ -10,10 +10,11 @@ City
 
 # St.Gallen
 
-2 independent design studios based in St.Gallen, from the Just a Design List index. Browse by discipline.
+3 independent design studios based in St.Gallen, from the Just a Design List index. Browse by discipline.
 
 - [Bureau Collective](https://justadesignlist.com/studio/bureau-collective) — St.Gallen, Switzerland
 - [Die Gestalter](https://justadesignlist.com/studio/die-gestalter) — St.Gallen, Switzerland
+- [Union Union](https://justadesignlist.com/studio/union-union) — St.Gallen, Switzerland
 
 ---
 

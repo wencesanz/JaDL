@@ -1,12 +1,12 @@
 ---
 title: "bRIDA® — Branding, Malaga, Spain · Just a Design List"
-description: "bRIDA®: branding practice based in Malaga, Spain. One of 7 studios from Malaga on Just a Design List, added in June 2023."
+description: "bRIDA®: branding practice based in Malaga, Spain. One of 8 studios from Malaga on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/brida"
 ---
 
 # bRIDA®
 
-bRIDA®: branding practice based in Malaga, Spain. One of 7 studios from Malaga on Just a Design List, added in June 2023.
+bRIDA®: branding practice based in Malaga, Spain. One of 8 studios from Malaga on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding
 - **City:** Malaga
@@ -26,7 +26,7 @@ bRIDA®: branding practice based in Malaga, Spain. One of 7 studios from Malaga 
 - [Estudio Republica](https://justadesignlist.com/studio/estudio-republica)
 - [FREE PRACTICE](https://justadesignlist.com/studio/free-practice)
 - [Javi Medialdea](https://justadesignlist.com/studio/javi-medialdea)
-- [Tiquismiquis](https://justadesignlist.com/studio/tiquismiquis)
+- [Squembri](https://justadesignlist.com/studio/squembri)
 
 ---
 

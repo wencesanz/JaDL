@@ -13,7 +13,7 @@ City · Typography
 8 independent studios working in typography in Madrid, from the Just a Design List index.
 
 - [Antennae Studio](https://justadesignlist.com/studio/antennae-studio) — London, Madrid, England, Spain
-- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cadiz, Madrid, Spain
+- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cádiz, Madrid, Spain
 - [FAAADE](https://justadesignlist.com/studio/faaade) — Madrid, Spain
 - [Folch](https://justadesignlist.com/studio/folch) — Barcelona, Madrid, Spain
 - [NOHO](https://justadesignlist.com/studio/noho) — Madrid, Barcelona, London, Spain, England

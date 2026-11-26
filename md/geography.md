@@ -1,12 +1,12 @@
 ---
 title: "Geography · Just a Design List"
-description: "Where the studios are: 176 countries and 316 cities, on a world map and by region."
+description: "Where the studios are: 176 countries and 313 cities, on a world map and by region."
 url: "https://justadesignlist.com/geography"
 ---
 
 Geography
 
-# Studios across 64 countries and 316 cities
+# Studios across 64 countries and 313 cities
 
 ## Regions
 
@@ -127,10 +127,10 @@ Geography
 - [Singapore](https://justadesignlist.com/city/singapore) (9)
 - [Antwerp](https://justadesignlist.com/city/antwerp) (8)
 - [Lausanne](https://justadesignlist.com/city/lausanne) (8)
+- [Malaga](https://justadesignlist.com/city/malaga) (8)
 - [Stuttgart](https://justadesignlist.com/city/stuttgart) (8)
 - [Warsaw](https://justadesignlist.com/city/warsaw) (8)
 - [Hong Kong](https://justadesignlist.com/city/hong-kong) (7)
-- [Malaga](https://justadesignlist.com/city/malaga) (7)
 - [Sao Paulo](https://justadesignlist.com/city/sao-paulo) (7)
 - [Austin](https://justadesignlist.com/city/austin) (6)
 - [Brussels](https://justadesignlist.com/city/brussels) (6)

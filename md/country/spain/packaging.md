@@ -83,7 +83,7 @@ Country · Packaging
 - [Sergio Abstracts](https://justadesignlist.com/studio/sergio-abstracts) — Murcia, Spain
 - [Seriesnemo](https://justadesignlist.com/studio/seriesnemo) — Barcelona, Spain
 - [Sonia Castillo Studio](https://justadesignlist.com/studio/sonia-castillo-studio) — Madrid, Spain
-- [Squembri](https://justadesignlist.com/studio/squembri) — Málaga, Granada, Spain
+- [Squembri](https://justadesignlist.com/studio/squembri) — Malaga, Granada, Spain
 - [Suki Design Studio](https://justadesignlist.com/studio/suki-design-studio) — Vic, Spain
 - [Superfluido](https://justadesignlist.com/studio/superfluido) — Úbeda, Spain
 - [Sutil](https://justadesignlist.com/studio/sutil) — Barcelona, Spain

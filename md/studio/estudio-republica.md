@@ -1,12 +1,12 @@
 ---
 title: "Estudio Republica — Graphic Design, Malaga, Spain · Just a Design List"
-description: "Estudio Republica: graphic design, illustration and packaging practice based in Malaga, Spain. One of 7 studios from Malaga on Just a Design List, added in October 2026."
+description: "Estudio Republica: graphic design, illustration and packaging practice based in Malaga, Spain. One of 8 studios from Malaga on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/estudio-republica"
 ---
 
 # Estudio Republica
 
-Estudio Republica: graphic design, illustration and packaging practice based in Malaga, Spain. One of 7 studios from Malaga on Just a Design List, added in October 2026.
+Estudio Republica: graphic design, illustration and packaging practice based in Malaga, Spain. One of 8 studios from Malaga on Just a Design List, added in October 2026.
 
 - **Discipline:** Graphic Design, Illustration, Packaging
 - **City:** Malaga
@@ -26,7 +26,7 @@ Estudio Republica: graphic design, illustration and packaging practice based in 
 - [Emele Collab](https://justadesignlist.com/studio/emele-collab)
 - [FREE PRACTICE](https://justadesignlist.com/studio/free-practice)
 - [Javi Medialdea](https://justadesignlist.com/studio/javi-medialdea)
-- [Tiquismiquis](https://justadesignlist.com/studio/tiquismiquis)
+- [Squembri](https://justadesignlist.com/studio/squembri)
 
 ---
 

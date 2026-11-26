@@ -1,12 +1,12 @@
 ---
 title: "Javi Medialdea — Graphic Design, Malaga, Spain · Just a Design List"
-description: "Javi Medialdea: graphic design and interactive/digital practice based in Malaga, Spain. One of 7 studios from Malaga on Just a Design List, added in August 2026."
+description: "Javi Medialdea: graphic design and interactive/digital practice based in Malaga, Spain. One of 8 studios from Malaga on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/javi-medialdea"
 ---
 
 # Javi Medialdea
 
-Javi Medialdea: graphic design and interactive/digital practice based in Malaga, Spain. One of 7 studios from Malaga on Just a Design List, added in August 2026.
+Javi Medialdea: graphic design and interactive/digital practice based in Malaga, Spain. One of 8 studios from Malaga on Just a Design List, added in August 2026.
 
 - **Discipline:** Graphic Design, Interactive/Digital
 - **City:** Malaga
@@ -26,7 +26,7 @@ Javi Medialdea: graphic design and interactive/digital practice based in Malaga,
 - [Emele Collab](https://justadesignlist.com/studio/emele-collab)
 - [Estudio Republica](https://justadesignlist.com/studio/estudio-republica)
 - [FREE PRACTICE](https://justadesignlist.com/studio/free-practice)
-- [Tiquismiquis](https://justadesignlist.com/studio/tiquismiquis)
+- [Squembri](https://justadesignlist.com/studio/squembri)
 
 ---
 

@@ -39,7 +39,7 @@ Country · Branding
 - [Studio Banana](https://justadesignlist.com/studio/studio-banana) — London, Lausanne, Basel, Madrid, England, Spain, Switzerland
 - [Studio Coralie Wipf](https://justadesignlist.com/studio/studio-coralie-wipf) — Zurich, Switzerland
 - [studio marcus kraft](https://justadesignlist.com/studio/studio-marcus-kraft) — Zurich, Switzerland
-- [Union Union](https://justadesignlist.com/studio/union-union) — St. Gallen, Switzerland
+- [Union Union](https://justadesignlist.com/studio/union-union) — St.Gallen, Switzerland
 - [W—E studio](https://justadesignlist.com/studio/w-e-studio) — Zurich, New York, Switzerland, USA
 - [Yucca Studio](https://justadesignlist.com/studio/yucca-studio) — Zurich, Switzerland
 

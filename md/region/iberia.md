@@ -68,7 +68,7 @@ Region
 - [dous.studio](https://justadesignlist.com/studio/dous-studio) — Madrid, Spain
 - [Elisabeth Kiviorg](https://justadesignlist.com/studio/elisabeth-kiviorg) — Lisbon, Portugal
 - [Emele Collab](https://justadesignlist.com/studio/emele-collab) — Malaga, Spain
-- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cadiz, Madrid, Spain
+- [Errea](https://justadesignlist.com/studio/errea) — Pamplona, Cádiz, Madrid, Spain
 - [Erretres](https://justadesignlist.com/studio/erretres) — Madrid, Brussels, Spain, Belgium
 - [Esiete](https://justadesignlist.com/studio/esiete) — Barcelona, Spain
 - [espluga+associates](https://justadesignlist.com/studio/espluga-associates) — Barcelona, Spain
@@ -184,7 +184,7 @@ Region
 - [Soluble](https://justadesignlist.com/studio/soluble) — Madrid, Barcelona, Spain
 - [Sonia Castillo Studio](https://justadesignlist.com/studio/sonia-castillo-studio) — Madrid, Spain
 - [Soon In Tokyo](https://justadesignlist.com/studio/soon-in-tokyo) — Barcelona, Spain
-- [Squembri](https://justadesignlist.com/studio/squembri) — Málaga, Granada, Spain
+- [Squembri](https://justadesignlist.com/studio/squembri) — Malaga, Granada, Spain
 - [Studio Albert Romagosa](https://justadesignlist.com/studio/studio-albert-romagosa) — Barcelona, Spain
 - [Studio Aparte](https://justadesignlist.com/studio/studio-aparte) — Barcelona, Spain
 - [Studio Berga](https://justadesignlist.com/studio/studio-berga) — Lisbon, Brussels, Portugal, Belgium
