@@ -5,8 +5,17 @@
     <link>https://justadesignlist.com/city/sydney</link>
     <description>New additions to Just a Design List: design studios in Sydney.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:18:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/city/sydney.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jeremy Matthews design</title>
+      <link>https://justadesignlist.com/studio/jeremy-matthews-design</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/jeremy-matthews-design</guid>
+      <pubDate>Wed, 25 Nov 2026 22:18:00 GMT</pubDate>
+      <description>Branding · Graphic Design — Sydney, Australia. https://miaandjem.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
     <item>
       <title>Michael Verze</title>
       <link>https://justadesignlist.com/studio/michael-verze</link>
@@ -290,14 +299,6 @@
       <guid isPermaLink="true">https://justadesignlist.com/studio/re</guid>
       <pubDate>Tue, 30 May 2023 00:24:00 GMT</pubDate>
       <description>Branding — Sydney, Australia. https://www.re.design/</description>
-      <category>Branding</category>
-    </item>
-    <item>
-      <title>Universal Favourite</title>
-      <link>https://justadesignlist.com/studio/universal-favourite</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/universal-favourite</guid>
-      <pubDate>Mon, 29 May 2023 16:44:00 GMT</pubDate>
-      <description>Branding — Sydney, Australia. https://universalfavourite.com.au/</description>
       <category>Branding</category>
     </item>
   </channel>

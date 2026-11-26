@@ -1,12 +1,12 @@
 ---
 title: "Tom Mussak — Branding, England · Just a Design List"
-description: "Tom Mussak: branding, graphic design and interactive/digital practice based in England. One of 246 from England on Just a Design List, added in November 2026."
+description: "Tom Mussak: branding, graphic design and interactive/digital practice based in England. One of 247 from England on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/tom-mussak"
 ---
 
 # Tom Mussak
 
-Tom Mussak: branding, graphic design and interactive/digital practice based in England. One of 246 from England on Just a Design List, added in November 2026.
+Tom Mussak: branding, graphic design and interactive/digital practice based in England. One of 247 from England on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **Country:** England

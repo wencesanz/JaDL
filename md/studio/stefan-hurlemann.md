@@ -1,12 +1,12 @@
 ---
 title: "Stefan Hürlemann — Graphic Design, Zurich, Switzerland · Just a Design List"
-description: "Stefan Hürlemann: graphic design practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in May 2023."
+description: "Stefan Hürlemann: graphic design practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/stefan-hurlemann"
 ---
 
 # Stefan Hürlemann
 
-Stefan Hürlemann: graphic design practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in May 2023.
+Stefan Hürlemann: graphic design practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Zurich

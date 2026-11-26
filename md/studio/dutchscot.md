@@ -1,12 +1,12 @@
 ---
 title: "DutchScot — Graphic Design, London, England · Just a Design List"
-description: "DutchScot: graphic design and branding practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2023."
+description: "DutchScot: graphic design and branding practice based in London, England. One of 199 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/dutchscot"
 ---
 
 # DutchScot
 
-DutchScot: graphic design and branding practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2023.
+DutchScot: graphic design and branding practice based in London, England. One of 199 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** London

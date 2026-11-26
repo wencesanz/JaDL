@@ -1,12 +1,12 @@
 ---
 title: "Union Union — Branding, St. Gallen, Switzerland · Just a Design List"
-description: "Union Union: branding, interactive/digital and graphic design practice based in St. Gallen, Switzerland. The only studio from St. Gallen, one of 58 from Switzerland on Just a Design List, added in July 2026."
+description: "Union Union: branding, interactive/digital and graphic design practice based in St. Gallen, Switzerland. The only studio from St. Gallen, one of 59 from Switzerland on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/union-union"
 ---
 
 # Union Union
 
-Union Union: branding, interactive/digital and graphic design practice based in St. Gallen, Switzerland. The only studio from St. Gallen, one of 58 from Switzerland on Just a Design List, added in July 2026.
+Union Union: branding, interactive/digital and graphic design practice based in St. Gallen, Switzerland. The only studio from St. Gallen, one of 59 from Switzerland on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Graphic Design
 - **City:** St. Gallen

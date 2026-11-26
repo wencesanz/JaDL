@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in Sydney · Just a Design List"
-description: "27 independent studios working in branding in Sydney, from the Just a Design List index."
+description: "28 independent studios working in branding in Sydney, from the Just a Design List index."
 url: "https://justadesignlist.com/city/sydney/branding"
 ---
 
@@ -10,7 +10,7 @@ City · Branding
 
 # Branding in Sydney
 
-27 independent studios working in branding in Sydney, from the Just a Design List index.
+28 independent studios working in branding in Sydney, from the Just a Design List index.
 
 - [ACCOMPANY](https://justadesignlist.com/studio/accompany) — Sydney, Australia
 - [Andrew Suggit](https://justadesignlist.com/studio/andrew-suggit) — Sydney, Australia
@@ -25,6 +25,7 @@ City · Branding
 - [FutureDeluxe](https://justadesignlist.com/studio/futuredeluxe) — London, Los Angeles, New York, Sydney, England, USA, Australia
 - [Garbett](https://justadesignlist.com/studio/garbett) — Sydney, Australia
 - [Houston Group](https://justadesignlist.com/studio/houston-group) — Sydney, Australia
+- [Jeremy Matthews design](https://justadesignlist.com/studio/jeremy-matthews-design) — Sydney, Australia
 - [M35](https://justadesignlist.com/studio/m35) — Sydney, Australia
 - [Made Together](https://justadesignlist.com/studio/made-together) — Sydney, Australia
 - [Michael Verze](https://justadesignlist.com/studio/michael-verze) — Sydney, Australia

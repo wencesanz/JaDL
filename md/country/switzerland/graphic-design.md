@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in Switzerland · Just a Design List"
-description: "49 independent studios working in graphic design in Switzerland, from the Just a Design List index."
+description: "50 independent studios working in graphic design in Switzerland, from the Just a Design List index."
 url: "https://justadesignlist.com/country/switzerland/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ Country · Graphic Design
 
 # Graphic Design in Switzerland
 
-49 independent studios working in graphic design in Switzerland, from the Just a Design List index.
+50 independent studios working in graphic design in Switzerland, from the Just a Design List index.
 
 - [AHOY](https://justadesignlist.com/studio/ahoy) — New York, Zurich, USA, Switzerland
 - [Aris Zenone](https://justadesignlist.com/studio/aris-zenone) — Lausanne, Switzerland
@@ -34,6 +34,7 @@ Country · Graphic Design
 - [flag](https://justadesignlist.com/studio/flag) — Zurich, Switzerland
 - [Futur Neue](https://justadesignlist.com/studio/futur-neue) — Genève, Switzerland
 - [Gavillet & Cie](https://justadesignlist.com/studio/gavillet-and-cie) — Genève, Switzerland
+- [Herendi Artemisio](https://justadesignlist.com/studio/herendi-artemisio) — Zurich, Switzerland
 - [Kevin Hoegger Visual Services](https://justadesignlist.com/studio/kevin-hoegger-visual-services) — Zurich, Switzerland
 - [Ludovic Balland](https://justadesignlist.com/studio/ludovic-balland) — Basel, Switzerland
 - [Marco Lüthi](https://justadesignlist.com/studio/marco-luthi) — Zurich, Switzerland

@@ -1,12 +1,12 @@
 ---
 title: "Studio Bergini — Graphic Design, London, England · Just a Design List"
-description: "Studio Bergini: graphic design practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2023."
+description: "Studio Bergini: graphic design practice based in London, England. One of 199 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/studio-bergini"
 ---
 
 # Studio Bergini
 
-Studio Bergini: graphic design practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2023.
+Studio Bergini: graphic design practice based in London, England. One of 199 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** London

@@ -1,12 +1,12 @@
 ---
 title: "Re — Branding, Sydney, Australia · Just a Design List"
-description: "Re: branding practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in May 2023."
+description: "Re: branding practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/re"
 ---
 
 # Re
 
-Re: branding practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in May 2023.
+Re: branding practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** Sydney

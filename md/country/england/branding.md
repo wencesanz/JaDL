@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in England · Just a Design List"
-description: "212 independent studios working in branding in England, from the Just a Design List index."
+description: "213 independent studios working in branding in England, from the Just a Design List index."
 url: "https://justadesignlist.com/country/england/branding"
 ---
 
@@ -10,7 +10,7 @@ Country · Branding
 
 # Branding in England
 
-212 independent studios working in branding in England, from the Just a Design List index.
+213 independent studios working in branding in England, from the Just a Design List index.
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -60,6 +60,7 @@ Country · Branding
 - [Construct London](https://justadesignlist.com/studio/construct-london) — London, Bath, England
 - [Crown Creative](https://justadesignlist.com/studio/crown-creative) — New York, London, Belfast, USA, England, Northern Ireland
 - [CRV by Josiah Craven](https://justadesignlist.com/studio/crv-by-josiah-craven) — Manchester, England
+- [Cyphr](https://justadesignlist.com/studio/cyphr) — London, England
 - [Dada Projects](https://justadesignlist.com/studio/dada-projects) — London, England
 - [Dan Cottrell](https://justadesignlist.com/studio/dan-cottrell) — London, Barcelona, England, Spain
 - [Dennis](https://justadesignlist.com/studio/dennis) — Barcelona, London, Spain, England

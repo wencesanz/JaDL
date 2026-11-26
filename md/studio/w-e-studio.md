@@ -1,12 +1,12 @@
 ---
 title: "W—E studio — Branding, Zurich, Switzerland · Just a Design List"
-description: "W—E studio: branding, graphic design and illustration practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in July 2026."
+description: "W—E studio: branding, graphic design and illustration practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/w-e-studio"
 ---
 
 # W—E studio
 
-W—E studio: branding, graphic design and illustration practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in July 2026.
+W—E studio: branding, graphic design and illustration practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Illustration, Packaging, Interactive/Digital
 - **City:** Zurich, New York

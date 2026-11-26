@@ -1,12 +1,12 @@
 ---
 title: "The Bar Brand People — Branding, Sydney, Australia · Just a Design List"
-description: "The Bar Brand People: branding, packaging and graphic design practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in August 2026."
+description: "The Bar Brand People: branding, packaging and graphic design practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/the-bar-brand-people"
 ---
 
 # The Bar Brand People
 
-The Bar Brand People: branding, packaging and graphic design practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in August 2026.
+The Bar Brand People: branding, packaging and graphic design practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Packaging, Graphic Design, Interactive/Digital
 - **City:** Sydney

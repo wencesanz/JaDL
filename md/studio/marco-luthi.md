@@ -1,12 +1,12 @@
 ---
 title: "Marco Lüthi — Graphic Design, Zurich, Switzerland · Just a Design List"
-description: "Marco Lüthi: graphic design and interactive/digital practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in October 2026."
+description: "Marco Lüthi: graphic design and interactive/digital practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/marco-luthi"
 ---
 
 # Marco Lüthi
 
-Marco Lüthi: graphic design and interactive/digital practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in October 2026.
+Marco Lüthi: graphic design and interactive/digital practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in October 2026.
 
 - **Discipline:** Graphic Design, Interactive/Digital
 - **City:** Zurich

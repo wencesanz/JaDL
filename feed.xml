@@ -5,8 +5,35 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:20:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:29:33 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jeremy Matthews design</title>
+      <link>https://miaandjem.com/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/jeremy-matthews-design</guid>
+      <pubDate>Wed, 25 Nov 2026 22:18:00 GMT</pubDate>
+      <description>Branding · Graphic Design — Sydney, Australia.</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Cyphr</title>
+      <link>https://www.cyphr.studio/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/cyphr</guid>
+      <pubDate>Wed, 25 Nov 2026 22:13:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — London, England.</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Herendi Artemisio</title>
+      <link>http://herendiartemisio.ch/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/herendi-artemisio</guid>
+      <pubDate>Wed, 25 Nov 2026 22:11:00 GMT</pubDate>
+      <description>Graphic Design · Interactive/Digital — Zurich, Switzerland.</description>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>North</title>
       <link>https://northdesign.com</link>
@@ -296,37 +323,6 @@
       <category>Motion</category>
       <category>Packaging</category>
       <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>Lippert Studios</title>
-      <link>https://lippert-studios.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/lippert-studios</guid>
-      <pubDate>Wed, 11 Nov 2026 15:19:00 GMT</pubDate>
-      <description>Industrial Design · Branding · Graphic Design · Illustration — Berlin, Germany.</description>
-      <category>Industrial Design</category>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Illustration</category>
-    </item>
-    <item>
-      <title>Convicts</title>
-      <link>https://convicts.nyc/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/convicts</guid>
-      <pubDate>Wed, 11 Nov 2026 10:24:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Motion — New York, Los Angeles, Byron Bay, USA, Australia.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Motion</category>
-    </item>
-    <item>
-      <title>Christopher A. Ritter</title>
-      <link>https://christopheraritter.com/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/christopher-a-ritter</guid>
-      <pubDate>Wed, 11 Nov 2026 10:20:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Typography — Covington, USA.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Typography</category>
     </item>
   </channel>
 </rss>

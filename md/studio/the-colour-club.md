@@ -1,12 +1,12 @@
 ---
 title: "The Colour Club — Branding, Sydney, Australia · Just a Design List"
-description: "The Colour Club: branding, graphic design and packaging practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in October 2024."
+description: "The Colour Club: branding, graphic design and packaging practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/the-colour-club"
 ---
 
 # The Colour Club
 
-The Colour Club: branding, graphic design and packaging practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in October 2024.
+The Colour Club: branding, graphic design and packaging practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Graphic Design, Packaging
 - **City:** Sydney

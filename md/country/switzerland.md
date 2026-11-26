@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Switzerland · Just a Design List"
-description: "58 independent design studios and practices based in Switzerland. A curated index — browse by city and discipline."
+description: "59 independent design studios and practices based in Switzerland. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/switzerland"
 ---
 
@@ -10,9 +10,9 @@ Country
 
 # Switzerland
 
-58 independent design studios and practices based in Switzerland. A curated index — browse by city and discipline.
+59 independent design studios and practices based in Switzerland. A curated index — browse by city and discipline.
 
-By discipline: [Graphic Design studios in Switzerland](https://justadesignlist.com/country/switzerland/graphic-design) (49), [Branding design studios in Switzerland](https://justadesignlist.com/country/switzerland/branding) (30), [Interactive/Digital design studios in Switzerland](https://justadesignlist.com/country/switzerland/interactive-digital) (23), [Typography design studios in Switzerland](https://justadesignlist.com/country/switzerland/typography) (14), [Packaging design studios in Switzerland](https://justadesignlist.com/country/switzerland/packaging) (11), [Motion design studios in Switzerland](https://justadesignlist.com/country/switzerland/motion) (9)
+By discipline: [Graphic Design studios in Switzerland](https://justadesignlist.com/country/switzerland/graphic-design) (50), [Branding design studios in Switzerland](https://justadesignlist.com/country/switzerland/branding) (30), [Interactive/Digital design studios in Switzerland](https://justadesignlist.com/country/switzerland/interactive-digital) (24), [Typography design studios in Switzerland](https://justadesignlist.com/country/switzerland/typography) (14), [Packaging design studios in Switzerland](https://justadesignlist.com/country/switzerland/packaging) (11), [Motion design studios in Switzerland](https://justadesignlist.com/country/switzerland/motion) (9)
 
 - [AHOY](https://justadesignlist.com/studio/ahoy) — New York, Zurich, USA, Switzerland
 - [Aris Zenone](https://justadesignlist.com/studio/aris-zenone) — Lausanne, Switzerland
@@ -38,6 +38,7 @@ By discipline: [Graphic Design studios in Switzerland](https://justadesignlist.c
 - [For brands](https://justadesignlist.com/studio/for-brands) — Poznan, Genève, Poland, Switzerland
 - [Futur Neue](https://justadesignlist.com/studio/futur-neue) — Genève, Switzerland
 - [Gavillet & Cie](https://justadesignlist.com/studio/gavillet-and-cie) — Genève, Switzerland
+- [Herendi Artemisio](https://justadesignlist.com/studio/herendi-artemisio) — Zurich, Switzerland
 - [Hymn](https://justadesignlist.com/studio/hymn) — Lausanne, Zurich, Switzerland
 - [Kevin Hoegger Visual Services](https://justadesignlist.com/studio/kevin-hoegger-visual-services) — Zurich, Switzerland
 - [Ludovic Balland](https://justadesignlist.com/studio/ludovic-balland) — Basel, Switzerland

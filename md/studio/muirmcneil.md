@@ -1,12 +1,12 @@
 ---
 title: "MuirMcNeil — Graphic Design, London, England · Just a Design List"
-description: "MuirMcNeil: graphic design and typography practice based in London, England. One of 198 studios from London on Just a Design List, added in September 2026."
+description: "MuirMcNeil: graphic design and typography practice based in London, England. One of 199 studios from London on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/muirmcneil"
 ---
 
 # MuirMcNeil
 
-MuirMcNeil: graphic design and typography practice based in London, England. One of 198 studios from London on Just a Design List, added in September 2026.
+MuirMcNeil: graphic design and typography practice based in London, England. One of 199 studios from London on Just a Design List, added in September 2026.
 
 - **Discipline:** Graphic Design, Typography
 - **City:** London

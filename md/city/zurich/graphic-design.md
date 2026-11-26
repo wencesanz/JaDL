@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in Zurich · Just a Design List"
-description: "17 independent studios working in graphic design in Zurich, from the Just a Design List index."
+description: "18 independent studios working in graphic design in Zurich, from the Just a Design List index."
 url: "https://justadesignlist.com/city/zurich/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ City · Graphic Design
 
 # Graphic Design in Zurich
 
-17 independent studios working in graphic design in Zurich, from the Just a Design List index.
+18 independent studios working in graphic design in Zurich, from the Just a Design List index.
 
 - [AHOY](https://justadesignlist.com/studio/ahoy) — New York, Zurich, USA, Switzerland
 - [Atelier Maève](https://justadesignlist.com/studio/atelier-maeve) — Zurich, Switzerland
@@ -18,6 +18,7 @@ City · Graphic Design
 - [BOB Design](https://justadesignlist.com/studio/bob-design) — London, Zurich, England, Switzerland
 - [Favorit Studio](https://justadesignlist.com/studio/favorit-studio) — Zurich, Switzerland
 - [flag](https://justadesignlist.com/studio/flag) — Zurich, Switzerland
+- [Herendi Artemisio](https://justadesignlist.com/studio/herendi-artemisio) — Zurich, Switzerland
 - [Kevin Hoegger Visual Services](https://justadesignlist.com/studio/kevin-hoegger-visual-services) — Zurich, Switzerland
 - [Marco Lüthi](https://justadesignlist.com/studio/marco-luthi) — Zurich, Switzerland
 - [OFFSHORE](https://justadesignlist.com/studio/offshore) — Zurich, Switzerland

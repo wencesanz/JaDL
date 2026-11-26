@@ -5,8 +5,17 @@
     <link>https://justadesignlist.com/city/london</link>
     <description>New additions to Just a Design List: design studios in London.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:13:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/city/london.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cyphr</title>
+      <link>https://justadesignlist.com/studio/cyphr</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/cyphr</guid>
+      <pubDate>Wed, 25 Nov 2026 22:13:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — London, England. https://www.cyphr.studio/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>North</title>
       <link>https://justadesignlist.com/studio/north</link>
@@ -307,17 +316,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Airborne Studio</title>
-      <link>https://justadesignlist.com/studio/airborne-studio</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/airborne-studio</guid>
-      <pubDate>Sun, 13 Sep 2026 14:50:00 GMT</pubDate>
-      <description>Branding · Motion · Interactive/Digital · Advertising/Campaigns — London, England. https://www.airborne.studio/</description>
-      <category>Branding</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-      <category>Advertising/Campaigns</category>
     </item>
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 ---
 title: "North — Branding, London, England · Just a Design List"
-description: "North: branding, graphic design and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in November 2026."
+description: "North: branding, graphic design and interactive/digital practice based in London, England. One of 199 studios from London on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/north"
 ---
 
 # North
 
-North: branding, graphic design and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in November 2026.
+North: branding, graphic design and interactive/digital practice based in London, England. One of 199 studios from London on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Motion
 - **City:** London

@@ -1,12 +1,12 @@
 ---
 title: "Dada Projects — Branding, London, England · Just a Design List"
-description: "Dada Projects: branding, graphic design and motion practice based in London, England. One of 198 studios from London on Just a Design List, added in July 2026."
+description: "Dada Projects: branding, graphic design and motion practice based in London, England. One of 199 studios from London on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/dada-projects"
 ---
 
 # Dada Projects
 
-Dada Projects: branding, graphic design and motion practice based in London, England. One of 198 studios from London on Just a Design List, added in July 2026.
+Dada Projects: branding, graphic design and motion practice based in London, England. One of 199 studios from London on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Motion, Interactive/Digital
 - **City:** London

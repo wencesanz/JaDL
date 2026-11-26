@@ -1,12 +1,12 @@
 ---
 title: "Sonny & Biddy — Graphic Design, Sydney, Australia · Just a Design List"
-description: "Sonny & Biddy: graphic design and illustration practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in June 2023."
+description: "Sonny & Biddy: graphic design and illustration practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/sonny-and-biddy"
 ---
 
 # Sonny & Biddy
 
-Sonny & Biddy: graphic design and illustration practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in June 2023.
+Sonny & Biddy: graphic design and illustration practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design, Illustration
 - **City:** Sydney

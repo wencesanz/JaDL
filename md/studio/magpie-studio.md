@@ -1,12 +1,12 @@
 ---
 title: "Magpie Studio — Branding, London, England · Just a Design List"
-description: "Magpie Studio: branding, graphic design and packaging practice based in London, England. One of 198 studios from London on Just a Design List, added in October 2026."
+description: "Magpie Studio: branding, graphic design and packaging practice based in London, England. One of 199 studios from London on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/magpie-studio"
 ---
 
 # Magpie Studio
 
-Magpie Studio: branding, graphic design and packaging practice based in London, England. One of 198 studios from London on Just a Design List, added in October 2026.
+Magpie Studio: branding, graphic design and packaging practice based in London, England. One of 199 studios from London on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Advertising/Campaigns, Illustration, Motion
 - **City:** London

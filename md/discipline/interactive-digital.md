@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios · Just a Design List"
-description: "730 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city."
+description: "732 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Interactive/Digital
 
-730 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city.
+732 independent studios and designers working in interactive/digital, collected in the Just a Design List index. Browse by country and city.
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
@@ -164,6 +164,7 @@ Discipline
 - [CRV by Josiah Craven](https://justadesignlist.com/studio/crv-by-josiah-craven) — Manchester, England
 - [Cuchillo©](https://justadesignlist.com/studio/cuchillo) — Bilbao, Spain
 - [Cul De Sac Studio](https://justadesignlist.com/studio/cul-de-sac-studio) — Los Angeles, USA
+- [Cyphr](https://justadesignlist.com/studio/cyphr) — London, England
 - [Dada Projects](https://justadesignlist.com/studio/dada-projects) — London, England
 - [Darling](https://justadesignlist.com/studio/darling) — Singapore, Singapore
 - [David Airey](https://justadesignlist.com/studio/david-airey) — Bangor, Northern Ireland
@@ -211,7 +212,6 @@ Discipline
 - [Essen](https://justadesignlist.com/studio/essen) — Amsterdam, New York, San Francisco, Stockholm, The Netherlands, USA, Sweden
 - [Essentis](https://justadesignlist.com/studio/essentis) — Porto Alegre, Brazil
 - [EST+6](https://justadesignlist.com/studio/est-6) — New York, Barcelona, USA, Spain
-- [ESTABLISHED.](https://justadesignlist.com/studio/established) — New York, Barcelona, USA, Spain
 
 ---
 

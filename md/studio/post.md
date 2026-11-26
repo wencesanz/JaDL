@@ -1,12 +1,12 @@
 ---
 title: "POST — Graphic Design, London, England · Just a Design List"
-description: "POST: graphic design, typography and branding practice based in London, England. One of 198 studios from London on Just a Design List, added in July 2026."
+description: "POST: graphic design, typography and branding practice based in London, England. One of 199 studios from London on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/post"
 ---
 
 # POST
 
-POST: graphic design, typography and branding practice based in London, England. One of 198 studios from London on Just a Design List, added in July 2026.
+POST: graphic design, typography and branding practice based in London, England. One of 199 studios from London on Just a Design List, added in July 2026.
 
 - **Discipline:** Graphic Design, Typography, Branding, Interactive/Digital, Motion, Packaging
 - **City:** London

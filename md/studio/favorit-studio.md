@@ -1,12 +1,12 @@
 ---
 title: "Favorit Studio — Branding, Zurich, Switzerland · Just a Design List"
-description: "Favorit Studio: branding, graphic design and packaging practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in July 2026."
+description: "Favorit Studio: branding, graphic design and packaging practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/favorit-studio"
 ---
 
 # Favorit Studio
 
-Favorit Studio: branding, graphic design and packaging practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in July 2026.
+Favorit Studio: branding, graphic design and packaging practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging
 - **City:** Zurich
@@ -26,7 +26,7 @@ Favorit Studio: branding, graphic design and packaging practice based in Zurich,
 - [Badesaison](https://justadesignlist.com/studio/badesaison)
 - [BOB Design](https://justadesignlist.com/studio/bob-design)
 - [flag](https://justadesignlist.com/studio/flag)
-- [Hymn](https://justadesignlist.com/studio/hymn)
+- [Herendi Artemisio](https://justadesignlist.com/studio/herendi-artemisio)
 
 ---
 

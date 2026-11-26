@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in England · Just a Design List"
-description: "132 independent studios working in interactive/digital in England, from the Just a Design List index."
+description: "133 independent studios working in interactive/digital in England, from the Just a Design List index."
 url: "https://justadesignlist.com/country/england/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ Country · Interactive/Digital
 
 # Interactive/Digital in England
 
-132 independent studios working in interactive/digital in England, from the Just a Design List index.
+133 independent studios working in interactive/digital in England, from the Just a Design List index.
 
 - [21—87](https://justadesignlist.com/studio/21-87) — London, England
 - [ACRE](https://justadesignlist.com/studio/acre) — London, England
@@ -44,6 +44,7 @@ Country · Interactive/Digital
 - [Construct London](https://justadesignlist.com/studio/construct-london) — London, Bath, England
 - [Crown Creative](https://justadesignlist.com/studio/crown-creative) — New York, London, Belfast, USA, England, Northern Ireland
 - [CRV by Josiah Craven](https://justadesignlist.com/studio/crv-by-josiah-craven) — Manchester, England
+- [Cyphr](https://justadesignlist.com/studio/cyphr) — London, England
 - [Dada Projects](https://justadesignlist.com/studio/dada-projects) — London, England
 - [DNCO](https://justadesignlist.com/studio/dnco) — London, New York, England, USA
 - [Driftime](https://justadesignlist.com/studio/driftime) — London, England

@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Sydney · Just a Design List"
-description: "31 independent design studios based in Sydney, from the Just a Design List index. Browse by discipline."
+description: "32 independent design studios based in Sydney, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/sydney"
 ---
 
@@ -10,9 +10,9 @@ City
 
 # Sydney
 
-31 independent design studios based in Sydney, from the Just a Design List index. Browse by discipline.
+32 independent design studios based in Sydney, from the Just a Design List index. Browse by discipline.
 
-By discipline: [Branding design studios in Sydney](https://justadesignlist.com/city/sydney/branding) (27), [Interactive/Digital design studios in Sydney](https://justadesignlist.com/city/sydney/interactive-digital) (15), [Graphic Design studios in Sydney](https://justadesignlist.com/city/sydney/graphic-design) (14), [Motion design studios in Sydney](https://justadesignlist.com/city/sydney/motion) (11), [Packaging design studios in Sydney](https://justadesignlist.com/city/sydney/packaging) (9)
+By discipline: [Branding design studios in Sydney](https://justadesignlist.com/city/sydney/branding) (28), [Graphic Design studios in Sydney](https://justadesignlist.com/city/sydney/graphic-design) (15), [Interactive/Digital design studios in Sydney](https://justadesignlist.com/city/sydney/interactive-digital) (15), [Motion design studios in Sydney](https://justadesignlist.com/city/sydney/motion) (11), [Packaging design studios in Sydney](https://justadesignlist.com/city/sydney/packaging) (9)
 
 - [ACCOMPANY](https://justadesignlist.com/studio/accompany) — Sydney, Australia
 - [Andrew Suggit](https://justadesignlist.com/studio/andrew-suggit) — Sydney, Australia
@@ -29,6 +29,7 @@ By discipline: [Branding design studios in Sydney](https://justadesignlist.com/c
 - [Garbett](https://justadesignlist.com/studio/garbett) — Sydney, Australia
 - [Houston Group](https://justadesignlist.com/studio/houston-group) — Sydney, Australia
 - [How By Why](https://justadesignlist.com/studio/how-by-why) — Sydney, Australia
+- [Jeremy Matthews design](https://justadesignlist.com/studio/jeremy-matthews-design) — Sydney, Australia
 - [M35](https://justadesignlist.com/studio/m35) — Sydney, Australia
 - [Made Together](https://justadesignlist.com/studio/made-together) — Sydney, Australia
 - [Michael Verze](https://justadesignlist.com/studio/michael-verze) — Sydney, Australia

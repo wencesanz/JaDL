@@ -1,12 +1,12 @@
 ---
 title: "Houston Group — Branding, Sydney, Australia · Just a Design List"
-description: "Houston Group: branding, interactive/digital and graphic design practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in August 2026."
+description: "Houston Group: branding, interactive/digital and graphic design practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/houston-group"
 ---
 
 # Houston Group
 
-Houston Group: branding, interactive/digital and graphic design practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in August 2026.
+Houston Group: branding, interactive/digital and graphic design practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Graphic Design, Motion
 - **City:** Sydney

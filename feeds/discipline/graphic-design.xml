@@ -5,8 +5,26 @@
     <link>https://justadesignlist.com/discipline/graphic-design</link>
     <description>New additions to Just a Design List: Graphic Design studios.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:18:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/graphic-design.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jeremy Matthews design</title>
+      <link>https://justadesignlist.com/studio/jeremy-matthews-design</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/jeremy-matthews-design</guid>
+      <pubDate>Wed, 25 Nov 2026 22:18:00 GMT</pubDate>
+      <description>Branding · Graphic Design — Sydney, Australia. https://miaandjem.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Herendi Artemisio</title>
+      <link>https://justadesignlist.com/studio/herendi-artemisio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/herendi-artemisio</guid>
+      <pubDate>Wed, 25 Nov 2026 22:11:00 GMT</pubDate>
+      <description>Graphic Design · Interactive/Digital — Zurich, Switzerland. http://herendiartemisio.ch/</description>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>North</title>
       <link>https://justadesignlist.com/studio/north</link>
@@ -311,30 +329,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Applied Archive Atelier</title>
-      <link>https://justadesignlist.com/studio/applied-archive-atelier</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/applied-archive-atelier</guid>
-      <pubDate>Tue, 10 Nov 2026 07:30:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Illustration · Advertising/Campaigns · Motion · Interactive/Digital — Montreal, Canada. https://www.appliedarchiveatelier.com</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Illustration</category>
-      <category>Advertising/Campaigns</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Figur</title>
-      <link>https://justadesignlist.com/studio/figur</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/figur</guid>
-      <pubDate>Tue, 10 Nov 2026 07:16:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Stockholm, Sweden. https://figur123.com</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
     </item>
   </channel>
 </rss>

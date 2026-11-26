@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in Sydney · Just a Design List"
-description: "14 independent studios working in graphic design in Sydney, from the Just a Design List index."
+description: "15 independent studios working in graphic design in Sydney, from the Just a Design List index."
 url: "https://justadesignlist.com/city/sydney/graphic-design"
 ---
 
@@ -10,12 +10,13 @@ City · Graphic Design
 
 # Graphic Design in Sydney
 
-14 independent studios working in graphic design in Sydney, from the Just a Design List index.
+15 independent studios working in graphic design in Sydney, from the Just a Design List index.
 
 - [ACCOMPANY](https://justadesignlist.com/studio/accompany) — Sydney, Australia
 - [Field of Play](https://justadesignlist.com/studio/field-of-play) — Sydney, Whangārei, Australia, New Zealand
 - [Houston Group](https://justadesignlist.com/studio/houston-group) — Sydney, Australia
 - [How By Why](https://justadesignlist.com/studio/how-by-why) — Sydney, Australia
+- [Jeremy Matthews design](https://justadesignlist.com/studio/jeremy-matthews-design) — Sydney, Australia
 - [M35](https://justadesignlist.com/studio/m35) — Sydney, Australia
 - [Made Together](https://justadesignlist.com/studio/made-together) — Sydney, Australia
 - [Michael Verze](https://justadesignlist.com/studio/michael-verze) — Sydney, Australia

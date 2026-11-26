@@ -1,6 +1,6 @@
 ---
 title: "Design studios in the rest of Europe · Just a Design List"
-description: "387 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline."
+description: "388 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/rest-of-europe"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # Rest of Europe
 
-387 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline.
+388 independent design studios and designers based in the rest of Europe, from the Just a Design List index. Browse by country, city and discipline.
 
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
 - [1042](https://justadesignlist.com/studio/1042) — Düsseldorf, Germany
@@ -147,6 +147,7 @@ Region
 - [Hello Comrade](https://justadesignlist.com/studio/hello-comrade) — Amsterdam, The Netherlands
 - [HelloMe](https://justadesignlist.com/studio/hellome) — Berlin, Germany
 - [Herburg Weiland](https://justadesignlist.com/studio/herburg-weiland) — Munich, Germany
+- [Herendi Artemisio](https://justadesignlist.com/studio/herendi-artemisio) — Zurich, Switzerland
 - [HOAX](https://justadesignlist.com/studio/hoax) — Amsterdam, The Netherlands
 - [Hochburg Design](https://justadesignlist.com/studio/hochburg-design) — Stuttgart, Germany
 - [hopa studio](https://justadesignlist.com/studio/hopa-studio) — Warsaw, Poland
@@ -211,7 +212,6 @@ Region
 - [Meaningful](https://justadesignlist.com/studio/meaningful) — Paris, France
 - [Meinhard Taxer](https://justadesignlist.com/studio/meinhard-taxer) — Innsbruck, Austria
 - [Miklós Kiss](https://justadesignlist.com/studio/miklos-kiss) — Budapest, Hungary
-- [Miles Sale](https://justadesignlist.com/studio/miles-sale) — Amsterdam, The Netherlands
 
 ---
 

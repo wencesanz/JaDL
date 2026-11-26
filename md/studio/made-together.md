@@ -1,12 +1,12 @@
 ---
 title: "Made Together — Branding, Sydney, Australia · Just a Design List"
-description: "Made Together: branding, graphic design and interactive/digital practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in October 2026."
+description: "Made Together: branding, graphic design and interactive/digital practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/made-together"
 ---
 
 # Made Together
 
-Made Together: branding, graphic design and interactive/digital practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in October 2026.
+Made Together: branding, graphic design and interactive/digital practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging
 - **City:** Sydney

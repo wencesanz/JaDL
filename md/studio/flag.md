@@ -1,12 +1,12 @@
 ---
 title: "flag — Graphic Design, Zurich, Switzerland · Just a Design List"
-description: "flag: graphic design practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in October 2024."
+description: "flag: graphic design practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/flag"
 ---
 
 # flag
 
-flag: graphic design practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in October 2024.
+flag: graphic design practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in October 2024.
 
 - **Discipline:** Graphic Design
 - **City:** Zurich
@@ -26,7 +26,7 @@ flag: graphic design practice based in Zurich, Switzerland. One of 21 studios fr
 - [Badesaison](https://justadesignlist.com/studio/badesaison)
 - [BOB Design](https://justadesignlist.com/studio/bob-design)
 - [Favorit Studio](https://justadesignlist.com/studio/favorit-studio)
-- [Hymn](https://justadesignlist.com/studio/hymn)
+- [Herendi Artemisio](https://justadesignlist.com/studio/herendi-artemisio)
 
 ---
 

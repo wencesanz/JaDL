@@ -1,12 +1,12 @@
 ---
 title: "studio marcus kraft — Branding, Zurich, Switzerland · Just a Design List"
-description: "studio marcus kraft: branding, graphic design and interactive/digital practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in July 2026."
+description: "studio marcus kraft: branding, graphic design and interactive/digital practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/studio-marcus-kraft"
 ---
 
 # studio marcus kraft
 
-studio marcus kraft: branding, graphic design and interactive/digital practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in July 2026.
+studio marcus kraft: branding, graphic design and interactive/digital practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging, Motion
 - **City:** Zurich

@@ -1,12 +1,12 @@
 ---
 title: "Yucca Studio — Graphic Design, Zurich, Switzerland · Just a Design List"
-description: "Yucca Studio: graphic design, branding and interactive/digital practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in September 2026."
+description: "Yucca Studio: graphic design, branding and interactive/digital practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/yucca-studio"
 ---
 
 # Yucca Studio
 
-Yucca Studio: graphic design, branding and interactive/digital practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in September 2026.
+Yucca Studio: graphic design, branding and interactive/digital practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in September 2026.
 
 - **Discipline:** Graphic Design, Branding, Interactive/Digital, Illustration
 - **City:** Zurich

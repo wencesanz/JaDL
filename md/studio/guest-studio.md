@@ -1,12 +1,12 @@
 ---
 title: "Guest Studio — Branding, London, England · Just a Design List"
-description: "Guest Studio: branding, interactive/digital and packaging practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026."
+description: "Guest Studio: branding, interactive/digital and packaging practice based in London, England. One of 199 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/guest-studio"
 ---
 
 # Guest Studio
 
-Guest Studio: branding, interactive/digital and packaging practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026.
+Guest Studio: branding, interactive/digital and packaging practice based in London, England. One of 199 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging, Advertising/Campaigns, Graphic Design
 - **City:** London, Cornwall

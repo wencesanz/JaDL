@@ -1,12 +1,12 @@
 ---
 title: "Friends — Branding, Falmouth, England · Just a Design List"
-description: "Friends: branding and graphic design practice based in Falmouth, England. The only studio from Falmouth, one of 246 from England on Just a Design List, added in July 2026."
+description: "Friends: branding and graphic design practice based in Falmouth, England. The only studio from Falmouth, one of 247 from England on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/friends"
 ---
 
 # Friends
 
-Friends: branding and graphic design practice based in Falmouth, England. The only studio from Falmouth, one of 246 from England on Just a Design List, added in July 2026.
+Friends: branding and graphic design practice based in Falmouth, England. The only studio from Falmouth, one of 247 from England on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** Falmouth

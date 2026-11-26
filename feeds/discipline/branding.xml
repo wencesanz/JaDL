@@ -5,8 +5,26 @@
     <link>https://justadesignlist.com/discipline/branding</link>
     <description>New additions to Just a Design List: Branding studios.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:18:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/branding.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jeremy Matthews design</title>
+      <link>https://justadesignlist.com/studio/jeremy-matthews-design</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/jeremy-matthews-design</guid>
+      <pubDate>Wed, 25 Nov 2026 22:18:00 GMT</pubDate>
+      <description>Branding · Graphic Design — Sydney, Australia. https://miaandjem.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
+    <item>
+      <title>Cyphr</title>
+      <link>https://justadesignlist.com/studio/cyphr</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/cyphr</guid>
+      <pubDate>Wed, 25 Nov 2026 22:13:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — London, England. https://www.cyphr.studio/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>North</title>
       <link>https://justadesignlist.com/studio/north</link>
@@ -310,27 +328,6 @@
       <description>Branding · Graphic Design — Melbourne, Australia. https://www.hotcottage.earth/</description>
       <category>Branding</category>
       <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>AKLR</title>
-      <link>https://justadesignlist.com/studio/aklr</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/aklr</guid>
-      <pubDate>Tue, 10 Nov 2026 10:24:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Melbourne, Australia. https://www.aklr.xyz/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Adam Ho, I.S.P.</title>
-      <link>https://justadesignlist.com/studio/adam-ho-i-s-p</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/adam-ho-i-s-p</guid>
-      <pubDate>Tue, 10 Nov 2026 09:54:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital — New York, USA. https://www.adamho.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>

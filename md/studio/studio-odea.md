@@ -1,12 +1,12 @@
 ---
 title: "Studio Odea — Branding, Sydney, Australia · Just a Design List"
-description: "Studio Odea: branding, graphic design and packaging practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in July 2026."
+description: "Studio Odea: branding, graphic design and packaging practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/studio-odea"
 ---
 
 # Studio Odea
 
-Studio Odea: branding, graphic design and packaging practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in July 2026.
+Studio Odea: branding, graphic design and packaging practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging, Interactive/Digital, Advertising/Campaigns, Illustration, Motion
 - **City:** Sydney, Brisbane

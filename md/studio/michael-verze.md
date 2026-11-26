@@ -1,12 +1,12 @@
 ---
 title: "Michael Verze — Branding, Sydney, Australia · Just a Design List"
-description: "Michael Verze: branding, graphic design and illustration practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in November 2026."
+description: "Michael Verze: branding, graphic design and illustration practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/michael-verze"
 ---
 
 # Michael Verze
 
-Michael Verze: branding, graphic design and illustration practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in November 2026.
+Michael Verze: branding, graphic design and illustration practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Graphic Design, Illustration, Motion, Packaging, Interactive/Digital
 - **City:** Sydney

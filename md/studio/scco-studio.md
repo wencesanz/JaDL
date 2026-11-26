@@ -1,12 +1,12 @@
 ---
 title: "SCCO Studio — Branding, Sydney, Australia · Just a Design List"
-description: "SCCO Studio: branding, advertising/campaigns and interactive/digital practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in June 2026."
+description: "SCCO Studio: branding, advertising/campaigns and interactive/digital practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/scco-studio"
 ---
 
 # SCCO Studio
 
-SCCO Studio: branding, advertising/campaigns and interactive/digital practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in June 2026.
+SCCO Studio: branding, advertising/campaigns and interactive/digital practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Advertising/Campaigns, Interactive/Digital, Typography, Packaging
 - **City:** Sydney

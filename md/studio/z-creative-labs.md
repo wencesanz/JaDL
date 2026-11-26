@@ -1,12 +1,12 @@
 ---
 title: "z creative labs — Interactive/Digital, Zurich, Switzerland · Just a Design List"
-description: "z creative labs: interactive/digital, motion and typography practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in July 2026."
+description: "z creative labs: interactive/digital, motion and typography practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/z-creative-labs"
 ---
 
 # z creative labs
 
-z creative labs: interactive/digital, motion and typography practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in July 2026.
+z creative labs: interactive/digital, motion and typography practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in July 2026.
 
 - **Discipline:** Interactive/Digital, Motion, Typography
 - **City:** Zurich

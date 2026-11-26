@@ -1,12 +1,12 @@
 ---
 title: "Sawdust — Typography, London, England · Just a Design List"
-description: "Sawdust: typography, motion and branding practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026."
+description: "Sawdust: typography, motion and branding practice based in London, England. One of 199 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/sawdust"
 ---
 
 # Sawdust
 
-Sawdust: typography, motion and branding practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026.
+Sawdust: typography, motion and branding practice based in London, England. One of 199 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Typography, Motion, Branding
 - **City:** London

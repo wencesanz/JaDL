@@ -1,12 +1,12 @@
 ---
 title: "For The People — Branding, Sydney, Australia · Just a Design List"
-description: "For The People: branding practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in May 2023."
+description: "For The People: branding practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/for-the-people"
 ---
 
 # For The People
 
-For The People: branding practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in May 2023.
+For The People: branding practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** Sydney, Los Angeles, Queenstown, Fremantle

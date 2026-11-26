@@ -1,12 +1,12 @@
 ---
 title: "Studio Feixen — Graphic Design, Lucerne, Switzerland · Just a Design List"
-description: "Studio Feixen: graphic design and typography practice based in Lucerne, Switzerland. The only studio from Lucerne, one of 58 from Switzerland on Just a Design List, added in May 2023."
+description: "Studio Feixen: graphic design and typography practice based in Lucerne, Switzerland. The only studio from Lucerne, one of 59 from Switzerland on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/studio-feixen"
 ---
 
 # Studio Feixen
 
-Studio Feixen: graphic design and typography practice based in Lucerne, Switzerland. The only studio from Lucerne, one of 58 from Switzerland on Just a Design List, added in May 2023.
+Studio Feixen: graphic design and typography practice based in Lucerne, Switzerland. The only studio from Lucerne, one of 59 from Switzerland on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Typography
 - **City:** Lucerne

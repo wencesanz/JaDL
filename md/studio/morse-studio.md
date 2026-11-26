@@ -1,12 +1,12 @@
 ---
 title: "Morse Studio — Branding, London, England · Just a Design List"
-description: "Morse Studio: branding, graphic design and typography practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026."
+description: "Morse Studio: branding, graphic design and typography practice based in London, England. One of 199 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/morse-studio"
 ---
 
 # Morse Studio
 
-Morse Studio: branding, graphic design and typography practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026.
+Morse Studio: branding, graphic design and typography practice based in London, England. One of 199 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Typography, Motion, Interactive/Digital, Advertising/Campaigns
 - **City:** London

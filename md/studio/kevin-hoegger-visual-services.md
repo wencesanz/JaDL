@@ -1,12 +1,12 @@
 ---
 title: "Kevin Hoegger Visual Services — Branding, Zurich, Switzerland · Just a Design List"
-description: "Kevin Hoegger Visual Services: branding, graphic design and packaging practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in September 2026."
+description: "Kevin Hoegger Visual Services: branding, graphic design and packaging practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/kevin-hoegger-visual-services"
 ---
 
 # Kevin Hoegger Visual Services
 
-Kevin Hoegger Visual Services: branding, graphic design and packaging practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in September 2026.
+Kevin Hoegger Visual Services: branding, graphic design and packaging practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Packaging
 - **City:** Zurich

@@ -1,12 +1,12 @@
 ---
 title: "For Good Design Lab — Branding, Sydney, Australia · Just a Design List"
-description: "For Good Design Lab: branding and interactive/digital practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in September 2026."
+description: "For Good Design Lab: branding and interactive/digital practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/for-good-design-lab"
 ---
 
 # For Good Design Lab
 
-For Good Design Lab: branding and interactive/digital practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in September 2026.
+For Good Design Lab: branding and interactive/digital practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** Sydney

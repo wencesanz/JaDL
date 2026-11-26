@@ -1,6 +1,6 @@
 ---
 title: "Design studios in London · Just a Design List"
-description: "198 independent design studios based in London, from the Just a Design List index. Browse by discipline."
+description: "199 independent design studios based in London, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/london"
 ---
 
@@ -10,9 +10,9 @@ City
 
 # London
 
-198 independent design studios based in London, from the Just a Design List index. Browse by discipline.
+199 independent design studios based in London, from the Just a Design List index. Browse by discipline.
 
-By discipline: [Branding design studios in London](https://justadesignlist.com/city/london/branding) (170), [Graphic Design studios in London](https://justadesignlist.com/city/london/graphic-design) (113), [Interactive/Digital design studios in London](https://justadesignlist.com/city/london/interactive-digital) (109), [Packaging design studios in London](https://justadesignlist.com/city/london/packaging) (51), [Motion design studios in London](https://justadesignlist.com/city/london/motion) (43), [Advertising/Campaigns design studios in London](https://justadesignlist.com/city/london/advertising-campaigns) (29), [Typography design studios in London](https://justadesignlist.com/city/london/typography) (27), [Illustration design studios in London](https://justadesignlist.com/city/london/illustration) (14)
+By discipline: [Branding design studios in London](https://justadesignlist.com/city/london/branding) (171), [Graphic Design studios in London](https://justadesignlist.com/city/london/graphic-design) (113), [Interactive/Digital design studios in London](https://justadesignlist.com/city/london/interactive-digital) (110), [Packaging design studios in London](https://justadesignlist.com/city/london/packaging) (51), [Motion design studios in London](https://justadesignlist.com/city/london/motion) (43), [Advertising/Campaigns design studios in London](https://justadesignlist.com/city/london/advertising-campaigns) (29), [Typography design studios in London](https://justadesignlist.com/city/london/typography) (27), [Illustration design studios in London](https://justadesignlist.com/city/london/illustration) (14)
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -61,6 +61,7 @@ By discipline: [Branding design studios in London](https://justadesignlist.com/c
 - [Confederation Studio](https://justadesignlist.com/studio/confederation-studio) — London, England
 - [Construct London](https://justadesignlist.com/studio/construct-london) — London, Bath, England
 - [Crown Creative](https://justadesignlist.com/studio/crown-creative) — New York, London, Belfast, USA, England, Northern Ireland
+- [Cyphr](https://justadesignlist.com/studio/cyphr) — London, England
 - [Dada Projects](https://justadesignlist.com/studio/dada-projects) — London, England
 - [Dan Cottrell](https://justadesignlist.com/studio/dan-cottrell) — London, Barcelona, England, Spain
 - [Dennis](https://justadesignlist.com/studio/dennis) — Barcelona, London, Spain, England

@@ -1,12 +1,12 @@
 ---
 title: "Marisa Piñana — Graphic Design, London, England · Just a Design List"
-description: "Marisa Piñana: graphic design practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2023."
+description: "Marisa Piñana: graphic design practice based in London, England. One of 199 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/marisa-pinana"
 ---
 
 # Marisa Piñana
 
-Marisa Piñana: graphic design practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2023.
+Marisa Piñana: graphic design practice based in London, England. One of 199 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** London

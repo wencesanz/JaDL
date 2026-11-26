@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in London · Just a Design List"
-description: "170 independent studios working in branding in London, from the Just a Design List index."
+description: "171 independent studios working in branding in London, from the Just a Design List index."
 url: "https://justadesignlist.com/city/london/branding"
 ---
 
@@ -10,7 +10,7 @@ City · Branding
 
 # Branding in London
 
-170 independent studios working in branding in London, from the Just a Design List index.
+171 independent studios working in branding in London, from the Just a Design List index.
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -52,6 +52,7 @@ City · Branding
 - [Confederation Studio](https://justadesignlist.com/studio/confederation-studio) — London, England
 - [Construct London](https://justadesignlist.com/studio/construct-london) — London, Bath, England
 - [Crown Creative](https://justadesignlist.com/studio/crown-creative) — New York, London, Belfast, USA, England, Northern Ireland
+- [Cyphr](https://justadesignlist.com/studio/cyphr) — London, England
 - [Dada Projects](https://justadesignlist.com/studio/dada-projects) — London, England
 - [Dan Cottrell](https://justadesignlist.com/studio/dan-cottrell) — London, Barcelona, England, Spain
 - [Dennis](https://justadesignlist.com/studio/dennis) — Barcelona, London, Spain, England

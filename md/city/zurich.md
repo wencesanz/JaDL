@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Zurich · Just a Design List"
-description: "21 independent design studios based in Zurich, from the Just a Design List index. Browse by discipline."
+description: "22 independent design studios based in Zurich, from the Just a Design List index. Browse by discipline."
 url: "https://justadesignlist.com/city/zurich"
 ---
 
@@ -10,9 +10,9 @@ City
 
 # Zurich
 
-21 independent design studios based in Zurich, from the Just a Design List index. Browse by discipline.
+22 independent design studios based in Zurich, from the Just a Design List index. Browse by discipline.
 
-By discipline: [Graphic Design studios in Zurich](https://justadesignlist.com/city/zurich/graphic-design) (17), [Branding design studios in Zurich](https://justadesignlist.com/city/zurich/branding) (13), [Interactive/Digital design studios in Zurich](https://justadesignlist.com/city/zurich/interactive-digital) (10), [Packaging design studios in Zurich](https://justadesignlist.com/city/zurich/packaging) (6)
+By discipline: [Graphic Design studios in Zurich](https://justadesignlist.com/city/zurich/graphic-design) (18), [Branding design studios in Zurich](https://justadesignlist.com/city/zurich/branding) (13), [Interactive/Digital design studios in Zurich](https://justadesignlist.com/city/zurich/interactive-digital) (11), [Packaging design studios in Zurich](https://justadesignlist.com/city/zurich/packaging) (6)
 
 - [AHOY](https://justadesignlist.com/studio/ahoy) — New York, Zurich, USA, Switzerland
 - [Atelier Maève](https://justadesignlist.com/studio/atelier-maeve) — Zurich, Switzerland
@@ -20,6 +20,7 @@ By discipline: [Graphic Design studios in Zurich](https://justadesignlist.com/ci
 - [BOB Design](https://justadesignlist.com/studio/bob-design) — London, Zurich, England, Switzerland
 - [Favorit Studio](https://justadesignlist.com/studio/favorit-studio) — Zurich, Switzerland
 - [flag](https://justadesignlist.com/studio/flag) — Zurich, Switzerland
+- [Herendi Artemisio](https://justadesignlist.com/studio/herendi-artemisio) — Zurich, Switzerland
 - [Hymn](https://justadesignlist.com/studio/hymn) — Lausanne, Zurich, Switzerland
 - [Kevin Hoegger Visual Services](https://justadesignlist.com/studio/kevin-hoegger-visual-services) — Zurich, Switzerland
 - [Marco Lüthi](https://justadesignlist.com/studio/marco-luthi) — Zurich, Switzerland

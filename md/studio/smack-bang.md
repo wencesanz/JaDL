@@ -1,12 +1,12 @@
 ---
 title: "Smack Bang — Branding, Sydney, Australia · Just a Design List"
-description: "Smack Bang: branding, interactive/digital and packaging practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in July 2026."
+description: "Smack Bang: branding, interactive/digital and packaging practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/smack-bang"
 ---
 
 # Smack Bang
 
-Smack Bang: branding, interactive/digital and packaging practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in July 2026.
+Smack Bang: branding, interactive/digital and packaging practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging, Motion
 - **City:** Sydney

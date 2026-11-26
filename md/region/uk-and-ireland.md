@@ -1,6 +1,6 @@
 ---
 title: "Design studios in the UK & Ireland · Just a Design List"
-description: "243 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline."
+description: "244 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/uk-and-ireland"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # UK & Ireland
 
-243 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline.
+244 independent design studios and designers based in the UK & Ireland, from the Just a Design List index. Browse by country, city and discipline.
 
 - [& Smith](https://justadesignlist.com/studio/and-smith) — London, England
 - [20(SOMETHING)](https://justadesignlist.com/studio/20-something) — London, England
@@ -64,6 +64,7 @@ Region
 - [Construct London](https://justadesignlist.com/studio/construct-london) — London, Bath, England
 - [Covers](https://justadesignlist.com/studio/covers) — Edinburgh, Scotland
 - [CRV by Josiah Craven](https://justadesignlist.com/studio/crv-by-josiah-craven) — Manchester, England
+- [Cyphr](https://justadesignlist.com/studio/cyphr) — London, England
 - [Dada Projects](https://justadesignlist.com/studio/dada-projects) — London, England
 - [Dan Cottrell](https://justadesignlist.com/studio/dan-cottrell) — London, Barcelona, England, Spain
 - [David Airey](https://justadesignlist.com/studio/david-airey) — Bangor, Northern Ireland
@@ -211,7 +212,6 @@ Region
 - [Something](https://justadesignlist.com/studio/something) — London, New South Wales, England, Australia
 - [Sophie O’Connor](https://justadesignlist.com/studio/sophie-o-connor) — Manchester, England
 - [SOUP](https://justadesignlist.com/studio/soup) — London, England
-- [Spencer Fenton](https://justadesignlist.com/studio/spencer-fenton) — London, England
 
 ---
 

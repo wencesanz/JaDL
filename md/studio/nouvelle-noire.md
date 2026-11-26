@@ -1,12 +1,12 @@
 ---
 title: "Nouvelle Noire — Typography, Zurich, Switzerland · Just a Design List"
-description: "Nouvelle Noire: typography practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in August 2026."
+description: "Nouvelle Noire: typography practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/nouvelle-noire"
 ---
 
 # Nouvelle Noire
 
-Nouvelle Noire: typography practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in August 2026.
+Nouvelle Noire: typography practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in August 2026.
 
 - **Discipline:** Typography
 - **City:** Zurich

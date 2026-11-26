@@ -1,12 +1,12 @@
 ---
 title: "Universal Favourite — Branding, Sydney, Australia · Just a Design List"
-description: "Universal Favourite: branding practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in May 2023."
+description: "Universal Favourite: branding practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/universal-favourite"
 ---
 
 # Universal Favourite
 
-Universal Favourite: branding practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in May 2023.
+Universal Favourite: branding practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** Sydney

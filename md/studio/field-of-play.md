@@ -1,12 +1,12 @@
 ---
 title: "Field of Play — Branding, Sydney, Australia · Just a Design List"
-description: "Field of Play: branding, interactive/digital and packaging practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in July 2026."
+description: "Field of Play: branding, interactive/digital and packaging practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/field-of-play"
 ---
 
 # Field of Play
 
-Field of Play: branding, interactive/digital and packaging practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in July 2026.
+Field of Play: branding, interactive/digital and packaging practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Packaging, Graphic Design, Motion
 - **City:** Sydney, Whangārei

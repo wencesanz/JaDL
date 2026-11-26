@@ -1,12 +1,12 @@
 ---
 title: "TEMPLO — Branding, London, England · Just a Design List"
-description: "TEMPLO: branding practice based in London, England. One of 198 studios from London on Just a Design List, added in September 2026."
+description: "TEMPLO: branding practice based in London, England. One of 199 studios from London on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/templo"
 ---
 
 # TEMPLO
 
-TEMPLO: branding practice based in London, England. One of 198 studios from London on Just a Design List, added in September 2026.
+TEMPLO: branding practice based in London, England. One of 199 studios from London on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding
 - **City:** London

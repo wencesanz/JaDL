@@ -1,12 +1,12 @@
 ---
 title: "Village Green — Branding, London, England · Just a Design List"
-description: "Village Green: branding, graphic design and motion practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026."
+description: "Village Green: branding, graphic design and motion practice based in London, England. One of 199 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/village-green"
 ---
 
 # Village Green
 
-Village Green: branding, graphic design and motion practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026.
+Village Green: branding, graphic design and motion practice based in London, England. One of 199 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Motion
 - **City:** London

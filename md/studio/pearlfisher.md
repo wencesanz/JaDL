@@ -1,12 +1,12 @@
 ---
 title: "Pearlfisher — Branding, London, England · Just a Design List"
-description: "Pearlfisher: branding and packaging practice based in London, England. One of 198 studios from London on Just a Design List, added in October 2024."
+description: "Pearlfisher: branding and packaging practice based in London, England. One of 199 studios from London on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/pearlfisher"
 ---
 
 # Pearlfisher
 
-Pearlfisher: branding and packaging practice based in London, England. One of 198 studios from London on Just a Design List, added in October 2024.
+Pearlfisher: branding and packaging practice based in London, England. One of 199 studios from London on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Packaging
 - **City:** London, New York

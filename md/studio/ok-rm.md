@@ -1,12 +1,12 @@
 ---
 title: "OK-RM — Graphic Design, London, England · Just a Design List"
-description: "OK-RM: graphic design practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026."
+description: "OK-RM: graphic design practice based in London, England. One of 199 studios from London on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/ok-rm"
 ---
 
 # OK-RM
 
-OK-RM: graphic design practice based in London, England. One of 198 studios from London on Just a Design List, added in August 2026.
+OK-RM: graphic design practice based in London, England. One of 199 studios from London on Just a Design List, added in August 2026.
 
 - **Discipline:** Graphic Design
 - **City:** London

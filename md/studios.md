@@ -1,12 +1,12 @@
 ---
 title: "All studios · Just a Design List"
-description: "Browse the full index of 1481 design studios and independent designers, A to Z."
+description: "Browse the full index of 1484 design studios and independent designers, A to Z."
 url: "https://justadesignlist.com/studios"
 ---
 
 The List
 
-# All 1481 studios and designers
+# All 1484 studios and designers
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China · Branding, Motion, Interactive/Digital, Typography, Packaging
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Slovenia · Paris, France · Branding, Interactive/Digital, Packaging, Motion
@@ -335,6 +335,7 @@ The List
 - [Cuchillo©](https://justadesignlist.com/studio/cuchillo) — Bilbao, Spain · Graphic Design, Interactive/Digital
 - [Cul De Sac Studio](https://justadesignlist.com/studio/cul-de-sac-studio) — Los Angeles, USA · Branding, Interactive/Digital, Graphic Design
 - [CuldeSac](https://justadesignlist.com/studio/culdesac) — Valencia, Spain · Branding, Packaging
+- [Cyphr](https://justadesignlist.com/studio/cyphr) — London, England · Branding, Interactive/Digital
 - [D. Kim](https://justadesignlist.com/studio/d-kim) — San Francisco, USA · Graphic Design, Branding
 - [Dada Projects](https://justadesignlist.com/studio/dada-projects) — London, England · Branding, Graphic Design, Motion, Interactive/Digital
 - [Daikoku Design Institute](https://justadesignlist.com/studio/daikoku-design-institute) — Los Angeles, USA · Tokyo, Japan · Branding, Graphic Design
@@ -577,6 +578,7 @@ The List
 - [helloMuller](https://justadesignlist.com/studio/hellomuller) — London, England · Graphic Design, Branding, Interactive/Digital
 - [Herburg Weiland](https://justadesignlist.com/studio/herburg-weiland) — Munich, Germany · Graphic Design
 - [Here Design](https://justadesignlist.com/studio/here-design) — London, England · Branding, Interactive/Digital, Motion, Graphic Design
+- [Herendi Artemisio](https://justadesignlist.com/studio/herendi-artemisio) — Zurich, Switzerland · Graphic Design, Interactive/Digital
 - [Hey](https://justadesignlist.com/studio/hey) — Barcelona, Spain · Graphic Design, Branding, Illustration, Packaging
 - [Heydays](https://justadesignlist.com/studio/heydays) — Oslo, Norway · Branding
 - [Hi Shine](https://justadesignlist.com/studio/hi-shine) — Helsinki, Finland · Branding, Motion, Interactive/Digital, Advertising/Campaigns
@@ -652,6 +654,7 @@ The List
 - [Jeffrey Docherty](https://justadesignlist.com/studio/jeffrey-docherty) — New Zealand · Graphic Design
 - [Jekyll](https://justadesignlist.com/studio/jekyll) — Kansas City, USA · Branding, Illustration, Motion, Interactive/Digital, Advertising/Campaigns, Packaging, Graphic Design
 - [Jens Nilsson](https://justadesignlist.com/studio/jens-nilsson) — Stockholm, Sweden · Graphic Design, Branding
+- [Jeremy Matthews design](https://justadesignlist.com/studio/jeremy-matthews-design) — Sydney, Australia · Branding, Graphic Design
 - [Jiri Mocek](https://justadesignlist.com/studio/jiri-mocek) — Prague, Czech Republic · Graphic Design
 - [Joan Creative](https://justadesignlist.com/studio/joan-creative) — New York, USA · Berlin, Germany · London, England · Branding, Advertising/Campaigns, Illustration, Packaging
 - [Joe Perez](https://justadesignlist.com/studio/joe-perez) — Rhode Island, USA · Graphic Design

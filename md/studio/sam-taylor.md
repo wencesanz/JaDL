@@ -1,12 +1,12 @@
 ---
 title: "Sam Taylor — Branding, London, England · Just a Design List"
-description: "Sam Taylor: branding and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2023."
+description: "Sam Taylor: branding and interactive/digital practice based in London, England. One of 199 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/sam-taylor"
 ---
 
 # Sam Taylor
 
-Sam Taylor: branding and interactive/digital practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2023.
+Sam Taylor: branding and interactive/digital practice based in London, England. One of 199 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding, Interactive/Digital
 - **City:** London, Berlin

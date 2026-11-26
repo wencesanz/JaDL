@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in Australia · Just a Design List"
-description: "81 independent studios working in branding in Australia, from the Just a Design List index."
+description: "82 independent studios working in branding in Australia, from the Just a Design List index."
 url: "https://justadesignlist.com/country/australia/branding"
 ---
 
@@ -10,7 +10,7 @@ Country · Branding
 
 # Branding in Australia
 
-81 independent studios working in branding in Australia, from the Just a Design List index.
+82 independent studios working in branding in Australia, from the Just a Design List index.
 
 - [A Friend of Mine](https://justadesignlist.com/studio/a-friend-of-mine) — Melbourne, Australia
 - [ACCOMPANY](https://justadesignlist.com/studio/accompany) — Sydney, Australia
@@ -39,6 +39,7 @@ Country · Branding
 - [Geoffrey Mark Taylor](https://justadesignlist.com/studio/geoffrey-mark-taylor) — Melbourne, Australia
 - [HOT COTTAGE](https://justadesignlist.com/studio/hot-cottage) — Melbourne, Australia
 - [Houston Group](https://justadesignlist.com/studio/houston-group) — Sydney, Australia
+- [Jeremy Matthews design](https://justadesignlist.com/studio/jeremy-matthews-design) — Sydney, Australia
 - [Kallan&Co](https://justadesignlist.com/studio/kallanandco) — Helsinki, Christchurch, Melbourne, Finland, New Zealand, Australia
 - [Latitude](https://justadesignlist.com/studio/latitude) — Melbourne, Australia
 - [Love and Money](https://justadesignlist.com/studio/love-and-money) — Melbourne, Australia

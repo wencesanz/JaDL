@@ -1,12 +1,12 @@
 ---
 title: "ffforum — Branding, London, England · Just a Design List"
-description: "ffforum: branding, interactive/digital and typography practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2026."
+description: "ffforum: branding, interactive/digital and typography practice based in London, England. One of 199 studios from London on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/ffforum"
 ---
 
 # ffforum
 
-ffforum: branding, interactive/digital and typography practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2026.
+ffforum: branding, interactive/digital and typography practice based in London, England. One of 199 studios from London on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Typography
 - **City:** London

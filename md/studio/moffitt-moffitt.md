@@ -1,12 +1,12 @@
 ---
 title: "Moffitt.Moffitt — Graphic Design, Sydney, Australia · Just a Design List"
-description: "Moffitt.Moffitt: graphic design practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in May 2023."
+description: "Moffitt.Moffitt: graphic design practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/moffitt-moffitt"
 ---
 
 # Moffitt.Moffitt
 
-Moffitt.Moffitt: graphic design practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in May 2023.
+Moffitt.Moffitt: graphic design practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Sydney

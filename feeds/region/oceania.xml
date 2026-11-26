@@ -5,8 +5,17 @@
     <link>https://justadesignlist.com/region/oceania</link>
     <description>New additions to Just a Design List: design studios in Oceania.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 10:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:18:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/region/oceania.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jeremy Matthews design</title>
+      <link>https://justadesignlist.com/studio/jeremy-matthews-design</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/jeremy-matthews-design</guid>
+      <pubDate>Wed, 25 Nov 2026 22:18:00 GMT</pubDate>
+      <description>Branding · Graphic Design — Sydney, Australia. https://miaandjem.com/</description>
+      <category>Branding</category>
+      <category>Graphic Design</category>
+    </item>
     <item>
       <title>TERMS</title>
       <link>https://justadesignlist.com/studio/terms</link>
@@ -309,18 +318,6 @@
       <category>Interactive/Digital</category>
       <category>Graphic Design</category>
       <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>ACCOMPANY</title>
-      <link>https://justadesignlist.com/studio/accompany</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/accompany</guid>
-      <pubDate>Thu, 30 Jul 2026 09:16:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Illustration · Motion — Sydney, Australia. https://accompany.group/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Illustration</category>
-      <category>Motion</category>
     </item>
   </channel>
 </rss>

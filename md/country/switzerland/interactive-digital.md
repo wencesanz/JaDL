@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in Switzerland · Just a Design List"
-description: "23 independent studios working in interactive/digital in Switzerland, from the Just a Design List index."
+description: "24 independent studios working in interactive/digital in Switzerland, from the Just a Design List index."
 url: "https://justadesignlist.com/country/switzerland/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ Country · Interactive/Digital
 
 # Interactive/Digital in Switzerland
 
-23 independent studios working in interactive/digital in Switzerland, from the Just a Design List index.
+24 independent studios working in interactive/digital in Switzerland, from the Just a Design List index.
 
 - [Aris Zenone](https://justadesignlist.com/studio/aris-zenone) — Lausanne, Switzerland
 - [Atelier Pol](https://justadesignlist.com/studio/atelier-pol) — Bern, Switzerland
@@ -19,6 +19,7 @@ Country · Interactive/Digital
 - [CCRZ](https://justadesignlist.com/studio/ccrz) — Balerna, Anzano del Parco, Switzerland, Italy
 - [Début Début](https://justadesignlist.com/studio/debut-debut) — Basel, Switzerland
 - [Die Gestalter](https://justadesignlist.com/studio/die-gestalter) — St.Gallen, Switzerland
+- [Herendi Artemisio](https://justadesignlist.com/studio/herendi-artemisio) — Zurich, Switzerland
 - [Hymn](https://justadesignlist.com/studio/hymn) — Lausanne, Zurich, Switzerland
 - [Marco Lüthi](https://justadesignlist.com/studio/marco-luthi) — Zurich, Switzerland
 - [Marks](https://justadesignlist.com/studio/marks) — Genève, Switzerland

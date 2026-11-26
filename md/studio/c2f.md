@@ -1,12 +1,12 @@
 ---
 title: "C2F — Graphic Design, Luzern, Switzerland · Just a Design List"
-description: "C2F: graphic design practice based in Luzern, Switzerland. The only studio from Luzern, one of 58 from Switzerland on Just a Design List, added in October 2024."
+description: "C2F: graphic design practice based in Luzern, Switzerland. The only studio from Luzern, one of 59 from Switzerland on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/c2f"
 ---
 
 # C2F
 
-C2F: graphic design practice based in Luzern, Switzerland. The only studio from Luzern, one of 58 from Switzerland on Just a Design List, added in October 2024.
+C2F: graphic design practice based in Luzern, Switzerland. The only studio from Luzern, one of 59 from Switzerland on Just a Design List, added in October 2024.
 
 - **Discipline:** Graphic Design
 - **City:** Luzern

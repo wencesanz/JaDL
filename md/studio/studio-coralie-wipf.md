@@ -1,12 +1,12 @@
 ---
 title: "Studio Coralie Wipf — Graphic Design, Zurich, Switzerland · Just a Design List"
-description: "Studio Coralie Wipf: graphic design, motion and interactive/digital practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in September 2026."
+description: "Studio Coralie Wipf: graphic design, motion and interactive/digital practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/studio-coralie-wipf"
 ---
 
 # Studio Coralie Wipf
 
-Studio Coralie Wipf: graphic design, motion and interactive/digital practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in September 2026.
+Studio Coralie Wipf: graphic design, motion and interactive/digital practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in September 2026.
 
 - **Discipline:** Graphic Design, Motion, Interactive/Digital, Branding
 - **City:** Zurich

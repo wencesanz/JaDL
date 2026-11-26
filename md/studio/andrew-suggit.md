@@ -1,12 +1,12 @@
 ---
 title: "Andrew Suggit — Branding, Sydney, Australia · Just a Design List"
-description: "Andrew Suggit: branding practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in May 2023."
+description: "Andrew Suggit: branding practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/andrew-suggit"
 ---
 
 # Andrew Suggit
 
-Andrew Suggit: branding practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in May 2023.
+Andrew Suggit: branding practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding
 - **City:** Sydney

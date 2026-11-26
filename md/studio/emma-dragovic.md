@@ -1,12 +1,12 @@
 ---
 title: "Emma Dragovic — Graphic Design, London, England · Just a Design List"
-description: "Emma Dragovic: graphic design, branding and packaging practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2023."
+description: "Emma Dragovic: graphic design, branding and packaging practice based in London, England. One of 199 studios from London on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/emma-dragovic"
 ---
 
 # Emma Dragovic
 
-Emma Dragovic: graphic design, branding and packaging practice based in London, England. One of 198 studios from London on Just a Design List, added in May 2023.
+Emma Dragovic: graphic design, branding and packaging practice based in London, England. One of 199 studios from London on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding, Packaging, Illustration, Interactive/Digital
 - **City:** London

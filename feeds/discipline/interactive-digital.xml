@@ -5,8 +5,26 @@
     <link>https://justadesignlist.com/discipline/interactive-digital</link>
     <description>New additions to Just a Design List: Interactive/Digital studios.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:13:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/interactive-digital.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cyphr</title>
+      <link>https://justadesignlist.com/studio/cyphr</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/cyphr</guid>
+      <pubDate>Wed, 25 Nov 2026 22:13:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital — London, England. https://www.cyphr.studio/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Herendi Artemisio</title>
+      <link>https://justadesignlist.com/studio/herendi-artemisio</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/herendi-artemisio</guid>
+      <pubDate>Wed, 25 Nov 2026 22:11:00 GMT</pubDate>
+      <description>Graphic Design · Interactive/Digital — Zurich, Switzerland. http://herendiartemisio.ch/</description>
+      <category>Graphic Design</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>North</title>
       <link>https://justadesignlist.com/studio/north</link>
@@ -319,30 +337,6 @@
       <pubDate>Tue, 03 Nov 2026 15:03:00 GMT</pubDate>
       <description>Branding · Interactive/Digital — New York, USA. https://www.mantis.works/</description>
       <category>Branding</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>SOUP</title>
-      <link>https://justadesignlist.com/studio/soup</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/soup</guid>
-      <pubDate>Fri, 30 Oct 2026 12:02:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Advertising/Campaigns · Interactive/Digital — London, England. https://soup.work/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Advertising/Campaigns</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Onda Studio</title>
-      <link>https://justadesignlist.com/studio/onda-studio</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/onda-studio</guid>
-      <pubDate>Fri, 30 Oct 2026 10:30:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Illustration · Typography · Packaging · Interactive/Digital — Braga, Portugal. https://www.ondastudio.co/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Illustration</category>
-      <category>Typography</category>
-      <category>Packaging</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>

@@ -1,12 +1,12 @@
 ---
 title: "Emma Kaniuk — Branding, Sydney, Australia · Just a Design List"
-description: "Emma Kaniuk: branding practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in July 2026."
+description: "Emma Kaniuk: branding practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/emma-kaniuk"
 ---
 
 # Emma Kaniuk
 
-Emma Kaniuk: branding practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in July 2026.
+Emma Kaniuk: branding practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding
 - **City:** Sydney

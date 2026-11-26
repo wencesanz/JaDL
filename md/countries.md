@@ -11,14 +11,14 @@ Browse
 64 countries represented across the index.
 
 - [USA](https://justadesignlist.com/country/usa) (335)
-- [England](https://justadesignlist.com/country/england) (246)
+- [England](https://justadesignlist.com/country/england) (247)
 - [Spain](https://justadesignlist.com/country/spain) (202)
 - [Germany](https://justadesignlist.com/country/germany) (101)
-- [Australia](https://justadesignlist.com/country/australia) (92)
+- [Australia](https://justadesignlist.com/country/australia) (93)
 - [France](https://justadesignlist.com/country/france) (84)
 - [The Netherlands](https://justadesignlist.com/country/the-netherlands) (62)
+- [Switzerland](https://justadesignlist.com/country/switzerland) (59)
 - [Canada](https://justadesignlist.com/country/canada) (58)
-- [Switzerland](https://justadesignlist.com/country/switzerland) (58)
 - [Sweden](https://justadesignlist.com/country/sweden) (48)
 - [Denmark](https://justadesignlist.com/country/denmark) (33)
 - [Italy](https://justadesignlist.com/country/italy) (32)

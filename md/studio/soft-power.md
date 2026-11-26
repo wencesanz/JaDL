@@ -1,12 +1,12 @@
 ---
 title: "Soft Power — Graphic Design, London, England · Just a Design List"
-description: "Soft Power: graphic design and advertising/campaigns practice based in London, England. One of 198 studios from London on Just a Design List, added in September 2026."
+description: "Soft Power: graphic design and advertising/campaigns practice based in London, England. One of 199 studios from London on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/soft-power"
 ---
 
 # Soft Power
 
-Soft Power: graphic design and advertising/campaigns practice based in London, England. One of 198 studios from London on Just a Design List, added in September 2026.
+Soft Power: graphic design and advertising/campaigns practice based in London, England. One of 199 studios from London on Just a Design List, added in September 2026.
 
 - **Discipline:** Graphic Design, Advertising/Campaigns
 - **City:** London

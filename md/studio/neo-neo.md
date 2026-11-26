@@ -1,12 +1,12 @@
 ---
 title: "Neo Neo — Graphic Design, Carouge, Switzerland · Just a Design List"
-description: "Neo Neo: graphic design practice based in Carouge, Switzerland. The only studio from Carouge, one of 58 from Switzerland on Just a Design List, added in June 2023."
+description: "Neo Neo: graphic design practice based in Carouge, Switzerland. The only studio from Carouge, one of 59 from Switzerland on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/neo-neo"
 ---
 
 # Neo Neo
 
-Neo Neo: graphic design practice based in Carouge, Switzerland. The only studio from Carouge, one of 58 from Switzerland on Just a Design List, added in June 2023.
+Neo Neo: graphic design practice based in Carouge, Switzerland. The only studio from Carouge, one of 59 from Switzerland on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Carouge

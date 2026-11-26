@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in Zurich · Just a Design List"
-description: "10 independent studios working in interactive/digital in Zurich, from the Just a Design List index."
+description: "11 independent studios working in interactive/digital in Zurich, from the Just a Design List index."
 url: "https://justadesignlist.com/city/zurich/interactive-digital"
 ---
 
@@ -10,9 +10,10 @@ City · Interactive/Digital
 
 # Interactive/Digital in Zurich
 
-10 independent studios working in interactive/digital in Zurich, from the Just a Design List index.
+11 independent studios working in interactive/digital in Zurich, from the Just a Design List index.
 
 - [BOB Design](https://justadesignlist.com/studio/bob-design) — London, Zurich, England, Switzerland
+- [Herendi Artemisio](https://justadesignlist.com/studio/herendi-artemisio) — Zurich, Switzerland
 - [Hymn](https://justadesignlist.com/studio/hymn) — Lausanne, Zurich, Switzerland
 - [Marco Lüthi](https://justadesignlist.com/studio/marco-luthi) — Zurich, Switzerland
 - [Skala](https://justadesignlist.com/studio/skala) — Zurich, Switzerland

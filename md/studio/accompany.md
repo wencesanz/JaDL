@@ -1,12 +1,12 @@
 ---
 title: "ACCOMPANY — Branding, Sydney, Australia · Just a Design List"
-description: "ACCOMPANY: branding, graphic design and interactive/digital practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in July 2026."
+description: "ACCOMPANY: branding, graphic design and interactive/digital practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/accompany"
 ---
 
 # ACCOMPANY
 
-ACCOMPANY: branding, graphic design and interactive/digital practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in July 2026.
+ACCOMPANY: branding, graphic design and interactive/digital practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Illustration, Motion
 - **City:** Sydney

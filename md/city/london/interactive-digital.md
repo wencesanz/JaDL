@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in London · Just a Design List"
-description: "109 independent studios working in interactive/digital in London, from the Just a Design List index."
+description: "110 independent studios working in interactive/digital in London, from the Just a Design List index."
 url: "https://justadesignlist.com/city/london/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ City · Interactive/Digital
 
 # Interactive/Digital in London
 
-109 independent studios working in interactive/digital in London, from the Just a Design List index.
+110 independent studios working in interactive/digital in London, from the Just a Design List index.
 
 - [21—87](https://justadesignlist.com/studio/21-87) — London, England
 - [ACRE](https://justadesignlist.com/studio/acre) — London, England
@@ -40,6 +40,7 @@ City · Interactive/Digital
 - [Companion](https://justadesignlist.com/studio/companion) — London, England
 - [Construct London](https://justadesignlist.com/studio/construct-london) — London, Bath, England
 - [Crown Creative](https://justadesignlist.com/studio/crown-creative) — New York, London, Belfast, USA, England, Northern Ireland
+- [Cyphr](https://justadesignlist.com/studio/cyphr) — London, England
 - [Dada Projects](https://justadesignlist.com/studio/dada-projects) — London, England
 - [DNCO](https://justadesignlist.com/studio/dnco) — London, New York, England, USA
 - [Driftime](https://justadesignlist.com/studio/driftime) — London, England

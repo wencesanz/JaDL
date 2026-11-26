@@ -1,12 +1,12 @@
 ---
 title: "OMSE — Branding, London, England · Just a Design List"
-description: "OMSE: branding practice based in London, England. One of 198 studios from London on Just a Design List, added in June 2023."
+description: "OMSE: branding practice based in London, England. One of 199 studios from London on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/omse"
 ---
 
 # OMSE
 
-OMSE: branding practice based in London, England. One of 198 studios from London on Just a Design List, added in June 2023.
+OMSE: branding practice based in London, England. One of 199 studios from London on Just a Design List, added in June 2023.
 
 - **Discipline:** Branding
 - **City:** London

@@ -1,12 +1,12 @@
 ---
 title: "Never Sit Still — Branding, Sydney, Australia · Just a Design List"
-description: "Never Sit Still: branding, motion and interactive/digital practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in August 2026."
+description: "Never Sit Still: branding, motion and interactive/digital practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/never-sit-still"
 ---
 
 # Never Sit Still
 
-Never Sit Still: branding, motion and interactive/digital practice based in Sydney, Australia. One of 31 studios from Sydney on Just a Design List, added in August 2026.
+Never Sit Still: branding, motion and interactive/digital practice based in Sydney, Australia. One of 32 studios from Sydney on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Motion, Interactive/Digital
 - **City:** Sydney

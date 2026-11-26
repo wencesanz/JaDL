@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in Australia · Just a Design List"
-description: "46 independent studios working in graphic design in Australia, from the Just a Design List index."
+description: "47 independent studios working in graphic design in Australia, from the Just a Design List index."
 url: "https://justadesignlist.com/country/australia/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ Country · Graphic Design
 
 # Graphic Design in Australia
 
-46 independent studios working in graphic design in Australia, from the Just a Design List index.
+47 independent studios working in graphic design in Australia, from the Just a Design List index.
 
 - [ACCOMPANY](https://justadesignlist.com/studio/accompany) — Sydney, Australia
 - [AKLR](https://justadesignlist.com/studio/aklr) — Melbourne, Australia
@@ -27,6 +27,7 @@ Country · Graphic Design
 - [HOT COTTAGE](https://justadesignlist.com/studio/hot-cottage) — Melbourne, Australia
 - [Houston Group](https://justadesignlist.com/studio/houston-group) — Sydney, Australia
 - [How By Why](https://justadesignlist.com/studio/how-by-why) — Sydney, Australia
+- [Jeremy Matthews design](https://justadesignlist.com/studio/jeremy-matthews-design) — Sydney, Australia
 - [Latitude](https://justadesignlist.com/studio/latitude) — Melbourne, Australia
 - [Luke Brown](https://justadesignlist.com/studio/luke-brown) — Melbourne, Australia
 - [M35](https://justadesignlist.com/studio/m35) — Sydney, Australia

@@ -1,12 +1,12 @@
 ---
 title: "Pascal Alexander — Graphic Design, Zurich, Switzerland · Just a Design List"
-description: "Pascal Alexander: graphic design practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in May 2023."
+description: "Pascal Alexander: graphic design practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/pascal-alexander"
 ---
 
 # Pascal Alexander
 
-Pascal Alexander: graphic design practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in May 2023.
+Pascal Alexander: graphic design practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Zurich

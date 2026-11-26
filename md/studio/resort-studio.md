@@ -1,12 +1,12 @@
 ---
 title: "Resort Studio — Graphic Design, Zurich, Switzerland · Just a Design List"
-description: "Resort Studio: graphic design and branding practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in October 2024."
+description: "Resort Studio: graphic design and branding practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/resort-studio"
 ---
 
 # Resort Studio
 
-Resort Studio: graphic design and branding practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in October 2024.
+Resort Studio: graphic design and branding practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in October 2024.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Zurich

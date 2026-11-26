@@ -1,12 +1,12 @@
 ---
 title: "Badesaison — Graphic Design, Zurich, Switzerland · Just a Design List"
-description: "Badesaison: graphic design practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in May 2023."
+description: "Badesaison: graphic design practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/badesaison"
 ---
 
 # Badesaison
 
-Badesaison: graphic design practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in May 2023.
+Badesaison: graphic design practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Zurich
@@ -26,7 +26,7 @@ Badesaison: graphic design practice based in Zurich, Switzerland. One of 21 stud
 - [BOB Design](https://justadesignlist.com/studio/bob-design)
 - [Favorit Studio](https://justadesignlist.com/studio/favorit-studio)
 - [flag](https://justadesignlist.com/studio/flag)
-- [Hymn](https://justadesignlist.com/studio/hymn)
+- [Herendi Artemisio](https://justadesignlist.com/studio/herendi-artemisio)
 
 ---
 

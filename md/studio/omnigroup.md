@@ -1,12 +1,12 @@
 ---
 title: "Omnigroup — Branding, Renens, Switzerland · Just a Design List"
-description: "Omnigroup: branding, graphic design and interactive/digital practice based in Renens, Switzerland. The only studio from Renens, one of 58 from Switzerland on Just a Design List, added in November 2024."
+description: "Omnigroup: branding, graphic design and interactive/digital practice based in Renens, Switzerland. The only studio from Renens, one of 59 from Switzerland on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/omnigroup"
 ---
 
 # Omnigroup
 
-Omnigroup: branding, graphic design and interactive/digital practice based in Renens, Switzerland. The only studio from Renens, one of 58 from Switzerland on Just a Design List, added in November 2024.
+Omnigroup: branding, graphic design and interactive/digital practice based in Renens, Switzerland. The only studio from Renens, one of 59 from Switzerland on Just a Design List, added in November 2024.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** Renens

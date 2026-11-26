@@ -1,6 +1,6 @@
 ---
 title: "Design studios in Oceania · Just a Design List"
-description: "94 independent design studios and designers based in Oceania, from the Just a Design List index. Browse by country, city and discipline."
+description: "95 independent design studios and designers based in Oceania, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/oceania"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # Oceania
 
-94 independent design studios and designers based in Oceania, from the Just a Design List index. Browse by country, city and discipline.
+95 independent design studios and designers based in Oceania, from the Just a Design List index. Browse by country, city and discipline.
 
 - [1 of 1 Studio](https://justadesignlist.com/studio/1-of-1-studio) — Auckland, New Zealand
 - [A Friend of Mine](https://justadesignlist.com/studio/a-friend-of-mine) — Melbourne, Australia
@@ -44,6 +44,7 @@ Region
 - [Inhouse](https://justadesignlist.com/studio/inhouse) — Auckland, New Zealand
 - [James Walsh Studio](https://justadesignlist.com/studio/james-walsh-studio) — Melbourne, Australia
 - [Jeffrey Docherty](https://justadesignlist.com/studio/jeffrey-docherty) — New Zealand
+- [Jeremy Matthews design](https://justadesignlist.com/studio/jeremy-matthews-design) — Sydney, Australia
 - [JTB Studios](https://justadesignlist.com/studio/jtb-studios) — Melbourne, Australia
 - [Latitude](https://justadesignlist.com/studio/latitude) — Melbourne, Australia
 - [Love and Money](https://justadesignlist.com/studio/love-and-money) — Melbourne, Australia

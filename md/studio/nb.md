@@ -1,12 +1,12 @@
 ---
 title: "NB — Graphic Design, London, England · Just a Design List"
-description: "NB: graphic design, branding and packaging practice based in London, England. One of 198 studios from London on Just a Design List, added in September 2026."
+description: "NB: graphic design, branding and packaging practice based in London, England. One of 199 studios from London on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/nb"
 ---
 
 # NB
 
-NB: graphic design, branding and packaging practice based in London, England. One of 198 studios from London on Just a Design List, added in September 2026.
+NB: graphic design, branding and packaging practice based in London, England. One of 199 studios from London on Just a Design List, added in September 2026.
 
 - **Discipline:** Graphic Design, Branding, Packaging, Advertising/Campaigns, Motion, Interactive/Digital, Illustration
 - **City:** London

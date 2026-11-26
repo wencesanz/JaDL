@@ -1,12 +1,12 @@
 ---
 title: "Skala — Graphic Design, Zurich, Switzerland · Just a Design List"
-description: "Skala: graphic design, branding and interactive/digital practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in May 2023."
+description: "Skala: graphic design, branding and interactive/digital practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/skala"
 ---
 
 # Skala
 
-Skala: graphic design, branding and interactive/digital practice based in Zurich, Switzerland. One of 21 studios from Zurich on Just a Design List, added in May 2023.
+Skala: graphic design, branding and interactive/digital practice based in Zurich, Switzerland. One of 22 studios from Zurich on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding, Interactive/Digital, Typography
 - **City:** Zurich
