@@ -1,12 +1,12 @@
 ---
 title: "ELLA — Graphic Design, Los Angeles, USA · Just a Design List"
-description: "ELLA: graphic design practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023."
+description: "ELLA: graphic design practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/ella"
 ---
 
 # ELLA
 
-ELLA: graphic design practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023.
+ELLA: graphic design practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Los Angeles

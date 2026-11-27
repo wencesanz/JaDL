@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/city/los-angeles</link>
     <description>New additions to Just a Design List: design studios in Los Angeles.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 14:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:54:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/city/los-angeles.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Folder</title>
+      <link>https://justadesignlist.com/studio/folder</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/folder</guid>
+      <pubDate>Fri, 27 Nov 2026 18:54:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Interactive/Digital — Los Angeles, USA. https://folder.studio</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Massive</title>
       <link>https://justadesignlist.com/studio/massive</link>
@@ -302,16 +312,6 @@
       <description>Branding · Graphic Design — Los Angeles, USA. https://daikoku.ndc.co.jp/</description>
       <category>Branding</category>
       <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Mouthwash Studio</title>
-      <link>https://justadesignlist.com/studio/mouthwash-studio</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/mouthwash-studio</guid>
-      <pubDate>Tue, 04 Jul 2023 06:48:00 GMT</pubDate>
-      <description>Branding · Motion · Interactive/Digital — Los Angeles, USA. https://mouthwash.studio/</description>
-      <category>Branding</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>

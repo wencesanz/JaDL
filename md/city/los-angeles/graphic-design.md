@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in Los Angeles · Just a Design List"
-description: "31 independent studios working in graphic design in Los Angeles, from the Just a Design List index."
+description: "32 independent studios working in graphic design in Los Angeles, from the Just a Design List index."
 url: "https://justadesignlist.com/city/los-angeles/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ City · Graphic Design
 
 # Graphic Design in Los Angeles
 
-31 independent studios working in graphic design in Los Angeles, from the Just a Design List index.
+32 independent studios working in graphic design in Los Angeles, from the Just a Design List index.
 
 - [Andre do Amaral](https://justadesignlist.com/studio/andre-do-amaral) — Los Angeles, USA
 - [CASE Agency](https://justadesignlist.com/studio/case-agency) — New York, Los Angeles, USA
@@ -20,6 +20,7 @@ City · Graphic Design
 - [Daikoku Design Institute](https://justadesignlist.com/studio/daikoku-design-institute) — Los Angeles, Tokyo, USA, Japan
 - [DoThings](https://justadesignlist.com/studio/dothings) — New York, Los Angeles, Paris, USA, France
 - [ELLA](https://justadesignlist.com/studio/ella) — Los Angeles, USA
+- [Folder](https://justadesignlist.com/studio/folder) — Los Angeles, USA
 - [Hype Type Studio](https://justadesignlist.com/studio/hype-type-studio) — Los Angeles, USA
 - [Inventory Form & Content](https://justadesignlist.com/studio/inventory-form-and-content) — Los Angeles, USA
 - [Jack McEntee](https://justadesignlist.com/studio/jack-mcentee) — Los Angeles, USA

@@ -1,12 +1,12 @@
 ---
 title: "Justin Hunt Sloane — Graphic Design, Los Angeles, USA · Just a Design List"
-description: "Justin Hunt Sloane: graphic design and packaging practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023."
+description: "Justin Hunt Sloane: graphic design and packaging practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/justin-hunt-sloane"
 ---
 
 # Justin Hunt Sloane
 
-Justin Hunt Sloane: graphic design and packaging practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023.
+Justin Hunt Sloane: graphic design and packaging practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Packaging
 - **City:** Los Angeles

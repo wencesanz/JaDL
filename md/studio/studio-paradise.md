@@ -1,12 +1,12 @@
 ---
 title: "Studio Paradise — Branding, Los Angeles, USA · Just a Design List"
-description: "Studio Paradise: branding, interactive/digital and graphic design practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2026."
+description: "Studio Paradise: branding, interactive/digital and graphic design practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/studio-paradise"
 ---
 
 # Studio Paradise
 
-Studio Paradise: branding, interactive/digital and graphic design practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2026.
+Studio Paradise: branding, interactive/digital and graphic design practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Graphic Design, Packaging
 - **City:** Los Angeles

@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/region/north-america</link>
     <description>New additions to Just a Design List: design studios in North America.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:54:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/region/north-america.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Folder</title>
+      <link>https://justadesignlist.com/studio/folder</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/folder</guid>
+      <pubDate>Fri, 27 Nov 2026 18:54:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Interactive/Digital — Los Angeles, USA. https://folder.studio</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Patrick Johnson</title>
       <link>https://justadesignlist.com/studio/patrick-johnson</link>
@@ -302,15 +312,6 @@
       <category>Branding</category>
       <category>Illustration</category>
       <category>Packaging</category>
-    </item>
-    <item>
-      <title>Wunder Werkz</title>
-      <link>https://justadesignlist.com/studio/wunder-werkz</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/wunder-werkz</guid>
-      <pubDate>Thu, 24 Sep 2026 08:42:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital — Denver, USA. https://www.iheartwunderwerkz.com/</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,37 @@
     <link>https://justadesignlist.com</link>
     <description>A hand-edited list of design studios and freelances around the world. Curated by Wences Sanz-Alonso, from Madrid.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 07:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 20:51:32 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Heim+Viladrich</title>
+      <link>https://heimviladrich.com</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/heim-viladrich</guid>
+      <pubDate>Fri, 27 Nov 2026 19:00:00 GMT</pubDate>
+      <description>Industrial Design — Fabrègues, France.</description>
+      <category>Industrial Design</category>
+    </item>
+    <item>
+      <title>Folder</title>
+      <link>https://folder.studio</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/folder</guid>
+      <pubDate>Fri, 27 Nov 2026 18:54:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Interactive/Digital — Los Angeles, USA.</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Studio Erimus</title>
+      <link>https://erimus.studio/</link>
+      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-erimus</guid>
+      <pubDate>Fri, 27 Nov 2026 07:43:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Graphic Design · Packaging — Bordeaux, France.</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Studio Klass</title>
       <link>https://studioklass.com</link>
@@ -280,41 +309,6 @@
       <category>Motion</category>
       <category>Packaging</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>STUDIO WAN</title>
-      <link>https://www.studiowan.uk/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/studio-wan</guid>
-      <pubDate>Fri, 13 Nov 2026 09:43:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Packaging — London, England.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Hispánica</title>
-      <link>https://www.hispanica.mx/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/hispanica</guid>
-      <pubDate>Fri, 13 Nov 2026 09:07:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Packaging · Motion · Illustration · Interactive/Digital · Advertising/Campaigns — Mexico City, Mexico.</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Packaging</category>
-      <category>Motion</category>
-      <category>Illustration</category>
-      <category>Interactive/Digital</category>
-      <category>Advertising/Campaigns</category>
-    </item>
-    <item>
-      <title>Office of Joe Diver</title>
-      <link>https://www.officeofjoediver.co/</link>
-      <guid isPermaLink="false">https://justadesignlist.com/studio/office-of-joe-diver</guid>
-      <pubDate>Thu, 12 Nov 2026 08:56:00 GMT</pubDate>
-      <description>Branding · Interactive/Digital · Advertising/Campaigns — London, England.</description>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-      <category>Advertising/Campaigns</category>
     </item>
   </channel>
 </rss>

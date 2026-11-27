@@ -1,12 +1,12 @@
 ---
 title: "Jack McEntee — Branding, Los Angeles, USA · Just a Design List"
-description: "Jack McEntee: branding, graphic design and interactive/digital practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in June 2026."
+description: "Jack McEntee: branding, graphic design and interactive/digital practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in June 2026."
 url: "https://justadesignlist.com/studio/jack-mcentee"
 ---
 
 # Jack McEntee
 
-Jack McEntee: branding, graphic design and interactive/digital practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in June 2026.
+Jack McEntee: branding, graphic design and interactive/digital practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in June 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Advertising/Campaigns
 - **City:** Los Angeles

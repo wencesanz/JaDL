@@ -1,6 +1,6 @@
 ---
 title: "Design studios in North America · Just a Design List"
-description: "348 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline."
+description: "349 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline."
 url: "https://justadesignlist.com/region/north-america"
 ---
 
@@ -10,7 +10,7 @@ Region
 
 # North America
 
-348 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline.
+349 independent design studios and designers based in North America, from the Just a Design List index. Browse by country, city and discipline.
 
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
 - [2 x 4](https://justadesignlist.com/studio/2-x-4) — New York, Beijing, USA, China
@@ -137,6 +137,7 @@ Region
 - [Filter](https://justadesignlist.com/studio/filter) — San Francisco, New York, USA
 - [Firebelly](https://justadesignlist.com/studio/firebelly) — Chicago, USA
 - [Fix Studio](https://justadesignlist.com/studio/fix-studio) — New York, USA
+- [Folder](https://justadesignlist.com/studio/folder) — Los Angeles, USA
 - [Fook](https://justadesignlist.com/studio/fook) — Toronto, Canada
 - [For Office Use Only](https://justadesignlist.com/studio/for-office-use-only) — New York, USA
 - [Forner](https://justadesignlist.com/studio/forner) — Los Angeles, USA
@@ -211,7 +212,6 @@ Region
 - [Matt van Leeuwen](https://justadesignlist.com/studio/matt-van-leeuwen) — New York, USA
 - [Matt Wiley](https://justadesignlist.com/studio/matt-wiley) — New York, USA
 - [Mayda](https://justadesignlist.com/studio/mayda) — New York, USA
-- [Meat](https://justadesignlist.com/studio/meat) — Toronto, Beijing, Canada, China
 
 ---
 

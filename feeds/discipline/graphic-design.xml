@@ -5,8 +5,29 @@
     <link>https://justadesignlist.com/discipline/graphic-design</link>
     <description>New additions to Just a Design List: Graphic Design studios.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:31:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:54:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/graphic-design.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Folder</title>
+      <link>https://justadesignlist.com/studio/folder</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/folder</guid>
+      <pubDate>Fri, 27 Nov 2026 18:54:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Interactive/Digital — Los Angeles, USA. https://folder.studio</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Studio Erimus</title>
+      <link>https://justadesignlist.com/studio/studio-erimus</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-erimus</guid>
+      <pubDate>Fri, 27 Nov 2026 07:43:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Graphic Design · Packaging — Bordeaux, France. https://erimus.studio/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Studio Klass</title>
       <link>https://justadesignlist.com/studio/studio-klass</link>
@@ -307,26 +328,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Typography</category>
-    </item>
-    <item>
-      <title>HOT COTTAGE</title>
-      <link>https://justadesignlist.com/studio/hot-cottage</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/hot-cottage</guid>
-      <pubDate>Tue, 10 Nov 2026 10:49:00 GMT</pubDate>
-      <description>Branding · Graphic Design — Melbourne, Australia. https://www.hotcottage.earth/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Anna Bosch</title>
-      <link>https://justadesignlist.com/studio/anna-bosch</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/anna-bosch</guid>
-      <pubDate>Tue, 10 Nov 2026 10:38:00 GMT</pubDate>
-      <description>Graphic Design · Motion · Interactive/Digital · Packaging — Banyoles, Spain. https://annaboschstudio.com/</description>
-      <category>Graphic Design</category>
-      <category>Motion</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
     </item>
   </channel>
 </rss>

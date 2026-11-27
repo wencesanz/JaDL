@@ -1,12 +1,12 @@
 ---
 title: "Few — Digital Product Agency — Branding, Little Rock, USA · Just a Design List"
-description: "Few — Digital Product Agency: branding, interactive/digital and motion practice based in Little Rock, USA. The only studio from Little Rock, one of 336 from USA on Just a Design List, added in May 2026."
+description: "Few — Digital Product Agency: branding, interactive/digital and motion practice based in Little Rock, USA. The only studio from Little Rock, one of 337 from USA on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/few-digital-product-agency"
 ---
 
 # Few — Digital Product Agency
 
-Few — Digital Product Agency: branding, interactive/digital and motion practice based in Little Rock, USA. The only studio from Little Rock, one of 336 from USA on Just a Design List, added in May 2026.
+Few — Digital Product Agency: branding, interactive/digital and motion practice based in Little Rock, USA. The only studio from Little Rock, one of 337 from USA on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Interactive/Digital, Motion, Illustration, Typography, Packaging
 - **City:** Little Rock

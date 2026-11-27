@@ -1,12 +1,12 @@
 ---
 title: "Practise — Graphic Design, Providence, USA · Just a Design List"
-description: "Practise: graphic design practice based in Providence, USA. The only studio from Providence, one of 336 from USA on Just a Design List, added in June 2023."
+description: "Practise: graphic design practice based in Providence, USA. The only studio from Providence, one of 337 from USA on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/practise"
 ---
 
 # Practise
 
-Practise: graphic design practice based in Providence, USA. The only studio from Providence, one of 336 from USA on Just a Design List, added in June 2023.
+Practise: graphic design practice based in Providence, USA. The only studio from Providence, one of 337 from USA on Just a Design List, added in June 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Providence

@@ -5,8 +5,18 @@
     <link>https://justadesignlist.com/country/usa</link>
     <description>New additions to Just a Design List: design studios in USA.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:54:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/country/usa.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Folder</title>
+      <link>https://justadesignlist.com/studio/folder</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/folder</guid>
+      <pubDate>Fri, 27 Nov 2026 18:54:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Interactive/Digital — Los Angeles, USA. https://folder.studio</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
     <item>
       <title>Patrick Johnson</title>
       <link>https://justadesignlist.com/studio/patrick-johnson</link>
@@ -303,17 +313,6 @@
       <description>Branding · Interactive/Digital — New York, USA. https://thefutureforward.com/</description>
       <category>Branding</category>
       <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Studio NMW</title>
-      <link>https://justadesignlist.com/studio/studio-nmw</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-nmw</guid>
-      <pubDate>Tue, 22 Sep 2026 13:25:00 GMT</pubDate>
-      <description>Graphic Design · Branding · Interactive/Digital · Motion — New York, USA. https://nicolemillerwong.com/</description>
-      <category>Graphic Design</category>
-      <category>Branding</category>
-      <category>Interactive/Digital</category>
-      <category>Motion</category>
     </item>
   </channel>
 </rss>

@@ -8,15 +8,15 @@ Categories
 
 # Disciplines
 
-- [Branding](https://justadesignlist.com/discipline/branding) (1184) — Identity systems, marks, and brand architecture.
-- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (914) — Print, editorial, and graphic practices in the broadest sense.
-- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (733)
-- [Packaging](https://justadesignlist.com/discipline/packaging) (470) — Form, label, and the object that leaves the shelf.
+- [Branding](https://justadesignlist.com/discipline/branding) (1186) — Identity systems, marks, and brand architecture.
+- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (916) — Print, editorial, and graphic practices in the broadest sense.
+- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (735)
+- [Packaging](https://justadesignlist.com/discipline/packaging) (471) — Form, label, and the object that leaves the shelf.
 - [Motion](https://justadesignlist.com/discipline/motion) (232)
 - [Typography](https://justadesignlist.com/discipline/typography) (195) — Type design, custom lettering, and the specimen as a medium.
 - [Advertising/Campaigns](https://justadesignlist.com/discipline/advertising-campaigns) (143)
 - [Illustration](https://justadesignlist.com/discipline/illustration) (115) — Drawing as a discipline, alone or alongside design.
-- [Industrial Design](https://justadesignlist.com/discipline/industrial-design) (14) — Objects, furniture, and the three-dimensional edge of the field.
+- [Industrial Design](https://justadesignlist.com/discipline/industrial-design) (15) — Objects, furniture, and the three-dimensional edge of the field.
 
 ---
 

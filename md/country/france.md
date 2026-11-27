@@ -1,6 +1,6 @@
 ---
 title: "Design studios in France · Just a Design List"
-description: "84 independent design studios and practices based in France. A curated index — browse by city and discipline."
+description: "86 independent design studios and practices based in France. A curated index — browse by city and discipline."
 url: "https://justadesignlist.com/country/france"
 ---
 
@@ -10,9 +10,9 @@ Country
 
 # France
 
-84 independent design studios and practices based in France. A curated index — browse by city and discipline.
+86 independent design studios and practices based in France. A curated index — browse by city and discipline.
 
-By discipline: [Graphic Design studios in France](https://justadesignlist.com/country/france/graphic-design) (57), [Branding design studios in France](https://justadesignlist.com/country/france/branding) (54), [Interactive/Digital design studios in France](https://justadesignlist.com/country/france/interactive-digital) (41), [Packaging design studios in France](https://justadesignlist.com/country/france/packaging) (15), [Typography design studios in France](https://justadesignlist.com/country/france/typography) (14), [Motion design studios in France](https://justadesignlist.com/country/france/motion) (9), [Advertising/Campaigns design studios in France](https://justadesignlist.com/country/france/advertising-campaigns) (9), [Illustration design studios in France](https://justadesignlist.com/country/france/illustration) (6)
+By discipline: [Graphic Design studios in France](https://justadesignlist.com/country/france/graphic-design) (58), [Branding design studios in France](https://justadesignlist.com/country/france/branding) (55), [Interactive/Digital design studios in France](https://justadesignlist.com/country/france/interactive-digital) (42), [Packaging design studios in France](https://justadesignlist.com/country/france/packaging) (16), [Typography design studios in France](https://justadesignlist.com/country/france/typography) (14), [Motion design studios in France](https://justadesignlist.com/country/france/motion) (9), [Advertising/Campaigns design studios in France](https://justadesignlist.com/country/france/advertising-campaigns) (9), [Illustration design studios in France](https://justadesignlist.com/country/france/illustration) (6)
 
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
 - [adaaap](https://justadesignlist.com/studio/adaaap) — Bordeaux, France
@@ -42,6 +42,7 @@ By discipline: [Graphic Design studios in France](https://justadesignlist.com/co
 - [Format](https://justadesignlist.com/studio/format) — Vincennes, France
 - [GeneralPublic](https://justadesignlist.com/studio/generalpublic) — Paris, France
 - [Grace Margetson Studio](https://justadesignlist.com/studio/grace-margetson-studio) — London, Paris, England, France
+- [Heim+Viladrich](https://justadesignlist.com/studio/heim-viladrich) — Fabrègues, France
 - [Horah, Inc.](https://justadesignlist.com/studio/horah-inc) — Paris, France
 - [Hubert Trevilly](https://justadesignlist.com/studio/hubert-trevilly) — Paris, France
 - [Hugo Hoppmann](https://justadesignlist.com/studio/hugo-hoppmann) — Paris, France
@@ -82,6 +83,7 @@ By discipline: [Graphic Design studios in France](https://justadesignlist.com/co
 - [Snøhetta](https://justadesignlist.com/studio/sn-hetta) — Oslo, New York, San Francisco, Paris, Hong Kong, Melbourne, Innsbruck, Shenzhen, Adelaide, Norway, Australia, USA, France, Austria, China
 - [Source.paris](https://justadesignlist.com/studio/source-paris) — Paris, France
 - [Spassky Fischer](https://justadesignlist.com/studio/spassky-fischer) — Paris, France
+- [Studio Erimus](https://justadesignlist.com/studio/studio-erimus) — Bordeaux, France
 - [Studio Fables](https://justadesignlist.com/studio/studio-fables) — Montreuil, France
 - [Studio Furious](https://justadesignlist.com/studio/studio-furious) — Paris, France
 - [Studio Ghazaal Vojdani](https://justadesignlist.com/studio/studio-ghazaal-vojdani) — Paris, France

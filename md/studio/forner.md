@@ -1,12 +1,12 @@
 ---
 title: "Forner — Branding, Los Angeles, USA · Just a Design List"
-description: "Forner: branding and packaging practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023."
+description: "Forner: branding and packaging practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/forner"
 ---
 
 # Forner
 
-Forner: branding and packaging practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023.
+Forner: branding and packaging practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding, Packaging
 - **City:** Los Angeles

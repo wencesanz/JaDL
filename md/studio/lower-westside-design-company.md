@@ -1,12 +1,12 @@
 ---
 title: "Lower Westside Design Company — Branding, Palm Beach Gardens, USA · Just a Design List"
-description: "Lower Westside Design Company: branding and graphic design practice based in Palm Beach Gardens, USA. The only studio from Palm Beach Gardens, one of 336 from USA on Just a Design List, added in May 2026."
+description: "Lower Westside Design Company: branding and graphic design practice based in Palm Beach Gardens, USA. The only studio from Palm Beach Gardens, one of 337 from USA on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/lower-westside-design-company"
 ---
 
 # Lower Westside Design Company
 
-Lower Westside Design Company: branding and graphic design practice based in Palm Beach Gardens, USA. The only studio from Palm Beach Gardens, one of 336 from USA on Just a Design List, added in May 2026.
+Lower Westside Design Company: branding and graphic design practice based in Palm Beach Gardens, USA. The only studio from Palm Beach Gardens, one of 337 from USA on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** Palm Beach Gardens

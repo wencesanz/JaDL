@@ -1,12 +1,12 @@
 ---
 title: "Actual Source — Graphic Design, Provo, USA · Just a Design List"
-description: "Actual Source: graphic design practice based in Provo, USA. The only studio from Provo, one of 336 from USA on Just a Design List, added in May 2023."
+description: "Actual Source: graphic design practice based in Provo, USA. The only studio from Provo, one of 337 from USA on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/actual-source"
 ---
 
 # Actual Source
 
-Actual Source: graphic design practice based in Provo, USA. The only studio from Provo, one of 336 from USA on Just a Design List, added in May 2023.
+Actual Source: graphic design practice based in Provo, USA. The only studio from Provo, one of 337 from USA on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Provo

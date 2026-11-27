@@ -1,12 +1,12 @@
 ---
 title: "Daikoku Design Institute — Branding, Los Angeles, USA · Just a Design List"
-description: "Daikoku Design Institute: branding and graphic design practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in October 2024."
+description: "Daikoku Design Institute: branding and graphic design practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in October 2024."
 url: "https://justadesignlist.com/studio/daikoku-design-institute"
 ---
 
 # Daikoku Design Institute
 
-Daikoku Design Institute: branding and graphic design practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in October 2024.
+Daikoku Design Institute: branding and graphic design practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in October 2024.
 
 - **Discipline:** Branding, Graphic Design
 - **City:** Los Angeles, Tokyo

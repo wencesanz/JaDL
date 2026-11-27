@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in USA · Just a Design List"
-description: "270 independent studios working in branding in USA, from the Just a Design List index."
+description: "271 independent studios working in branding in USA, from the Just a Design List index."
 url: "https://justadesignlist.com/country/usa/branding"
 ---
 
@@ -10,7 +10,7 @@ Country · Branding
 
 # Branding in USA
 
-270 independent studios working in branding in USA, from the Just a Design List index.
+271 independent studios working in branding in USA, from the Just a Design List index.
 
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
@@ -101,6 +101,7 @@ Country · Branding
 - [Firebelly](https://justadesignlist.com/studio/firebelly) — Chicago, USA
 - [firma](https://justadesignlist.com/studio/firma) — Barcelona, Miami, Spain, USA
 - [Fix Studio](https://justadesignlist.com/studio/fix-studio) — New York, USA
+- [Folder](https://justadesignlist.com/studio/folder) — Los Angeles, USA
 - [For Office Use Only](https://justadesignlist.com/studio/for-office-use-only) — New York, USA
 - [For The People](https://justadesignlist.com/studio/for-the-people) — Sydney, Los Angeles, Queenstown, Fremantle, Australia, USA, New Zealand
 - [Forner](https://justadesignlist.com/studio/forner) — Los Angeles, USA

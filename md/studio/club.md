@@ -1,12 +1,12 @@
 ---
 title: "CLUB — Branding, Los Angeles, USA · Just a Design List"
-description: "CLUB: branding, graphic design and typography practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in November 2024."
+description: "CLUB: branding, graphic design and typography practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in November 2024."
 url: "https://justadesignlist.com/studio/club"
 ---
 
 # CLUB
 
-CLUB: branding, graphic design and typography practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in November 2024.
+CLUB: branding, graphic design and typography practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in November 2024.
 
 - **Discipline:** Branding, Graphic Design, Typography, Packaging
 - **City:** Los Angeles

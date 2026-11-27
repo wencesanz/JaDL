@@ -1,12 +1,12 @@
 ---
 title: "Mouthwash Studio — Branding, Los Angeles, USA · Just a Design List"
-description: "Mouthwash Studio: branding, motion and interactive/digital practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in July 2023."
+description: "Mouthwash Studio: branding, motion and interactive/digital practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in July 2023."
 url: "https://justadesignlist.com/studio/mouthwash-studio"
 ---
 
 # Mouthwash Studio
 
-Mouthwash Studio: branding, motion and interactive/digital practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in July 2023.
+Mouthwash Studio: branding, motion and interactive/digital practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in July 2023.
 
 - **Discipline:** Branding, Motion, Interactive/Digital
 - **City:** Los Angeles

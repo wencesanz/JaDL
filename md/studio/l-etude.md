@@ -1,12 +1,12 @@
 ---
 title: "L’Étude — Branding, Los Angeles, USA · Just a Design List"
-description: "L’Étude: branding, graphic design and interactive/digital practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2026."
+description: "L’Étude: branding, graphic design and interactive/digital practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2026."
 url: "https://justadesignlist.com/studio/l-etude"
 ---
 
 # L’Étude
 
-L’Étude: branding, graphic design and interactive/digital practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2026.
+L’Étude: branding, graphic design and interactive/digital practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Motion
 - **City:** Los Angeles

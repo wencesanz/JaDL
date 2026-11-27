@@ -1,12 +1,12 @@
 ---
 title: "Studio Half Decent — Branding, Los Angeles, USA · Just a Design List"
-description: "Studio Half Decent: branding and packaging practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023."
+description: "Studio Half Decent: branding and packaging practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/studio-half-decent"
 ---
 
 # Studio Half Decent
 
-Studio Half Decent: branding and packaging practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023.
+Studio Half Decent: branding and packaging practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2023.
 
 - **Discipline:** Branding, Packaging
 - **City:** Los Angeles

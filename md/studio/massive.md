@@ -1,12 +1,12 @@
 ---
 title: "Massive — Branding, Los Angeles, USA · Just a Design List"
-description: "Massive: branding, advertising/campaigns and motion practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in November 2026."
+description: "Massive: branding, advertising/campaigns and motion practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in November 2026."
 url: "https://justadesignlist.com/studio/massive"
 ---
 
 # Massive
 
-Massive: branding, advertising/campaigns and motion practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in November 2026.
+Massive: branding, advertising/campaigns and motion practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in November 2026.
 
 - **Discipline:** Branding, Advertising/Campaigns, Motion
 - **City:** Los Angeles

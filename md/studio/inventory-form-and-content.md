@@ -1,12 +1,12 @@
 ---
 title: "Inventory Form & Content — Branding, Los Angeles, USA · Just a Design List"
-description: "Inventory Form & Content: branding, graphic design and motion practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in April 2025."
+description: "Inventory Form & Content: branding, graphic design and motion practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in April 2025."
 url: "https://justadesignlist.com/studio/inventory-form-and-content"
 ---
 
 # Inventory Form & Content
 
-Inventory Form & Content: branding, graphic design and motion practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in April 2025.
+Inventory Form & Content: branding, graphic design and motion practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in April 2025.
 
 - **Discipline:** Branding, Graphic Design, Motion, Interactive/Digital
 - **City:** Los Angeles

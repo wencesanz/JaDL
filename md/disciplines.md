@@ -10,15 +10,15 @@ Browse
 
 9 disciplines represented across the index.
 
-- [Branding](https://justadesignlist.com/discipline/branding) (1184)
-- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (914)
-- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (733)
-- [Packaging](https://justadesignlist.com/discipline/packaging) (470)
+- [Branding](https://justadesignlist.com/discipline/branding) (1186)
+- [Graphic Design](https://justadesignlist.com/discipline/graphic-design) (916)
+- [Interactive/Digital](https://justadesignlist.com/discipline/interactive-digital) (735)
+- [Packaging](https://justadesignlist.com/discipline/packaging) (471)
 - [Motion](https://justadesignlist.com/discipline/motion) (232)
 - [Typography](https://justadesignlist.com/discipline/typography) (195)
 - [Advertising/Campaigns](https://justadesignlist.com/discipline/advertising-campaigns) (143)
 - [Illustration](https://justadesignlist.com/discipline/illustration) (115)
-- [Industrial Design](https://justadesignlist.com/discipline/industrial-design) (14)
+- [Industrial Design](https://justadesignlist.com/discipline/industrial-design) (15)
 
 ---
 

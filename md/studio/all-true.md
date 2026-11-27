@@ -1,12 +1,12 @@
 ---
 title: "All True — Branding, Springfield, USA · Just a Design List"
-description: "All True: branding, graphic design and interactive/digital practice based in Springfield, USA. The only studio from Springfield, one of 336 from USA on Just a Design List, added in August 2026."
+description: "All True: branding, graphic design and interactive/digital practice based in Springfield, USA. The only studio from Springfield, one of 337 from USA on Just a Design List, added in August 2026."
 url: "https://justadesignlist.com/studio/all-true"
 ---
 
 # All True
 
-All True: branding, graphic design and interactive/digital practice based in Springfield, USA. The only studio from Springfield, one of 336 from USA on Just a Design List, added in August 2026.
+All True: branding, graphic design and interactive/digital practice based in Springfield, USA. The only studio from Springfield, one of 337 from USA on Just a Design List, added in August 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital
 - **City:** Springfield

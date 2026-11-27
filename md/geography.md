@@ -1,31 +1,31 @@
 ---
 title: "Geography · Just a Design List"
-description: "Where the studios are: 176 countries and 313 cities, on a world map and by region."
+description: "Where the studios are: 176 countries and 314 cities, on a world map and by region."
 url: "https://justadesignlist.com/geography"
 ---
 
 Geography
 
-# Studios across 64 countries and 313 cities
+# Studios across 64 countries and 314 cities
 
 ## Regions
 
 - [Iberia](https://justadesignlist.com/region/iberia) (204)
 - [UK & Ireland](https://justadesignlist.com/region/uk-and-ireland) (244)
-- [North America](https://justadesignlist.com/region/north-america) (348)
+- [North America](https://justadesignlist.com/region/north-america) (349)
 - [Nordics](https://justadesignlist.com/region/nordics) (110)
 - [Oceania](https://justadesignlist.com/region/oceania) (95)
-- [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (389)
+- [Rest of Europe](https://justadesignlist.com/region/rest-of-europe) (391)
 - [Rest of the world](https://justadesignlist.com/region/rest-of-the-world) (96)
 
 ## Countries
 
-- [USA](https://justadesignlist.com/country/usa) (336)
+- [USA](https://justadesignlist.com/country/usa) (337)
 - [England](https://justadesignlist.com/country/england) (247)
 - [Spain](https://justadesignlist.com/country/spain) (202)
 - [Germany](https://justadesignlist.com/country/germany) (101)
 - [Australia](https://justadesignlist.com/country/australia) (93)
-- [France](https://justadesignlist.com/country/france) (84)
+- [France](https://justadesignlist.com/country/france) (86)
 - [The Netherlands](https://justadesignlist.com/country/the-netherlands) (62)
 - [Switzerland](https://justadesignlist.com/country/switzerland) (59)
 - [Canada](https://justadesignlist.com/country/canada) (58)
@@ -91,7 +91,7 @@ Geography
 - [New York](https://justadesignlist.com/city/new-york) (172)
 - [Barcelona](https://justadesignlist.com/city/barcelona) (95)
 - [Paris](https://justadesignlist.com/city/paris) (73)
-- [Los Angeles](https://justadesignlist.com/city/los-angeles) (56)
+- [Los Angeles](https://justadesignlist.com/city/los-angeles) (57)
 - [Madrid](https://justadesignlist.com/city/madrid) (52)
 - [Melbourne](https://justadesignlist.com/city/melbourne) (52)
 - [Berlin](https://justadesignlist.com/city/berlin) (46)

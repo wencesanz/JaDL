@@ -5,8 +5,27 @@
     <link>https://justadesignlist.com/country/france</link>
     <description>New additions to Just a Design List: design studios in France.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:28:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:00:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/country/france.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Heim+Viladrich</title>
+      <link>https://justadesignlist.com/studio/heim-viladrich</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/heim-viladrich</guid>
+      <pubDate>Fri, 27 Nov 2026 19:00:00 GMT</pubDate>
+      <description>Industrial Design — Fabrègues, France. https://heimviladrich.com</description>
+      <category>Industrial Design</category>
+    </item>
+    <item>
+      <title>Studio Erimus</title>
+      <link>https://justadesignlist.com/studio/studio-erimus</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-erimus</guid>
+      <pubDate>Fri, 27 Nov 2026 07:43:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Graphic Design · Packaging — Bordeaux, France. https://erimus.studio/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>adaaap</title>
       <link>https://justadesignlist.com/studio/adaaap</link>
@@ -285,30 +304,6 @@
       <pubDate>Wed, 15 Jul 2026 08:13:00 GMT</pubDate>
       <description>Graphic Design — Paris, France. https://www.generalpublic.fr/</description>
       <category>Graphic Design</category>
-    </item>
-    <item>
-      <title>Format</title>
-      <link>https://justadesignlist.com/studio/format</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/format</guid>
-      <pubDate>Wed, 15 Jul 2026 08:11:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Interactive/Digital · Packaging — Vincennes, France. https://www.studioformat.fr/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>Walk A Thought</title>
-      <link>https://justadesignlist.com/studio/walk-a-thought</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/walk-a-thought</guid>
-      <pubDate>Tue, 14 Jul 2026 08:16:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Illustration · Interactive/Digital · Packaging · Advertising/Campaigns — Paris, France. https://walkathought.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Illustration</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-      <category>Advertising/Campaigns</category>
     </item>
   </channel>
 </rss>

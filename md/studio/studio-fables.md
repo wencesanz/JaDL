@@ -1,12 +1,12 @@
 ---
 title: "Studio Fables — Interactive/Digital, Montreuil, France · Just a Design List"
-description: "Studio Fables: interactive/digital and graphic design practice based in Montreuil, France. The only studio from Montreuil, one of 84 from France on Just a Design List, added in May 2023."
+description: "Studio Fables: interactive/digital and graphic design practice based in Montreuil, France. The only studio from Montreuil, one of 86 from France on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/studio-fables"
 ---
 
 # Studio Fables
 
-Studio Fables: interactive/digital and graphic design practice based in Montreuil, France. The only studio from Montreuil, one of 84 from France on Just a Design List, added in May 2023.
+Studio Fables: interactive/digital and graphic design practice based in Montreuil, France. The only studio from Montreuil, one of 86 from France on Just a Design List, added in May 2023.
 
 - **Discipline:** Interactive/Digital, Graphic Design
 - **City:** Montreuil

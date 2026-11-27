@@ -5,8 +5,29 @@
     <link>https://justadesignlist.com/discipline/interactive-digital</link>
     <description>New additions to Just a Design List: Interactive/Digital studios.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:54:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/interactive-digital.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Folder</title>
+      <link>https://justadesignlist.com/studio/folder</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/folder</guid>
+      <pubDate>Fri, 27 Nov 2026 18:54:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Interactive/Digital — Los Angeles, USA. https://folder.studio</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Studio Erimus</title>
+      <link>https://justadesignlist.com/studio/studio-erimus</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-erimus</guid>
+      <pubDate>Fri, 27 Nov 2026 07:43:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Graphic Design · Packaging — Bordeaux, France. https://erimus.studio/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Patrick Johnson</title>
       <link>https://justadesignlist.com/studio/patrick-johnson</link>
@@ -315,29 +336,6 @@
       <category>Graphic Design</category>
       <category>Packaging</category>
       <category>Typography</category>
-      <category>Interactive/Digital</category>
-    </item>
-    <item>
-      <title>Studio, Lisa Fessl</title>
-      <link>https://justadesignlist.com/studio/studio-lisa-fessl</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-lisa-fessl</guid>
-      <pubDate>Tue, 03 Nov 2026 17:45:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Advertising/Campaigns · Interactive/Digital · Packaging — Berlin, Germany. https://lisamfessl.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Advertising/Campaigns</category>
-      <category>Interactive/Digital</category>
-      <category>Packaging</category>
-    </item>
-    <item>
-      <title>ESTUDIO CRU</title>
-      <link>https://justadesignlist.com/studio/estudio-cru</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/estudio-cru</guid>
-      <pubDate>Tue, 03 Nov 2026 17:43:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Motion · Interactive/Digital — Rio de Janeiro, Brazil. https://www.estudiocru.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Motion</category>
       <category>Interactive/Digital</category>
     </item>
   </channel>

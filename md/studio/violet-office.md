@@ -1,12 +1,12 @@
 ---
 title: "Violet Office — Typography, Los Angeles, USA · Just a Design List"
-description: "Violet Office: typography, motion and branding practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023."
+description: "Violet Office: typography, motion and branding practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/violet-office"
 ---
 
 # Violet Office
 
-Violet Office: typography, motion and branding practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023.
+Violet Office: typography, motion and branding practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2023.
 
 - **Discipline:** Typography, Motion, Branding, Graphic Design, Interactive/Digital
 - **City:** Los Angeles, New York

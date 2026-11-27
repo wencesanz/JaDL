@@ -1,12 +1,12 @@
 ---
 title: "Roger Schami — Graphic Design, Los Angeles, USA · Just a Design List"
-description: "Roger Schami: graphic design practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023."
+description: "Roger Schami: graphic design practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/roger-schami"
 ---
 
 # Roger Schami
 
-Roger Schami: graphic design practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023.
+Roger Schami: graphic design practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design
 - **City:** Los Angeles

@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in Los Angeles · Just a Design List"
-description: "22 independent studios working in interactive/digital in Los Angeles, from the Just a Design List index."
+description: "23 independent studios working in interactive/digital in Los Angeles, from the Just a Design List index."
 url: "https://justadesignlist.com/city/los-angeles/interactive-digital"
 ---
 
@@ -10,12 +10,13 @@ City · Interactive/Digital
 
 # Interactive/Digital in Los Angeles
 
-22 independent studios working in interactive/digital in Los Angeles, from the Just a Design List index.
+23 independent studios working in interactive/digital in Los Angeles, from the Just a Design List index.
 
 - [Andre do Amaral](https://justadesignlist.com/studio/andre-do-amaral) — Los Angeles, USA
 - [CASE Agency](https://justadesignlist.com/studio/case-agency) — New York, Los Angeles, USA
 - [Cul De Sac Studio](https://justadesignlist.com/studio/cul-de-sac-studio) — Los Angeles, USA
 - [DesignDept](https://justadesignlist.com/studio/designdept) — Los Angeles, USA
+- [Folder](https://justadesignlist.com/studio/folder) — Los Angeles, USA
 - [GrandArmy](https://justadesignlist.com/studio/grandarmy) — New York, Los Angeles, USA
 - [Idol](https://justadesignlist.com/studio/idol) — Los Angeles, San Francisco, USA
 - [Instrument](https://justadesignlist.com/studio/instrument) — Los Angeles, New York, Portland, USA

@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in Los Angeles · Just a Design List"
-description: "44 independent studios working in branding in Los Angeles, from the Just a Design List index."
+description: "45 independent studios working in branding in Los Angeles, from the Just a Design List index."
 url: "https://justadesignlist.com/city/los-angeles/branding"
 ---
 
@@ -10,7 +10,7 @@ City · Branding
 
 # Branding in Los Angeles
 
-44 independent studios working in branding in Los Angeles, from the Just a Design List index.
+45 independent studios working in branding in Los Angeles, from the Just a Design List index.
 
 - [1stAveDesign](https://justadesignlist.com/studio/1stavedesign) — Buenos Aires, New York, London, Los Angeles, Argentina, USA, England
 - [Applied arts](https://justadesignlist.com/studio/applied-arts) — Stevensville, New York, Chicago, Los Angeles, USA
@@ -23,6 +23,7 @@ City · Branding
 - [Daikoku Design Institute](https://justadesignlist.com/studio/daikoku-design-institute) — Los Angeles, Tokyo, USA, Japan
 - [DesignDept](https://justadesignlist.com/studio/designdept) — Los Angeles, USA
 - [DoThings](https://justadesignlist.com/studio/dothings) — New York, Los Angeles, Paris, USA, France
+- [Folder](https://justadesignlist.com/studio/folder) — Los Angeles, USA
 - [For The People](https://justadesignlist.com/studio/for-the-people) — Sydney, Los Angeles, Queenstown, Fremantle, Australia, USA, New Zealand
 - [Forner](https://justadesignlist.com/studio/forner) — Los Angeles, USA
 - [FutureDeluxe](https://justadesignlist.com/studio/futuredeluxe) — London, Los Angeles, New York, Sydney, England, USA, Australia

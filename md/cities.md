@@ -8,13 +8,13 @@ Browse
 
 # Cities
 
-313 cities represented across the index.
+314 cities represented across the index.
 
 - [London](https://justadesignlist.com/city/london) (199)
 - [New York](https://justadesignlist.com/city/new-york) (172)
 - [Barcelona](https://justadesignlist.com/city/barcelona) (95)
 - [Paris](https://justadesignlist.com/city/paris) (73)
-- [Los Angeles](https://justadesignlist.com/city/los-angeles) (56)
+- [Los Angeles](https://justadesignlist.com/city/los-angeles) (57)
 - [Madrid](https://justadesignlist.com/city/madrid) (52)
 - [Melbourne](https://justadesignlist.com/city/melbourne) (52)
 - [Berlin](https://justadesignlist.com/city/berlin) (46)
@@ -73,6 +73,7 @@ Browse
 - [Aarhus](https://justadesignlist.com/city/aarhus) (4)
 - [Adelaide](https://justadesignlist.com/city/adelaide) (4)
 - [Alicante](https://justadesignlist.com/city/alicante) (4)
+- [Bordeaux](https://justadesignlist.com/city/bordeaux) (4)
 - [Bucharest](https://justadesignlist.com/city/bucharest) (4)
 - [Düsseldorf](https://justadesignlist.com/city/dusseldorf) (4)
 - [Kyiv](https://justadesignlist.com/city/kyiv) (4)
@@ -87,7 +88,6 @@ Browse
 - [Beijing](https://justadesignlist.com/city/beijing) (3)
 - [Belfast](https://justadesignlist.com/city/belfast) (3)
 - [Bern](https://justadesignlist.com/city/bern) (3)
-- [Bordeaux](https://justadesignlist.com/city/bordeaux) (3)
 - [Brescia](https://justadesignlist.com/city/brescia) (3)
 - [Brisbane](https://justadesignlist.com/city/brisbane) (3)
 - [Denver](https://justadesignlist.com/city/denver) (3)
@@ -201,6 +201,7 @@ Browse
 - [Cupertino](https://justadesignlist.com/city/cupertino) (1)
 - [Dallas](https://justadesignlist.com/city/dallas) (1)
 - [Dortmund](https://justadesignlist.com/city/dortmund) (1)
+- [Fabrègues](https://justadesignlist.com/city/fabregues) (1)
 - [Falmouth](https://justadesignlist.com/city/falmouth) (1)
 - [Fremantle](https://justadesignlist.com/city/fremantle) (1)
 - [Galway](https://justadesignlist.com/city/galway) (1)

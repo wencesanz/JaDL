@@ -1,6 +1,6 @@
 ---
 title: "Branding design studios in France · Just a Design List"
-description: "54 independent studios working in branding in France, from the Just a Design List index."
+description: "55 independent studios working in branding in France, from the Just a Design List index."
 url: "https://justadesignlist.com/country/france/branding"
 ---
 
@@ -10,7 +10,7 @@ Country · Branding
 
 # Branding in France
 
-54 independent studios working in branding in France, from the Just a Design List index.
+55 independent studios working in branding in France, from the Just a Design List index.
 
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
 - [adaaap](https://justadesignlist.com/studio/adaaap) — Bordeaux, France
@@ -57,6 +57,7 @@ Country · Branding
 - [Silence](https://justadesignlist.com/studio/silence) — Grenoble, France
 - [Snøhetta](https://justadesignlist.com/studio/sn-hetta) — Oslo, New York, San Francisco, Paris, Hong Kong, Melbourne, Innsbruck, Shenzhen, Adelaide, Norway, Australia, USA, France, Austria, China
 - [Source.paris](https://justadesignlist.com/studio/source-paris) — Paris, France
+- [Studio Erimus](https://justadesignlist.com/studio/studio-erimus) — Bordeaux, France
 - [Studio Furious](https://justadesignlist.com/studio/studio-furious) — Paris, France
 - [Studio Indice](https://justadesignlist.com/studio/studio-indice) — Paris, France
 - [Studio Jarvis](https://justadesignlist.com/studio/studio-jarvis) — Berlin, Paris, Germany, France

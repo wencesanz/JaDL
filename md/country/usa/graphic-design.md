@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in USA · Just a Design List"
-description: "180 independent studios working in graphic design in USA, from the Just a Design List index."
+description: "181 independent studios working in graphic design in USA, from the Just a Design List index."
 url: "https://justadesignlist.com/country/usa/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ Country · Graphic Design
 
 # Graphic Design in USA
 
-180 independent studios working in graphic design in USA, from the Just a Design List index.
+181 independent studios working in graphic design in USA, from the Just a Design List index.
 
 - [&Walsh](https://justadesignlist.com/studio/andwalsh) — New York, USA
 - [7D8](https://justadesignlist.com/studio/7d8) — Salt Lake City, USA
@@ -72,6 +72,7 @@ Country · Graphic Design
 - [FAY](https://justadesignlist.com/studio/fay) — New York, USA
 - [Feel For](https://justadesignlist.com/studio/feel-for) — San Diego, USA
 - [Fix Studio](https://justadesignlist.com/studio/fix-studio) — New York, USA
+- [Folder](https://justadesignlist.com/studio/folder) — Los Angeles, USA
 - [For Office Use Only](https://justadesignlist.com/studio/for-office-use-only) — New York, USA
 - [Gabe Ferreira](https://justadesignlist.com/studio/gabe-ferreira) — San Francisco, USA
 - [Garrett Elizabeth Office](https://justadesignlist.com/studio/garrett-elizabeth-office) — New York, USA

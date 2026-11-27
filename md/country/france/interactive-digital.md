@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in France · Just a Design List"
-description: "41 independent studios working in interactive/digital in France, from the Just a Design List index."
+description: "42 independent studios working in interactive/digital in France, from the Just a Design List index."
 url: "https://justadesignlist.com/country/france/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ Country · Interactive/Digital
 
 # Interactive/Digital in France
 
-41 independent studios working in interactive/digital in France, from the Just a Design List index.
+42 independent studios working in interactive/digital in France, from the Just a Design List index.
 
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
 - [adaaap](https://justadesignlist.com/studio/adaaap) — Bordeaux, France
@@ -45,6 +45,7 @@ Country · Interactive/Digital
 - [Silence](https://justadesignlist.com/studio/silence) — Grenoble, France
 - [Snøhetta](https://justadesignlist.com/studio/sn-hetta) — Oslo, New York, San Francisco, Paris, Hong Kong, Melbourne, Innsbruck, Shenzhen, Adelaide, Norway, Australia, USA, France, Austria, China
 - [Source.paris](https://justadesignlist.com/studio/source-paris) — Paris, France
+- [Studio Erimus](https://justadesignlist.com/studio/studio-erimus) — Bordeaux, France
 - [Studio Fables](https://justadesignlist.com/studio/studio-fables) — Montreuil, France
 - [Studio Indice](https://justadesignlist.com/studio/studio-indice) — Paris, France
 - [Studio Jarvis](https://justadesignlist.com/studio/studio-jarvis) — Berlin, Paris, Germany, France

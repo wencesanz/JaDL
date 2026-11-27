@@ -1,12 +1,12 @@
 ---
 title: "Object-Matter — Branding, Los Angeles, USA · Just a Design List"
-description: "Object-Matter: branding, graphic design and illustration practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in October 2026."
+description: "Object-Matter: branding, graphic design and illustration practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/object-matter"
 ---
 
 # Object-Matter
 
-Object-Matter: branding, graphic design and illustration practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in October 2026.
+Object-Matter: branding, graphic design and illustration practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Illustration, Packaging, Interactive/Digital, Motion, Advertising/Campaigns
 - **City:** Los Angeles

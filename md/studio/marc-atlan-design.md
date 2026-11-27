@@ -1,12 +1,12 @@
 ---
 title: "Marc Atlan Design — Branding, Los Angeles, USA · Just a Design List"
-description: "Marc Atlan Design: branding, graphic design and advertising/campaigns practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in October 2026."
+description: "Marc Atlan Design: branding, graphic design and advertising/campaigns practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in October 2026."
 url: "https://justadesignlist.com/studio/marc-atlan-design"
 ---
 
 # Marc Atlan Design
 
-Marc Atlan Design: branding, graphic design and advertising/campaigns practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in October 2026.
+Marc Atlan Design: branding, graphic design and advertising/campaigns practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in October 2026.
 
 - **Discipline:** Branding, Graphic Design, Advertising/Campaigns, Packaging
 - **City:** Los Angeles

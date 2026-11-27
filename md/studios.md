@@ -1,12 +1,12 @@
 ---
 title: "All studios · Just a Design List"
-description: "Browse the full index of 1487 design studios and independent designers, A to Z."
+description: "Browse the full index of 1490 design studios and independent designers, A to Z."
 url: "https://justadesignlist.com/studios"
 ---
 
 The List
 
-# All 1487 studios and designers
+# All 1490 studios and designers
 
 - [.Oddity Studio](https://justadesignlist.com/studio/oddity-studio) — Hong Kong, China · Branding, Motion, Interactive/Digital, Typography, Packaging
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Slovenia · Paris, France · Branding, Interactive/Digital, Packaging, Motion
@@ -486,6 +486,7 @@ The List
 - [FLUORO®](https://justadesignlist.com/studio/fluoro) — London, England · Branding, Advertising/Campaigns
 - [Fol](https://justadesignlist.com/studio/fol) — Istanbul, Turkey · Branding, Graphic Design, Interactive/Digital, Motion
 - [Folch](https://justadesignlist.com/studio/folch) — Barcelona, Madrid, Spain · Graphic Design, Branding, Motion, Typography, Packaging
+- [Folder](https://justadesignlist.com/studio/folder) — Los Angeles, USA · Graphic Design, Branding, Interactive/Digital
 - [Fontwerk](https://justadesignlist.com/studio/fontwerk) — Berlin, Germany · Typography
 - [Fook](https://justadesignlist.com/studio/fook) — Toronto, Canada · Branding, Packaging
 - [For brands](https://justadesignlist.com/studio/for-brands) — Poznan, Poland · Genève, Switzerland · Branding
@@ -573,6 +574,7 @@ The List
 - [Hayley Lim](https://justadesignlist.com/studio/hayley-lim) — Montreal, Canada · Graphic Design, Illustration
 - [HDU²³ Lab](https://justadesignlist.com/studio/hdu23-lab) — Wuxi, China · Branding, Packaging
 - [Heart](https://justadesignlist.com/studio/heart) — Auckland, New Zealand · Branding, Packaging, Interactive/Digital
+- [Heim+Viladrich](https://justadesignlist.com/studio/heim-viladrich) — Fabrègues, France · Industrial Design
 - [Hello Comrade](https://justadesignlist.com/studio/hello-comrade) — Amsterdam, The Netherlands · Branding, Interactive/Digital, Packaging
 - [Hello Monday](https://justadesignlist.com/studio/hello-monday) — New York, USA · Copenhagen, Aarhus, Denmark · Amsterdam, The Netherlands · Branding
 - [HelloMe](https://justadesignlist.com/studio/hellome) — Berlin, Germany · Graphic Design
@@ -1256,6 +1258,7 @@ The List
 - [Studio Dumbar](https://justadesignlist.com/studio/studio-dumbar) — Rotterdam, The Netherlands · Motion
 - [Studio Elana Schlenker](https://justadesignlist.com/studio/studio-elana-schlenker) — New York, USA · Graphic Design
 - [Studio Eräpuro](https://justadesignlist.com/studio/studio-erapuro) — Helsinki, Finland · Branding, Graphic Design, Packaging
+- [Studio Erimus](https://justadesignlist.com/studio/studio-erimus) — Bordeaux, France · Branding, Interactive/Digital, Graphic Design, Packaging
 - [Studio Fables](https://justadesignlist.com/studio/studio-fables) — Montreuil, France · Interactive/Digital, Graphic Design
 - [Studio FAX](https://justadesignlist.com/studio/studio-fax) — London, England · Branding, Graphic Design, Interactive/Digital, Typography
 - [Studio Feed](https://justadesignlist.com/studio/studio-feed) — Montreal, Canada · Branding, Typography

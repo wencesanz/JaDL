@@ -5,8 +5,29 @@
     <link>https://justadesignlist.com/discipline/branding</link>
     <description>New additions to Just a Design List: Branding studios.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:54:00 GMT</lastBuildDate>
     <atom:link href="https://justadesignlist.com/feeds/discipline/branding.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Folder</title>
+      <link>https://justadesignlist.com/studio/folder</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/folder</guid>
+      <pubDate>Fri, 27 Nov 2026 18:54:00 GMT</pubDate>
+      <description>Graphic Design · Branding · Interactive/Digital — Los Angeles, USA. https://folder.studio</description>
+      <category>Graphic Design</category>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+    </item>
+    <item>
+      <title>Studio Erimus</title>
+      <link>https://justadesignlist.com/studio/studio-erimus</link>
+      <guid isPermaLink="true">https://justadesignlist.com/studio/studio-erimus</guid>
+      <pubDate>Fri, 27 Nov 2026 07:43:00 GMT</pubDate>
+      <description>Branding · Interactive/Digital · Graphic Design · Packaging — Bordeaux, France. https://erimus.studio/</description>
+      <category>Branding</category>
+      <category>Interactive/Digital</category>
+      <category>Graphic Design</category>
+      <category>Packaging</category>
+    </item>
     <item>
       <title>Patrick Johnson</title>
       <link>https://justadesignlist.com/studio/patrick-johnson</link>
@@ -309,26 +330,6 @@
       <category>Branding</category>
       <category>Graphic Design</category>
       <category>Illustration</category>
-    </item>
-    <item>
-      <title>Convicts</title>
-      <link>https://justadesignlist.com/studio/convicts</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/convicts</guid>
-      <pubDate>Wed, 11 Nov 2026 10:24:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Motion — New York, USA. https://convicts.nyc/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Motion</category>
-    </item>
-    <item>
-      <title>Christopher A. Ritter</title>
-      <link>https://justadesignlist.com/studio/christopher-a-ritter</link>
-      <guid isPermaLink="true">https://justadesignlist.com/studio/christopher-a-ritter</guid>
-      <pubDate>Wed, 11 Nov 2026 10:20:00 GMT</pubDate>
-      <description>Branding · Graphic Design · Typography — Covington, USA. https://christopheraritter.com/</description>
-      <category>Branding</category>
-      <category>Graphic Design</category>
-      <category>Typography</category>
     </item>
   </channel>
 </rss>

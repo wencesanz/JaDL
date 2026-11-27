@@ -1,12 +1,12 @@
 ---
 title: "Silence — Branding, Grenoble, France · Just a Design List"
-description: "Silence: branding, graphic design and interactive/digital practice based in Grenoble, France. The only studio from Grenoble, one of 84 from France on Just a Design List, added in September 2026."
+description: "Silence: branding, graphic design and interactive/digital practice based in Grenoble, France. The only studio from Grenoble, one of 86 from France on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/silence"
 ---
 
 # Silence
 
-Silence: branding, graphic design and interactive/digital practice based in Grenoble, France. The only studio from Grenoble, one of 84 from France on Just a Design List, added in September 2026.
+Silence: branding, graphic design and interactive/digital practice based in Grenoble, France. The only studio from Grenoble, one of 86 from France on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Graphic Design, Interactive/Digital, Packaging
 - **City:** Grenoble

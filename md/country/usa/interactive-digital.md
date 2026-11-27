@@ -1,6 +1,6 @@
 ---
 title: "Interactive/Digital design studios in USA · Just a Design List"
-description: "159 independent studios working in interactive/digital in USA, from the Just a Design List index."
+description: "160 independent studios working in interactive/digital in USA, from the Just a Design List index."
 url: "https://justadesignlist.com/country/usa/interactive-digital"
 ---
 
@@ -10,7 +10,7 @@ Country · Interactive/Digital
 
 # Interactive/Digital in USA
 
-159 independent studios working in interactive/digital in USA, from the Just a Design List index.
+160 independent studios working in interactive/digital in USA, from the Just a Design List index.
 
 - [Adam Ho, I.S.P.](https://justadesignlist.com/studio/adam-ho-i-s-p) — New York, USA
 - [All True](https://justadesignlist.com/studio/all-true) — Springfield, USA
@@ -58,6 +58,7 @@ Country · Interactive/Digital
 - [Fieldwork](https://justadesignlist.com/studio/fieldwork) — Atlanta, London, USA, England
 - [Filter](https://justadesignlist.com/studio/filter) — San Francisco, New York, USA
 - [Fix Studio](https://justadesignlist.com/studio/fix-studio) — New York, USA
+- [Folder](https://justadesignlist.com/studio/folder) — Los Angeles, USA
 - [For Office Use Only](https://justadesignlist.com/studio/for-office-use-only) — New York, USA
 - [foster](https://justadesignlist.com/studio/foster) — Chicago, USA
 - [Fuzzco](https://justadesignlist.com/studio/fuzzco) — Charleston, USA

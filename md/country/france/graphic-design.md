@@ -1,6 +1,6 @@
 ---
 title: "Graphic Design studios in France · Just a Design List"
-description: "57 independent studios working in graphic design in France, from the Just a Design List index."
+description: "58 independent studios working in graphic design in France, from the Just a Design List index."
 url: "https://justadesignlist.com/country/france/graphic-design"
 ---
 
@@ -10,7 +10,7 @@ Country · Graphic Design
 
 # Graphic Design in France
 
-57 independent studios working in graphic design in France, from the Just a Design List index.
+58 independent studios working in graphic design in France, from the Just a Design List index.
 
 - [adaaap](https://justadesignlist.com/studio/adaaap) — Bordeaux, France
 - [Akatre](https://justadesignlist.com/studio/akatre) — Paris, France
@@ -56,6 +56,7 @@ Country · Graphic Design
 - [Saint-Lazare](https://justadesignlist.com/studio/saint-lazare) — Paris, New York, France, USA
 - [Silence](https://justadesignlist.com/studio/silence) — Grenoble, France
 - [Spassky Fischer](https://justadesignlist.com/studio/spassky-fischer) — Paris, France
+- [Studio Erimus](https://justadesignlist.com/studio/studio-erimus) — Bordeaux, France
 - [Studio Fables](https://justadesignlist.com/studio/studio-fables) — Montreuil, France
 - [Studio Ghazaal Vojdani](https://justadesignlist.com/studio/studio-ghazaal-vojdani) — Paris, France
 - [Studio Indice](https://justadesignlist.com/studio/studio-indice) — Paris, France

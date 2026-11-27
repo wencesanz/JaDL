@@ -1,12 +1,12 @@
 ---
 title: "REUNION — Branding, Los Angeles, USA · Just a Design List"
-description: "REUNION: branding and packaging practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in September 2026."
+description: "REUNION: branding and packaging practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in September 2026."
 url: "https://justadesignlist.com/studio/reunion"
 ---
 
 # REUNION
 
-REUNION: branding and packaging practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in September 2026.
+REUNION: branding and packaging practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in September 2026.
 
 - **Discipline:** Branding, Packaging
 - **City:** Los Angeles

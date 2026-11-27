@@ -1,12 +1,12 @@
 ---
 title: "Melody Digital — Branding, Los Angeles, USA · Just a Design List"
-description: "Melody Digital: branding, graphic design and motion practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in July 2026."
+description: "Melody Digital: branding, graphic design and motion practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in July 2026."
 url: "https://justadesignlist.com/studio/melody-digital"
 ---
 
 # Melody Digital
 
-Melody Digital: branding, graphic design and motion practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in July 2026.
+Melody Digital: branding, graphic design and motion practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in July 2026.
 
 - **Discipline:** Branding, Graphic Design, Motion, Interactive/Digital, Packaging
 - **City:** Los Angeles

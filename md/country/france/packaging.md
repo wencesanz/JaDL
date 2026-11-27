@@ -1,6 +1,6 @@
 ---
 title: "Packaging design studios in France · Just a Design List"
-description: "15 independent studios working in packaging in France, from the Just a Design List index."
+description: "16 independent studios working in packaging in France, from the Just a Design List index."
 url: "https://justadesignlist.com/country/france/packaging"
 ---
 
@@ -10,7 +10,7 @@ Country · Packaging
 
 # Packaging in France
 
-15 independent studios working in packaging in France, from the Just a Design List index.
+16 independent studios working in packaging in France, from the Just a Design List index.
 
 - [.raw](https://justadesignlist.com/studio/raw) — Ljubljana, Paris, Slovenia, France
 - [Atelier César](https://justadesignlist.com/studio/atelier-cesar) — Paris, France
@@ -24,6 +24,7 @@ Country · Packaging
 - [QUATRIÈME ÉTAGE](https://justadesignlist.com/studio/quatrieme-etage) — Toulouse, France
 - [Saint-Lazare](https://justadesignlist.com/studio/saint-lazare) — Paris, New York, France, USA
 - [Silence](https://justadesignlist.com/studio/silence) — Grenoble, France
+- [Studio Erimus](https://justadesignlist.com/studio/studio-erimus) — Bordeaux, France
 - [Studio Furious](https://justadesignlist.com/studio/studio-furious) — Paris, France
 - [Walk A Thought](https://justadesignlist.com/studio/walk-a-thought) — Paris, France
 - [ZAINA](https://justadesignlist.com/studio/zaina) — Paris, Barcelona, France, Spain

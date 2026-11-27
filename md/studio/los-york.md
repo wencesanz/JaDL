@@ -1,12 +1,12 @@
 ---
 title: "Los York — Motion, Los Angeles, USA · Just a Design List"
-description: "Los York: motion practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in June 2023."
+description: "Los York: motion practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in June 2023."
 url: "https://justadesignlist.com/studio/los-york"
 ---
 
 # Los York
 
-Los York: motion practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in June 2023.
+Los York: motion practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in June 2023.
 
 - **Discipline:** Motion
 - **City:** Los Angeles

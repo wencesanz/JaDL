@@ -1,12 +1,12 @@
 ---
 title: "The New Company — Graphic Design, Los Angeles, USA · Just a Design List"
-description: "The New Company: graphic design and branding practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023."
+description: "The New Company: graphic design and branding practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2023."
 url: "https://justadesignlist.com/studio/the-new-company"
 ---
 
 # The New Company
 
-The New Company: graphic design and branding practice based in Los Angeles, USA. One of 56 studios from Los Angeles on Just a Design List, added in May 2023.
+The New Company: graphic design and branding practice based in Los Angeles, USA. One of 57 studios from Los Angeles on Just a Design List, added in May 2023.
 
 - **Discipline:** Graphic Design, Branding
 - **City:** Los Angeles, San Francisco

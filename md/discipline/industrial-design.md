@@ -1,6 +1,6 @@
 ---
 title: "Industrial Design studios · Just a Design List"
-description: "14 independent studios and designers working in industrial design, collected in the Just a Design List index. Browse by country and city."
+description: "15 independent studios and designers working in industrial design, collected in the Just a Design List index. Browse by country and city."
 url: "https://justadesignlist.com/discipline/industrial-design"
 ---
 
@@ -10,7 +10,7 @@ Discipline
 
 # Industrial Design
 
-14 independent studios and designers working in industrial design, collected in the Just a Design List index. Browse by country and city.
+15 independent studios and designers working in industrial design, collected in the Just a Design List index. Browse by country and city.
 
 - [Ammunition](https://justadesignlist.com/studio/ammunition) — San Francisco, New York, USA
 - [Aruliden](https://justadesignlist.com/studio/aruliden) — New York, USA
@@ -18,6 +18,7 @@ Discipline
 - [Boostep](https://justadesignlist.com/studio/boostep) — Mar del Plata, Argentina
 - [elium](https://justadesignlist.com/studio/elium) — Paris, France
 - [Formeta Design](https://justadesignlist.com/studio/formeta-design) — Istanbul, Turkey
+- [Heim+Viladrich](https://justadesignlist.com/studio/heim-viladrich) — Fabrègues, France
 - [James Walsh Studio](https://justadesignlist.com/studio/james-walsh-studio) — Melbourne, Australia
 - [Lippert Studios](https://justadesignlist.com/studio/lippert-studios) — Berlin, Germany
 - [Propelland](https://justadesignlist.com/studio/propelland) — Madrid, San Francisco, New York, Spain, USA
